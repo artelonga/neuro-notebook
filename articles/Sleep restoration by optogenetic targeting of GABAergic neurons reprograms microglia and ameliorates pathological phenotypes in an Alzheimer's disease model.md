@@ -1,0 +1,72 @@
+---
+title: "Sleep restoration by optogenetic targeting of GABAergic neurons reprograms microglia and ameliorates pathological phenotypes in an Alzheimer's disease model."
+doi: "10.1186/s13024-023-00682-9"
+work_id: "W0296"
+authors:
+  - "Qiuchen Zhao"
+  - "Megi Maci"
+  - "Morgan R Miller"
+  - "Heng Zhou"
+  - "Fang Zhang"
+  - "Moustafa Algamal"
+  - "Yee Fun Lee"
+  - "Steven S Hou"
+  - "Stephen J Perle"
+  - "Hoang Le"
+  - "Alyssa N Russ"
+  - "Eng H Lo"
+  - "Dmitry Gerashchenko"
+  - "Stephen N Gomperts"
+  - "Brian J Bacskai"
+  - "Ksenia V Kastanenka"
+year: 2023
+journal: "Molecular neurodegeneration"
+peer_reviewed: true
+document_type: "journal-article"
+peer_review_basis: "pubmed: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't"
+publication_type: "Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't"
+language: "eng"
+keywords:
+  - "EEG"
+  - "Sleep"
+  - "Sleep deprivation"
+  - "Microglia"
+  - "Alzheimer’s disease"
+  - "Optogenetics"
+  - "Multiphoton Microscopy"
+  - "Memory Consolidation"
+  - "Slow Oscillations"
+identifiers:
+  pmid: "38041158"
+  pmcid: "PMC10693059"
+  arxiv: null
+  openalex: null
+other_dois: []
+abstract_source: "pubmed"
+authors_source: "pubmed"
+prisma:
+  identification:
+    search_date: "2026-10-23"
+    search_rule: "(optogenet* OR opto-genet* OR optigenet* + non-Latin forms) AND (alzheimer* OR parkinson* + non-Latin forms) in title/abstract/keywords"
+    databases:
+      - "pubmed"
+      - "epmc"
+      - "s2"
+    n_databases: 3
+    source_records:
+      - "epmc:MED:38041158"
+      - "pubmed:38041158"
+      - "s2:826ca7dbf16bbc0374f820cf0a8b6c7dec3c61af"
+    keyword_check: "confirmed"
+    duplicates_merged: 2
+  screening:
+    title_abstract: "pending"
+    title_abstract_reason: null
+    full_text: "pending"
+    full_text_reason: null
+    reviewers: []
+    notes: ""
+  included: null
+---
+
+BACKGROUND: Alzheimer's disease (AD) patients exhibit memory disruptions and profound sleep disturbances, including disruption of deep non-rapid eye movement (NREM) sleep. Slow-wave activity (SWA) is a major restorative feature of NREM sleep and is important for memory consolidation. METHODS: We generated a mouse model where GABAergic interneurons could be targeted in the presence of APPswe/PS1dE9 (APP) amyloidosis, APP-GAD-Cre mice. An electroencephalography (EEG) / electromyography (EMG) telemetry system was used to monitor sleep disruptions in these animals. Optogenetic stimulation of GABAergic interneurons in the anterior cortex targeted with channelrhodopsin-2 (ChR2) allowed us to examine the role GABAergic interneurons play in sleep deficits. We also examined the effect of optogenetic stimulation on amyloid plaques, neuronal calcium as well as sleep-dependent memory consolidation. In addition, microglial morphological features and functions were assessed using confocal microscopy and flow cytometry. Finally, we performed sleep deprivation during optogenetic stimulation to investigate whether sleep restoration was necessary to slow AD progression. RESULTS: APP-GAD-Cre mice exhibited impairments in sleep architecture including decreased time spent in NREM sleep, decreased delta power, and increased sleep fragmentation compared to nontransgenic (NTG) NTG-GAD-Cre mice. Optogenetic stimulation of cortical GABAergic interneurons increased SWA and rescued sleep impairments in APP-GAD-Cre animals. Furthermore, it slowed AD progression by reducing amyloid deposition, normalizing neuronal calcium homeostasis, and improving memory function. These changes were accompanied by increased numbers and a morphological transformation of microglia, elevated phagocytic marker expression, and enhanced amyloid β (Aβ) phagocytic activity of microglia. Sleep was necessary for amelioration of pathophysiological phenotypes in APP-GAD-Cre mice. CONCLUSIONS: In summary, our study shows that optogenetic targeting of GABAergic interneurons rescues sleep, which then ameliorates neuropathological as well as behavioral deficits by increasing clearance of Aβ by microglia in an AD mouse model.

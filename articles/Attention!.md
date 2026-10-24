@@ -1,0 +1,50 @@
+---
+title: "Attention!"
+doi: null
+work_id: "W0509"
+authors:
+  - "Israni-Winger K"
+  - "Suen P"
+year: 2019
+journal: "The Yale journal of biology and medicine"
+peer_reviewed: false
+document_type: "unknown"
+peer_review_basis: "no publication-type evidence in any source"
+publication_type: "[PMC] Introduction"
+language: "eng"
+keywords:
+  - "Alzheimer's disease"
+  - "Neuroscience"
+  - "Optogenetics"
+  - "Attention Deficit Disorder"
+  - "Attention Science"
+identifiers:
+  pmid: null
+  pmcid: "PMC6430163"
+  arxiv: null
+  openalex: null
+other_dois: []
+abstract_source: null
+authors_source: "epmc"
+prisma:
+  identification:
+    search_date: "2026-10-23"
+    search_rule: "(optogenet* OR opto-genet* OR optigenet* + non-Latin forms) AND (alzheimer* OR parkinson* + non-Latin forms) in title/abstract/keywords"
+    databases:
+      - "epmc"
+    n_databases: 1
+    source_records:
+      - "epmc:PMC:PMC6430163"
+    keyword_check: "confirmed"
+    duplicates_merged: 0
+  screening:
+    title_abstract: "pending"
+    title_abstract_reason: null
+    full_text: "pending"
+    full_text_reason: null
+    reviewers: []
+    notes: ""
+  included: null
+---
+
+_Abstract not available in any source database._

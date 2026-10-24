@@ -1,0 +1,55 @@
+---
+title: "Dynamic study of the generation of beta oscillations in Parkinson's disease"
+doi: null
+work_id: "W0657"
+authors: []
+year: 2016
+journal: "HAL (Le Centre pour la Communication Scientifique Directe)"
+peer_reviewed: false
+document_type: "thesis"
+peer_review_basis: "openalex: dissertation"
+publication_type: "dissertation"
+language: "en"
+keywords:
+  - "Parkinson's disease"
+  - "beta oscillations"
+  - "subthalamic nucleus"
+  - "globus pallidus"
+  - "parafascicular thalamic nucleus"
+  - "basal ganglia"
+  - "neuronal synchronization"
+  - "oscillation propagation"
+  - "optogenetic manipulation"
+  - "motor cortex"
+  - "thalamus"
+  - "movement disorders"
+identifiers:
+  pmid: null
+  pmcid: null
+  arxiv: null
+  openalex: "W4392488430"
+other_dois: []
+abstract_source: "openalex"
+authors_source: null
+prisma:
+  identification:
+    search_date: "2026-10-23"
+    search_rule: "(optogenet* OR opto-genet* OR optigenet* + non-Latin forms) AND (alzheimer* OR parkinson* + non-Latin forms) in title/abstract/keywords"
+    databases:
+      - "openalex"
+    n_databases: 1
+    source_records:
+      - "openalex:W4392488430"
+    keyword_check: "confirmed"
+    duplicates_merged: 0
+  screening:
+    title_abstract: "pending"
+    title_abstract_reason: null
+    full_text: "pending"
+    full_text_reason: null
+    reviewers: []
+    notes: ""
+  included: null
+---
+
+Les ganglions de la base (GB) forment une boucle complexe avec le cortex et le thalamus qui est impliquée dans la sélection de l’action et le contrôle du mouvement. Les activités oscillatoires synchronisées dans le réseau des GB ont été proposées comme pouvant jouer un rôle essentiel dans la coordination du flux de l’information au sein de ces circuits neuronaux. Ainsi, leur dérégulation dans le temps et l’espace pourrait devenir pathologique. Dans la maladie de Parkinson (MP), l’expression anormalement élevée d’oscillations neuronales comprises dans les gammes de fréquences beta (β, 10-30 Hz) serait la cause des déficits moteurs (akinétique et bradykinétique) de cette maladie. Cependant, les réseaux neuronaux à l’origine des oscillations β et l’implication physiopathologique de celles-ci restent encore inconnus. Le noyau sous-thalamique (NST) est un carrefour anatomique des GB situé au centre de réseaux potentiellement impliqués dans l’émergence de ces états hyper-synchronisés. L’objectif de cette thèse était de déterminer le rôle causal des principales entrées du NST (i.e. le cortex moteur, le globus pallidus, et le noyau parafasciculaire du thalamus) dans le maintien et la propagation des oscillations β. Pour cela, nous avons développé des approches de manipulation optogénétique combinées à des enregistrements électrophysiologiques in vivo dans un modèle rongeur de la MP. L’ensemble de nos travaux démontre la contribution respective des différents circuits neuronaux interrogés et souligne l’importance du globus pallidus dans le contrôle de la propagation et du maintien des oscillations β dans l’ensemble de la boucle des GB.

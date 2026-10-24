@@ -3,6 +3,12 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.3.0] - 2026-10-23
+
+### Adicionado
+- `articles/`: um arquivo Markdown por trabalho confirmado (front matter YAML + resumo), com campos PRISMA de identificação e triagem (`litreview/export.py`).
+- Os registros brutos agora guardam resumo, palavras-chave (separadas por `; `) e autores; autores ausentes são buscados no OpenAlex pelo DOI.
+
 ## [0.2.0] - 2026-10-23
 
 ### Adicionado

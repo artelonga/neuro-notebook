@@ -1,0 +1,104 @@
+---
+title: "Aberrant Tonic Inhibition of Dopaminergic Neuronal Activity Causes Motor Symptoms in Animal Models of Parkinson's Disease."
+doi: "10.1016/j.cub.2019.11.079"
+work_id: "W0443"
+authors:
+  - "Jun Young Heo"
+  - "Min-Ho Nam"
+  - "Hyung Ho Yoon"
+  - "Jeongyeon Kim"
+  - "Yu Jin Hwang"
+  - "Woojin Won"
+  - "Dong Ho Woo"
+  - "Ji Ae Lee"
+  - "Hyun-Jung Park"
+  - "Seonmi Jo"
+  - "Min Joung Lee"
+  - "Sunpil Kim"
+  - "Jeong-Eun Shim"
+  - "Dong-Pyo Jang"
+  - "Kyoung I Kim"
+  - "Sue H Huh"
+  - "Jae Y Jeong"
+  - "Neil W Kowall"
+  - "Junghee Lee"
+  - "Hyeonjoo Im"
+  - "Jong Hyun Park"
+  - "Bo Ko Jang"
+  - "Ki Duk Park"
+  - "Hyunjoo J Lee"
+  - "Hyogeun Shin"
+  - "Il-Joo Cho"
+  - "Eun Mi Hwang"
+  - "YoungSoo Kim"
+  - "Hye Yun Kim"
+  - "Soo-Jin Oh"
+  - "Seung Eun Lee"
+  - "Sun Ha Paek"
+  - "Jong Hyuk Yoon"
+  - "Byung K Jin"
+  - "Gi Ryang Kweon"
+  - "Insop Shim"
+  - "Onyou Hwang"
+  - "Hoon Ryu"
+  - "Sang Ryong Jeon"
+  - "C Justin Lee"
+year: 2020
+journal: "Current biology : CB"
+peer_reviewed: true
+document_type: "journal-article"
+peer_review_basis: "pubmed: Journal Article; Research Support, Non-U.S. Gov't"
+publication_type: "Journal Article; Research Support, Non-U.S. Gov't"
+language: "eng"
+keywords:
+  - "GABA"
+  - "Astrocytes"
+  - "Tyrosine hydroxylase"
+  - "Dopa Decarboxylase"
+  - "Parkinson’s Disease"
+  - "Tonic Inhibition"
+  - "MAO-B"
+  - "Substantia Nigra Pars Compacta"
+  - "Parkinson's disease"
+  - "parkinsonism"
+  - "dopaminergic neurons"
+  - "aromatic L-amino acid decarboxylase"
+  - "optogenetic stimulation"
+  - "disease modification"
+  - "GABA synthesis inhibition"
+identifiers:
+  pmid: "31928877"
+  pmcid: null
+  arxiv: null
+  openalex: "W2999816645"
+other_dois: []
+abstract_source: "pubmed"
+authors_source: "pubmed"
+prisma:
+  identification:
+    search_date: "2026-10-23"
+    search_rule: "(optogenet* OR opto-genet* OR optigenet* + non-Latin forms) AND (alzheimer* OR parkinson* + non-Latin forms) in title/abstract/keywords"
+    databases:
+      - "pubmed"
+      - "epmc"
+      - "openalex"
+      - "s2"
+    n_databases: 4
+    source_records:
+      - "epmc:MED:31928877"
+      - "openalex:W2999816645"
+      - "pubmed:31928877"
+      - "s2:e0796bd771d0f6c2b256a7109eaf0ae73cd82879"
+    keyword_check: "confirmed"
+    duplicates_merged: 3
+  screening:
+    title_abstract: "pending"
+    title_abstract_reason: null
+    full_text: "pending"
+    full_text_reason: null
+    reviewers: []
+    notes: ""
+  included: null
+---
+
+Current pharmacological treatments for Parkinson's disease (PD) are focused on symptomatic relief, but not on disease modification, based on the strong belief that PD is caused by irreversible dopaminergic neuronal death. Thus, the concept of the presence of dormant dopaminergic neurons and its possibility as the disease-modifying therapeutic target against PD have not been explored. Here we show that optogenetic activation of substantia nigra pars compacta (SNpc) neurons alleviates parkinsonism in acute PD animal models by recovering tyrosine hydroxylase (TH) from the TH-negative dormant dopaminergic neurons, some of which still express DOPA decarboxylase (DDC). The TH loss depends on reduced dopaminergic neuronal firing under aberrant tonic inhibition, which is attributed to excessive astrocytic GABA. Blocking the astrocytic GABA synthesis recapitulates the therapeutic effect of optogenetic activation. Consistently, SNpc of postmortem PD patients shows a significant population of TH-negative/DDC-positive dormant neurons surrounded by numerous GABA-positive astrocytes. We propose that disinhibiting dormant dopaminergic neurons by blocking excessive astrocytic GABA could be an effective therapeutic strategy against PD.
