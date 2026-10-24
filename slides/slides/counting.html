@@ -1,0 +1,31 @@
+<section id="counting" data-transition="fade" style="background:#ECEFF3;color:#2B3647;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:48px">
+<div style="display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#A34E14">Algoritmo · contagem · CA-3</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:600;line-height:1.1;color:#14213D">Uma linha por trabalho: toda contagem vira um filtro</h2>
+</div>
+<div style="display:flex;gap:40px">
+<div style="flex:1;display:flex;flex-direction:column;gap:16px">
+<table style="font-size:24px;color:#2B3647">
+<tr><th style="width:40%">Métrica</th><th style="width:60%">Definição (só confirmados)</th></tr>
+<tr><td>Na base X</td><td>in_X = 1</td></tr>
+<tr><td>Exclusivo de X</td><td>in_X = 1 e n_databases = 1</td></tr>
+<tr><td>Total sem repetição</td><td>número de linhas</td></tr>
+<tr><td>Participação de X</td><td>em X ÷ total</td></tr>
+<tr><td>Sobreposição X, Y</td><td>in_X = 1 e in_Y = 1</td></tr>
+</table>
+</div>
+<div style="flex:1.15;display:flex;flex-direction:column;gap:16px">
+<p style="font-size:24px;color:#5A6475">Receita de planilha sobre works.csv, com valores reais</p>
+<div style="display:flex;flex-direction:column;gap:10px;background:#14213D;padding:32px;border-radius:12px">
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F6F4EE">CONT.SE(status;"confirmed")</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F0A35E">→ 801 no total</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F6F4EE">CONT.SES(status;"confirmed";in_pubmed;1)</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F0A35E">→ 477 no PubMed</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F6F4EE">… ;in_pubmed;1;n_databases;1)</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F0A35E">→ 5 só no PubMed</p>
+</div>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;width:1664px;font-size:24px;color:#5A6475">Optogenética × DA/DP · busca sistemática · 9</p>
+<aside>O arquivo works.csv tem uma linha por trabalho deduplicado, com uma coluna de situação (status), uma coluna n_databases e uma coluna zero-ou-um por base. Todo número deste relatório é um filtro ou uma soma sobre esse arquivo, então os coautores conseguem reproduzir qualquer número numa planilha sem rodar código. Os nomes de colunas e o valor confirmed ficam em inglês, como no arquivo. counts.csv e overlap_matrix.csv trazem os mesmos números já calculados.</aside>
+</section>

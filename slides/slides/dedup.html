@@ -1,0 +1,55 @@
+<section id="dedup" data-transition="fade" style="background:#ECEFF3;color:#2B3647;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:48px">
+<div style="display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#A34E14">Algoritmo · deduplicação</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:600;line-height:1.1;color:#14213D">Qualquer identificador em comum liga dois registros, de forma transitiva</h2>
+</div>
+<div style="display:flex;flex-direction:column;gap:24px">
+<div style="display:flex;align-items:center">
+<div style="width:280px;display:flex;flex-direction:column;gap:6px;background:#F9FAFB;padding:24px;border:2px solid #14213D;border-radius:12px">
+<p style="font-size:26px;font-weight:600;color:#14213D">Europe PMC</p>
+<p style="font-size:24px">PMCID c · PMID p</p>
+</div>
+<div style="width:170px;display:flex;flex-direction:column;gap:6px;align-items:center">
+<p style="font-size:24px;color:#A34E14;font-weight:600">mesmo PMID</p>
+<hr style="width:170px;border-top:3px solid #A34E14">
+</div>
+<div style="width:280px;display:flex;flex-direction:column;gap:6px;background:#F9FAFB;padding:24px;border:2px solid #14213D;border-radius:12px">
+<p style="font-size:26px;font-weight:600;color:#14213D">PubMed</p>
+<p style="font-size:24px">PMID p · DOI d1</p>
+</div>
+<div style="width:170px;display:flex;flex-direction:column;gap:6px;align-items:center">
+<p style="font-size:24px;color:#A34E14;font-weight:600">mesmo DOI</p>
+<hr style="width:170px;border-top:3px solid #A34E14">
+</div>
+<div style="width:280px;display:flex;flex-direction:column;gap:6px;background:#F9FAFB;padding:24px;border:2px solid #14213D;border-radius:12px">
+<p style="font-size:26px;font-weight:600;color:#14213D">Sem. Scholar</p>
+<p style="font-size:24px">DOI d1 · título t</p>
+</div>
+<div style="width:170px;display:flex;flex-direction:column;gap:6px;align-items:center">
+<p style="font-size:24px;color:#A34E14;font-weight:600">mesmo título</p>
+<hr style="width:170px;border-top:3px solid #A34E14">
+</div>
+<div style="width:280px;display:flex;flex-direction:column;gap:6px;background:#F9FAFB;padding:24px;border:2px dashed #14213D;border-radius:12px">
+<p style="font-size:26px;font-weight:600;color:#14213D">Preprint</p>
+<p style="font-size:24px">DOI d2 · título t</p>
+</div>
+</div>
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:36px;color:#14213D">→ um trabalho, marcado <b>n_versions = 2</b> (preprint + versão publicada)</p>
+</div>
+<div style="display:flex;gap:32px">
+<div style="flex:1;display:flex;flex-direction:column;gap:8px">
+<h3 style="font-size:28px;font-weight:600;color:#14213D">Chaves</h3>
+<p style="font-size:24px;line-height:1.4">DOI (normalizado), PMID, PMCID, ID arXiv, título reduzido a letras e dígitos (≥25)</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:8px">
+<h3 style="font-size:28px;font-weight:600;color:#14213D">Union-find</h3>
+<p style="font-size:24px;line-height:1.4">O primeiro registro com uma chave vira a âncora; os seguintes entram no mesmo conjunto. Tempo quase linear</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:8px">
+<h3 style="font-size:28px;font-weight:600;color:#14213D">Resultado</h3>
+<p style="font-size:24px;line-height:1.4">2.167 registros → 977 trabalhos; 49 confirmados unem um preprint à versão publicada</p>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;width:1664px;font-size:24px;color:#5A6475">Optogenética × DA/DP · busca sistemática · 8</p>
+<aside>Cada registro contribui com até cinco chaves. Um dicionário guarda o primeiro registro visto com cada chave; qualquer registro posterior com a mesma chave é unido ao conjunto daquele registro, usando union-find com compressão de caminho. Como a união é transitiva, os quatro registros mostrados viram um único trabalho, mesmo que o primeiro e o último não compartilhem nenhum identificador diretamente. É assim que um preprint é ligado à versão publicada. A coluna n_versions permite que o protocolo da revisão os separe de novo, se preferir.</aside>
+</section>

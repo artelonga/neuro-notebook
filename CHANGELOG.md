@@ -3,6 +3,11 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.4.1] - 2026-10-24
+
+### Adicionado
+- Fonte da apresentação em pt-BR (`slides/`: `deck.json` e um HTML por slide).
+
 ## [0.4.0] - 2026-10-23
 
 ### Adicionado

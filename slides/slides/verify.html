@@ -1,0 +1,34 @@
+<section id="verify" data-transition="fade" style="background:#ECEFF3;color:#2B3647;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<div style="display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#A34E14">Algoritmo · reverificação de palavras-chave</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:600;line-height:1.1;color:#14213D">Buscadores são permissivos: cada resultado é reconferido</h2>
+</div>
+<div style="display:flex;gap:40px">
+<div style="flex:1.3;display:flex;flex-direction:column;gap:24px">
+<p style="font-size:26px;line-height:1.45">O campo de palavras-chave da Europe PMC inclui termos MeSH; o OpenAlex fragmenta textos em chinês; o Semantic Scholar busca em resumos que não devolve.</p>
+<div style="display:flex;flex-direction:column;gap:6px;background:#14213D;padding:32px;border-radius:12px">
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#C9D3E0">texto = fold(título + resumo + palavras-chave)</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#8FA3BC"># NFKD, remove acentos, minúsculas</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F6F4EE">A = /opt[oi]\W?genet|оптогенет|光遗传|…/</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F6F4EE">B = /alzheimer|parkinson|альцгеймер|…/</p>
+<p style="font-family:'IBM Plex Mono', 'Courier New', monospace;font-size:24px;color:#F0A35E">verificado = A(texto) e B(texto)</p>
+</div>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:16px">
+<div style="display:flex;gap:24px;align-items:center;background:#F9FAFB;padding:24px 32px;border-left:8px solid #14213D;border-radius:8px">
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;color:#14213D;width:140px">801</p>
+<p style="font-size:24px;line-height:1.35"><b>Confirmados:</b> os dois conceitos aparecem em ao menos um registro do trabalho</p>
+</div>
+<div style="display:flex;gap:24px;align-items:center;background:#F9FAFB;padding:24px 32px;border-left:8px solid #A34E14;border-radius:8px">
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;color:#A34E14;width:140px">45</p>
+<p style="font-size:24px;line-height:1.35"><b>Rejeitados:</b> há resumo, mas falta um dos conceitos</p>
+</div>
+<div style="display:flex;gap:24px;align-items:center;background:#F9FAFB;padding:24px 32px;border-left:8px solid #8A94A3;border-radius:8px">
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;color:#5A6475;width:140px">131</p>
+<p style="font-size:24px;line-height:1.35"><b>Não verificáveis:</b> sem resumo em nenhuma base; separados para checagem manual</p>
+</div>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;width:1664px;font-size:24px;color:#5A6475">Optogenética × DA/DP · busca sistemática · 7</p>
+<aside>Primeiro o texto é normalizado: decomposição Unicode NFKD, acentos removidos, tudo em minúsculas, para que optogénétique case com o mesmo padrão que optogenetic. Duas expressões regulares, uma por conceito, precisam casar. A situação é decidida por trabalho, não por registro: se qualquer cópia do trabalho em qualquer base confirma os dois conceitos, o trabalho é confirmado. Os 131 não verificáveis vêm quase todos do Semantic Scholar e são literatura cinzenta, como programas de congresso e teses.</aside>
+</section>
