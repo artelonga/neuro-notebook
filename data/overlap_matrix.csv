@@ -1,0 +1,7 @@
+confirmed works,pubmed,epmc,openalex,s2,doaj,arxiv
+pubmed,477,471,103,403,29,3
+epmc,471,535,112,448,29,3
+openalex,103,112,230,151,23,1
+s2,403,448,151,637,30,6
+doaj,29,29,23,30,33,0
+arxiv,3,3,1,6,0,6

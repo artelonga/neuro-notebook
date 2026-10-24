@@ -1,0 +1,8 @@
+database,key,api_hits,retrieved,works,confirmed,unverifiable,rejected,unique_confirmed,share_of_total_confirmed
+PubMed / MEDLINE,pubmed,486,486,477,477,0,0,5,59.6%
+Europe PMC (incl. preprints),epmc,589,589,556,535,0,21,18,66.8%
+OpenAlex,openalex,267,267,258,230,4,24,69,28.7%
+Semantic Scholar,s2,786,786,765,637,128,0,138,79.5%
+DOAJ,doaj,33,33,33,33,0,0,2,4.1%
+arXiv,arxiv,6,6,6,6,0,0,0,0.7%
+TOTAL (deduplicated),total,2167,2167,977,801,131,45,,100.0%
