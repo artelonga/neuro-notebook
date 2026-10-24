@@ -3,6 +3,11 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.2.0] - 2026-10-23
+
+### Adicionado
+- Resumos em português do protocolo e do relatório (`PROTOCOLO.md`, `RELATORIO.md`).
+
 ## [0.1.0] - 2026-10-23
 
 ### Adicionado
