@@ -1,0 +1,91 @@
+{
+  "pubmed": {
+    "database": "PubMed / MEDLINE",
+    "status": "ok",
+    "query": "(optogenet*[tiab] OR optogenet*[ot] OR opto-genet*[tiab] OR opto-genet*[ot] OR optigenet*[tiab] OR optigenet*[ot]) AND (alzheimer*[tiab] OR alzheimer*[ot] OR parkinson*[tiab] OR parkinson*[ot])",
+    "hits": 486,
+    "retrieved": 486,
+    "verified": 486,
+    "sensitivity": {
+      "MeSH-only query": {
+        "query": "\"Optogenetics\"[Mesh] AND (\"Alzheimer Disease\"[Mesh] OR \"Parkinson Disease\"[Mesh] OR \"Parkinsonian Disorders\"[Mesh])",
+        "hits": 111
+      }
+    },
+    "run_at": "2026-10-23T13:47:30"
+  },
+  "epmc": {
+    "database": "Europe PMC (incl. preprints)",
+    "status": "ok",
+    "query": "(TITLE_ABS:optogenet* OR KW:optogenet* OR TITLE_ABS:\"opto-genet*\" OR KW:\"opto-genet*\" OR TITLE_ABS:optigenet* OR KW:optigenet*) AND (TITLE_ABS:alzheimer* OR KW:alzheimer* OR TITLE_ABS:parkinson* OR KW:parkinson*)",
+    "hits": 589,
+    "retrieved": 589,
+    "verified": 568,
+    "sensitivity": {
+      "all fields incl. full text": {
+        "query": "(optogenet* OR \"opto-genet*\" OR optigenet*) AND (alzheimer* OR parkinson*)",
+        "hits": 9495
+      }
+    },
+    "run_at": "2026-10-23T13:47:30"
+  },
+  "openalex": {
+    "database": "OpenAlex",
+    "status": "ok",
+    "query": "title_and_abstract.search, union of: [(optogenetic OR optogenetics) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optogenetically OR \"opto-genetic\") AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(\"opto-genetics\" OR optigenetic) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optigenetics OR optogenética) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optogenético OR optogenetica) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optogenetico OR optogénétique) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optogenetique OR optogenetik) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(optogenetisch) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(光遗传 OR 光遺傳) AND (阿尔茨海默 OR 阿茲海默 OR 阿兹海默 OR 帕金森)] ∪ [(光遗传 OR 光遺傳) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(光遺伝 OR オプトジェネティクス) AND (アルツハイマー OR パーキンソン)] ∪ [(光遺伝 OR オプトジェネティクス) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(оптогенетика OR оптогенетический) AND (альцгеймер OR паркинсон)] ∪ [(оптогенетика OR оптогенетический) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)] ∪ [(광유전) AND (알츠하이머 OR 파킨슨)] ∪ [(광유전) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)]",
+    "hits": 267,
+    "retrieved": 267,
+    "verified": 230,
+    "sensitivity": {
+      "hits per sub-query": {
+        "(optogenetic OR optogenetics) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 213,
+        "(optogenetically OR \"opto-genetic\") AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 213,
+        "(\"opto-genetics\" OR optigenetic) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 2,
+        "(optigenetics OR optogenética) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 4,
+        "(optogenético OR optogenetica) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 2,
+        "(optogenetico OR optogénétique) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 19,
+        "(optogenetique OR optogenetik) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 3,
+        "(optogenetisch) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 0,
+        "(光遗传 OR 光遺傳) AND (阿尔茨海默 OR 阿茲海默 OR 阿兹海默 OR 帕金森)": 15,
+        "(光遗传 OR 光遺傳) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 3,
+        "(光遺伝 OR オプトジェネティクス) AND (アルツハイマー OR パーキンソン)": 12,
+        "(光遺伝 OR オプトジェネティクス) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 2,
+        "(оптогенетика OR оптогенетический) AND (альцгеймер OR паркинсон)": 0,
+        "(оптогенетика OR оптогенетический) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 0,
+        "(광유전) AND (알츠하이머 OR 파킨슨)": 0,
+        "(광유전) AND (alzheimer OR parkinson OR parkinsonism OR parkinsonian)": 0
+      }
+    },
+    "run_at": "2026-10-23T13:47:30"
+  },
+  "doaj": {
+    "database": "DOAJ",
+    "status": "ok",
+    "query": "(bibjson.title:(optogenetic OR optogenetics OR optogenetically OR \"opto-genetic\" OR \"opto-genetics\" OR optigenetic OR optigenetics OR optogenética OR optogenético OR optogenetica OR optogenetico OR optogénétique OR optogenetique OR optogenetik OR optogenetisch) OR bibjson.abstract:(optogenetic OR optogenetics OR optogenetically OR \"opto-genetic\" OR \"opto-genetics\" OR optigenetic OR optigenetics OR optogenética OR optogenético OR optogenetica OR optogenetico OR optogénétique OR optogenetique OR optogenetik OR optogenetisch) OR bibjson.keywords:(optogenetic OR optogenetics OR optogenetically OR \"opto-genetic\" OR \"opto-genetics\" OR optigenetic OR optigenetics OR optogenética OR optogenético OR optogenetica OR optogenetico OR optogénétique OR optogenetique OR optogenetik OR optogenetisch)) AND (bibjson.title:(alzheimer OR parkinson OR alzheimers OR parkinsons OR parkinsonism OR parkinsonian) OR bibjson.abstract:(alzheimer OR parkinson OR alzheimers OR parkinsons OR parkinsonism OR parkinsonian) OR bibjson.keywords:(alzheimer OR parkinson OR alzheimers OR parkinsons OR parkinsonism OR parkinsonian))",
+    "hits": 33,
+    "retrieved": 33,
+    "verified": 33,
+    "sensitivity": {},
+    "run_at": "2026-10-23T13:47:30"
+  },
+  "arxiv": {
+    "database": "arXiv",
+    "status": "ok",
+    "query": "(ti:optogenet* OR abs:optogenet* OR ti:optigenet* OR abs:optigenet*) AND (ti:alzheimer* OR abs:alzheimer* OR ti:parkinson* OR abs:parkinson*)",
+    "hits": 6,
+    "retrieved": 6,
+    "verified": 6,
+    "sensitivity": {},
+    "run_at": "2026-10-23T13:47:30"
+  },
+  "s2": {
+    "database": "Semantic Scholar",
+    "status": "ok",
+    "query": "(optogenet* | \"opto-genet*\" | optigenet*) + (alzheimer* | parkinson*)",
+    "hits": 786,
+    "retrieved": 786,
+    "verified": 584,
+    "sensitivity": {},
+    "run_at": "2026-10-23T13:47:30"
+  }
+}
