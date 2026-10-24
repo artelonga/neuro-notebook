@@ -1,43 +1,43 @@
-# neuro-notebook: optogenetics × Alzheimer/Parkinson literature review
+# neuro-notebook: revisão de literatura sobre optogenética × Alzheimer/Parkinson
 
-A reproducible search pipeline for a review paper. Stdlib-only Python 3.9+, no dependencies.
+Um pipeline de busca reprodutível para um artigo de revisão. Python 3.9+ só com a biblioteca
+padrão, sem dependências.
 
-- **Protocol and acceptance criteria:** [PROTOCOL.md](PROTOCOL.md)
-- **Results:** [REPORT.md](REPORT.md) (regenerated on every run)
-- **Em português:** [PROTOCOLO.md](PROTOCOLO.md) e [RELATORIO.md](RELATORIO.md), summaries frozen at the 2026-10-23 run
+- **Protocolo e critérios de aceitação:** [PROTOCOLO.md](PROTOCOLO.md)
+- **Resultados:** [RELATORIO.md](RELATORIO.md) (regenerado a cada execução)
 
-## Run
+## Execução
 
 ```bash
 ./run.sh            # uses the HTTP cache in data/cache/
 ./run.sh --refresh  # re-query every API (the date is logged)
 ```
 
-Optional keys (higher rate limits; set them as environment variables, never commit them):
-`NCBI_API_KEY`, `OPENALEX_API_KEY`, `S2_API_KEY`.
+Chaves opcionais (limites de requisição maiores; defina-as como variáveis de ambiente, nunca
+as coloque no repositório): `NCBI_API_KEY`, `OPENALEX_API_KEY`, `S2_API_KEY`.
 
-## Outputs (`data/`)
+## Saídas (`data/`)
 
-| File | Content |
+| Arquivo | Conteúdo |
 |---|---|
-| `search_log.json` | exact query, API hit count, retrieved and verified counts per database, timestamp |
-| `raw/<db>.jsonl` | normalised records per database |
-| `works.csv` | **one row per unique work**: `status`, `n_databases`, `in_<db>` 0/1 columns, IDs |
-| `counts.csv` | per database: hits, confirmed, unverifiable, rejected, **unique**, share; plus the total row |
-| `overlap_matrix.csv` | pairwise overlap of confirmed works |
-| `trials_raw.csv` / `trials.csv` | registry records (union over terms) and the same records joined with screening decisions |
-| `trials_screening.csv` | **human-edited**: decision, category, `same_trial_as`, reason |
+| `search_log.json` | busca exata, número de resultados da API, contagens de recuperados e verificados por base, data e hora |
+| `raw/<db>.jsonl` | registros normalizados por base |
+| `works.csv` | **uma linha por trabalho único**: `status`, `n_databases`, colunas 0/1 `in_<db>`, identificadores |
+| `counts.csv` | por base: resultados, confirmados, não verificáveis, rejeitados, **exclusivos**, participação; mais a linha de total |
+| `overlap_matrix.csv` | sobreposição, par a par, dos trabalhos confirmados |
+| `trials_raw.csv` / `trials.csv` | registros de ensaios (união entre os termos) e os mesmos registros unidos às decisões de triagem |
+| `trials_screening.csv` | **editado à mão**: decisão, categoria, `same_trial_as`, justificativa |
 
-Quick aggregation: filter `works.csv` on `status == confirmed`. The row count is the total
-with duplicates removed. `SUM(in_pubmed)` is PubMed's count. Rows with `n_databases == 1`
-are works unique to one database.
+Soma rápida: filtre `works.csv` por `status == confirmed`. O número de linhas é o total sem
+repetição. `SUM(in_pubmed)` é a contagem do PubMed. As linhas com `n_databases == 1` são os
+trabalhos exclusivos de uma base.
 
-## Article database (`articles/`)
+## Base de artigos (`articles/`)
 
-One Markdown file per **confirmed** work (801), named after its title (`<title>.md`;
-`<title> (W0123).md` if two titles collide). Peer-reviewed works (`peer_reviewed: true`) go in
-`articles/peer_reviewed/`; everything else (preprints, theses, abstracts, …) stays directly in
-`articles/`. The body is the abstract. The YAML front matter is:
+Um arquivo Markdown por trabalho **confirmado** (801), com o nome do título (`<title>.md`;
+`<title> (W0123).md` se dois títulos coincidirem). Os trabalhos com revisão por pares
+(`peer_reviewed: true`) ficam em `articles/peer_reviewed/`; todo o resto (preprints, teses,
+resumos de congresso, …) fica direto em `articles/`. O corpo é o resumo. O front matter YAML é:
 
 ```yaml
 title, doi, work_id, authors[], year, journal
@@ -62,26 +62,29 @@ prisma:
   included: null             # true/false once screening is done
 ```
 
-`data/articles_index.csv` maps `work_id` to file name, with `peer_reviewed` and `document_type`.
+`data/articles_index.csv` liga `work_id` ao nome do arquivo, com `peer_reviewed` e
+`document_type`.
 
-**`peer_reviewed` is inferred.** No database records peer review directly. A work is `true`
-when any version of it was published as a journal article or review. The evidence is ranked
-PubMed > Europe PMC > DOAJ > OpenAlex (looked up by DOI) > Semantic Scholar. Everything else
-is `false`: preprints, theses, books, conference papers, meeting abstracts in journal
-supplements, editorials and news, and unknown types. Two caveats:
-- `true` is not a quality judgement; a few venues are questionable.
-- Full IEEE/EMBC proceedings papers are typically refereed but are counted as `false` here,
-  which is conservative. **Warning:** `python3 -m litreview.export`
-(and `./run.sh`) rebuilds `articles/` from scratch, so screening decisions entered in the files would
-be lost. Back them up, or stop re-exporting, once screening starts.
+**`peer_reviewed` é inferido.** Nenhuma base informa diretamente se houve revisão por pares. Um
+trabalho é `true` quando qualquer versão dele foi publicada em periódico como artigo ou revisão.
+A ordem de confiança da evidência é PubMed > Europe PMC > DOAJ > OpenAlex (consultado pelo DOI) >
+Semantic Scholar. Todo o resto é `false`: preprints, teses, livros, trabalhos de congresso,
+resumos de congresso em suplementos de periódicos, editoriais e notícias, e tipos desconhecidos.
+Duas ressalvas:
+- `true` não é juízo de qualidade; alguns veículos são questionáveis.
+- Trabalhos completos de anais IEEE/EMBC costumam ter revisão, mas aqui contam como `false`, por
+  cautela.
 
-## Adding manually searched databases (Scopus, WoS, Embase, LILACS, …)
+**Atenção:** `python3 -m litreview.export` (e `./run.sh`) reconstrói `articles/` do zero, então decisões de triagem registradas nos
+arquivos seriam perdidas. Faça backup delas, ou pare de reexportar, quando a triagem começar.
 
-Run the queries listed in REPORT.md and export the results to `data/manual/<db>.csv`. Then
-convert each export to `data/raw/<db>.jsonl` with `litreview.common.record(...)` and add it
-to `SOURCES`, so the merge counts it.
+## Como incluir bases pesquisadas à mão (Scopus, WoS, Embase, LILACS, …)
 
-## Screening new trials
+Execute as buscas listadas no RELATORIO.md e exporte os resultados para `data/manual/<db>.csv`.
+Depois converta cada exportação em `data/raw/<db>.jsonl` com `litreview.common.record(...)` e
+inclua-a em `SOURCES`, para que a deduplicação a considere.
 
-New registry records show up as `PENDING` in `data/trials.csv`. Add a row for each to
-`data/trials_screening.csv`, then rerun.
+## Triagem de novos ensaios
+
+Registros de ensaios novos aparecem como `PENDING` em `data/trials.csv`. Adicione uma linha para
+cada um em `data/trials_screening.csv` e execute de novo.
