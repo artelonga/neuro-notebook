@@ -1,0 +1,110 @@
+{
+  "ctgov": {
+    "registry": "ClinicalTrials.gov (API v2)",
+    "terms": {
+      "optogenetic": 15,
+      "optogenetics": 14,
+      "optogenetically": 1,
+      "opto-genetic": 0,
+      "optogenética": 0,
+      "optogénétique": 0,
+      "channelrhodopsin": 3,
+      "ChrimsonR": 1,
+      "halorhodopsin": 0,
+      "ChR2": 4,
+      "multi-characteristic opsin": 6,
+      "light-sensitive opsin": 0,
+      "GS030": 1,
+      "RST-001": 1,
+      "MCO-010": 3,
+      "sonpiretigene isteparvovec": 0,
+      "BS01": 14,
+      "Bionic Sight": 24
+    },
+    "run_at": "2026-10-23T09:54:21",
+    "records": 55
+  },
+  "ctis": {
+    "registry": "EU CTIS (EU Clinical Trials Regulation, 2023-)",
+    "terms": {
+      "optogenetic": 0,
+      "optogenetics": 0,
+      "optogenetically": 0,
+      "opto-genetic": 0,
+      "optogenética": 0,
+      "optogénétique": 0,
+      "channelrhodopsin": 0,
+      "ChrimsonR": 1,
+      "halorhodopsin": 0,
+      "ChR2": 0,
+      "multi-characteristic opsin": 0,
+      "light-sensitive opsin": 0,
+      "GS030": 1,
+      "RST-001": 0,
+      "MCO-010": 0,
+      "sonpiretigene isteparvovec": 0,
+      "BS01": 0,
+      "Bionic Sight": 0
+    },
+    "run_at": "2026-10-23T09:54:21",
+    "records": 1
+  },
+  "euctr": {
+    "registry": "EU Clinical Trials Register (EudraCT, legacy)",
+    "terms": {
+      "optogenetic": 0,
+      "optogenetics": 0,
+      "optogenetically": 0,
+      "opto-genetic": 0,
+      "optogenética": 0,
+      "optogénétique": 0,
+      "channelrhodopsin": 0,
+      "ChrimsonR": 1,
+      "halorhodopsin": 0,
+      "ChR2": 0,
+      "multi-characteristic opsin": 0,
+      "light-sensitive opsin": 0,
+      "GS030": 1,
+      "RST-001": 0,
+      "MCO-010": 0,
+      "sonpiretigene isteparvovec": 0,
+      "BS01": 0,
+      "Bionic Sight": 0
+    },
+    "run_at": "2026-10-23T09:54:21",
+    "records": 1
+  },
+  "isrctn": {
+    "registry": "ISRCTN registry",
+    "terms": {
+      "optogenetic": 0,
+      "optogenetics": 0,
+      "optogenetically": 0,
+      "opto-genetic": 0,
+      "optogenética": 0,
+      "optogénétique": 0,
+      "channelrhodopsin": 0,
+      "ChrimsonR": 0,
+      "halorhodopsin": 0,
+      "ChR2": 0,
+      "multi-characteristic opsin": 0,
+      "light-sensitive opsin": 0,
+      "GS030": 0,
+      "RST-001": 0,
+      "MCO-010": 0,
+      "sonpiretigene isteparvovec": 0,
+      "BS01": 1,
+      "Bionic Sight": 0
+    },
+    "run_at": "2026-10-23T09:54:21",
+    "records": 1
+  },
+  "ictrp": {
+    "registry": "WHO ICTRP (meta-registry: ChiCTR, JPRN, ANZCTR, ReBEC, CTRI, DRKS, ...)",
+    "terms": {
+      "optogenetic": "failed: <HTTPError 502: 'Bad Gateway'>"
+    },
+    "run_at": "2026-10-23T09:54:21",
+    "records": 0
+  }
+}
