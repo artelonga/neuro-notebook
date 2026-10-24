@@ -3,6 +3,13 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.4.0] - 2026-10-23
+
+### Adicionado
+- Trabalhos com revisão por pares exportados para `articles/peer_reviewed/`; os demais ficam em `articles/`.
+- `peer_reviewed` (booleano), `document_type` e `peer_review_basis` no front matter de cada artigo e em `data/articles_index.csv`.
+- Seção com o resumo da revisão por pares no `REPORT.md` (gerado) e no `RELATORIO.md`.
+
 ## [0.3.0] - 2026-10-23
 
 ### Adicionado
