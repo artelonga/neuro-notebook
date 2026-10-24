@@ -22,7 +22,7 @@ CONTACT = os.environ.get("LITREVIEW_MAILTO", "yuri@artelonga.com.br")
 UA = f"neuro-notebook-litreview/1.0 (mailto:{CONTACT})"
 
 # ---------------------------------------------------------------------------
-# Search vocabulary (see PROTOCOL.md §2 for the rationale of every term)
+# Search vocabulary (see the vocabulary section of PROTOCOLO.md for the rationale of every term)
 # ---------------------------------------------------------------------------
 
 # Concept A: optogenetics. Truncated stem "optogenet*" covers EN optogenetic(s),

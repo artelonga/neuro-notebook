@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Full pipeline: literature search -> dedup -> trial registries -> REPORT.md
+# Full pipeline: literature search -> dedup -> trial registries -> RELATORIO.md
 # Pass --refresh to bypass the HTTP cache (data/cache/).
 set -euo pipefail
 cd "$(dirname "$0")"

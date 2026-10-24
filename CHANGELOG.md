@@ -3,6 +3,16 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.5.0] - 2026-10-24
+
+### Alterado
+- `python3 -m litreview.report` gera o relatório completo em pt-BR em `RELATORIO.md` (números no formato brasileiro, critérios CA-1..CA-4).
+- `PROTOCOLO.md` passa a ser o protocolo completo, traduzido do inglês; `README.md` traduzido para pt-BR.
+- O slide final da apresentação cita `RELATORIO.md`.
+
+### Removido
+- `PROTOCOL.md` e `REPORT.md` (as versões em inglês continuam no histórico, até a tag `v0.4.1`).
+
 ## [0.4.1] - 2026-10-24
 
 ### Adicionado

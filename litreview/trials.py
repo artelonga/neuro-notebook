@@ -117,7 +117,7 @@ def euctr(term, refresh):
 
 def ictrp(term, refresh):
     # WHO ICTRP has no public API; the portal's search page is attempted and the
-    # registry is reported as "manual" when it is unavailable (see PROTOCOL.md).
+    # registry is reported as "manual" when it is unavailable (see PROTOCOLO.md).
     html = fetch(f"https://trialsearch.who.int/?SearchAll={quote(term)}", refresh=refresh,
                  headers={"User-Agent": BROWSER_UA}, retries=2)
     m = re.search(r"(\d+)\s+records?\s+for", html)
