@@ -3,6 +3,18 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [0.6.0] - 2026-10-29
+
+### Adicionado
+- Fluxo PRISMA 2020 (`python3 -m litreview.prisma`): o n de cada etapa em `data/prisma.json`, diagrama em `data/prisma_flow.svg` (pt-BR) e `data/prisma_flow.en.svg`, etapa de saída de cada trabalho em `data/prisma_works.csv` e seleção final em `data/included.csv`.
+- Critérios de elegibilidade (publicado em 2020 ou depois; com revisão por pares) em `litreview/common.py` e no `PROTOCOLO.md` §6.
+- `study_type` (pesquisa original, revisão, revisão sistemática, meta-análise, metodologia, outros) e `prisma.eligibility` no cabeçalho de cada artigo; `study_type` e `eligible` em `data/articles_index.csv`.
+- Seção "Fluxo PRISMA 2020 e seleção final" no `RELATORIO.md`, que substitui o fluxo só de identificação.
+- `articles/selected/`: a seleção final; `litreview.prisma` move os arquivos conforme as decisões dos revisores.
+
+### Removido
+- `articles/peer_reviewed/`: `articles/` passa a ser a base de revisão e a revisão por pares fica só no campo `peer_reviewed`.
+
 ## [0.5.0] - 2026-10-24
 
 ### Alterado
