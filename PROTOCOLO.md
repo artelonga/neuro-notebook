@@ -1,6 +1,6 @@
 # Protocolo de busca: optogenética nas doenças de Alzheimer e Parkinson
 
-Versão 1.0 · 23/10/2026 · O relato segue o PRISMA 2020 (etapa de identificação) e o PRISMA-S
+Versão 1.0 · 23/10/2026 · O relato segue o PRISMA 2020 (fluxo completo, §6) e o PRISMA-S
 (relato da busca). Resultados: [RELATORIO.md](RELATORIO.md).
 
 ## 0. Pergunta
@@ -128,7 +128,31 @@ palavras-chave (sem distinção de maiúsculas e sem acentos; `litreview/common.
 - Registros do **mesmo ensaio** em vários registros são ligados por `same_trial_as` e contados
   uma vez.
 
-## 6. Fora do escopo desta etapa / próximos passos
+## 6. Elegibilidade e fluxo PRISMA 2020
+
+O relato segue o diagrama de fluxo do PRISMA 2020 para revisões novas com bases, registros e outras
+fontes (Page et al., *BMJ* 2021;372:n71). `python3 -m litreview.prisma` calcula o n de cada etapa
+(`data/prisma.json`), desenha o diagrama (`data/prisma_flow.svg`, `data/prisma_flow.en.svg`) e grava
+a seleção final (`data/included.csv`).
+
+- **Unidade de contagem:** *registro* antes da deduplicação; depois dela, *estudo* = trabalho único,
+  e *relatos* = suas versões (preprint e periódico).
+- **Removidos antes da triagem:** duplicados; inelegíveis pela reverificação automática de
+  palavras-chave (`rejected`); sem resumo em nenhuma fonte (`unverifiable`).
+- **Triagem e texto completo:** decisões dos revisores nos campos `prisma.screening` de cada
+  `articles/*.md` (`title_abstract: exclude`, `full_text: not_retrieved | exclude`, com o motivo).
+- **Critérios de elegibilidade**, nesta ordem; cada trabalho é excluído uma vez, pelo primeiro
+  critério que não cumpre:
+  1. publicado em **2020 ou depois** (ano desconhecido também exclui);
+  2. **com revisão por pares** (`peer_reviewed: true`, ver README);
+  3. motivos de exclusão do texto completo dados pelos revisores.
+- **Tipo de estudo** (`study_type`, heurístico): meta-análise e revisão sistemática pelo tipo de
+  publicação do PubMed/Europe PMC ou pelo título; revisão pelo `document_type`; metodologia por
+  periódicos de protocolos/métodos ou pelo título; o resto é pesquisa original ou "outros".
+- Os **registros de ensaios** (§5) respondem a outra pergunta e têm fluxo próprio
+  (`data/prisma.json` → `registers`).
+
+## 7. Fora do escopo desta etapa / próximos passos
 
 1. Triagem de **relevância** (título/resumo) dos trabalhos confirmados (dois revisores, por
    exemplo no Rayyan/ASReview). A regra de palavra-chave decide a *identificação*, não a
