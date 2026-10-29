@@ -12,6 +12,7 @@ journal: "SLEEP"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1093/sleep/zsaf090.0081)"
+study_type: "original-research"
 publication_type: "conference-abstract"
 language: "en"
 keywords:
@@ -47,6 +48,10 @@ prisma:
       - "s2:2d7b9c276a1f232cdcc5cd546d800d37d50e8175"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

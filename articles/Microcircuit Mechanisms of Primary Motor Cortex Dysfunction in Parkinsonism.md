@@ -12,6 +12,7 @@ journal: "Research Square"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "epmc: preprint (Research Square)"
+study_type: "original-research"
 publication_type: "[PPR] Preprint"
 language: null
 keywords:
@@ -45,6 +46,10 @@ prisma:
       - "openalex:W7211893024"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

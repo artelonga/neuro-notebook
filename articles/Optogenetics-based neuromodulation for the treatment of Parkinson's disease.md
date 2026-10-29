@@ -13,6 +13,7 @@ journal: "International Conference on Intelligent Informatics and Biomedical Sci
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1109/iciibms.2017.8279731)"
+study_type: "original-research"
 publication_type: "conference-abstract"
 language: "en"
 keywords:
@@ -46,6 +47,10 @@ prisma:
       - "s2:5b8d8a71b87bc654b81fa46c189e2bcef5b79c88"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

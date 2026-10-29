@@ -9,6 +9,7 @@ journal: "Journal of clinical and translational science"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "epmc: meeting abstract ([PMC] Abstract)"
+study_type: "original-research"
 publication_type: "[PMC] Abstract"
 language: "eng"
 keywords: []
@@ -33,6 +34,10 @@ prisma:
       - "s2:3bbbb3095e17cc7d0e3d855dbb154f4884f79e0a"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

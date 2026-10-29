@@ -12,6 +12,7 @@ journal: "The FASEB Journal"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1096/fasebj.31.1_supplement.659.16)"
+study_type: "original-research"
 publication_type: "JournalArticle"
 language: null
 keywords: []
@@ -34,6 +35,10 @@ prisma:
       - "s2:b828411fe1c3454068fdc3db84ea57deacc61b31"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

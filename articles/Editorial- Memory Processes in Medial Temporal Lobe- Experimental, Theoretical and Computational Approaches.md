@@ -10,6 +10,7 @@ journal: "Frontiers in Systems Neuroscience"
 peer_reviewed: false
 document_type: "editorial-or-news"
 peer_review_basis: "openalex-doi: editorial"
+study_type: "other"
 publication_type: "Editorial"
 language: null
 keywords: []
@@ -32,6 +33,10 @@ prisma:
       - "s2:0562011fbb7c924558ee7808f7047f520f547061"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

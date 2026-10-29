@@ -9,6 +9,7 @@ journal: "Figshare"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "openalex-doi: preprint (Figshare)"
+study_type: "original-research"
 publication_type: "other"
 language: null
 keywords:
@@ -35,6 +36,10 @@ prisma:
       - "openalex:W7155993136"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

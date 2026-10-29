@@ -28,6 +28,7 @@ journal: null
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "openalex-doi: preprint (SSRN Electronic Journal)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -50,6 +51,10 @@ prisma:
       - "s2:2ce1d7b7565faa4164b74b59905d1fbb24835cc5"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

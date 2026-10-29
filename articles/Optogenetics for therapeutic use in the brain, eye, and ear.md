@@ -11,6 +11,7 @@ journal: "Handbook of clinical neurology"
 peer_reviewed: false
 document_type: "book"
 peer_review_basis: "pubmed: Journal Article; Review"
+study_type: "other"
 publication_type: "Journal Article; Review"
 language: "eng"
 keywords:
@@ -55,6 +56,10 @@ prisma:
       - "s2:697f237610a8047e9e94670a0c29efc2923e2cd1"
     keyword_check: "confirmed"
     duplicates_merged: 3
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

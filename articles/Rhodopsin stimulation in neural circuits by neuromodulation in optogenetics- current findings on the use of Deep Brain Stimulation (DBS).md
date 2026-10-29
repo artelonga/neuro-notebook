@@ -11,6 +11,7 @@ journal: "São Paulo Medical Journal"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.5327/1516-3180.302)"
+study_type: "original-research"
 publication_type: "conference-abstract"
 language: "en"
 keywords:
@@ -49,6 +50,10 @@ prisma:
       - "s2:368eff3b90902788d736c25cf92672f1d75434a6"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

@@ -11,6 +11,7 @@ journal: "World Congress on Medical Physics and Biomedical Engineering, Septembe
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: conference-paper"
+study_type: "original-research"
 publication_type: "conference-paper"
 language: "en"
 keywords:
@@ -47,6 +48,10 @@ prisma:
       - "s2:e421a745edd01163c817cd45032a30721b7ff211"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

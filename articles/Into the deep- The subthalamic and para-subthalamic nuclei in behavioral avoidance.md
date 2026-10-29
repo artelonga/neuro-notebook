@@ -8,6 +8,7 @@ journal: "bioRxiv"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "s2: preprint (bioRxiv)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -30,6 +31,10 @@ prisma:
       - "s2:058c6a19ae304361d4c8bf3c487bdb8df9c0c777"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

@@ -8,6 +8,7 @@ journal: "Dépôt institutionnel de l'Université libre de Bruxelles (Universit�
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "openalex: dissertation"
+study_type: "original-research"
 publication_type: "dissertation"
 language: "fr"
 keywords:
@@ -46,6 +47,10 @@ prisma:
       - "s2:020427134ecd773335e33a031e1e45c11ec4780a"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

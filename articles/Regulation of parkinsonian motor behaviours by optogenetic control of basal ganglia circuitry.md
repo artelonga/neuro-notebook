@@ -15,6 +15,7 @@ journal: "Nature"
 peer_reviewed: false
 document_type: "editorial-or-news"
 peer_review_basis: "pubmed: News"
+study_type: "other"
 publication_type: "Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't"
 language: "eng"
 keywords:
@@ -68,6 +69,10 @@ prisma:
       - "s2:fbdd8f8f4271dd1b77171d82024d35f633c70bea"
     keyword_check: "confirmed"
     duplicates_merged: 7
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

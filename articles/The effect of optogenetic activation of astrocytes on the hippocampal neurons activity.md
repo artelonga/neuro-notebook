@@ -16,6 +16,7 @@ journal: "Journal of Physics, Conference Series"
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: conference-paper"
+study_type: "original-research"
 publication_type: "Conference"
 language: null
 keywords: []
@@ -38,6 +39,10 @@ prisma:
       - "s2:e861254d5d9f9f1c07b46232e2ae5a5133253db6"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

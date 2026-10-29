@@ -14,6 +14,7 @@ journal: "Fiber Lasers and Glass Photonics:  Materials through Applications III"
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: conference-paper"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -36,6 +37,10 @@ prisma:
       - "s2:dfec0feeeefdd30932de2e3910fd32c926dbeed8"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

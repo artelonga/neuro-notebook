@@ -12,6 +12,7 @@ journal: "Alzheimer's &amp; Dementia"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1002/alz.068114)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -34,6 +35,10 @@ prisma:
       - "s2:5da94e97b00b7b474968aeaa31325d6c45198a47"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

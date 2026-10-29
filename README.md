@@ -27,6 +27,10 @@ as coloque no repositório): `NCBI_API_KEY`, `OPENALEX_API_KEY`, `S2_API_KEY`.
 | `overlap_matrix.csv` | sobreposição, par a par, dos trabalhos confirmados |
 | `trials_raw.csv` / `trials.csv` | registros de ensaios (união entre os termos) e os mesmos registros unidos às decisões de triagem |
 | `trials_screening.csv` | **editado à mão**: decisão, categoria, `same_trial_as`, justificativa |
+| `prisma.json` | **o n de cada etapa do fluxo PRISMA 2020** (identificação, triagem, elegibilidade, incluídos, registros de ensaios) |
+| `prisma_flow.svg` / `prisma_flow.en.svg` | diagrama de fluxo PRISMA 2020 (pt-BR / inglês) |
+| `prisma_works.csv` | uma linha por trabalho único: `excluded_at` (etapa em que saiu do fluxo), `reason`, `included`, `study_type` |
+| `included.csv` | **seleção final**: os trabalhos incluídos (≥ 2020 e com revisão por pares, menos as exclusões dos revisores) |
 
 Soma rápida: filtre `works.csv` por `status == confirmed`. O número de linhas é o total sem
 repetição. `SUM(in_pubmed)` é a contagem do PubMed. As linhas com `n_databases == 1` são os
@@ -35,9 +39,10 @@ trabalhos exclusivos de uma base.
 ## Base de artigos (`articles/`)
 
 Um arquivo Markdown por trabalho **confirmado** (801), com o nome do título (`<title>.md`;
-`<title> (W0123).md` se dois títulos coincidirem). Os trabalhos com revisão por pares
-(`peer_reviewed: true`) ficam em `articles/peer_reviewed/`; todo o resto (preprints, teses,
-resumos de congresso, …) fica direto em `articles/`. O corpo é o resumo. O front matter YAML é:
+`<title> (W0123).md` se dois títulos coincidirem). `articles/` é a base de revisão: todos os
+trabalhos triados. **`articles/selected/` é a seleção final do fluxo PRISMA** (publicados em 2020
+ou depois, com revisão por pares, menos os excluídos pelos revisores); o resto fica direto em
+`articles/`. O corpo é o resumo. O front matter YAML é:
 
 ```yaml
 title, doi, work_id, authors[], year, journal
@@ -45,6 +50,8 @@ peer_reviewed: true          # inferred: published as a journal article or revie
 document_type                # journal-article | review | preprint | thesis | conference-abstract |
                              # conference-paper | book | editorial-or-news | other | unknown
 peer_review_basis            # the evidence used, e.g. "pubmed: Journal Article; Review"
+study_type                   # original-research | review | systematic-review | meta-analysis |
+                             # methodology | other (heuristic, see PROTOCOLO.md §6)
 publication_type, language, keywords[]
 identifiers: {pmid, pmcid, arxiv, openalex}
 other_dois[]                 # other versions merged into this work (preprint <-> journal)
@@ -52,6 +59,8 @@ abstract_source, authors_source
 prisma:
   identification: {search_date, search_rule, databases[], n_databases,
                    source_records[], keyword_check, duplicates_merged}
+  eligibility:               # automatic: year >= 2020 AND peer_reviewed
+    {criteria, eligible, reason}   # reason: before_min_year | year_unknown | not_peer_reviewed
   screening:                 # filled in by the reviewers
     title_abstract: pending  # include | exclude | pending
     title_abstract_reason: null
@@ -62,8 +71,16 @@ prisma:
   included: null             # true/false once screening is done
 ```
 
-`data/articles_index.csv` liga `work_id` ao nome do arquivo, com `peer_reviewed` e
-`document_type`.
+`data/articles_index.csv` liga `work_id` ao nome do arquivo, com `peer_reviewed`,
+`document_type`, `study_type` e `eligible`.
+
+## Fluxo PRISMA 2020
+
+`python3 -m litreview.prisma` (incluído no `./run.sh`) conta cada etapa e desenha o diagrama.
+Para registrar a triagem humana, preencha `prisma.screening` nos arquivos de `articles/` e rode de
+novo só `python3 -m litreview.prisma && python3 -m litreview.report` (não o `export`, que
+apagaria as decisões). O `prisma` move os arquivos para dentro ou para fora de
+`articles/selected/` conforme as decisões e atualiza `data/articles_index.csv`.
 
 **`peer_reviewed` é inferido.** Nenhuma base informa diretamente se houve revisão por pares. Um
 trabalho é `true` quando qualquer versão dele foi publicada em periódico como artigo ou revisão.

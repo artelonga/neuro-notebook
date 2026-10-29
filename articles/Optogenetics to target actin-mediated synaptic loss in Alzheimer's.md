@@ -11,6 +11,7 @@ journal: "Biomedical optics"
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: conference-paper"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -33,6 +34,10 @@ prisma:
       - "s2:de41c1317c79f270d3a03effd6a48ca0a9985326"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

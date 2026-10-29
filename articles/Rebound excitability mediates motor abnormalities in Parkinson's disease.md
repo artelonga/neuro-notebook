@@ -10,6 +10,7 @@ journal: "BMB reports"
 peer_reviewed: false
 document_type: "editorial-or-news"
 peer_review_basis: "pubmed: News"
+study_type: "other"
 publication_type: "News"
 language: "eng"
 keywords:
@@ -47,6 +48,10 @@ prisma:
       - "s2:2cfb76dd22df25b238eb7d356f0f895161c7059d"
     keyword_check: "confirmed"
     duplicates_merged: 3
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

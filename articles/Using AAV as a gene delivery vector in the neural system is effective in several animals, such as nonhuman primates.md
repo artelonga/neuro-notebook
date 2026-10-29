@@ -9,6 +9,7 @@ journal: null
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "openalex-doi: preprint (10.31219/osf.io/ut4fa)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -31,6 +32,10 @@ prisma:
       - "s2:f16378f5a00f00b64cbec12600240df37fea4750"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

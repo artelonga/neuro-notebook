@@ -30,6 +30,23 @@ UA = f"neuro-notebook-litreview/1.0 (mailto:{CONTACT})"
 # (diacritics folded); DE Optogenetik/optogenetisch. Hyphenated and the
 # "optigenet*" misspelling are added for sensitivity.
 OPTO_STEMS = ["optogenet", "opto-genet", "optigenet"]
+
+# ---------------------------------------------------------------------------
+# Eligibility criteria (PRISMA "reports excluded", PROTOCOLO.md §6). Checked in
+# this order; the first that fails is the work's single exclusion reason.
+# ---------------------------------------------------------------------------
+MIN_YEAR = 2020
+
+
+def eligibility(year, peer_reviewed):
+    """None if eligible, else the reason: year_unknown | before_min_year | not_peer_reviewed."""
+    if not year:
+        return "year_unknown"
+    if int(year) < MIN_YEAR:
+        return "before_min_year"
+    if not peer_reviewed:
+        return "not_peer_reviewed"
+    return None
 # Full word forms for engines without truncation (OpenAlex, DOAJ).
 OPTO_WORDS = [
     "optogenetic", "optogenetics", "optogenetically", "opto-genetic", "opto-genetics",

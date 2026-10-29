@@ -9,6 +9,7 @@ journal: "Cold Spring Harbor protocols"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "pubmed: preprint (Cold Spring Harbor protocols)"
+study_type: "methodology"
 publication_type: "Journal Article"
 language: "eng"
 keywords: []
@@ -35,6 +36,10 @@ prisma:
       - "s2:c842acb87949a5ae08068169205b116cf6d84dbe"
     keyword_check: "confirmed"
     duplicates_merged: 2
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

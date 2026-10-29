@@ -16,6 +16,7 @@ journal: "bioRxiv : the preprint server for biology"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "pubmed: preprint (bioRxiv : the preprint server for biology)"
+study_type: "original-research"
 publication_type: "Preprint; Journal Article"
 language: "eng"
 keywords: []
@@ -42,6 +43,10 @@ prisma:
       - "s2:99a59318e2fec01c7a212b3757d4642dfa6ae478"
     keyword_check: "confirmed"
     duplicates_merged: 2
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null
