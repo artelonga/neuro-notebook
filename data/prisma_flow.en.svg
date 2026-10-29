@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1370" height="1014" viewBox="0 0 1370 1014" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#111111">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="1370" height="1014" fill="#fff"/>
+<rect x="60" y="10" width="722" height="30" rx="8" fill="#f6b13a"/>
+<text x="421.0" y="30" text-anchor="middle">Identification of new studies via databases and registers</text>
+<rect x="818" y="10" width="542" height="30" rx="8" fill="#d9d9d9"/>
+<text x="1089.0" y="30" text-anchor="middle">Identification of new studies via other methods</text>
+<rect x="60" y="54" width="360" height="286" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="73.5" text-anchor="middle">Records identified from:</text>
+<text x="240.0" y="88.5" text-anchor="middle">Databases (n = 2,167):</text>
+<text x="240.0" y="103.5" text-anchor="middle">PubMed / MEDLINE (n = 486)</text>
+<text x="240.0" y="118.5" text-anchor="middle">Europe PMC (incl. preprints) (n = 589)</text>
+<text x="240.0" y="133.5" text-anchor="middle">OpenAlex (n = 267)</text>
+<text x="240.0" y="148.5" text-anchor="middle">DOAJ (n = 33)</text>
+<text x="240.0" y="163.5" text-anchor="middle">arXiv (n = 6)</text>
+<text x="240.0" y="178.5" text-anchor="middle">Semantic Scholar (n = 786)</text>
+<text x="240.0" y="193.5" text-anchor="middle">Manual databases¹ (n = NA, pending)</text>
+<text x="240.0" y="208.5" text-anchor="middle">Trial registers² (n = 58)</text>
+<text x="240.0" y="223.5" text-anchor="middle"></text>
+<text x="240.0" y="238.5" text-anchor="middle">Unique works by type (n = 977):</text>
+<text x="240.0" y="253.5" text-anchor="middle">Original Research (n = 692)</text>
+<text x="240.0" y="268.5" text-anchor="middle">Review Articles (n = 143)</text>
+<text x="240.0" y="283.5" text-anchor="middle">Systematic Reviews (n = 2)</text>
+<text x="240.0" y="298.5" text-anchor="middle">Meta-Analyses (n = 0)</text>
+<text x="240.0" y="313.5" text-anchor="middle">Methodology Articles (n = 11)</text>
+<text x="240.0" y="328.5" text-anchor="middle">Other (editorial, book, …) (n = 129)</text>
+<rect x="452" y="159.0" width="330" height="76" fill="#ffffff" stroke="#111111"/>
+<text x="617.0" y="178.5" text-anchor="middle">Records removed before screening:</text>
+<text x="617.0" y="193.5" text-anchor="middle">Duplicate records (n = 1,190)</text>
+<text x="617.0" y="208.5" text-anchor="middle">Records marked as ineligible by automation tools³ (n = 45)</text>
+<text x="617.0" y="223.5" text-anchor="middle">Records removed for other reasons (no abstract) (n = 131)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="420,197.0 450,197.0"/>
+<rect x="818" y="94" width="280" height="76" fill="#d9d9d9"/>
+<text x="958.0" y="113.5" text-anchor="middle">Records identified from:</text>
+<text x="958.0" y="128.5" text-anchor="middle">Websites (n = 0)</text>
+<text x="958.0" y="143.5" text-anchor="middle">Organisations (n = 0)</text>
+<text x="958.0" y="158.5" text-anchor="middle">Citation searching (n = 0)</text>
+<rect x="60" y="373.5" width="360" height="46" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="393.0" text-anchor="middle">Records screened</text>
+<text x="240.0" y="408.0" text-anchor="middle">(n = 801)</text>
+<rect x="452" y="366.0" width="330" height="61" fill="#ffffff" stroke="#111111"/>
+<text x="617.0" y="385.5" text-anchor="middle">Records excluded</text>
+<text x="617.0" y="400.5" text-anchor="middle">(n = 0)</text>
+<text x="617.0" y="415.5" text-anchor="middle">(title/abstract screening pending: n = 801)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="420,396.5 450,396.5"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="240.0,340 240.0,371.5"/>
+<rect x="60" y="453" width="360" height="46" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="472.5" text-anchor="middle">Reports sought for retrieval</text>
+<text x="240.0" y="487.5" text-anchor="middle">(n = 801)</text>
+<rect x="452" y="453.0" width="330" height="46" fill="#ffffff" stroke="#111111"/>
+<text x="617.0" y="472.5" text-anchor="middle">Reports not retrieved</text>
+<text x="617.0" y="487.5" text-anchor="middle">(n = 0)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="420,476.0 450,476.0"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="240.0,419.5 240.0,451"/>
+<rect x="818" y="453" width="280" height="46" fill="#d9d9d9" stroke="#111111"/>
+<text x="958.0" y="472.5" text-anchor="middle">Reports sought for retrieval</text>
+<text x="958.0" y="487.5" text-anchor="middle">(n = 0)</text>
+<rect x="1130" y="453.0" width="230" height="46" fill="#d9d9d9" stroke="#111111"/>
+<text x="1245.0" y="472.5" text-anchor="middle">Reports not retrieved</text>
+<text x="1245.0" y="487.5" text-anchor="middle">(n = 0)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="1098,476.0 1128,476.0"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="958.0,170 958.0,451"/>
+<rect x="60" y="540.0" width="360" height="46" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="559.5" text-anchor="middle">Reports assessed for eligibility</text>
+<text x="240.0" y="574.5" text-anchor="middle">(n = 801)</text>
+<rect x="452" y="525.0" width="330" height="76" fill="#ffffff" stroke="#111111"/>
+<text x="617.0" y="544.5" text-anchor="middle">Reports excluded:</text>
+<text x="617.0" y="559.5" text-anchor="middle">Published before 2020 (n = 299)</text>
+<text x="617.0" y="574.5" text-anchor="middle">Year unknown (n = 5)</text>
+<text x="617.0" y="589.5" text-anchor="middle">Not peer-reviewed (n = 127)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="420,563.0 450,563.0"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="240.0,499 240.0,538.0"/>
+<rect x="818" y="525" width="280" height="46" fill="#d9d9d9" stroke="#111111"/>
+<text x="958.0" y="544.5" text-anchor="middle">Reports assessed for eligibility</text>
+<text x="958.0" y="559.5" text-anchor="middle">(n = 0)</text>
+<rect x="1130" y="525.0" width="230" height="46" fill="#d9d9d9" stroke="#111111"/>
+<text x="1245.0" y="544.5" text-anchor="middle">Reports excluded:</text>
+<text x="1245.0" y="559.5" text-anchor="middle">(n = 0)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="1098,548.0 1128,548.0"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="958.0,499 958.0,523"/>
+<rect x="60" y="637" width="360" height="166" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="656.5" text-anchor="middle">New studies included in review</text>
+<text x="240.0" y="671.5" text-anchor="middle">(n = 370)</text>
+<text x="240.0" y="686.5" text-anchor="middle">Reports of new included studies</text>
+<text x="240.0" y="701.5" text-anchor="middle">(n = 406)</text>
+<text x="240.0" y="716.5" text-anchor="middle">(full-text review pending: n = 370)</text>
+<text x="240.0" y="731.5" text-anchor="middle"></text>
+<text x="240.0" y="746.5" text-anchor="middle">Original Research (n = 288)</text>
+<text x="240.0" y="761.5" text-anchor="middle">Review Articles (n = 72)</text>
+<text x="240.0" y="776.5" text-anchor="middle">Systematic Reviews (n = 2)</text>
+<text x="240.0" y="791.5" text-anchor="middle">Methodology Articles (n = 8)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="240.0,586.0 240.0,635"/>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="958.0,571 958.0,667 422,667"/>
+<rect x="60" y="829" width="360" height="76" fill="#ffffff" stroke="#111111"/>
+<text x="240.0" y="848.5" text-anchor="middle">Total studies included in meta-analysis</text>
+<text x="240.0" y="863.5" text-anchor="middle">(n = NA)</text>
+<text x="240.0" y="878.5" text-anchor="middle">Reports of total included studies in meta-analysis</text>
+<text x="240.0" y="893.5" text-anchor="middle">(n = NA)</text>
+<polyline fill="none" stroke="#111" marker-end="url(#a)" points="240.0,803 240.0,827"/>
+<rect x="10" y="54" width="30" height="286" rx="10" fill="#a9c4e8"/>
+<text transform="translate(29,197.0) rotate(-90)" text-anchor="middle">Identification</text>
+<rect x="10" y="353.0" width="30" height="248.0" rx="10" fill="#a9c4e8"/>
+<text transform="translate(29,477.0) rotate(-90)" text-anchor="middle">Screening</text>
+<rect x="10" y="624.0" width="30" height="281.0" rx="10" fill="#a9c4e8"/>
+<text transform="translate(29,764.5) rotate(-90)" text-anchor="middle">Included</text>
+<text x="10" y="929" font-size="11" fill="#444" xml:space="preserve">¹ Scopus, Web of Science, Embase, LILACS/BVS, CNKI, CiNii: queries ready in RELATORIO.md, not yet run.</text>
+<text x="10" y="944" font-size="11" fill="#444" xml:space="preserve">  Google Scholar and ScienceDirect were not searched (Scopus covers ScienceDirect).</text>
+<text x="10" y="959" font-size="11" fill="#444" xml:space="preserve">² Any optogenetic use (CA-4); reported in a separate flow: see data/prisma.json → registers.</text>
+<text x="10" y="974" font-size="11" fill="#444" xml:space="preserve">³ Local keyword re-check on title/abstract/keywords (common.matches).</text>
+<text x="10" y="989" font-size="11" fill="#444" xml:space="preserve">Study = unique work; reports = its versions (preprint and journal).</text>
+<text x="10" y="1004" font-size="11" fill="#444" xml:space="preserve">PRISMA 2020 · 2026-10-23</text>
+</svg>

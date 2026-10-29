@@ -1,0 +1,123 @@
+{
+  "standard": "PRISMA 2020 (Page et al., BMJ 2021;372:n71); search reporting per PRISMA-S",
+  "search_date": "2026-10-23",
+  "eligibility_criteria": [
+    "published in 2020 or later",
+    "peer reviewed (journal article or review)"
+  ],
+  "identification": {
+    "databases": [
+      {
+        "key": "pubmed",
+        "database": "PubMed / MEDLINE",
+        "n": 486
+      },
+      {
+        "key": "epmc",
+        "database": "Europe PMC (incl. preprints)",
+        "n": 589
+      },
+      {
+        "key": "openalex",
+        "database": "OpenAlex",
+        "n": 267
+      },
+      {
+        "key": "doaj",
+        "database": "DOAJ",
+        "n": 33
+      },
+      {
+        "key": "arxiv",
+        "database": "arXiv",
+        "n": 6
+      },
+      {
+        "key": "s2",
+        "database": "Semantic Scholar",
+        "n": 786
+      }
+    ],
+    "records": 2167,
+    "databases_not_searched": {
+      "manual (queries ready in RELATORIO.md)": "Scopus, Web of Science, Embase, LILACS/BVS, CNKI, CiNii",
+      "in the template, not used": "Google Scholar, ScienceDirect"
+    },
+    "registers_records": 58,
+    "unique_works": 977,
+    "unique_works_by_study_type": {
+      "original-research": 692,
+      "review": 143,
+      "systematic-review": 2,
+      "meta-analysis": 0,
+      "methodology": 11,
+      "other": 129
+    }
+  },
+  "removed_before_screening": {
+    "duplicates": 1190,
+    "automation_ineligible": 45,
+    "other_reasons_no_abstract": 131
+  },
+  "screening": {
+    "records_screened": 801,
+    "records_excluded": 0,
+    "records_excluded_reasons": {},
+    "title_abstract_pending": 801,
+    "reports_sought": 801,
+    "reports_not_retrieved": 0,
+    "reports_assessed": 801,
+    "reports_excluded": 431,
+    "reports_excluded_reasons": {
+      "before_min_year": 299,
+      "year_unknown": 5,
+      "not_peer_reviewed": 127
+    },
+    "excluded_for_both_year_and_peer_review": 87,
+    "full_text_pending": 370
+  },
+  "included": {
+    "studies": 370,
+    "reports": 406,
+    "by_study_type": {
+      "original-research": 288,
+      "review": 72,
+      "systematic-review": 2,
+      "meta-analysis": 0,
+      "methodology": 8,
+      "other": 0
+    },
+    "by_year": {
+      "2020": 45,
+      "2021": 48,
+      "2022": 49,
+      "2023": 52,
+      "2024": 65,
+      "2025": 60,
+      "2026": 51
+    },
+    "in_meta_analysis": null
+  },
+  "other_methods": {
+    "websites": 0,
+    "organisations": 0,
+    "citation_searching": 0,
+    "note": "not yet performed (PROTOCOLO.md §7)"
+  },
+  "registers": {
+    "records": 58,
+    "by_registry": {
+      "ClinicalTrials.gov (API v2)": 55,
+      "EU CTIS (EU Clinical Trials Regulation, 2023-)": 1,
+      "EU Clinical Trials Register (EudraCT, legacy)": 1,
+      "ISRCTN registry": 1,
+      "WHO ICTRP (meta-registry: ChiCTR, JPRN, ANZCTR, ReBEC, CTRI, DRKS, ...)": 0
+    },
+    "screened": 58,
+    "excluded": 40,
+    "included_records": 18,
+    "same_trial_duplicates": 5,
+    "included_trials": 13,
+    "included_trials_ad_pd": 0
+  }
+}
