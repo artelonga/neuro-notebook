@@ -16,6 +16,7 @@ journal: "Alzheimer's & Dementia"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "numbered meeting-abstract title (P1‐171: BOTH FULL‐LENGTH AND P…)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -38,6 +39,10 @@ prisma:
       - "s2:96a4acc5f0fef0c9b6dc691479028cc3284a762a"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

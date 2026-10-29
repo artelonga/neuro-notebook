@@ -17,6 +17,7 @@ journal: "Research square"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "pubmed: preprint (Research square)"
+study_type: "original-research"
 publication_type: "Journal Article; Preprint"
 language: "eng"
 keywords:
@@ -49,6 +50,10 @@ prisma:
       - "s2:17a0e13d0e55b914ac8d985ea6e0631ea1949b74"
     keyword_check: "confirmed"
     duplicates_merged: 2
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

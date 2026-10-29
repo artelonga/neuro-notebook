@@ -12,6 +12,7 @@ journal: "Frontiers in molecular neuroscience"
 peer_reviewed: false
 document_type: "editorial-or-news"
 peer_review_basis: "pubmed: Editorial"
+study_type: "other"
 publication_type: "Editorial"
 language: "eng"
 keywords:
@@ -44,6 +45,10 @@ prisma:
       - "pubmed:33642993"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

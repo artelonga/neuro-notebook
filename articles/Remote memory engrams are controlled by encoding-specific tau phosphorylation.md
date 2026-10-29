@@ -13,6 +13,7 @@ journal: "bioRxiv"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "epmc: preprint (bioRxiv)"
+study_type: "original-research"
 publication_type: "[PPR] Preprint"
 language: null
 keywords: []
@@ -37,6 +38,10 @@ prisma:
       - "s2:48f4d399c13d8be3bc53eaf92206cf4cbee348d1"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

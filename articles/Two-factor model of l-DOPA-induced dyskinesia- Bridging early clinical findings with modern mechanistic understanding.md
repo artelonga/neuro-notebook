@@ -10,6 +10,7 @@ journal: "Handbook of behavioral neuroscience"
 peer_reviewed: false
 document_type: "book"
 peer_review_basis: "openalex-doi: book-chapter"
+study_type: "other"
 publication_type: "book-chapter"
 language: "en"
 keywords:
@@ -40,6 +41,10 @@ prisma:
       - "openalex:W4416302691"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

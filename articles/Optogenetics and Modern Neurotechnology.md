@@ -9,6 +9,7 @@ journal: null
 peer_reviewed: false
 document_type: "book"
 peer_review_basis: "openalex-doi: book"
+study_type: "other"
 publication_type: "Book"
 language: null
 keywords: []
@@ -31,6 +32,10 @@ prisma:
       - "s2:cab0d79366e5b9d88c6f888be2a7f18ea1c28566"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

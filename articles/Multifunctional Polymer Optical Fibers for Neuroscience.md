@@ -17,6 +17,7 @@ journal: "Annual International Conference of the IEEE Engineering in Medicine an
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "pubmed: Journal Article"
+study_type: "original-research"
 publication_type: "Journal Article"
 language: "eng"
 keywords: []
@@ -43,6 +44,10 @@ prisma:
       - "s2:a44888ebd4ebc97d8dd4412877f82932b61fd124"
     keyword_check: "confirmed"
     duplicates_merged: 2
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

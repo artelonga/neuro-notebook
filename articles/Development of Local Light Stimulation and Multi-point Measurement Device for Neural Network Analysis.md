@@ -15,6 +15,7 @@ journal: "The Proceedings of the Conference on Information Intelligence and Prec
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: conference-paper"
+study_type: "original-research"
 publication_type: "conference-paper"
 language: "en"
 keywords:
@@ -42,6 +43,10 @@ prisma:
       - "openalex:W2693623124"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

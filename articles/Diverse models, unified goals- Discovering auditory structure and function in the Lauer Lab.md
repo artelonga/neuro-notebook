@@ -12,6 +12,7 @@ journal: "Journal of the Acoustical Society of America"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1121/10.0035114)"
+study_type: "original-research"
 publication_type: "JournalArticle"
 language: null
 keywords: []
@@ -34,6 +35,10 @@ prisma:
       - "s2:3ef631206b2b90e900404b5e727b0bfee63c6b48"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

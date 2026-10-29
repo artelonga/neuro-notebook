@@ -9,6 +9,7 @@ journal: "Faculty Opinions – Post-Publication Peer Review of the Biomedical Li
 peer_reviewed: false
 document_type: "editorial-or-news"
 peer_review_basis: "openalex-doi: peer-review"
+study_type: "other"
 publication_type: "peer-review"
 language: "en"
 keywords:
@@ -54,6 +55,10 @@ prisma:
       - "s2:f572af1e3b1ee9449d193670c0b3d2660ef8a71c"
     keyword_check: "confirmed"
     duplicates_merged: 4
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

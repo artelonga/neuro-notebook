@@ -11,6 +11,7 @@ journal: "Elsevier eBooks"
 peer_reviewed: false
 document_type: "book"
 peer_review_basis: "openalex-doi: book-chapter"
+study_type: "other"
 publication_type: "book-chapter"
 language: "en"
 keywords:
@@ -43,6 +44,10 @@ prisma:
       - "s2:0fc74daafa47fae58987e1aa19e4ad6ab1c1fa20"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

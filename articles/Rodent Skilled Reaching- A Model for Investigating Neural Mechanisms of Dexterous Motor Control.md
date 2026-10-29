@@ -9,6 +9,7 @@ journal: "Deep Blue (University of Michigan)"
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "openalex-doi: dissertation"
+study_type: "original-research"
 publication_type: "dissertation"
 language: "en"
 keywords:
@@ -42,6 +43,10 @@ prisma:
       - "openalex:W4287500455"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

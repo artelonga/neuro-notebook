@@ -8,6 +8,7 @@ journal: null
 peer_reviewed: false
 document_type: "unknown"
 peer_review_basis: "no publication-type evidence in any source"
+study_type: "other"
 publication_type: null
 language: null
 keywords: []
@@ -30,6 +31,10 @@ prisma:
       - "s2:dc12f906221838d4ea99d13b8b857d670899942f"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

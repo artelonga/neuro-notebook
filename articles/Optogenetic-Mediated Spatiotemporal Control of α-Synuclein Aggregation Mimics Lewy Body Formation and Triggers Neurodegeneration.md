@@ -35,6 +35,7 @@ journal: "Social Science Research Network"
 peer_reviewed: false
 document_type: "preprint"
 peer_review_basis: "openalex-doi: preprint (SSRN Electronic Journal)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -57,6 +58,10 @@ prisma:
       - "s2:764e2deafbaf6a6d9abae586d4348e257d1b4195"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

@@ -10,6 +10,7 @@ journal: null
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "numbered meeting-abstract title (O4–10–06: Optogenetics to regu…)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -32,6 +33,10 @@ prisma:
       - "s2:9b147fefc8cc9a89c53a5510f420f8adf4fa2cf0"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

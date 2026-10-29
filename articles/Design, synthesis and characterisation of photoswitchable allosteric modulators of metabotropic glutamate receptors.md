@@ -8,6 +8,7 @@ journal: "TDX (Tesis Doctorals en Xarxa)"
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "openalex: dissertation"
+study_type: "original-research"
 publication_type: "dissertation"
 language: "en"
 keywords:
@@ -41,6 +42,10 @@ prisma:
       - "s2:3e1f23a0b77b5baab0cf9768dc38d11dfeeebfa0"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

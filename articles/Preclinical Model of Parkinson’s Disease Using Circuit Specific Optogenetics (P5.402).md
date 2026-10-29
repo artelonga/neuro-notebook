@@ -20,6 +20,7 @@ journal: "Neurology"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1212/wnl.86.16_supplement.p5.402)"
+study_type: "original-research"
 publication_type: "JournalArticle"
 language: null
 keywords: []
@@ -42,6 +43,10 @@ prisma:
       - "s2:2a18756eaa06f5a91d6e115be91c96a112e2401d"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

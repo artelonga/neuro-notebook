@@ -8,6 +8,7 @@ journal: "International IEEE/EMBS Conference on Neural Engineering"
 peer_reviewed: false
 document_type: "conference-paper"
 peer_review_basis: "openalex-doi: paratext"
+study_type: "original-research"
 publication_type: "paratext"
 language: "en"
 keywords:
@@ -61,6 +62,10 @@ prisma:
       - "openalex:W4241426843"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

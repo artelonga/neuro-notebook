@@ -9,6 +9,7 @@ journal: null
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "openalex-doi: dissertation"
+study_type: "original-research"
 publication_type: "dissertation"
 language: "en"
 keywords:
@@ -50,6 +51,10 @@ prisma:
       - "s2:74fc2d2cb0f80bb4fea553a6ee5d39ff6526a067"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

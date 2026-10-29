@@ -8,6 +8,7 @@ journal: "White Rose eTheses Online (University of Leeds, The University of Shef
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "openalex: dissertation"
+study_type: "original-research"
 publication_type: "dissertation"
 language: "en"
 keywords:
@@ -46,6 +47,10 @@ prisma:
       - "s2:2f99e54d696514ac5f9ecd85f199c3d55d6c5365"
     keyword_check: "confirmed"
     duplicates_merged: 1
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

@@ -2,8 +2,10 @@
 
     python3 -m litreview.export
 
-One file per confirmed work, named "<title>.md": peer-reviewed works in
-articles/peer_reviewed/, all others directly in articles/. The YAML front
+One file per confirmed work, named "<title>.md": the works that meet the
+eligibility criteria (common.eligibility) in articles/selected/, all others
+directly in articles/ (litreview.prisma keeps selected/ in sync with the
+reviewers' decisions). The YAML front
 matter holds bibliographic metadata, the PRISMA identification trail and empty
 screening fields for the reviewers; the body is the abstract.
 
@@ -19,7 +21,7 @@ import re
 import shutil
 import unicodedata
 
-from .common import DATA, ROOT, get_json, qs
+from .common import DATA, MIN_YEAR, ROOT, eligibility, get_json, qs
 from .literature import RAW, SOURCES
 
 OUT = ROOT / "articles"
@@ -162,6 +164,35 @@ def classify(group, extra=None):
     return kind, kind in ("journal-article", "review"), basis
 
 
+# --- study type (PRISMA identification breakdown) --------------------------
+# Heuristic on publication types, titles and venues of every record of the work.
+META = re.compile(r"meta-?analy[sz]", re.I)
+SYSTEMATIC = re.compile(r"systematic (literature )?review|scoping review|umbrella review|revis[aã]o sistem", re.I)
+# "Methods in Enzymology" is a series of review chapters, not a methods venue.
+METHODS_VENUE = re.compile(r"\bmethods?\b(?! in enzymology)|protocols?\b|visualized experiments|\bjove\b", re.I)
+METHODS_TITLE = re.compile(r"\b(methodolog\w*|step-by-step|(a|new|novel) (method|technique|tool|approach) "
+                           r"(for|to))\b|^(a )?protocol\b", re.I)
+NON_STUDY = ("editorial-or-news", "book", "other", "unknown")
+
+
+def study_type(doc_type, group):
+    """meta-analysis | systematic-review | review | methodology | original-research | other."""
+    pts = " ; ".join(r.get("pubtype") or "" for r in group)
+    titles = " ".join(r.get("title") or "" for r in group)
+    venues = " ".join(r.get("journal") or "" for r in group)
+    if "Meta-Analysis" in pts or META.search(titles):
+        return "meta-analysis"
+    if "Systematic Review" in pts or SYSTEMATIC.search(titles):
+        return "systematic-review"
+    if doc_type == "review":
+        return "review"
+    if doc_type in NON_STUDY:
+        return "other"
+    if "methods-article" in pts or METHODS_VENUE.search(venues) or METHODS_TITLE.search(titles):
+        return "methodology"
+    return "original-research"
+
+
 def filename(title, taken, work_id):
     name = unicodedata.normalize("NFC", re.sub(r"<[^>]+>", "", title or work_id))
     name = re.sub(r'[\\/:*?"<>|\x00-\x1f]', "-", name)
@@ -229,10 +260,12 @@ def main():
     oa = openalex_types(lookup)
     for w in works:
         w["doc_type"], w["peer_reviewed"], w["pr_basis"] = classify(w["_group"], oa.get(w["doi"]))
+        w["study_type"] = study_type(w["doc_type"], w["_group"])
+        w["elig"] = eligibility(w["year"], w["peer_reviewed"])
 
     if OUT.exists():
         shutil.rmtree(OUT)
-    (OUT / "peer_reviewed").mkdir(parents=True)
+    (OUT / "selected").mkdir(parents=True)
     taken, index = set(), []
     for w in works:
         fname = filename(w["title"], taken, w["work_id"])
@@ -240,7 +273,7 @@ def main():
             "title": w["title"], "doi": w["doi"], "work_id": w["work_id"],
             "authors": w["authors"], "year": w["year"], "journal": w["journal"],
             "peer_reviewed": w["peer_reviewed"], "document_type": w["doc_type"],
-            "peer_review_basis": w["pr_basis"],
+            "peer_review_basis": w["pr_basis"], "study_type": w["study_type"],
             "publication_type": w["pubtype"], "language": w["lang"], "keywords": w["keywords"],
             "identifiers": {"pmid": w["pmid"], "pmcid": w["pmcid"], "arxiv": w["arxiv"], "openalex": w["openalex"]},
             "other_dois": w["other_dois"],
@@ -252,6 +285,11 @@ def main():
                     "source_records": w["sources"], "keyword_check": "confirmed",
                     "duplicates_merged": len(w["sources"]) - 1,
                 },
+                # automatic criteria; litreview.prisma combines them with the reviewers' decisions
+                "eligibility": {
+                    "criteria": f"year >= {MIN_YEAR} AND peer_reviewed",
+                    "eligible": w["elig"] is None, "reason": w["elig"],
+                },
                 "screening": {
                     "title_abstract": "pending", "title_abstract_reason": None,
                     "full_text": "pending", "full_text_reason": None,
@@ -261,11 +299,12 @@ def main():
             },
         }
         body = w["abstract"] or "_Abstract not available in any source database._"
-        rel = f"peer_reviewed/{fname}" if w["peer_reviewed"] else fname
+        rel = f"selected/{fname}" if w["elig"] is None else fname
         (OUT / rel).write_text(f"---\n{y(meta)}\n---\n\n{body}\n")
         index.append({"work_id": w["work_id"], "file": rel, "doi": w["doi"] or "", "year": w["year"] or "",
                       "has_abstract": int(bool(w["abstract"])), "n_authors": len(w["authors"]),
-                      "peer_reviewed": int(w["peer_reviewed"]), "document_type": w["doc_type"]})
+                      "peer_reviewed": int(w["peer_reviewed"]), "document_type": w["doc_type"],
+                      "study_type": w["study_type"], "eligible": int(w["elig"] is None)})
     with open(DATA / "articles_index.csv", "w", newline="") as f:
         wr = csv.DictWriter(f, fieldnames=list(index[0]))
         wr.writeheader()

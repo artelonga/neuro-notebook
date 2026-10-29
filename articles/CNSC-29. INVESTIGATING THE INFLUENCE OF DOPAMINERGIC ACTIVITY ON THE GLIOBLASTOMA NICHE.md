@@ -15,6 +15,7 @@ journal: "Neuro-Oncology"
 peer_reviewed: false
 document_type: "conference-abstract"
 peer_review_basis: "openalex-doi: meeting abstract (10.1093/neuonc/noac209.110)"
+study_type: "original-research"
 publication_type: null
 language: null
 keywords: []
@@ -37,6 +38,10 @@ prisma:
       - "s2:a6875a61ffe974a23b1962a4664a7c36924a12bc"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "not_peer_reviewed"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null

@@ -9,6 +9,7 @@ journal: "University of Newcastle upon Tyne"
 peer_reviewed: false
 document_type: "thesis"
 peer_review_basis: "epmc: [ETH] Dissertation"
+study_type: "original-research"
 publication_type: "[ETH] Dissertation"
 language: "eng"
 keywords: []
@@ -31,6 +32,10 @@ prisma:
       - "epmc:ETH:765371"
     keyword_check: "confirmed"
     duplicates_merged: 0
+  eligibility:
+    criteria: "year >= 2020 AND peer_reviewed"
+    eligible: false
+    reason: "before_min_year"
   screening:
     title_abstract: "pending"
     title_abstract_reason: null
