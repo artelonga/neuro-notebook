@@ -8,7 +8,7 @@ import csv
 import json
 from collections import Counter
 
-from .common import DATA, ROOT
+from .common import DATA, MIN_YEAR, ROOT
 from .literature import SOURCES
 from .trials import REGISTRIES, TRIAL_TERMS
 
@@ -57,6 +57,62 @@ def table(rows, cols, header=None):
     out = ["| " + " | ".join(header or cols) + " |", "|" + "---|" * len(cols)]
     out += ["| " + " | ".join(str(r.get(c, "")) for c in cols) + " |" for r in rows]
     return "\n".join(out)
+
+
+def prisma_section(p):
+    """PRISMA 2020 flow (data/prisma.json, written by litreview.prisma)."""
+    idn, rm, sc, inc, rg = (p["identification"], p["removed_before_screening"], p["screening"],
+                            p["included"], p["registers"])
+    reasons = {"before_min_year": f"publicados antes de {MIN_YEAR}",
+               "year_unknown": "ano desconhecido", "not_peer_reviewed": "sem revisão por pares"}
+    types = {"original-research": "pesquisa original", "review": "revisão", "systematic-review": "revisão sistemática",
+             "meta-analysis": "meta-análise", "methodology": "metodologia", "other": "outros"}
+    L = ["## Fluxo PRISMA 2020 e seleção final\n",
+         "Gerado por `python3 -m litreview.prisma`, que segue o modelo do PRISMA 2020 para revisões novas com bases, "
+         "registros e outras fontes. Diagrama: `data/prisma_flow.svg` (inglês: `data/prisma_flow.en.svg`); "
+         "todos os n: `data/prisma.json`; etapa em que cada trabalho saiu do fluxo: `data/prisma_works.csv`; "
+         "**seleção final: `data/included.csv`**.\n",
+         "![Fluxo PRISMA 2020](data/prisma_flow.svg)\n"]
+    steps = [
+        ("Identificação", "Registros identificados nas bases", idn["records"]),
+        ("", "Duplicados removidos", rm["duplicates"]),
+        ("", "Inelegíveis pela reverificação automática de palavras-chave", rm["automation_ineligible"]),
+        ("", "Removidos por outros motivos (sem resumo em nenhuma fonte)", rm["other_reasons_no_abstract"]),
+        ("Triagem", "Registros triados (título/resumo)", sc["records_screened"]),
+        ("", "Excluídos na triagem de título/resumo", sc["records_excluded"]),
+        ("", "Relatos buscados para recuperação", sc["reports_sought"]),
+        ("", "Relatos não recuperados", sc["reports_not_retrieved"]),
+        ("Elegibilidade", "Relatos avaliados quanto à elegibilidade", sc["reports_assessed"]),
+    ] + [("", f"Excluídos: {reasons.get(k, k)}", v) for k, v in sc["reports_excluded_reasons"].items()] + [
+        ("Incluídos", "**Novos estudos incluídos na revisão**", inc["studies"]),
+        ("", "Relatos (versões) desses estudos", inc["reports"]),
+    ]
+    L.append(table([{"e": a, "s": b, "n": f"**{num(c)}**" if a == "Incluídos" and "**" in b else num(c)}
+                    for a, b, c in steps], ["e", "s", "n"], ["Etapa", "Passo", "n"]))
+    L.append("")
+    L.append(f"Critérios de elegibilidade, aplicados nesta ordem (cada trabalho é contado uma vez, pelo primeiro "
+             f"critério que não cumpre): (1) publicado em {MIN_YEAR} ou depois; (2) com revisão por pares "
+             f"(`peer_reviewed: true`, artigo de periódico ou revisão). "
+             f"{num(sc['excluded_for_both_year_and_peer_review'])} trabalhos falham nos dois.\n")
+    L.append("Seleção final por tipo de estudo: " + ", ".join(
+        f"{types[k]}: {num(v)}" for k, v in inc["by_study_type"].items() if v) + ". Por ano: " + ", ".join(
+        f"{y}: {num(v)}" for y, v in inc["by_year"].items()) + ".\n")
+    L.append(f"**Atenção:** a triagem humana ainda não começou ({num(sc['title_abstract_pending'])} pendentes na "
+             f"triagem de título/resumo, {num(sc['full_text_pending'])} na leitura do texto completo). Os "
+             f"{num(inc['studies'])} incluídos são os que passam nos critérios automáticos. As decisões dos "
+             "revisores são lidas dos campos `prisma.screening` de `articles/*.md` e atualizam o fluxo na próxima "
+             "execução.\n")
+    L.append("Diferenças em relação ao modelo: Google Scholar e ScienceDirect não foram buscados (o Google Scholar "
+             "não é reprodutível e o ScienceDirect é coberto pelo Scopus); as bases manuais "
+             f"({idn['databases_not_searched']['manual (queries ready in RELATORIO.md)']}) e a busca por citações "
+             "ainda não foram feitas (n = 0 em \"outros métodos\"). A classificação por tipo de estudo é "
+             "heurística (tipos de publicação do PubMed/Europe PMC, título e veículo; `study_type` no cabeçalho "
+             "de cada artigo).\n")
+    L.append(f"Registros de ensaios (fluxo próprio, qualquer uso de optogenética): {num(rg['records'])} registros "
+             f"triados → {num(rg['excluded'])} excluídos → {num(rg['included_records'])} incluídos → "
+             f"{num(rg['same_trial_duplicates'])} registros duplicados do mesmo ensaio → "
+             f"**{num(rg['included_trials'])} ensaios distintos**, {num(rg['included_trials_ad_pd'])} em DA/DP.\n")
+    return L
 
 
 def main():
@@ -135,17 +191,9 @@ def main():
     hdr = overlap[0]
     L.append(table([dict(zip(hdr, [r[0]] + [num(x) for x in r[1:]])) for r in overlap[1:]], hdr, [""] + hdr[1:]))
     L.append("")
-    L.append("### Fluxo (PRISMA 2020, etapa de identificação)\n")
-    L.append("```")
-    L.append(f"Registros identificados nas bases                n = {num(n_rec)}")
-    for c in counts[:-1]:
-        L.append(f"  {c['database']:<46} n = {num(c['retrieved'])}")
-    L.append(f"Registros duplicados removidos                   n = {num(n_rec - n_works)}")
-    L.append(f"Trabalhos únicos triados (palavras-chave)        n = {num(n_works)}")
-    L.append(f"  excluídos: conceito ausente em TI/AB/KW        n = {num(tot['rejected'])}")
-    L.append(f"  aguardando conferência manual: sem resumo      n = {num(tot['unverifiable'])}")
-    L.append(f"Trabalhos que atendem à regra de inclusão        n = {num(tot['confirmed'])}")
-    L.append("```\n")
+    pr_path = DATA / "prisma.json"
+    if pr_path.exists():
+        L += prisma_section(json.loads(pr_path.read_text()))
     yrs = Counter(w["year"] for w in conf if w["year"])
     L.append("Trabalhos confirmados por ano: " + ", ".join(f"{y}: {num(yrs[y])}" for y in sorted(yrs)) + "\n")
 
@@ -174,8 +222,8 @@ def main():
         L.append("## Base de artigos e revisão por pares\n")
         L.append(f"`articles/` tem um arquivo Markdown para cada trabalho confirmado ({num(n)}): cabeçalho YAML "
                  f"(título, DOI, autores, identificadores, trilha de identificação PRISMA e campos de triagem "
-                 f"ainda vazios) e o resumo como corpo. Os trabalhos com revisão por pares ficam em "
-                 f"`articles/peer_reviewed/`; os demais ficam direto em `articles/`. Índice: "
+                 f"ainda vazios) e o resumo como corpo. A seleção final do fluxo PRISMA fica em "
+                 f"`articles/selected/`; os demais ficam direto em `articles/`. Índice: "
                  f"`data/articles_index.csv`. {num(sum(int(r['has_abstract']) for r in idx))} têm resumo e "
                  f"{num(sum(1 for r in idx if r['doi']))} têm DOI.\n")
         L.append(f"**{num(pr)} dos {num(n)} trabalhos ({pr / n:.0%}) passaram por revisão por pares** "

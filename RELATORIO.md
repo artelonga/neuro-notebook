@@ -45,22 +45,38 @@ As versões preprint e de periódico do mesmo estudo contam como um só trabalho
 | doaj | 29 | 29 | 23 | 30 | 33 | 0 |
 | arxiv | 3 | 3 | 1 | 6 | 0 | 6 |
 
-### Fluxo (PRISMA 2020, etapa de identificação)
+## Fluxo PRISMA 2020 e seleção final
 
-```
-Registros identificados nas bases                n = 2.167
-  PubMed / MEDLINE                               n = 486
-  Europe PMC (incl. preprints)                   n = 589
-  OpenAlex                                       n = 267
-  Semantic Scholar                               n = 786
-  DOAJ                                           n = 33
-  arXiv                                          n = 6
-Registros duplicados removidos                   n = 1.190
-Trabalhos únicos triados (palavras-chave)        n = 977
-  excluídos: conceito ausente em TI/AB/KW        n = 45
-  aguardando conferência manual: sem resumo      n = 131
-Trabalhos que atendem à regra de inclusão        n = 801
-```
+Gerado por `python3 -m litreview.prisma`, que segue o modelo do PRISMA 2020 para revisões novas com bases, registros e outras fontes. Diagrama: `data/prisma_flow.svg` (inglês: `data/prisma_flow.en.svg`); todos os n: `data/prisma.json`; etapa em que cada trabalho saiu do fluxo: `data/prisma_works.csv`; **seleção final: `data/included.csv`**.
+
+![Fluxo PRISMA 2020](data/prisma_flow.svg)
+
+| Etapa | Passo | n |
+|---|---|---|
+| Identificação | Registros identificados nas bases | 2.167 |
+|  | Duplicados removidos | 1.190 |
+|  | Inelegíveis pela reverificação automática de palavras-chave | 45 |
+|  | Removidos por outros motivos (sem resumo em nenhuma fonte) | 131 |
+| Triagem | Registros triados (título/resumo) | 801 |
+|  | Excluídos na triagem de título/resumo | 0 |
+|  | Relatos buscados para recuperação | 801 |
+|  | Relatos não recuperados | 0 |
+| Elegibilidade | Relatos avaliados quanto à elegibilidade | 801 |
+|  | Excluídos: publicados antes de 2020 | 299 |
+|  | Excluídos: ano desconhecido | 5 |
+|  | Excluídos: sem revisão por pares | 127 |
+| Incluídos | **Novos estudos incluídos na revisão** | **370** |
+|  | Relatos (versões) desses estudos | 406 |
+
+Critérios de elegibilidade, aplicados nesta ordem (cada trabalho é contado uma vez, pelo primeiro critério que não cumpre): (1) publicado em 2020 ou depois; (2) com revisão por pares (`peer_reviewed: true`, artigo de periódico ou revisão). 87 trabalhos falham nos dois.
+
+Seleção final por tipo de estudo: pesquisa original: 288, revisão: 72, revisão sistemática: 2, metodologia: 8. Por ano: 2020: 45, 2021: 48, 2022: 49, 2023: 52, 2024: 65, 2025: 60, 2026: 51.
+
+**Atenção:** a triagem humana ainda não começou (801 pendentes na triagem de título/resumo, 370 na leitura do texto completo). Os 370 incluídos são os que passam nos critérios automáticos. As decisões dos revisores são lidas dos campos `prisma.screening` de `articles/*.md` e atualizam o fluxo na próxima execução.
+
+Diferenças em relação ao modelo: Google Scholar e ScienceDirect não foram buscados (o Google Scholar não é reprodutível e o ScienceDirect é coberto pelo Scopus); as bases manuais (Scopus, Web of Science, Embase, LILACS/BVS, CNKI, CiNii) e a busca por citações ainda não foram feitas (n = 0 em "outros métodos"). A classificação por tipo de estudo é heurística (tipos de publicação do PubMed/Europe PMC, título e veículo; `study_type` no cabeçalho de cada artigo).
+
+Registros de ensaios (fluxo próprio, qualquer uso de optogenética): 58 registros triados → 40 excluídos → 18 incluídos → 5 registros duplicados do mesmo ensaio → **13 ensaios distintos**, 0 em DA/DP.
 
 Trabalhos confirmados por ano: 2009: 4, 2010: 3, 2011: 8, 2012: 15, 2013: 15, 2014: 28, 2015: 34, 2016: 44, 2017: 36, 2018: 50, 2019: 62, 2020: 58, 2021: 69, 2022: 64, 2023: 68, 2024: 81, 2025: 78, 2026: 79
 
@@ -119,7 +135,7 @@ Faça estas buscas manualmente, exporte os resultados em RIS/CSV para `data/manu
 
 ## Base de artigos e revisão por pares
 
-`articles/` tem um arquivo Markdown para cada trabalho confirmado (801): cabeçalho YAML (título, DOI, autores, identificadores, trilha de identificação PRISMA e campos de triagem ainda vazios) e o resumo como corpo. Os trabalhos com revisão por pares ficam em `articles/peer_reviewed/`; os demais ficam direto em `articles/`. Índice: `data/articles_index.csv`. 761 têm resumo e 750 têm DOI.
+`articles/` tem um arquivo Markdown para cada trabalho confirmado (801): cabeçalho YAML (título, DOI, autores, identificadores, trilha de identificação PRISMA e campos de triagem ainda vazios) e o resumo como corpo. A seleção final do fluxo PRISMA fica em `articles/selected/`; os demais ficam direto em `articles/`. Índice: `data/articles_index.csv`. 761 têm resumo e 750 têm DOI.
 
 **582 dos 801 trabalhos (73%) passaram por revisão por pares** (`peer_reviewed: true`).
 
