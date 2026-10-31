@@ -8,4 +8,8 @@ python3 -m litreview.dedup
 python3 -m litreview.export
 python3 -m litreview.trials "$@"
 python3 -m litreview.prisma
+# export rebuilt articles/: link them again to topics and glossary (needs topicos/ outputs)
+if [ -f data/topicos/notes_index.json ]; then
+  for c in todos selecionados nao-selecionados; do python3 -m litreview.vincular --conjunto "$c"; done
+fi
 python3 -m litreview.report
