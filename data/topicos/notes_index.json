@@ -1,0 +1,2422 @@
+{
+ "topics": {
+  "0": {
+   "note": "grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos",
+   "label": "Circuitos estriatais dopaminérgicos e colinérgicos"
+  },
+  "1": {
+   "note": "grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base",
+   "label": "Globo pálido e circuitos dos gânglios da base"
+  },
+  "2": {
+   "note": "grafo/topicos/T02 Recuperação de memória hipocampal",
+   "label": "Recuperação de memória hipocampal"
+  },
+  "3": {
+   "note": "grafo/topicos/T03 Astrócitos, amiloide e neuroproteção",
+   "label": "Astrócitos, amiloide e neuroproteção"
+  },
+  "4": {
+   "note": "grafo/topicos/T04 Estimulação cerebral profunda",
+   "label": "Estimulação cerebral profunda"
+  },
+  "5": {
+   "note": "grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas",
+   "label": "Panoramas da optogenética em doenças neurológicas"
+  },
+  "6": {
+   "note": "grafo/topicos/T06 Agregação e patologia da tau",
+   "label": "Agregação e patologia da tau"
+  },
+  "7": {
+   "note": "grafo/topicos/T07 Oscilações gama e sono",
+   "label": "Oscilações gama e sono"
+  },
+  "8": {
+   "note": "grafo/topicos/T08 Modulação do núcleo subtalâmico",
+   "label": "Modulação do núcleo subtalâmico"
+  },
+  "9": {
+   "note": "grafo/topicos/T09 Circuitos dopaminérgicos motores",
+   "label": "Circuitos dopaminérgicos motores"
+  },
+  "10": {
+   "note": "grafo/topicos/T10 Dispositivos fotônicos para neuromodulação",
+   "label": "Dispositivos fotônicos para neuromodulação"
+  },
+  "11": {
+   "note": "grafo/topicos/T11 Ferramentas, implantes e vetores",
+   "label": "Ferramentas, implantes e vetores"
+  },
+  "12": {
+   "note": "grafo/topicos/T12 Gânglios da base e comportamento motor",
+   "label": "Gânglios da base e comportamento motor"
+  },
+  "13": {
+   "note": "grafo/topicos/T13 Agregação de alfa-sinucleína",
+   "label": "Agregação de alfa-sinucleína"
+  },
+  "14": {
+   "note": "grafo/topicos/T14 Terapia celular com células-tronco",
+   "label": "Terapia celular com células-tronco"
+  },
+  "15": {
+   "note": "grafo/topicos/T15 Discinesia induzida por levodopa",
+   "label": "Discinesia induzida por levodopa"
+  },
+  "16": {
+   "note": "grafo/topicos/T16 Disfunção dopaminérgica e sintomas motores",
+   "label": "Disfunção dopaminérgica e sintomas motores"
+  },
+  "17": {
+   "note": "grafo/topicos/T17 Dor e nocicepção",
+   "label": "Dor e nocicepção"
+  },
+  "18": {
+   "note": "grafo/topicos/T18 Região locomotora mesencefálica",
+   "label": "Região locomotora mesencefálica"
+  },
+  "19": {
+   "note": "grafo/topicos/T19 Neurônios colinérgicos do prosencéfalo basal",
+   "label": "Neurônios colinérgicos do prosencéfalo basal"
+  }
+ },
+ "terms": {
+  "deep brain stimulation": {
+   "note": "grafo/termos/deep brain stimulation",
+   "label": "deep brain stimulation"
+  },
+  "basal ganglia": {
+   "note": "grafo/termos/basal ganglia",
+   "label": "basal ganglia"
+  },
+  "subthalamic nucleu": {
+   "note": "grafo/termos/subthalamic nucleus",
+   "label": "subthalamic nucleus"
+  },
+  "neural circuit": {
+   "note": "grafo/termos/neural circuits",
+   "label": "neural circuits"
+  },
+  "dopaminergic neuron": {
+   "note": "grafo/termos/dopaminergic neurons",
+   "label": "dopaminergic neurons"
+  },
+  "striatum": {
+   "note": "grafo/termos/striatum",
+   "label": "striatum"
+  },
+  "dopamine": {
+   "note": "grafo/termos/dopamine",
+   "label": "dopamine"
+  },
+  "substantia nigra": {
+   "note": "grafo/termos/substantia nigra",
+   "label": "substantia nigra"
+  },
+  "brain stimulation": {
+   "note": "grafo/termos/brain stimulation",
+   "label": "brain stimulation"
+  },
+  "synaptic plasticity": {
+   "note": "grafo/termos/synaptic plasticity",
+   "label": "synaptic plasticity"
+  },
+  "neuronal activity": {
+   "note": "grafo/termos/neuronal activity",
+   "label": "neuronal activity"
+  },
+  "neurodegenerative disorder": {
+   "note": "grafo/termos/neurodegenerative disorders",
+   "label": "neurodegenerative disorders"
+  },
+  "medium spiny neuron": {
+   "note": "grafo/termos/medium spiny neurons",
+   "label": "medium spiny neurons"
+  },
+  "neuromodulation": {
+   "note": "grafo/termos/neuromodulation",
+   "label": "neuromodulation"
+  },
+  "motor symptom": {
+   "note": "grafo/termos/motor symptoms",
+   "label": "motor symptoms"
+  },
+  "neurological disorder": {
+   "note": "grafo/termos/neurological disorders",
+   "label": "neurological disorders"
+  },
+  "dopamine depletion": {
+   "note": "grafo/termos/dopamine depletion",
+   "label": "dopamine depletion"
+  },
+  "neurodegeneration": {
+   "note": "grafo/termos/neurodegeneration",
+   "label": "neurodegeneration"
+  },
+  "motor cortex": {
+   "note": "grafo/termos/motor cortex",
+   "label": "motor cortex"
+  },
+  "dopamine release": {
+   "note": "grafo/termos/dopamine release",
+   "label": "dopamine release"
+  },
+  "movement disorder": {
+   "note": "grafo/termos/movement disorders",
+   "label": "movement disorders"
+  },
+  "neural activity": {
+   "note": "grafo/termos/neural activity",
+   "label": "neural activity"
+  },
+  "brain function": {
+   "note": "grafo/termos/brain function",
+   "label": "brain function"
+  },
+  "indirect pathway": {
+   "note": "grafo/termos/indirect pathway",
+   "label": "indirect pathway"
+  },
+  "channelrhodopsin-2": {
+   "note": "grafo/termos/channelrhodopsin-2",
+   "label": "channelrhodopsin-2"
+  },
+  "chemogenetic": {
+   "note": "grafo/termos/chemogenetics",
+   "label": "chemogenetics"
+  },
+  "calcium imaging": {
+   "note": "grafo/termos/calcium imaging",
+   "label": "calcium imaging"
+  },
+  "synaptic transmission": {
+   "note": "grafo/termos/synaptic transmission",
+   "label": "synaptic transmission"
+  },
+  "globus pallidu": {
+   "note": "grafo/termos/globus pallidus",
+   "label": "globus pallidus"
+  },
+  "motor control": {
+   "note": "grafo/termos/motor control",
+   "label": "motor control"
+  },
+  "dopamine neuron": {
+   "note": "grafo/termos/dopamine neurons",
+   "label": "dopamine neurons"
+  },
+  "memory impairment": {
+   "note": "grafo/termos/memory impairment",
+   "label": "memory impairment"
+  },
+  "levodopa-induced dyskinesia": {
+   "note": "grafo/termos/levodopa-induced dyskinesia",
+   "label": "levodopa-induced dyskinesia"
+  },
+  "striatal cholinergic interneuron": {
+   "note": "grafo/termos/striatal cholinergic interneurons",
+   "label": "striatal cholinergic interneurons"
+  },
+  "gene therapy": {
+   "note": "grafo/termos/gene therapy",
+   "label": "gene therapy"
+  },
+  "long-term potentiation": {
+   "note": "grafo/termos/long-term potentiation",
+   "label": "long-term potentiation"
+  },
+  "neuropsychiatric disorder": {
+   "note": "grafo/termos/neuropsychiatric disorders",
+   "label": "neuropsychiatric disorders"
+  },
+  "beta oscillation": {
+   "note": "grafo/termos/beta oscillations",
+   "label": "beta oscillations"
+  },
+  "motor deficit": {
+   "note": "grafo/termos/motor deficits",
+   "label": "motor deficits"
+  },
+  "cognitive function": {
+   "note": "grafo/termos/cognitive function",
+   "label": "cognitive function"
+  },
+  "hippocampu": {
+   "note": "grafo/termos/hippocampus",
+   "label": "hippocampus"
+  },
+  "dopamine receptor": {
+   "note": "grafo/termos/dopamine receptors",
+   "label": "dopamine receptors"
+  },
+  "depression": {
+   "note": "grafo/termos/depression",
+   "label": "depression"
+  },
+  "oxidative stress": {
+   "note": "grafo/termos/oxidative stress",
+   "label": "oxidative stress"
+  },
+  "6-hydroxydopamine": {
+   "note": "grafo/termos/6-hydroxydopamine",
+   "label": "6-hydroxydopamine"
+  },
+  "memory deficit": {
+   "note": "grafo/termos/memory deficits",
+   "label": "memory deficits"
+  },
+  "gabaergic neuron": {
+   "note": "grafo/termos/gabaergic neurons",
+   "label": "gabaergic neurons"
+  },
+  "parkinsonism": {
+   "note": "grafo/termos/parkinsonism",
+   "label": "parkinsonism"
+  },
+  "basal ganglia circuitry": {
+   "note": "grafo/termos/basal ganglia circuitry",
+   "label": "basal ganglia circuitry"
+  },
+  "astrocyte": {
+   "note": "grafo/termos/astrocytes",
+   "label": "astrocytes"
+  },
+  "central nervou": {
+   "note": "grafo/termos/central nervous",
+   "label": "central nervous"
+  },
+  "light stimulation": {
+   "note": "grafo/termos/light stimulation",
+   "label": "light stimulation"
+  },
+  "rodent model": {
+   "note": "grafo/termos/rodent models",
+   "label": "rodent models"
+  },
+  "motor impairment": {
+   "note": "grafo/termos/motor impairment",
+   "label": "motor impairment"
+  },
+  "striatal neuron": {
+   "note": "grafo/termos/striatal neurons",
+   "label": "striatal neurons"
+  },
+  "optical stimulation": {
+   "note": "grafo/termos/optical stimulation",
+   "label": "optical stimulation"
+  },
+  "protein aggregation": {
+   "note": "grafo/termos/protein aggregation",
+   "label": "protein aggregation"
+  },
+  "globus pallidus externu": {
+   "note": "grafo/termos/globus pallidus externus",
+   "label": "globus pallidus externus"
+  },
+  "mechanisms underlying": {
+   "note": "grafo/termos/mechanisms underlying",
+   "label": "mechanisms underlying"
+  },
+  "ion channel": {
+   "note": "grafo/termos/ion channels",
+   "label": "ion channels"
+  },
+  "cholinergic interneuron": {
+   "note": "grafo/termos/cholinergic interneurons",
+   "label": "cholinergic interneurons"
+  },
+  "rat model": {
+   "note": "grafo/termos/rat model",
+   "label": "rat model"
+  },
+  "gamma oscillation": {
+   "note": "grafo/termos/gamma oscillations",
+   "label": "gamma oscillations"
+  },
+  "cognitive decline": {
+   "note": "grafo/termos/cognitive decline",
+   "label": "cognitive decline"
+  },
+  "cognitive impairment": {
+   "note": "grafo/termos/cognitive impairment",
+   "label": "cognitive impairment"
+  },
+  "6-hydroxydopamine lesion": {
+   "note": "grafo/termos/6-hydroxydopamine lesion",
+   "label": "6-hydroxydopamine lesion"
+  },
+  "therapeutic target": {
+   "note": "grafo/termos/therapeutic target",
+   "label": "therapeutic target"
+  },
+  "parvalbumin interneuron": {
+   "note": "grafo/termos/parvalbumin interneurons",
+   "label": "parvalbumin interneurons"
+  },
+  "prefrontal cortex": {
+   "note": "grafo/termos/prefrontal cortex",
+   "label": "prefrontal cortex"
+  },
+  "dentate gyru": {
+   "note": "grafo/termos/dentate gyrus",
+   "label": "dentate gyrus"
+  },
+  "functional connectivity": {
+   "note": "grafo/termos/functional connectivity",
+   "label": "functional connectivity"
+  },
+  "pyramidal neuron": {
+   "note": "grafo/termos/pyramidal neurons",
+   "label": "pyramidal neurons"
+  },
+  "clinical trial": {
+   "note": "grafo/termos/clinical trials",
+   "label": "clinical trials"
+  },
+  "epilepsy": {
+   "note": "grafo/termos/epilepsy",
+   "label": "epilepsy"
+  },
+  "dorsal striatum": {
+   "note": "grafo/termos/dorsal striatum",
+   "label": "dorsal striatum"
+  },
+  "nmda receptor": {
+   "note": "grafo/termos/nmda receptor",
+   "label": "nmda receptor"
+  },
+  "adeno-associated viru": {
+   "note": "grafo/termos/adeno-associated virus",
+   "label": "adeno-associated virus"
+  },
+  "glutamatergic neuron": {
+   "note": "grafo/termos/glutamatergic neurons",
+   "label": "glutamatergic neurons"
+  },
+  "molecular mechanism": {
+   "note": "grafo/termos/molecular mechanisms",
+   "label": "molecular mechanisms"
+  },
+  "electrophysiology": {
+   "note": "grafo/termos/electrophysiology",
+   "label": "electrophysiology"
+  },
+  "neuronal circuit": {
+   "note": "grafo/termos/neuronal circuits",
+   "label": "neuronal circuits"
+  },
+  "striatal cholinergic": {
+   "note": "grafo/termos/striatal cholinergic",
+   "label": "striatal cholinergic"
+  },
+  "gene expression": {
+   "note": "grafo/termos/gene expression",
+   "label": "gene expression"
+  },
+  "l-dopa-induced dyskinesia": {
+   "note": "grafo/termos/l-dopa-induced dyskinesia",
+   "label": "l-dopa-induced dyskinesia"
+  },
+  "nucleus accumben": {
+   "note": "grafo/termos/nucleus accumbens",
+   "label": "nucleus accumbens"
+  },
+  "synuclein aggregation": {
+   "note": "grafo/termos/synuclein aggregation",
+   "label": "synuclein aggregation"
+  },
+  "memory formation": {
+   "note": "grafo/termos/memory formation",
+   "label": "memory formation"
+  },
+  "acetylcholine": {
+   "note": "grafo/termos/acetylcholine",
+   "label": "acetylcholine"
+  },
+  "basal forebrain": {
+   "note": "grafo/termos/basal forebrain",
+   "label": "basal forebrain"
+  },
+  "amyotrophic lateral sclerosi": {
+   "note": "grafo/termos/amyotrophic lateral sclerosis",
+   "label": "amyotrophic lateral sclerosis"
+  },
+  "locus coeruleu": {
+   "note": "grafo/termos/locus coeruleus",
+   "label": "locus coeruleus"
+  },
+  "stem cell": {
+   "note": "grafo/termos/stem cells",
+   "label": "stem cells"
+  },
+  "substantia nigra pars compacta": {
+   "note": "grafo/termos/substantia nigra pars compacta",
+   "label": "substantia nigra pars compacta"
+  },
+  "stn neuron": {
+   "note": "grafo/termos/stn neurons",
+   "label": "stn neurons"
+  },
+  "brain region": {
+   "note": "grafo/termos/brain regions",
+   "label": "brain regions"
+  },
+  "thalamu": {
+   "note": "grafo/termos/thalamus",
+   "label": "thalamus"
+  },
+  "gpe neuron": {
+   "note": "grafo/termos/gpe neurons",
+   "label": "gpe neurons"
+  },
+  "external globus pallidu": {
+   "note": "grafo/termos/external globus pallidus",
+   "label": "external globus pallidus"
+  },
+  "gabaergic interneuron": {
+   "note": "grafo/termos/gabaergic interneurons",
+   "label": "gabaergic interneurons"
+  },
+  "ventral tegmental area": {
+   "note": "grafo/termos/ventral tegmental area",
+   "label": "ventral tegmental area"
+  },
+  "neuronal population": {
+   "note": "grafo/termos/neuronal populations",
+   "label": "neuronal populations"
+  },
+  "lewy bodie": {
+   "note": "grafo/termos/lewy bodies",
+   "label": "lewy bodies"
+  },
+  "electrical stimulation": {
+   "note": "grafo/termos/electrical stimulation",
+   "label": "electrical stimulation"
+  },
+  "pedunculopontine nucleu": {
+   "note": "grafo/termos/pedunculopontine nucleus",
+   "label": "pedunculopontine nucleus"
+  },
+  "halorhodopsin": {
+   "note": "grafo/termos/halorhodopsin",
+   "label": "halorhodopsin"
+  },
+  "entorhinal cortex": {
+   "note": "grafo/termos/entorhinal cortex",
+   "label": "entorhinal cortex"
+  },
+  "viral vector": {
+   "note": "grafo/termos/viral vectors",
+   "label": "viral vectors"
+  },
+  "spiny projection neuron": {
+   "note": "grafo/termos/spiny projection neurons",
+   "label": "spiny projection neurons"
+  },
+  "neural stem cell": {
+   "note": "grafo/termos/neural stem cells",
+   "label": "neural stem cells"
+  },
+  "blue light": {
+   "note": "grafo/termos/blue light",
+   "label": "blue light"
+  },
+  "neuroinflammation": {
+   "note": "grafo/termos/neuroinflammation",
+   "label": "neuroinflammation"
+  },
+  "genetically encoded": {
+   "note": "grafo/termos/genetically encoded",
+   "label": "genetically encoded"
+  },
+  "amyloid beta": {
+   "note": "grafo/termos/amyloid beta",
+   "label": "amyloid beta"
+  },
+  "mesencephalic locomotor region": {
+   "note": "grafo/termos/mesencephalic locomotor region",
+   "label": "mesencephalic locomotor region"
+  },
+  "local field potential": {
+   "note": "grafo/termos/local field potentials",
+   "label": "local field potentials"
+  },
+  "locomotion": {
+   "note": "grafo/termos/locomotion",
+   "label": "locomotion"
+  },
+  "cholinergic neuron": {
+   "note": "grafo/termos/cholinergic neurons",
+   "label": "cholinergic neurons"
+  },
+  "spinal cord injury": {
+   "note": "grafo/termos/spinal cord injury",
+   "label": "spinal cord injury"
+  },
+  "memory retrieval": {
+   "note": "grafo/termos/memory retrieval",
+   "label": "memory retrieval"
+  },
+  "memory": {
+   "note": "grafo/termos/memory",
+   "label": "memory"
+  },
+  "brain activity": {
+   "note": "grafo/termos/brain activity",
+   "label": "brain activity"
+  },
+  "essential tremor": {
+   "note": "grafo/termos/essential tremor",
+   "label": "essential tremor"
+  },
+  "psychiatric disorder": {
+   "note": "grafo/termos/psychiatric disorders",
+   "label": "psychiatric disorders"
+  },
+  "brain disorder": {
+   "note": "grafo/termos/brain disorders",
+   "label": "brain disorders"
+  },
+  "therapeutic intervention": {
+   "note": "grafo/termos/therapeutic interventions",
+   "label": "therapeutic interventions"
+  },
+  "signaling pathway": {
+   "note": "grafo/termos/signaling pathways",
+   "label": "signaling pathways"
+  },
+  "chronic pain": {
+   "note": "grafo/termos/chronic pain",
+   "label": "chronic pain"
+  },
+  "fiber photometry": {
+   "note": "grafo/termos/fiber photometry",
+   "label": "fiber photometry"
+  },
+  "globus pallidus internu": {
+   "note": "grafo/termos/globus pallidus internus",
+   "label": "globus pallidus internus"
+  },
+  "primary motor cortex": {
+   "note": "grafo/termos/primary motor cortex",
+   "label": "primary motor cortex"
+  },
+  "dopamine signaling": {
+   "note": "grafo/termos/dopamine signaling",
+   "label": "dopamine signaling"
+  },
+  "computational model": {
+   "note": "grafo/termos/computational model",
+   "label": "computational model"
+  },
+  "neuronal excitability": {
+   "note": "grafo/termos/neuronal excitability",
+   "label": "neuronal excitability"
+  },
+  "striatal dopamine": {
+   "note": "grafo/termos/striatal dopamine",
+   "label": "striatal dopamine"
+  },
+  "nigrostriatal pathway": {
+   "note": "grafo/termos/nigrostriatal pathway",
+   "label": "nigrostriatal pathway"
+  },
+  "long-term depression": {
+   "note": "grafo/termos/long-term depression",
+   "label": "long-term depression"
+  },
+  "substantia nigra pars": {
+   "note": "grafo/termos/substantia nigra pars",
+   "label": "substantia nigra pars"
+  },
+  "channelrhodopsin": {
+   "note": "grafo/termos/channelrhodopsin",
+   "label": "channelrhodopsin"
+  },
+  "memory loss": {
+   "note": "grafo/termos/memory loss",
+   "label": "memory loss"
+  },
+  "dorsolateral striatum": {
+   "note": "grafo/termos/dorsolateral striatum",
+   "label": "dorsolateral striatum"
+  },
+  "clinical application": {
+   "note": "grafo/termos/clinical applications",
+   "label": "clinical applications"
+  },
+  "akinesia": {
+   "note": "grafo/termos/akinesia",
+   "label": "akinesia"
+  },
+  "involuntary movement": {
+   "note": "grafo/termos/involuntary movements",
+   "label": "involuntary movements"
+  },
+  "dopamine d2 receptor": {
+   "note": "grafo/termos/dopamine d2 receptor",
+   "label": "dopamine d2 receptor"
+  },
+  "direct pathway": {
+   "note": "grafo/termos/direct pathway",
+   "label": "direct pathway"
+  },
+  "dyskinesia": {
+   "note": "grafo/termos/dyskinesia",
+   "label": "dyskinesia"
+  },
+  "motor behavior": {
+   "note": "grafo/termos/motor behaviors",
+   "label": "motor behaviors"
+  },
+  "synaptic dysfunction": {
+   "note": "grafo/termos/synaptic dysfunction",
+   "label": "synaptic dysfunction"
+  },
+  "neurotrophic factor": {
+   "note": "grafo/termos/neurotrophic factors",
+   "label": "neurotrophic factors"
+  },
+  "tau aggregation": {
+   "note": "grafo/termos/tau aggregation",
+   "label": "tau aggregation"
+  },
+  "nicotinic acetylcholine receptor": {
+   "note": "grafo/termos/nicotinic acetylcholine receptors",
+   "label": "nicotinic acetylcholine receptors"
+  },
+  "striatal projection neuron": {
+   "note": "grafo/termos/striatal projection neurons",
+   "label": "striatal projection neurons"
+  },
+  "substantia nigra pars reticulata": {
+   "note": "grafo/termos/substantia nigra pars reticulata",
+   "label": "substantia nigra pars reticulata"
+  },
+  "huntington disease": {
+   "note": "grafo/termos/huntington's disease",
+   "label": "huntington's disease"
+  },
+  "neurofibrillary tangle": {
+   "note": "grafo/termos/neurofibrillary tangles",
+   "label": "neurofibrillary tangles"
+  },
+  "tau protein": {
+   "note": "grafo/termos/tau protein",
+   "label": "tau protein"
+  },
+  "chemogenetic inhibition": {
+   "note": "grafo/termos/chemogenetic inhibition",
+   "label": "chemogenetic inhibition"
+  },
+  "pluripotent stem cell": {
+   "note": "grafo/termos/pluripotent stem cells",
+   "label": "pluripotent stem cells"
+  },
+  "remains unclear": {
+   "note": "grafo/termos/remains unclear",
+   "label": "remains unclear"
+  },
+  "neuroprotection": {
+   "note": "grafo/termos/neuroprotection",
+   "label": "neuroprotection"
+  },
+  "tyrosine hydroxylase": {
+   "note": "grafo/termos/tyrosine hydroxylase",
+   "label": "tyrosine hydroxylase"
+  },
+  "firing rate": {
+   "note": "grafo/termos/firing rate",
+   "label": "firing rate"
+  },
+  "brain network": {
+   "note": "grafo/termos/brain network",
+   "label": "brain network"
+  },
+  "non-human primate": {
+   "note": "grafo/termos/non-human primates",
+   "label": "non-human primates"
+  },
+  "closed-loop stimulation": {
+   "note": "grafo/termos/closed-loop stimulation",
+   "label": "closed-loop stimulation"
+  },
+  "tau phosphorylation": {
+   "note": "grafo/termos/tau phosphorylation",
+   "label": "tau phosphorylation"
+  },
+  "spinal cord": {
+   "note": "grafo/termos/spinal cord",
+   "label": "spinal cord"
+  },
+  "optical fiber": {
+   "note": "grafo/termos/optical fibers",
+   "label": "optical fibers"
+  },
+  "brain tissue": {
+   "note": "grafo/termos/brain tissue",
+   "label": "brain tissue"
+  },
+  "dreadd": {
+   "note": "grafo/termos/dreadd",
+   "label": "dreadd"
+  },
+  "multiple sclerosi": {
+   "note": "grafo/termos/multiple sclerosis",
+   "label": "multiple sclerosis"
+  },
+  "dopamine d1 receptor": {
+   "note": "grafo/termos/dopamine d1 receptor",
+   "label": "dopamine d1 receptor"
+  },
+  "brain slice": {
+   "note": "grafo/termos/brain slices",
+   "label": "brain slices"
+  },
+  "parkinsonian motor": {
+   "note": "grafo/termos/parkinsonian motor",
+   "label": "parkinsonian motor"
+  },
+  "entopeduncular nucleu": {
+   "note": "grafo/termos/entopeduncular nucleus",
+   "label": "entopeduncular nucleus"
+  },
+  "tau pathology": {
+   "note": "grafo/termos/tau pathology",
+   "label": "tau pathology"
+  },
+  "parkinsonian condition": {
+   "note": "grafo/termos/parkinsonian conditions",
+   "label": "parkinsonian conditions"
+  },
+  "chemogenetic activation": {
+   "note": "grafo/termos/chemogenetic activation",
+   "label": "chemogenetic activation"
+  },
+  "stem cell therapy": {
+   "note": "grafo/termos/stem cell therapy",
+   "label": "stem cell therapy"
+  },
+  "parkinsonian symptom": {
+   "note": "grafo/termos/parkinsonian symptoms",
+   "label": "parkinsonian symptoms"
+  },
+  "dopamine replacement": {
+   "note": "grafo/termos/dopamine replacement",
+   "label": "dopamine replacement"
+  },
+  "drug discovery": {
+   "note": "grafo/termos/drug discovery",
+   "label": "drug discovery"
+  },
+  "direct and indirect pathway": {
+   "note": "grafo/termos/direct and indirect pathways",
+   "label": "direct and indirect pathways"
+  },
+  "sleep": {
+   "note": "grafo/termos/sleep",
+   "label": "sleep"
+  },
+  "brain circuit": {
+   "note": "grafo/termos/brain circuits",
+   "label": "brain circuits"
+  },
+  "risk factor": {
+   "note": "grafo/termos/risk factor",
+   "label": "risk factor"
+  },
+  "underlying mechanism": {
+   "note": "grafo/termos/underlying mechanisms",
+   "label": "underlying mechanisms"
+  },
+  "neural oscillation": {
+   "note": "grafo/termos/neural oscillations",
+   "label": "neural oscillations"
+  },
+  "alpha-synuclein": {
+   "note": "grafo/termos/alpha-synuclein",
+   "label": "alpha-synuclein"
+  },
+  "neural recording": {
+   "note": "grafo/termos/neural recording",
+   "label": "neural recording"
+  },
+  "motor function": {
+   "note": "grafo/termos/motor function",
+   "label": "motor function"
+  },
+  "amyloid plaque": {
+   "note": "grafo/termos/amyloid plaques",
+   "label": "amyloid plaques"
+  },
+  "drug addiction": {
+   "note": "grafo/termos/drug addiction",
+   "label": "drug addiction"
+  },
+  "levodopa": {
+   "note": "grafo/termos/levodopa",
+   "label": "levodopa"
+  },
+  "neuron activity": {
+   "note": "grafo/termos/neuron activity",
+   "label": "neuron activity"
+  },
+  "transcranial magnetic stimulation": {
+   "note": "grafo/termos/transcranial magnetic stimulation",
+   "label": "transcranial magnetic stimulation"
+  },
+  "dopamine replacement therapy": {
+   "note": "grafo/termos/dopamine replacement therapy",
+   "label": "dopamine replacement therapy"
+  },
+  "light activation": {
+   "note": "grafo/termos/light activation",
+   "label": "light activation"
+  },
+  "glutamatergic synapse": {
+   "note": "grafo/termos/glutamatergic synapses",
+   "label": "glutamatergic synapses"
+  },
+  "glutamate receptor": {
+   "note": "grafo/termos/glutamate receptors",
+   "label": "glutamate receptors"
+  },
+  "hippocampal neuron": {
+   "note": "grafo/termos/hippocampal neurons",
+   "label": "hippocampal neurons"
+  },
+  "α-synuclein": {
+   "note": "grafo/termos/α-synuclein",
+   "label": "α-synuclein"
+  },
+  "receptor activation": {
+   "note": "grafo/termos/receptor activation",
+   "label": "receptor activation"
+  },
+  "anxiety": {
+   "note": "grafo/termos/anxiety",
+   "label": "anxiety"
+  },
+  "hippocampal ca1": {
+   "note": "grafo/termos/hippocampal ca1",
+   "label": "hippocampal ca1"
+  },
+  "synapse": {
+   "note": "grafo/termos/synapse",
+   "label": "synapse"
+  },
+  "brain rhythm": {
+   "note": "grafo/termos/brain rhythms",
+   "label": "brain rhythms"
+  },
+  "gabaergic inhibition": {
+   "note": "grafo/termos/gabaergic inhibition",
+   "label": "gabaergic inhibition"
+  },
+  "engram cell": {
+   "note": "grafo/termos/engram cells",
+   "label": "engram cells"
+  },
+  "blood-brain barrier": {
+   "note": "grafo/termos/blood-brain barrier",
+   "label": "blood-brain barrier"
+  },
+  "amyloid-β": {
+   "note": "grafo/termos/amyloid-β",
+   "label": "amyloid-β"
+  },
+  "nigrostriatal dopamine": {
+   "note": "grafo/termos/nigrostriatal dopamine",
+   "label": "nigrostriatal dopamine"
+  },
+  "gene editing": {
+   "note": "grafo/termos/gene editing",
+   "label": "gene editing"
+  },
+  "slow oscillation": {
+   "note": "grafo/termos/slow oscillations",
+   "label": "slow oscillations"
+  },
+  "caenorhabditis elegan": {
+   "note": "grafo/termos/caenorhabditis elegans",
+   "label": "caenorhabditis elegans"
+  },
+  "light-sensitive protein": {
+   "note": "grafo/termos/light-sensitive proteins",
+   "label": "light-sensitive proteins"
+  },
+  "parkinsonian rats": {
+   "note": "grafo/termos/parkinsonian rats",
+   "label": "parkinsonian rats"
+  },
+  "receptor antagonist": {
+   "note": "grafo/termos/receptor antagonist",
+   "label": "receptor antagonist"
+  },
+  "muscarinic receptor": {
+   "note": "grafo/termos/muscarinic receptors",
+   "label": "muscarinic receptors"
+  },
+  "protein tau": {
+   "note": "grafo/termos/protein tau",
+   "label": "protein tau"
+  },
+  "cortical neuron": {
+   "note": "grafo/termos/cortical neurons",
+   "label": "cortical neurons"
+  },
+  "therapeutic strategie": {
+   "note": "grafo/termos/therapeutic strategies",
+   "label": "therapeutic strategies"
+  },
+  "non-motor symptom": {
+   "note": "grafo/termos/non-motor symptoms",
+   "label": "non-motor symptoms"
+  },
+  "gaba": {
+   "note": "grafo/termos/gaba",
+   "label": "gaba"
+  },
+  "neuronal firing": {
+   "note": "grafo/termos/neuronal firing",
+   "label": "neuronal firing"
+  },
+  "computational modeling": {
+   "note": "grafo/termos/computational modeling",
+   "label": "computational modeling"
+  },
+  "magnetic resonance imaging": {
+   "note": "grafo/termos/magnetic resonance imaging",
+   "label": "magnetic resonance imaging"
+  },
+  "drosophila melanogaster": {
+   "note": "grafo/termos/drosophila melanogaster",
+   "label": "drosophila melanogaster"
+  },
+  "electrophysiological recording": {
+   "note": "grafo/termos/electrophysiological recordings",
+   "label": "electrophysiological recordings"
+  },
+  "therapeutic mechanism": {
+   "note": "grafo/termos/therapeutic mechanisms",
+   "label": "therapeutic mechanisms"
+  },
+  "designer receptor": {
+   "note": "grafo/termos/designer receptors",
+   "label": "designer receptors"
+  },
+  "cholinergic signaling": {
+   "note": "grafo/termos/cholinergic signaling",
+   "label": "cholinergic signaling"
+  },
+  "bradykinesia": {
+   "note": "grafo/termos/bradykinesia",
+   "label": "bradykinesia"
+  },
+  "dystonia": {
+   "note": "grafo/termos/dystonia",
+   "label": "dystonia"
+  },
+  "dopaminergic cell": {
+   "note": "grafo/termos/dopaminergic cells",
+   "label": "dopaminergic cells"
+  },
+  "mammalian brain": {
+   "note": "grafo/termos/mammalian brain",
+   "label": "mammalian brain"
+  },
+  "spatial memory": {
+   "note": "grafo/termos/spatial memory",
+   "label": "spatial memory"
+  },
+  "projection neuron": {
+   "note": "grafo/termos/projection neurons",
+   "label": "projection neurons"
+  },
+  "genetic engineering": {
+   "note": "grafo/termos/genetic engineering",
+   "label": "genetic engineering"
+  },
+  "cell type": {
+   "note": "grafo/termos/cell types",
+   "label": "cell types"
+  },
+  "obsessive-compulsive disorder": {
+   "note": "grafo/termos/obsessive-compulsive disorder",
+   "label": "obsessive-compulsive disorder"
+  },
+  "somatostatin interneuron": {
+   "note": "grafo/termos/somatostatin interneurons",
+   "label": "somatostatin interneurons"
+  },
+  "clinical translation": {
+   "note": "grafo/termos/clinical translation",
+   "label": "clinical translation"
+  },
+  "sleep disorder": {
+   "note": "grafo/termos/sleep disorders",
+   "label": "sleep disorders"
+  },
+  "mood disorder": {
+   "note": "grafo/termos/mood disorders",
+   "label": "mood disorders"
+  },
+  "neurotransmitter system": {
+   "note": "grafo/termos/neurotransmitter systems",
+   "label": "neurotransmitter systems"
+  },
+  "improves motor": {
+   "note": "grafo/termos/improves motor",
+   "label": "improves motor"
+  },
+  "axon terminal": {
+   "note": "grafo/termos/axon terminals",
+   "label": "axon terminals"
+  },
+  "microtubule-associated protein tau": {
+   "note": "grafo/termos/microtubule-associated protein tau",
+   "label": "microtubule-associated protein tau"
+  },
+  "inhibitory interneuron": {
+   "note": "grafo/termos/inhibitory interneurons",
+   "label": "inhibitory interneurons"
+  },
+  "gaba release": {
+   "note": "grafo/termos/gaba release",
+   "label": "gaba release"
+  },
+  "brain area": {
+   "note": "grafo/termos/brain areas",
+   "label": "brain areas"
+  },
+  "therapeutic application": {
+   "note": "grafo/termos/therapeutic applications",
+   "label": "therapeutic applications"
+  },
+  "memory engram": {
+   "note": "grafo/termos/memory engram",
+   "label": "memory engram"
+  },
+  "neuronal loss": {
+   "note": "grafo/termos/neuronal loss",
+   "label": "neuronal loss"
+  },
+  "protein synthesi": {
+   "note": "grafo/termos/protein synthesis",
+   "label": "protein synthesis"
+  },
+  "memory consolidation": {
+   "note": "grafo/termos/memory consolidation",
+   "label": "memory consolidation"
+  },
+  "slow wave": {
+   "note": "grafo/termos/slow waves",
+   "label": "slow waves"
+  },
+  "genetically targeted": {
+   "note": "grafo/termos/genetically targeted",
+   "label": "genetically targeted"
+  },
+  "pars compacta": {
+   "note": "grafo/termos/pars compacta",
+   "label": "pars compacta"
+  },
+  "non-invasive neuromodulation": {
+   "note": "grafo/termos/non-invasive neuromodulation",
+   "label": "non-invasive neuromodulation"
+  },
+  "neural circuitry": {
+   "note": "grafo/termos/neural circuitry",
+   "label": "neural circuitry"
+  },
+  "freely moving": {
+   "note": "grafo/termos/freely moving",
+   "label": "freely moving"
+  },
+  "phase separation": {
+   "note": "grafo/termos/phase separation",
+   "label": "phase separation"
+  },
+  "pathophysiological mechanism": {
+   "note": "grafo/termos/pathophysiological mechanisms",
+   "label": "pathophysiological mechanisms"
+  },
+  "medial prefrontal cortex": {
+   "note": "grafo/termos/medial prefrontal cortex",
+   "label": "medial prefrontal cortex"
+  },
+  "locomotor activity": {
+   "note": "grafo/termos/locomotor activity",
+   "label": "locomotor activity"
+  },
+  "behavioral deficit": {
+   "note": "grafo/termos/behavioral deficits",
+   "label": "behavioral deficits"
+  },
+  "transcription factor": {
+   "note": "grafo/termos/transcription factor",
+   "label": "transcription factor"
+  },
+  "potassium channel": {
+   "note": "grafo/termos/potassium channels",
+   "label": "potassium channels"
+  },
+  "machine learning": {
+   "note": "grafo/termos/machine learning",
+   "label": "machine learning"
+  },
+  "neurodegenerative condition": {
+   "note": "grafo/termos/neurodegenerative conditions",
+   "label": "neurodegenerative conditions"
+  },
+  "brain-computer interface": {
+   "note": "grafo/termos/brain-computer interface",
+   "label": "brain-computer interface"
+  },
+  "locomotor region": {
+   "note": "grafo/termos/locomotor region",
+   "label": "locomotor region"
+  },
+  "therapeutic option": {
+   "note": "grafo/termos/therapeutic option",
+   "label": "therapeutic option"
+  },
+  "autism spectrum disorder": {
+   "note": "grafo/termos/autism spectrum disorder",
+   "label": "autism spectrum disorder"
+  },
+  "unilateral hydroxydopamine": {
+   "note": "grafo/termos/unilateral hydroxydopamine",
+   "label": "unilateral hydroxydopamine"
+  },
+  "early stage": {
+   "note": "grafo/termos/early stages",
+   "label": "early stages"
+  },
+  "inhibitory input": {
+   "note": "grafo/termos/inhibitory input",
+   "label": "inhibitory input"
+  },
+  "drug delivery": {
+   "note": "grafo/termos/drug delivery",
+   "label": "drug delivery"
+  },
+  "better understand": {
+   "note": "grafo/termos/better understand",
+   "label": "better understand"
+  },
+  "basal ganglia output": {
+   "note": "grafo/termos/basal ganglia output",
+   "label": "basal ganglia output"
+  },
+  "stimulation parameter": {
+   "note": "grafo/termos/stimulation parameters",
+   "label": "stimulation parameters"
+  },
+  "cp: neuroscience": {
+   "note": "grafo/termos/cp- neuroscience",
+   "label": "cp: neuroscience"
+  },
+  "common neurodegenerative": {
+   "note": "grafo/termos/common neurodegenerative",
+   "label": "common neurodegenerative"
+  },
+  "cellular model": {
+   "note": "grafo/termos/cellular models",
+   "label": "cellular models"
+  },
+  "glutamate": {
+   "note": "grafo/termos/glutamate",
+   "label": "glutamate"
+  },
+  "locomotor deficit": {
+   "note": "grafo/termos/locomotor deficits",
+   "label": "locomotor deficits"
+  },
+  "specific cell": {
+   "note": "grafo/termos/specific cell",
+   "label": "specific cell"
+  },
+  "spatial resolution": {
+   "note": "grafo/termos/spatial resolution",
+   "label": "spatial resolution"
+  },
+  "hippocampal network": {
+   "note": "grafo/termos/hippocampal network",
+   "label": "hippocampal network"
+  },
+  "brain injury": {
+   "note": "grafo/termos/brain injury",
+   "label": "brain injury"
+  },
+  "treatment option": {
+   "note": "grafo/termos/treatment options",
+   "label": "treatment options"
+  },
+  "midbrain dopamine": {
+   "note": "grafo/termos/midbrain dopamine",
+   "label": "midbrain dopamine"
+  },
+  "temporal control": {
+   "note": "grafo/termos/temporal control",
+   "label": "temporal control"
+  },
+  "neural mechanism": {
+   "note": "grafo/termos/neural mechanisms",
+   "label": "neural mechanisms"
+  },
+  "network dynamic": {
+   "note": "grafo/termos/network dynamics",
+   "label": "network dynamics"
+  },
+  "cell-type specific": {
+   "note": "grafo/termos/cell-type specific",
+   "label": "cell-type specific"
+  },
+  "mechanisms involved": {
+   "note": "grafo/termos/mechanisms involved",
+   "label": "mechanisms involved"
+  },
+  "closed-loop control": {
+   "note": "grafo/termos/closed-loop control",
+   "label": "closed-loop control"
+  },
+  "nociceptive hypersensitivity": {
+   "note": "grafo/termos/nociceptive hypersensitivity",
+   "label": "nociceptive hypersensitivity"
+  },
+  "parkinsonian state": {
+   "note": "grafo/termos/parkinsonian states",
+   "label": "parkinsonian states"
+  },
+  "addiction": {
+   "note": "grafo/termos/addiction",
+   "label": "addiction"
+  },
+  "dendritic spine": {
+   "note": "grafo/termos/dendritic spine",
+   "label": "dendritic spine"
+  },
+  "synaptic protein": {
+   "note": "grafo/termos/synaptic proteins",
+   "label": "synaptic proteins"
+  },
+  "therapeutic relevance": {
+   "note": "grafo/termos/therapeutic relevance",
+   "label": "therapeutic relevance"
+  },
+  "p301s tau": {
+   "note": "grafo/termos/p301s tau",
+   "label": "p301s tau"
+  },
+  "autophagy": {
+   "note": "grafo/termos/autophagy",
+   "label": "autophagy"
+  },
+  "cell therapy": {
+   "note": "grafo/termos/cell therapy",
+   "label": "cell therapy"
+  },
+  "gabaa receptor": {
+   "note": "grafo/termos/gabaa receptor",
+   "label": "gabaa receptor"
+  },
+  "nigra pars reticulata": {
+   "note": "grafo/termos/nigra pars reticulata",
+   "label": "nigra pars reticulata"
+  },
+  "l-dopa treatment": {
+   "note": "grafo/termos/l-dopa treatment",
+   "label": "l-dopa treatment"
+  },
+  "circuit mechanism": {
+   "note": "grafo/termos/circuit mechanisms",
+   "label": "circuit mechanisms"
+  },
+  "synaptic loss": {
+   "note": "grafo/termos/synaptic loss",
+   "label": "synaptic loss"
+  },
+  "dorsomedial striatum": {
+   "note": "grafo/termos/dorsomedial striatum",
+   "label": "dorsomedial striatum"
+  },
+  "cell-type specificity": {
+   "note": "grafo/termos/cell-type specificity",
+   "label": "cell-type specificity"
+  },
+  "basolateral amygdala": {
+   "note": "grafo/termos/basolateral amygdala",
+   "label": "basolateral amygdala"
+  },
+  "focused ultrasound": {
+   "note": "grafo/termos/focused ultrasound",
+   "label": "focused ultrasound"
+  },
+  "frontotemporal dementia": {
+   "note": "grafo/termos/frontotemporal dementia",
+   "label": "frontotemporal dementia"
+  },
+  "tau accumulation": {
+   "note": "grafo/termos/tau accumulation",
+   "label": "tau accumulation"
+  },
+  "neuromodulation technique": {
+   "note": "grafo/termos/neuromodulation techniques",
+   "label": "neuromodulation techniques"
+  },
+  "intrinsic excitability": {
+   "note": "grafo/termos/intrinsic excitability",
+   "label": "intrinsic excitability"
+  },
+  "tau tangle": {
+   "note": "grafo/termos/tau tangles",
+   "label": "tau tangles"
+  },
+  "striatal dopamine release": {
+   "note": "grafo/termos/striatal dopamine release",
+   "label": "striatal dopamine release"
+  },
+  "cellular mechanism": {
+   "note": "grafo/termos/cellular mechanisms",
+   "label": "cellular mechanisms"
+  },
+  "cell biology": {
+   "note": "grafo/termos/cell biology",
+   "label": "cell biology"
+  },
+  "retrosplenial cortex": {
+   "note": "grafo/termos/retrosplenial cortex",
+   "label": "retrosplenial cortex"
+  },
+  "executive function": {
+   "note": "grafo/termos/executive function",
+   "label": "executive function"
+  },
+  "vivo electrophysiology": {
+   "note": "grafo/termos/vivo electrophysiology",
+   "label": "vivo electrophysiology"
+  },
+  "blood flow": {
+   "note": "grafo/termos/blood flow",
+   "label": "blood flow"
+  },
+  "neurovascular coupling": {
+   "note": "grafo/termos/neurovascular coupling",
+   "label": "neurovascular coupling"
+  },
+  "tau oligomerization": {
+   "note": "grafo/termos/tau oligomerization",
+   "label": "tau oligomerization"
+  },
+  "tauopathy": {
+   "note": "grafo/termos/tauopathy",
+   "label": "tauopathy"
+  },
+  "functional magnetic resonance": {
+   "note": "grafo/termos/functional magnetic resonance",
+   "label": "functional magnetic resonance"
+  },
+  "experimental parkinsonism": {
+   "note": "grafo/termos/experimental parkinsonism",
+   "label": "experimental parkinsonism"
+  },
+  "molecular pathway": {
+   "note": "grafo/termos/molecular pathways",
+   "label": "molecular pathways"
+  },
+  "motor coordination": {
+   "note": "grafo/termos/motor coordination",
+   "label": "motor coordination"
+  },
+  "promising therapeutic": {
+   "note": "grafo/termos/promising therapeutic",
+   "label": "promising therapeutic"
+  },
+  "nrem sleep": {
+   "note": "grafo/termos/nrem sleep",
+   "label": "nrem sleep"
+  },
+  "wide range": {
+   "note": "grafo/termos/wide range",
+   "label": "wide range"
+  },
+  "cuneiform nucleu": {
+   "note": "grafo/termos/cuneiform nucleus",
+   "label": "cuneiform nucleus"
+  },
+  "freezing of gait": {
+   "note": "grafo/termos/freezing of gait",
+   "label": "freezing of gait"
+  },
+  "zona incerta": {
+   "note": "grafo/termos/zona incerta",
+   "label": "zona incerta"
+  },
+  "specific cell type": {
+   "note": "grafo/termos/specific cell types",
+   "label": "specific cell types"
+  },
+  "human tau": {
+   "note": "grafo/termos/human tau",
+   "label": "human tau"
+  },
+  "artificial intelligence": {
+   "note": "grafo/termos/artificial intelligence",
+   "label": "artificial intelligence"
+  },
+  "protein kinase": {
+   "note": "grafo/termos/protein kinase",
+   "label": "protein kinase"
+  },
+  "anterior cingulate cortex": {
+   "note": "grafo/termos/anterior cingulate cortex",
+   "label": "anterior cingulate cortex"
+  },
+  "neuronal function": {
+   "note": "grafo/termos/neuronal functions",
+   "label": "neuronal functions"
+  },
+  "inferior colliculu": {
+   "note": "grafo/termos/inferior colliculus",
+   "label": "inferior colliculus"
+  },
+  "therapeutic benefit": {
+   "note": "grafo/termos/therapeutic benefits",
+   "label": "therapeutic benefits"
+  },
+  "progressive neurodegenerative": {
+   "note": "grafo/termos/progressive neurodegenerative",
+   "label": "progressive neurodegenerative"
+  },
+  "specific neuron": {
+   "note": "grafo/termos/specific neurons",
+   "label": "specific neurons"
+  },
+  "therapeutic strategy": {
+   "note": "grafo/termos/therapeutic strategy",
+   "label": "therapeutic strategy"
+  },
+  "syn aggregate": {
+   "note": "grafo/termos/syn aggregates",
+   "label": "syn aggregates"
+  },
+  "midbrain dopaminergic neuron": {
+   "note": "grafo/termos/midbrain dopaminergic neurons",
+   "label": "midbrain dopaminergic neurons"
+  },
+  "stimulation frequency": {
+   "note": "grafo/termos/stimulation frequency",
+   "label": "stimulation frequency"
+  },
+  "tau": {
+   "note": "grafo/termos/tau",
+   "label": "tau"
+  },
+  "water maze": {
+   "note": "grafo/termos/water maze",
+   "label": "water maze"
+  },
+  "neurostimulation": {
+   "note": "grafo/termos/neurostimulation",
+   "label": "neurostimulation"
+  },
+  "stem cell-derived": {
+   "note": "grafo/termos/stem cell-derived",
+   "label": "stem cell-derived"
+  },
+  "tourette syndrome": {
+   "note": "grafo/termos/tourette syndrome",
+   "label": "tourette syndrome"
+  },
+  "neural network": {
+   "note": "grafo/termos/neural network",
+   "label": "neural network"
+  },
+  "globus pallidus externa": {
+   "note": "grafo/termos/globus pallidus externa",
+   "label": "globus pallidus externa"
+  },
+  "cognitive deficit": {
+   "note": "grafo/termos/cognitive deficits",
+   "label": "cognitive deficits"
+  },
+  "action selection": {
+   "note": "grafo/termos/action selection",
+   "label": "action selection"
+  },
+  "basal ganglia circuit": {
+   "note": "grafo/termos/basal ganglia circuit",
+   "label": "basal ganglia circuit"
+  },
+  "inhibitory synaptic": {
+   "note": "grafo/termos/inhibitory synaptic",
+   "label": "inhibitory synaptic"
+  },
+  "hyperdirect pathway": {
+   "note": "grafo/termos/hyperdirect pathway",
+   "label": "hyperdirect pathway"
+  },
+  "stn dbs": {
+   "note": "grafo/termos/stn dbs",
+   "label": "stn dbs"
+  },
+  "expressing channelrhodopsin-2": {
+   "note": "grafo/termos/expressing channelrhodopsin-2",
+   "label": "expressing channelrhodopsin-2"
+  },
+  "eeg": {
+   "note": "grafo/termos/eeg",
+   "label": "eeg"
+  },
+  "medial septum": {
+   "note": "grafo/termos/medial septum",
+   "label": "medial septum"
+  },
+  "reward": {
+   "note": "grafo/termos/reward",
+   "label": "reward"
+  },
+  "living tissue": {
+   "note": "grafo/termos/living tissues",
+   "label": "living tissues"
+  },
+  "theta rhythm": {
+   "note": "grafo/termos/theta rhythm",
+   "label": "theta rhythm"
+  },
+  "arousal": {
+   "note": "grafo/termos/arousal",
+   "label": "arousal"
+  },
+  "functional integration": {
+   "note": "grafo/termos/functional integration",
+   "label": "functional integration"
+  },
+  "fluorescent protein": {
+   "note": "grafo/termos/fluorescent protein",
+   "label": "fluorescent protein"
+  },
+  "reward seeking": {
+   "note": "grafo/termos/reward seeking",
+   "label": "reward seeking"
+  },
+  "midbrain dopamine neuron": {
+   "note": "grafo/termos/midbrain dopamine neurons",
+   "label": "midbrain dopamine neurons"
+  },
+  "ventral striatum": {
+   "note": "grafo/termos/ventral striatum",
+   "label": "ventral striatum"
+  },
+  "action potential": {
+   "note": "grafo/termos/action potentials",
+   "label": "action potentials"
+  },
+  "information processing": {
+   "note": "grafo/termos/information processing",
+   "label": "information processing"
+  },
+  "activity pattern": {
+   "note": "grafo/termos/activity patterns",
+   "label": "activity patterns"
+  },
+  "temporal resolution": {
+   "note": "grafo/termos/temporal resolution",
+   "label": "temporal resolution"
+  },
+  "acetylcholine receptor": {
+   "note": "grafo/termos/acetylcholine receptors",
+   "label": "acetylcholine receptors"
+  },
+  "l-dopa": {
+   "note": "grafo/termos/l-dopa",
+   "label": "l-dopa"
+  },
+  "synaptic connectivity": {
+   "note": "grafo/termos/synaptic connectivity",
+   "label": "synaptic connectivity"
+  },
+  "n-methyl-d-aspartate receptor": {
+   "note": "grafo/termos/n-methyl-d-aspartate receptor",
+   "label": "n-methyl-d-aspartate receptor"
+  },
+  "chronic neurodegenerative": {
+   "note": "grafo/termos/chronic neurodegenerative",
+   "label": "chronic neurodegenerative"
+  },
+  "striatal medium spiny neuron": {
+   "note": "grafo/termos/striatal medium spiny neurons",
+   "label": "striatal medium spiny neurons"
+  },
+  "nociception": {
+   "note": "grafo/termos/nociception",
+   "label": "nociception"
+  },
+  "pain processing": {
+   "note": "grafo/termos/pain processing",
+   "label": "pain processing"
+  },
+  "temporal lobe epilepsy": {
+   "note": "grafo/termos/temporal lobe epilepsy",
+   "label": "temporal lobe epilepsy"
+  },
+  "tau hyperphosphorylation": {
+   "note": "grafo/termos/tau hyperphosphorylation",
+   "label": "tau hyperphosphorylation"
+  },
+  "vivo brain": {
+   "note": "grafo/termos/vivo brain",
+   "label": "vivo brain"
+  },
+  "striatal circuitry": {
+   "note": "grafo/termos/striatal circuitry",
+   "label": "striatal circuitry"
+  },
+  "effective therapeutic": {
+   "note": "grafo/termos/effective therapeutic",
+   "label": "effective therapeutic"
+  },
+  "light intensity": {
+   "note": "grafo/termos/light intensity",
+   "label": "light intensity"
+  },
+  "cns disorder": {
+   "note": "grafo/termos/cns disorders",
+   "label": "cns disorders"
+  },
+  "amyloid- plaque": {
+   "note": "grafo/termos/amyloid- plaques",
+   "label": "amyloid- plaques"
+  },
+  "lewy body": {
+   "note": "grafo/termos/lewy body",
+   "label": "lewy body"
+  },
+  "snr neuron": {
+   "note": "grafo/termos/snr neurons",
+   "label": "snr neurons"
+  },
+  "functional alteration": {
+   "note": "grafo/termos/functional alterations",
+   "label": "functional alterations"
+  },
+  "amyloid precursor protein": {
+   "note": "grafo/termos/amyloid precursor protein",
+   "label": "amyloid precursor protein"
+  },
+  "microglia": {
+   "note": "grafo/termos/microglia",
+   "label": "microglia"
+  },
+  "network disruption": {
+   "note": "grafo/termos/network disruption",
+   "label": "network disruption"
+  },
+  "cognitive dysfunction": {
+   "note": "grafo/termos/cognitive dysfunction",
+   "label": "cognitive dysfunction"
+  },
+  "striatal dopamine depletion": {
+   "note": "grafo/termos/striatal dopamine depletion",
+   "label": "striatal dopamine depletion"
+  },
+  "basal forebrain cholinergic": {
+   "note": "grafo/termos/basal forebrain cholinergic",
+   "label": "basal forebrain cholinergic"
+  },
+  "gene delivery": {
+   "note": "grafo/termos/gene delivery",
+   "label": "gene delivery"
+  },
+  "rem sleep": {
+   "note": "grafo/termos/rem sleep",
+   "label": "rem sleep"
+  },
+  "functional impairment": {
+   "note": "grafo/termos/functional impairments",
+   "label": "functional impairments"
+  },
+  "pharmacological treatment": {
+   "note": "grafo/termos/pharmacological treatments",
+   "label": "pharmacological treatments"
+  },
+  "norepinephrine": {
+   "note": "grafo/termos/norepinephrine",
+   "label": "norepinephrine"
+  },
+  "ultrasound stimulation": {
+   "note": "grafo/termos/ultrasound stimulation",
+   "label": "ultrasound stimulation"
+  },
+  "parvalbumin neuron": {
+   "note": "grafo/termos/parvalbumin neurons",
+   "label": "parvalbumin neurons"
+  },
+  "cellular processe": {
+   "note": "grafo/termos/cellular processes",
+   "label": "cellular processes"
+  },
+  "light delivery": {
+   "note": "grafo/termos/light delivery",
+   "label": "light delivery"
+  },
+  "neurologic disorder": {
+   "note": "grafo/termos/neurologic disorders",
+   "label": "neurologic disorders"
+  },
+  "personalized medicine": {
+   "note": "grafo/termos/personalized medicine",
+   "label": "personalized medicine"
+  },
+  "trpv1": {
+   "note": "grafo/termos/trpv1",
+   "label": "trpv1"
+  },
+  "visual cortex": {
+   "note": "grafo/termos/visual cortex",
+   "label": "visual cortex"
+  },
+  "mitochondrial dysfunction": {
+   "note": "grafo/termos/mitochondrial dysfunction",
+   "label": "mitochondrial dysfunction"
+  },
+  "hcn channel": {
+   "note": "grafo/termos/hcn channel",
+   "label": "hcn channel"
+  },
+  "behaving animal": {
+   "note": "grafo/termos/behaving animals",
+   "label": "behaving animals"
+  },
+  "optical control": {
+   "note": "grafo/termos/optical control",
+   "label": "optical control"
+  },
+  "retinal degeneration": {
+   "note": "grafo/termos/retinal degeneration",
+   "label": "retinal degeneration"
+  },
+  "target cell": {
+   "note": "grafo/termos/target cells",
+   "label": "target cells"
+  },
+  "light-inducible protein aggregation": {
+   "note": "grafo/termos/light-inducible protein aggregation",
+   "label": "light-inducible protein aggregation"
+  },
+  "mechanistic insight": {
+   "note": "grafo/termos/mechanistic insight",
+   "label": "mechanistic insight"
+  },
+  "retinitis pigmentosa": {
+   "note": "grafo/termos/retinitis pigmentosa",
+   "label": "retinitis pigmentosa"
+  },
+  "neuromodulation strategie": {
+   "note": "grafo/termos/neuromodulation strategies",
+   "label": "neuromodulation strategies"
+  },
+  "spatial working memory": {
+   "note": "grafo/termos/spatial working memory",
+   "label": "spatial working memory"
+  },
+  "nucleus deep brain": {
+   "note": "grafo/termos/nucleus deep brain",
+   "label": "nucleus deep brain"
+  },
+  "motor dysfunction": {
+   "note": "grafo/termos/motor dysfunction",
+   "label": "motor dysfunction"
+  },
+  "two-photon microscopy": {
+   "note": "grafo/termos/two-photon microscopy",
+   "label": "two-photon microscopy"
+  },
+  "spiking activity": {
+   "note": "grafo/termos/spiking activity",
+   "label": "spiking activity"
+  },
+  "neuromodulatory system": {
+   "note": "grafo/termos/neuromodulatory systems",
+   "label": "neuromodulatory systems"
+  },
+  "diagonal band": {
+   "note": "grafo/termos/diagonal band",
+   "label": "diagonal band"
+  },
+  "monosynaptic tracing": {
+   "note": "grafo/termos/monosynaptic tracing",
+   "label": "monosynaptic tracing"
+  },
+  "pathological tau": {
+   "note": "grafo/termos/pathological tau",
+   "label": "pathological tau"
+  },
+  "working memory": {
+   "note": "grafo/termos/working memory",
+   "label": "working memory"
+  },
+  "human brain": {
+   "note": "grafo/termos/human brain",
+   "label": "human brain"
+  },
+  "vivo electrophysiological": {
+   "note": "grafo/termos/vivo electrophysiological",
+   "label": "vivo electrophysiological"
+  },
+  "mild cognitive impairment": {
+   "note": "grafo/termos/mild cognitive impairment",
+   "label": "mild cognitive impairment"
+  },
+  "basal ganglia function": {
+   "note": "grafo/termos/basal ganglia function",
+   "label": "basal ganglia function"
+  },
+  "glial cell": {
+   "note": "grafo/termos/glial cells",
+   "label": "glial cells"
+  },
+  "small molecule": {
+   "note": "grafo/termos/small molecule",
+   "label": "small molecule"
+  },
+  "regenerative medicine": {
+   "note": "grafo/termos/regenerative medicine",
+   "label": "regenerative medicine"
+  },
+  "ischemic stroke": {
+   "note": "grafo/termos/ischemic stroke",
+   "label": "ischemic stroke"
+  },
+  "growth factor": {
+   "note": "grafo/termos/growth factor",
+   "label": "growth factor"
+  },
+  "neuropsychiatric symptom": {
+   "note": "grafo/termos/neuropsychiatric symptoms",
+   "label": "neuropsychiatric symptoms"
+  },
+  "circuit mechanisms underlying": {
+   "note": "grafo/termos/circuit mechanisms underlying",
+   "label": "circuit mechanisms underlying"
+  },
+  "binding protein": {
+   "note": "grafo/termos/binding protein",
+   "label": "binding protein"
+  },
+  "sleep disturbance": {
+   "note": "grafo/termos/sleep disturbances",
+   "label": "sleep disturbances"
+  },
+  "specific neuronal population": {
+   "note": "grafo/termos/specific neuronal populations",
+   "label": "specific neuronal populations"
+  },
+  "neuronal activation": {
+   "note": "grafo/termos/neuronal activation",
+   "label": "neuronal activation"
+  },
+  "poorly understood": {
+   "note": "grafo/termos/poorly understood",
+   "label": "poorly understood"
+  },
+  "ventral hippocampu": {
+   "note": "grafo/termos/ventral hippocampus",
+   "label": "ventral hippocampus"
+  },
+  "social memory": {
+   "note": "grafo/termos/social memory",
+   "label": "social memory"
+  },
+  "brainstem": {
+   "note": "grafo/termos/brainstem",
+   "label": "brainstem"
+  },
+  "quantum dots": {
+   "note": "grafo/termos/quantum dots",
+   "label": "quantum dots"
+  },
+  "stroke": {
+   "note": "grafo/termos/stroke",
+   "label": "stroke"
+  },
+  "hyperphosphorylated tau": {
+   "note": "grafo/termos/hyperphosphorylated tau",
+   "label": "hyperphosphorylated tau"
+  },
+  "spatial navigation": {
+   "note": "grafo/termos/spatial navigation",
+   "label": "spatial navigation"
+  },
+  "synaptic strength": {
+   "note": "grafo/termos/synaptic strength",
+   "label": "synaptic strength"
+  },
+  "ht3 receptor": {
+   "note": "grafo/termos/ht3 receptors",
+   "label": "ht3 receptors"
+  },
+  "neuronal hyperactivity": {
+   "note": "grafo/termos/neuronal hyperactivity",
+   "label": "neuronal hyperactivity"
+  },
+  "confocal microscopy": {
+   "note": "grafo/termos/confocal microscopy",
+   "label": "confocal microscopy"
+  },
+  "high-frequency deep brain": {
+   "note": "grafo/termos/high-frequency deep brain",
+   "label": "high-frequency deep brain"
+  },
+  "alleviates parkinsonian": {
+   "note": "grafo/termos/alleviates parkinsonian",
+   "label": "alleviates parkinsonian"
+  },
+  "motor recovery": {
+   "note": "grafo/termos/motor recovery",
+   "label": "motor recovery"
+  },
+  "neurological condition": {
+   "note": "grafo/termos/neurological conditions",
+   "label": "neurological conditions"
+  },
+  "fully understood": {
+   "note": "grafo/termos/fully understood",
+   "label": "fully understood"
+  },
+  "dopamine transmission": {
+   "note": "grafo/termos/dopamine transmission",
+   "label": "dopamine transmission"
+  },
+  "autism spectrum": {
+   "note": "grafo/termos/autism spectrum",
+   "label": "autism spectrum"
+  },
+  "cognitive disorder": {
+   "note": "grafo/termos/cognitive disorders",
+   "label": "cognitive disorders"
+  },
+  "pyramidal cell": {
+   "note": "grafo/termos/pyramidal cells",
+   "label": "pyramidal cells"
+  },
+  "histamine": {
+   "note": "grafo/termos/histamine",
+   "label": "histamine"
+  },
+  "effective treatment": {
+   "note": "grafo/termos/effective treatments",
+   "label": "effective treatments"
+  },
+  "light source": {
+   "note": "grafo/termos/light sources",
+   "label": "light sources"
+  },
+  "external globu": {
+   "note": "grafo/termos/external globus",
+   "label": "external globus"
+  },
+  "amyloid load": {
+   "note": "grafo/termos/amyloid load",
+   "label": "amyloid load"
+  },
+  "dopaminergic neurotransmission": {
+   "note": "grafo/termos/dopaminergic neurotransmission",
+   "label": "dopaminergic neurotransmission"
+  },
+  "paper present": {
+   "note": "grafo/termos/paper presents",
+   "label": "paper presents"
+  },
+  "induced pluripotent stem cell": {
+   "note": "grafo/termos/induced pluripotent stem cells",
+   "label": "induced pluripotent stem cells"
+  },
+  "excitatory neuron": {
+   "note": "grafo/termos/excitatory neurons",
+   "label": "excitatory neurons"
+  },
+  "cell death": {
+   "note": "grafo/termos/cell death",
+   "label": "cell death"
+  },
+  "sleep-wake cycle": {
+   "note": "grafo/termos/sleep-wake cycles",
+   "label": "sleep-wake cycles"
+  },
+  "glutamatergic transmission": {
+   "note": "grafo/termos/glutamatergic transmission",
+   "label": "glutamatergic transmission"
+  },
+  "cell population": {
+   "note": "grafo/termos/cell populations",
+   "label": "cell populations"
+  },
+  "motor thalamu": {
+   "note": "grafo/termos/motor thalamus",
+   "label": "motor thalamus"
+  },
+  "globus pallidus interna": {
+   "note": "grafo/termos/globus pallidus interna",
+   "label": "globus pallidus interna"
+  },
+  "arkypallidal neuron": {
+   "note": "grafo/termos/arkypallidal neurons",
+   "label": "arkypallidal neurons"
+  },
+  "phosphorylated tau": {
+   "note": "grafo/termos/phosphorylated tau",
+   "label": "phosphorylated tau"
+  },
+  "future therapeutic": {
+   "note": "grafo/termos/future therapeutic",
+   "label": "future therapeutic"
+  },
+  "replacement therapy": {
+   "note": "grafo/termos/replacement therapy",
+   "label": "replacement therapy"
+  },
+  "cognitive flexibility": {
+   "note": "grafo/termos/cognitive flexibility",
+   "label": "cognitive flexibility"
+  },
+  "neuronal cell": {
+   "note": "grafo/termos/neuronal cell",
+   "label": "neuronal cell"
+  },
+  "parkinsonian animal": {
+   "note": "grafo/termos/parkinsonian animals",
+   "label": "parkinsonian animals"
+  },
+  "motivation": {
+   "note": "grafo/termos/motivation",
+   "label": "motivation"
+  },
+  "non-rapid eye movement": {
+   "note": "grafo/termos/non-rapid eye movement",
+   "label": "non-rapid eye movement"
+  },
+  "designer receptors exclusively": {
+   "note": "grafo/termos/designer receptors exclusively",
+   "label": "designer receptors exclusively"
+  },
+  "dyskinetic behavior": {
+   "note": "grafo/termos/dyskinetic behaviors",
+   "label": "dyskinetic behaviors"
+  },
+  "shed light": {
+   "note": "grafo/termos/shed light",
+   "label": "shed light"
+  },
+  "cerebral blood flow": {
+   "note": "grafo/termos/cerebral blood flow",
+   "label": "cerebral blood flow"
+  },
+  "nicotinic receptor": {
+   "note": "grafo/termos/nicotinic receptors",
+   "label": "nicotinic receptors"
+  },
+  "parvalbumin": {
+   "note": "grafo/termos/parvalbumin",
+   "label": "parvalbumin"
+  },
+  "immune response": {
+   "note": "grafo/termos/immune responses",
+   "label": "immune responses"
+  },
+  "neural substrate": {
+   "note": "grafo/termos/neural substrates",
+   "label": "neural substrates"
+  },
+  "molecular basi": {
+   "note": "grafo/termos/molecular basis",
+   "label": "molecular basis"
+  },
+  "neuronal oscillation": {
+   "note": "grafo/termos/neuronal oscillations",
+   "label": "neuronal oscillations"
+  },
+  "magnetic stimulation": {
+   "note": "grafo/termos/magnetic stimulation",
+   "label": "magnetic stimulation"
+  },
+  "living cell": {
+   "note": "grafo/termos/living cells",
+   "label": "living cells"
+  },
+  "dopaminergic neuron loss": {
+   "note": "grafo/termos/dopaminergic neuron loss",
+   "label": "dopaminergic neuron loss"
+  },
+  "neuronal death": {
+   "note": "grafo/termos/neuronal death",
+   "label": "neuronal death"
+  },
+  "brain stimulation think": {
+   "note": "grafo/termos/brain stimulation think",
+   "label": "brain stimulation think"
+  },
+  "neuroethic": {
+   "note": "grafo/termos/neuroethics",
+   "label": "neuroethics"
+  },
+  "annual deep brain": {
+   "note": "grafo/termos/annual deep brain",
+   "label": "annual deep brain"
+  },
+  "adaptive dbs": {
+   "note": "grafo/termos/adaptive dbs",
+   "label": "adaptive dbs"
+  },
+  "diagnostic tool": {
+   "note": "grafo/termos/diagnostic tools",
+   "label": "diagnostic tools"
+  },
+  "vglut2": {
+   "note": "grafo/termos/vglut2",
+   "label": "vglut2"
+  },
+  "glutamate uptake": {
+   "note": "grafo/termos/glutamate uptake",
+   "label": "glutamate uptake"
+  },
+  "episodic memory": {
+   "note": "grafo/termos/episodic memory",
+   "label": "episodic memory"
+  },
+  "inhibit specific": {
+   "note": "grafo/termos/inhibit specific",
+   "label": "inhibit specific"
+  },
+  "mesencephalic locomotor": {
+   "note": "grafo/termos/mesencephalic locomotor",
+   "label": "mesencephalic locomotor"
+  },
+  "firing pattern": {
+   "note": "grafo/termos/firing patterns",
+   "label": "firing patterns"
+  },
+  "ultrasonically powered": {
+   "note": "grafo/termos/ultrasonically powered",
+   "label": "ultrasonically powered"
+  },
+  "cognition": {
+   "note": "grafo/termos/cognition",
+   "label": "cognition"
+  },
+  "ameliorating parkinsonian motor": {
+   "note": "grafo/termos/ameliorating parkinsonian motor",
+   "label": "ameliorating parkinsonian motor"
+  },
+  "hippocampal theta": {
+   "note": "grafo/termos/hippocampal theta",
+   "label": "hippocampal theta"
+  },
+  "striatopallidal neuron": {
+   "note": "grafo/termos/striatopallidal neurons",
+   "label": "striatopallidal neurons"
+  },
+  "synaptic propertie": {
+   "note": "grafo/termos/synaptic properties",
+   "label": "synaptic properties"
+  },
+  "neuronal spiking": {
+   "note": "grafo/termos/neuronal spiking",
+   "label": "neuronal spiking"
+  },
+  "evidence indicate": {
+   "note": "grafo/termos/evidence indicates",
+   "label": "evidence indicates"
+  },
+  "astrocytes expressing": {
+   "note": "grafo/termos/astrocytes expressing",
+   "label": "astrocytes expressing"
+  },
+  "vagus nerve": {
+   "note": "grafo/termos/vagus nerve",
+   "label": "vagus nerve"
+  },
+  "parkinsonian patient": {
+   "note": "grafo/termos/parkinsonian patients",
+   "label": "parkinsonian patients"
+  },
+  "slow-wave activity": {
+   "note": "grafo/termos/slow-wave activity",
+   "label": "slow-wave activity"
+  },
+  "cofilin-actin rods": {
+   "note": "grafo/termos/cofilin-actin rods",
+   "label": "cofilin-actin rods"
+  },
+  "stress granule": {
+   "note": "grafo/termos/stress granules",
+   "label": "stress granules"
+  },
+  "hippocampal memory": {
+   "note": "grafo/termos/hippocampal memory",
+   "label": "hippocampal memory"
+  },
+  "cholinergic receptor": {
+   "note": "grafo/termos/cholinergic receptors",
+   "label": "cholinergic receptors"
+  },
+  "nonhuman primate": {
+   "note": "grafo/termos/nonhuman primates",
+   "label": "nonhuman primates"
+  },
+  "precise control": {
+   "note": "grafo/termos/precise control",
+   "label": "precise control"
+  },
+  "expressing chr2": {
+   "note": "grafo/termos/expressing chr2",
+   "label": "expressing chr2"
+  },
+  "oscillatory activity": {
+   "note": "grafo/termos/oscillatory activity",
+   "label": "oscillatory activity"
+  },
+  "motor learning": {
+   "note": "grafo/termos/motor learning",
+   "label": "motor learning"
+  },
+  "amyloid precursor": {
+   "note": "grafo/termos/amyloid precursor",
+   "label": "amyloid precursor"
+  },
+  "cerebral cortex": {
+   "note": "grafo/termos/cerebral cortex",
+   "label": "cerebral cortex"
+  },
+  "targeted neuron": {
+   "note": "grafo/termos/targeted neurons",
+   "label": "targeted neurons"
+  },
+  "neurons derived": {
+   "note": "grafo/termos/neurons derived",
+   "label": "neurons derived"
+  },
+  "receptor signaling": {
+   "note": "grafo/termos/receptor signaling",
+   "label": "receptor signaling"
+  },
+  "parafascicular nucleu": {
+   "note": "grafo/termos/parafascicular nucleus",
+   "label": "parafascicular nucleus"
+  },
+  "theta burst stimulation": {
+   "note": "grafo/termos/theta burst stimulation",
+   "label": "theta burst stimulation"
+  },
+  "cerebellum": {
+   "note": "grafo/termos/cerebellum",
+   "label": "cerebellum"
+  },
+  "physiological processe": {
+   "note": "grafo/termos/physiological processes",
+   "label": "physiological processes"
+  },
+  "gene transfer": {
+   "note": "grafo/termos/gene transfer",
+   "label": "gene transfer"
+  },
+  "nucleus neuron": {
+   "note": "grafo/termos/nucleus neurons",
+   "label": "nucleus neurons"
+  },
+  "hippocampal slice": {
+   "note": "grafo/termos/hippocampal slices",
+   "label": "hippocampal slices"
+  },
+  "amyloid- peptide": {
+   "note": "grafo/termos/amyloid- peptide",
+   "label": "amyloid- peptide"
+  },
+  "voltammetry": {
+   "note": "grafo/termos/voltammetry",
+   "label": "voltammetry"
+  },
+  "aav vector": {
+   "note": "grafo/termos/aav vectors",
+   "label": "aav vectors"
+  },
+  "motor complication": {
+   "note": "grafo/termos/motor complications",
+   "label": "motor complications"
+  },
+  "neural population": {
+   "note": "grafo/termos/neural population",
+   "label": "neural population"
+  },
+  "plaque formation": {
+   "note": "grafo/termos/plaque formation",
+   "label": "plaque formation"
+  },
+  "embryonic stem cell": {
+   "note": "grafo/termos/embryonic stem cells",
+   "label": "embryonic stem cells"
+  },
+  "cation channel": {
+   "note": "grafo/termos/cation channels",
+   "label": "cation channels"
+  },
+  "reactive oxygen specie": {
+   "note": "grafo/termos/reactive oxygen species",
+   "label": "reactive oxygen species"
+  },
+  "glutamatergic subthalamic nucleu": {
+   "note": "grafo/termos/glutamatergic subthalamic nucleus",
+   "label": "glutamatergic subthalamic nucleus"
+  },
+  "electrophysiological propertie": {
+   "note": "grafo/termos/electrophysiological properties",
+   "label": "electrophysiological properties"
+  },
+  "promising tool": {
+   "note": "grafo/termos/promising tool",
+   "label": "promising tool"
+  },
+  "parkinsonian motor symptom": {
+   "note": "grafo/termos/parkinsonian motor symptoms",
+   "label": "parkinsonian motor symptoms"
+  },
+  "light sensitive": {
+   "note": "grafo/termos/light sensitive",
+   "label": "light sensitive"
+  },
+  "tremor": {
+   "note": "grafo/termos/tremor",
+   "label": "tremor"
+  },
+  "beta frequency": {
+   "note": "grafo/termos/beta frequency",
+   "label": "beta frequency"
+  },
+  "parkinson disease model": {
+   "note": "grafo/termos/parkinson's disease model",
+   "label": "parkinson's disease model"
+  },
+  "muscarinic acetylcholine receptor": {
+   "note": "grafo/termos/muscarinic acetylcholine receptor",
+   "label": "muscarinic acetylcholine receptor"
+  },
+  "moving animal": {
+   "note": "grafo/termos/moving animals",
+   "label": "moving animals"
+  },
+  "cell activity": {
+   "note": "grafo/termos/cell activity",
+   "label": "cell activity"
+  },
+  "short-term plasticity": {
+   "note": "grafo/termos/short-term plasticity",
+   "label": "short-term plasticity"
+  },
+  "neuronal synchronization": {
+   "note": "grafo/termos/neuronal synchronization",
+   "label": "neuronal synchronization"
+  }
+ }
+}

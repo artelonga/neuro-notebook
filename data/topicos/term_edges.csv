@@ -1,0 +1,701 @@
+source,target,count,npmi
+brain stimulation,transcranial magnetic stimulation,4,0.4301
+brain stimulation,deep brain stimulation,25,0.3774
+brain stimulation,essential tremor,4,0.37
+brain stimulation,movement disorder,6,0.3157
+brain stimulation,epilepsy,4,0.3114
+brain stimulation,cognitive function,3,0.2016
+brain stimulation,globus pallidu,3,0.1674
+brain function,brain stimulation,3,0.1598
+deep brain stimulation,subthalamic nucleu,49,0.4789
+deep brain stimulation,essential tremor,10,0.3896
+deep brain stimulation,dystonia,7,0.3804
+deep brain stimulation,focused ultrasound,5,0.3552
+deep brain stimulation,stn dbs,5,0.3552
+deep brain stimulation,movement disorder,16,0.3467
+deep brain stimulation,nucleus deep brain,4,0.3402
+basal ganglia,entopeduncular nucleu,4,0.2456
+deep brain stimulation,entopeduncular nucleu,4,0.2094
+basal ganglia circuitry,bradykinesia,4,0.6214
+basal ganglia circuitry,nigra pars reticulata,3,0.5981
+basal ganglia circuitry,direct pathway,3,0.4741
+basal ganglia circuitry,motor control,4,0.3969
+basal ganglia circuitry,indirect pathway,4,0.3889
+basal ganglia circuitry,channelrhodopsin-2,3,0.3174
+basal ganglia circuitry,striatum,5,0.3134
+basal ganglia circuitry,medium spiny neuron,3,0.2604
+stn neuron,subthalamic nucleu,13,0.5652
+beta oscillation,subthalamic nucleu,13,0.4607
+hyperdirect pathway,subthalamic nucleu,5,0.4588
+stn dbs,subthalamic nucleu,5,0.4588
+glutamatergic subthalamic nucleu,subthalamic nucleu,4,0.4395
+beta frequency,subthalamic nucleu,4,0.4395
+globus pallidu,subthalamic nucleu,13,0.4268
+arkypallidal neuron,external globus pallidu,3,0.7004
+external globus pallidu,globus pallidus externu,6,0.6456
+external globus pallidu,gabaergic neuron,5,0.5752
+external globus pallidu,gpe neuron,3,0.5038
+external globus pallidu,l-dopa-induced dyskinesia,3,0.4762
+external globus pallidu,motor control,4,0.4626
+basal ganglia,external globus pallidu,6,0.2659
+external globus pallidu,subthalamic nucleu,3,0.1688
+gpe neuron,striatal projection neuron,3,0.5553
+globus pallidus externu,gpe neuron,4,0.5197
+6-hydroxydopamine,gpe neuron,3,0.4312
+globus pallidu,gpe neuron,3,0.3873
+gpe neuron,subthalamic nucleu,7,0.3777
+basal ganglia,gpe neuron,7,0.3071
+brain function,therapeutic intervention,3,0.4123
+brain function,neuromodulation,4,0.2637
+dorsal striatum,fiber photometry,3,0.5088
+dorsal striatum,nucleus accumben,3,0.4486
+dorsal striatum,motor deficit,3,0.3939
+dorsal striatum,medium spiny neuron,4,0.3654
+dopamine release,dorsal striatum,3,0.3448
+dopaminergic neuron,dorsal striatum,4,0.2464
+dopamine,dorsal striatum,3,0.2396
+dorsal striatum,striatum,3,0.2281
+fiber photometry,levodopa,3,0.609
+fiber photometry,striatal neuron,3,0.4741
+fiber photometry,medium spiny neuron,3,0.3553
+medium spiny neuron,striatal medium spiny neuron,4,0.6018
+medium spiny neuron,striatum,17,0.5584
+direct pathway,medium spiny neuron,6,0.5473
+medium spiny neuron,striatal circuitry,3,0.5193
+medium spiny neuron,vivo brain,3,0.5193
+dyskinesia,medium spiny neuron,5,0.4917
+medium spiny neuron,spiny projection neuron,5,0.473
+levodopa,medium spiny neuron,4,0.471
+basal ganglia,thalamu,11,0.4262
+basal ganglia,direct pathway,8,0.3845
+basal ganglia,indirect pathway,15,0.3833
+ameliorating parkinsonian motor,basal ganglia,4,0.3764
+basal ganglia,glutamatergic subthalamic nucleu,4,0.3764
+basal ganglia,motor control,14,0.3702
+basal ganglia,striatal neuron,11,0.3636
+basal ganglia,globus pallidus externu,11,0.3636
+beta frequency,beta oscillation,3,0.609
+beta oscillation,globus pallidu,6,0.4794
+beta oscillation,closed-loop stimulation,3,0.4638
+beta oscillation,computational model,3,0.445
+beta oscillation,globus pallidus externu,4,0.4233
+beta oscillation,motor cortex,5,0.4099
+beta oscillation,channelrhodopsin-2,4,0.3582
+beta oscillation,motor symptom,4,0.3161
+motor symptom,striatal cholinergic interneuron,4,0.3069
+6-hydroxydopamine lesion,motor symptom,3,0.2998
+motor symptom,rodent model,3,0.2774
+dopamine receptor,motor symptom,3,0.2575
+motor deficit,motor symptom,3,0.2575
+deep brain stimulation,motor symptom,14,0.2572
+motor symptom,subthalamic nucleu,9,0.2507
+chemogenetic,nociception,3,0.584
+chemogenetic,dreadd,4,0.5169
+chemogenetic,improves motor,3,0.5114
+chemogenetic,muscarinic receptor,3,0.4838
+chemogenetic,cholinergic interneuron,4,0.3969
+chemogenetic,neurodegeneration,5,0.3746
+chemogenetic,glutamatergic neuron,3,0.3597
+chemogenetic,striatal cholinergic,3,0.3597
+nociception,subthalamic nucleu,3,0.3654
+addiction,depression,3,0.5879
+depression,mood disorder,3,0.5553
+anxiety,depression,3,0.5277
+depression,obsessive-compulsive disorder,3,0.5277
+depression,neuropsychiatric disorder,4,0.4033
+depression,epilepsy,3,0.3913
+depression,neuromodulation,3,0.2501
+depression,neural circuit,5,0.2278
+globus pallidus internu,halorhodopsin,3,0.5364
+globus pallidus internu,thalamu,3,0.5221
+globus pallidus internu,subthalamic nucleu,7,0.4161
+globus pallidus internu,neuromodulation,3,0.3553
+globus pallidus internu,substantia nigra,3,0.2998
+basal ganglia,globus pallidus internu,5,0.2564
+deep brain stimulation,globus pallidus internu,5,0.2186
+basal ganglia,rodent model,6,0.1947
+deep brain stimulation,rodent model,7,0.1932
+rodent model,subthalamic nucleu,4,0.1665
+essential tremor,neuromodulation,6,0.5278
+dystonia,neuromodulation,3,0.4192
+epilepsy,neuromodulation,5,0.4119
+closed-loop stimulation,neuromodulation,3,0.3742
+deep brain stimulation,neuromodulation,19,0.3344
+neuromodulation,viral vector,3,0.3227
+beta oscillation,neuromodulation,4,0.2981
+neurotransmitter system,psychiatric disorder,3,0.6605
+deep brain stimulation,psychiatric disorder,4,0.1673
+cognitive decline,cognitive impairment,3,0.4008
+cognitive decline,synaptic plasticity,3,0.2368
+long-term depression,synaptic plasticity,5,0.4538
+dendritic spine,synaptic plasticity,3,0.445
+molecular pathway,synaptic plasticity,3,0.445
+long-term potentiation,synaptic plasticity,8,0.4411
+synaptic dysfunction,synaptic plasticity,4,0.4125
+synapse,synaptic plasticity,3,0.3847
+memory,synaptic plasticity,4,0.3746
+nmda receptor,synaptic plasticity,4,0.3291
+nmda receptor,synaptic dysfunction,3,0.5277
+nmda receptor,striatal dopamine,3,0.5088
+long-term potentiation,nmda receptor,3,0.376
+synaptic dysfunction,tau phosphorylation,3,0.6067
+cognitive impairment,hippocampal ca1,3,0.5487
+cognitive impairment,synaptic plasticity,4,0.3039
+cognitive impairment,dopamine,3,0.2157
+cognitive impairment,striatum,3,0.2042
+6-hydroxydopamine lesion,unilateral hydroxydopamine,3,0.5879
+6-hydroxydopamine lesion,primary motor cortex,3,0.4965
+6-hydroxydopamine lesion,dorsolateral striatum,3,0.4965
+6-hydroxydopamine lesion,medium spiny neuron,4,0.3524
+6-hydroxydopamine lesion,motor control,3,0.3474
+6-hydroxydopamine lesion,indirect pathway,3,0.3398
+6-hydroxydopamine lesion,channelrhodopsin-2,3,0.3398
+6-hydroxydopamine lesion,dopamine depletion,3,0.3122
+motor cortex,primary motor cortex,6,0.604
+primary motor cortex,pyramidal neuron,4,0.5777
+motor impairment,primary motor cortex,3,0.4741
+6-hydroxydopamine,primary motor cortex,3,0.4638
+primary motor cortex,subthalamic nucleu,4,0.2666
+basal ganglia,primary motor cortex,5,0.2564
+glutamatergic neuron,parkinsonian condition,4,0.6328
+glutamatergic neuron,mesencephalic locomotor region,3,0.4917
+glutamatergic neuron,pedunculopontine nucleu,3,0.4762
+glutamatergic neuron,synaptic transmission,3,0.3597
+improves motor,motor cortex,3,0.4965
+dopaminergic neuron,improves motor,3,0.3339
+improves motor,subthalamic nucleu,3,0.2928
+motor impairment,neuronal excitability,3,0.4741
+motor impairment,striatal cholinergic,3,0.4138
+motor impairment,parvalbumin interneuron,3,0.4015
+motor impairment,therapeutic target,3,0.4015
+globus pallidus externu,motor impairment,3,0.3791
+basal ganglia,motor impairment,10,0.334
+medium spiny neuron,motor impairment,4,0.3288
+parvalbumin interneuron,somatostatin interneuron,7,0.8392
+episodic memory,parvalbumin interneuron,3,0.6605
+parvalbumin interneuron,social memory,3,0.6605
+parvalbumin interneuron,ventral hippocampu,3,0.6605
+gamma oscillation,parvalbumin interneuron,4,0.4776
+chemogenetic,parvalbumin interneuron,3,0.3474
+parvalbumin interneuron,subthalamic nucleu,5,0.2424
+parkinsonian condition,subthalamic nucleu,3,0.2413
+basal ganglia,parkinsonian condition,3,0.1814
+beta frequency,motor cortex,3,0.569
+motor cortex,parkinsonian rats,3,0.4689
+6-hydroxydopamine,motor cortex,4,0.3704
+motor cortex,pyramidal neuron,3,0.3325
+motor cortex,motor impairment,3,0.3101
+dopamine,voltammetry,4,0.5433
+action selection,dopamine,4,0.5012
+dopamine,dopamine signaling,6,0.4839
+dopamine,midbrain dopamine,4,0.4668
+dopamine,midbrain dopaminergic neuron,3,0.4239
+dopamine,glutamate,3,0.3913
+dopamine,striatum,13,0.3817
+dopamine,nigrostriatal dopamine,3,0.3637
+spiny projection neuron,striatal circuitry,3,0.716
+spiny projection neuron,vivo brain,3,0.716
+nicotinic acetylcholine receptor,spiny projection neuron,3,0.5708
+spiny projection neuron,striatal cholinergic interneuron,3,0.4192
+dopamine,spiny projection neuron,3,0.2828
+spiny projection neuron,striatum,3,0.2712
+striatal cholinergic interneuron,striatum,13,0.5666
+action selection,striatum,4,0.489
+muscarinic receptor,striatum,5,0.4882
+cholinergic interneuron,striatum,9,0.4854
+striatal cholinergic,striatum,7,0.4476
+dopamine d1 receptor,striatum,5,0.4387
+dyskinesia,striatum,5,0.4179
+nicotinic acetylcholine receptor,striatal cholinergic interneuron,5,0.6015
+medium spiny neuron,nicotinic acetylcholine receptor,3,0.3742
+striatal cholinergic,striatal cholinergic interneuron,11,0.793
+cholinergic interneuron,striatal cholinergic interneuron,12,0.7839
+muscarinic receptor,striatal cholinergic interneuron,5,0.651
+striatal cholinergic interneuron,striatal circuitry,3,0.6002
+medium spiny neuron,striatal cholinergic interneuron,7,0.4411
+striatal circuitry,vivo brain,3,0.897
+central nervou,light stimulation,3,0.3791
+light stimulation,neuronal activity,4,0.2973
+light stimulation,neural circuit,5,0.2391
+light source,neural circuit,3,0.3847
+cell-type specificity,neural circuit,3,0.3448
+molecular pathway,neural circuit,3,0.3448
+genetically targeted,neural circuit,3,0.3122
+computational modeling,neural circuit,3,0.2846
+neural circuit,synapse,3,0.2846
+genetic engineering,neural circuit,3,0.2846
+designer receptor,neural circuit,3,0.2846
+p301s tau,prefrontal cortex,3,0.6205
+prefrontal cortex,working memory,4,0.7506
+central nervou,cns disorder,3,0.6381
+central nervou,dopamine signaling,3,0.4741
+dopaminergic neuron,syn aggregate,4,0.4407
+dopaminergic neuron,tyrosine hydroxylase,6,0.44
+dopaminergic neuron,substantia nigra,17,0.4115
+alpha-synuclein,dopaminergic neuron,5,0.4115
+dopaminergic neuron,substantia nigra pars compacta,7,0.4092
+dopaminergic neuron,dopaminergic neuron loss,3,0.4065
+dopamine release,dopaminergic neuron,10,0.3747
+dopaminergic neuron,potassium channel,3,0.3339
+6-hydroxydopamine,gabaergic inhibition,3,0.5277
+6-hydroxydopamine,striatal projection neuron,3,0.4827
+6-hydroxydopamine,globus pallidus externu,3,0.3689
+6-hydroxydopamine,dopaminergic neuron,6,0.2983
+6-hydroxydopamine,dopamine depletion,3,0.2795
+gabaergic inhibition,striatal neuron,3,0.5379
+basal ganglia,gabaergic inhibition,5,0.3266
+involuntary movement,striatal neuron,3,0.4741
+dopamine depletion,striatal neuron,5,0.4196
+levodopa-induced dyskinesia,striatal neuron,4,0.4053
+indirect pathway,striatal neuron,3,0.3174
+dopamine,striatal neuron,4,0.2703
+substantia nigra pars,substantia nigra pars reticulata,6,0.8128
+snr neuron,substantia nigra pars reticulata,3,0.7519
+basal ganglia,substantia nigra pars reticulata,6,0.3247
+substantia nigra pars reticulata,subthalamic nucleu,4,0.2865
+dopamine neuron,dopamine signaling,3,0.4279
+dopamine release,dopamine signaling,3,0.405
+nigra pars reticulata,snr neuron,3,0.8571
+engram cell,memory engram,4,0.8179
+engram cell,long-term potentiation,3,0.5001
+hippocampal network,memory impairment,4,0.6018
+memory impairment,network disruption,3,0.5919
+amyloid beta,memory impairment,3,0.4109
+cognitive function,memory impairment,4,0.3843
+memory impairment,pyramidal neuron,3,0.3553
+memory impairment,synaptic plasticity,5,0.2985
+blood-brain barrier,gene therapy,3,0.5001
+clinical trial,gene therapy,5,0.5009
+dopamine replacement,gene therapy,3,0.4762
+gene therapy,viral vector,3,0.4036
+gene therapy,neuromodulation,4,0.2889
+gene therapy,neurological disorder,3,0.2457
+gene therapy,motor symptom,3,0.2396
+gene therapy,neural circuit,5,0.1974
+ion channel,neurological disorder,3,0.2835
+neural circuit,neurological disorder,8,0.2495
+neural activity,neurological disorder,3,0.2145
+acetylcholine,medial septum,3,0.6461
+acetylcholine,nigrostriatal dopamine,3,0.5859
+acetylcholine,basal forebrain,4,0.5552
+acetylcholine,cholinergic neuron,3,0.505
+acetylcholine,cholinergic interneuron,3,0.4271
+acetylcholine,dopamine,4,0.3209
+acetylcholine,striatum,3,0.2413
+basal forebrain,diagonal band,3,0.6861
+basal forebrain,cholinergic neuron,5,0.6565
+basal forebrain,medial prefrontal cortex,3,0.6135
+amyotrophic lateral sclerosi,stem cell,3,0.4751
+amyotrophic lateral sclerosi,protein aggregation,3,0.4271
+amyotrophic lateral sclerosi,oxidative stress,3,0.4169
+amyotrophic lateral sclerosi,animal model,3,0.274
+animal model,neurodegeneration,6,0.3128
+animal model,brain activity,3,0.3039
+animal model,protein aggregation,3,0.2259
+animal model,parkinsonism,3,0.2259
+phase separation,protein aggregation,3,0.5655
+protein aggregation,synuclein aggregation,4,0.5046
+memory consolidation,slow oscillation,3,0.7243
+slow oscillation,slow wave,4,0.8179
+nrem sleep,slow oscillation,3,0.7569
+sleep,slow oscillation,3,0.6728
+deep brain stimulation,light-sensitive protein,3,0.1711
+deep brain stimulation,pharmacological treatment,3,0.2712
+functional connectivity,locus coeruleu,4,0.5282
+locus coeruleu,norepinephrine,4,0.7776
+hyperphosphorylated tau,locus coeruleu,3,0.6861
+locus coeruleu,rat model,3,0.4271
+locus coeruleu,synaptic plasticity,3,0.274
+dopamine,locus coeruleu,3,0.2529
+neurodegenerative disorder,oxidative stress,5,0.3481
+neurodegeneration,neurodegenerative disorder,5,0.2757
+neurodegenerative disorder,synaptic plasticity,5,0.1908
+cofilin-actin rods,oxidative stress,4,0.7162
+hippocampal neuron,oxidative stress,3,0.5038
+neuroprotection,oxidative stress,3,0.4827
+neurodegeneration,oxidative stress,3,0.2928
+globus pallidus externu,parkinsonian rats,3,0.5379
+dopamine depletion,parkinsonian rats,3,0.4486
+deep brain stimulation,parkinsonian rats,5,0.2889
+deep brain stimulation,ultrasound stimulation,3,0.2712
+dopamine depletion,parvalbumin neuron,3,0.5487
+dopamine depletion,glutamatergic subthalamic nucleu,3,0.5487
+dopamine depletion,l-dopa,3,0.5088
+dopamine depletion,globus pallidus externu,6,0.4724
+dopamine depletion,striatal projection neuron,3,0.4036
+dopamine depletion,indirect pathway,6,0.402
+arkypallidal neuron,globus pallidus externu,4,0.727
+globus pallidus externu,parvalbumin neuron,3,0.6381
+external globu,globus pallidus externu,3,0.6381
+globus pallidus externu,glutamatergic subthalamic nucleu,3,0.6381
+globus pallidus externu,striatal projection neuron,4,0.574
+basal ganglia,l-dopa treatment,3,0.2655
+parkinsonism,substantia nigra pars compacta,4,0.5046
+dopamine depletion,parkinsonism,3,0.2898
+parkinsonism,striatum,4,0.2581
+basal ganglia,parkinsonism,7,0.2336
+neuronal activity,parkinsonism,3,0.2305
+dopaminergic neuron,parkinsonism,4,0.2098
+dopamine,parkinsonism,3,0.2049
+dopamine neuron,striatal dopamine,3,0.4279
+dopamine release,striatal dopamine,3,0.405
+pyramidal neuron,synaptic plasticity,3,0.2483
+substantia nigra,substantia nigra pars compacta,8,0.5196
+halorhodopsin,substantia nigra,5,0.3947
+pars compacta,substantia nigra,3,0.3913
+dopamine release,substantia nigra,8,0.3777
+gaba,substantia nigra,3,0.3637
+stem cell therapy,substantia nigra,3,0.3398
+lewy bodie,substantia nigra,4,0.336
+nigrostriatal pathway,substantia nigra,3,0.2998
+pars compacta,substantia nigra pars,3,0.6605
+pars compacta,substantia nigra pars compacta,3,0.6135
+dopaminergic neuron,stem cell therapy,3,0.2824
+deep brain stimulation,non-invasive neuromodulation,5,0.3193
+deep brain stimulation,parkinsonian symptom,5,0.2626
+parkinsonian symptom,subthalamic nucleu,3,0.2413
+basal ganglia,parkinsonian symptom,3,0.1814
+cell type,ion channel,3,0.5379
+ion channel,neuronal activity,3,0.2305
+ion channel,neural circuit,4,0.1869
+dopamine replacement,dopamine replacement therapy,3,0.6489
+dopamine replacement,neurotrophic factor,3,0.6278
+dopamine replacement,levodopa-induced dyskinesia,3,0.4678
+dopamine,dopamine replacement,3,0.3398
+basal ganglia,dopamine replacement,3,0.1814
+neuroinflammation,neurotrophic factor,3,0.5708
+long-term depression,long-term potentiation,4,0.5142
+hippocampu,long-term potentiation,5,0.4543
+dentate gyru,long-term potentiation,3,0.3637
+long-term potentiation,synaptic transmission,3,0.2872
+dopamine,long-term potentiation,3,0.167
+motor deficit,synaptic plasticity,3,0.206
+neuroinflammation,neuroprotection,4,0.6561
+neurodegeneration,neuroinflammation,5,0.5199
+dopamine release,nucleus accumben,3,0.3448
+dopamine release,mechanisms underlying,3,0.3101
+dopamine neuron,dopamine release,3,0.2639
+basal ganglia,hcn channel,3,0.3055
+basal ganglia,substantia nigra pars,5,0.2564
+substantia nigra pars,subthalamic nucleu,3,0.2014
+channelrhodopsin,neuronal activity,3,0.3254
+channelrhodopsin,neural circuit,3,0.2208
+clinical trial,target cell,3,0.6605
+clinical trial,viral vector,3,0.4638
+clinical trial,neuromodulation,3,0.2828
+epilepsy,essential tremor,3,0.4794
+deep brain stimulation,epilepsy,7,0.2196
+epilepsy,neural circuit,4,0.2105
+neuroprotection,substantia nigra pars compacta,4,0.6246
+neuroprotection,substantia nigra,3,0.3187
+dopaminergic neuron,neuroprotection,3,0.2613
+hippocampu,tau,3,0.5782
+dentate gyru,hippocampu,4,0.4566
+gamma oscillation,hippocampu,4,0.433
+hippocampu,synaptic plasticity,3,0.206
+cuneiform nucleu,mesencephalic locomotor region,4,0.767
+locomotor region,mesencephalic locomotor region,4,0.7326
+mesencephalic locomotor,mesencephalic locomotor region,3,0.716
+mesencephalic locomotor region,vglut2,3,0.716
+locomotion,mesencephalic locomotor region,5,0.6894
+freezing of gait,mesencephalic locomotor region,3,0.676
+locomotor deficit,mesencephalic locomotor region,3,0.6434
+mesencephalic locomotor region,pedunculopontine nucleu,4,0.6018
+nucleus deep brain,subthalamic nucleu,3,0.3654
+cognitive function,neurodegenerative condition,3,0.5456
+cognitive function,memory,3,0.4371
+cognitive function,memory deficit,3,0.3489
+cognitive function,synaptic plasticity,4,0.2715
+closed-loop stimulation,non-human primate,4,0.694
+closed-loop stimulation,subthalamic nucleu,3,0.2202
+closed-loop stimulation,deep brain stimulation,4,0.1872
+non-human primate,subthalamic nucleu,3,0.2202
+cholinergic interneuron,muscarinic receptor,6,0.7557
+cholinergic interneuron,striatal cholinergic,8,0.7149
+basal ganglia,cholinergic interneuron,8,0.2694
+cholinergic interneuron,neuromodulation,3,0.2604
+muscarinic receptor,striatal cholinergic,3,0.5726
+medium spiny neuron,muscarinic receptor,3,0.4192
+neuromodulation,striatal cholinergic,3,0.2951
+basal ganglia,striatal cholinergic,6,0.2344
+neuromodulation,neuronal circuit,3,0.2951
+cholinergic neuron,gabaergic neuron,3,0.4468
+diagonal band,medial septum,3,0.8571
+diagonal band,gaba release,3,0.8245
+gene expression,pathological tau,3,0.6728
+gene expression,protein tau,3,0.5726
+pathological tau,protein tau,3,0.7969
+microtubule-associated protein tau,protein tau,4,0.8179
+protein tau,tau oligomerization,3,0.7569
+protein tau,tau aggregation,3,0.6517
+microtubule-associated protein tau,tau oligomerization,3,0.7845
+stress granule,tau oligomerization,3,0.8571
+protein synthesi,tau oligomerization,3,0.7845
+memory formation,memory loss,3,0.5221
+dopamine neuron,synaptic transmission,4,0.3483
+globus pallidu,synaptic transmission,3,0.2709
+channelrhodopsin-2,synaptic transmission,3,0.2633
+synaptic plasticity,synaptic transmission,3,0.1718
+dystonia,movement disorder,7,0.7314
+essential tremor,movement disorder,6,0.5846
+movement disorder,obsessive-compulsive disorder,3,0.4689
+beta oscillation,movement disorder,3,0.281
+movement disorder,subthalamic nucleu,8,0.2583
+globus pallidu,movement disorder,3,0.256
+regenerative medicine,stem cell,3,0.6861
+locomotor deficit,mouse model,3,0.6793
+gabaergic neuron,mouse model,3,0.4827
+basal ganglia,mouse model,6,0.3247
+deep brain stimulation,mouse model,4,0.1872
+lewy bodie,synuclein aggregation,5,0.6393
+mouse,neuroscience,7,0.7909
+social memory,ventral hippocampu,4,1.0
+episodic memory,social memory,3,0.897
+episodic memory,ventral hippocampu,3,0.897
+cuneiform nucleu,freezing of gait,4,0.9158
+cuneiform nucleu,pedunculopontine nucleu,4,0.7506
+cuneiform nucleu,locomotion,3,0.676
+cuneiform nucleu,deep brain stimulation,3,0.2313
+freezing of gait,pedunculopontine nucleu,4,0.7506
+deep brain stimulation,freezing of gait,4,0.2981
+locomotor region,pedunculopontine nucleu,4,0.7162
+mesencephalic locomotor,pedunculopontine nucleu,3,0.7004
+locomotion,pedunculopontine nucleu,3,0.5193
+gabaergic neuron,pedunculopontine nucleu,3,0.4312
+locomotor region,mesencephalic locomotor,3,0.8245
+basal ganglia,non-motor symptom,4,0.2708
+deep brain stimulation,non-motor symptom,3,0.1711
+gabaergic neuron,zona incerta,3,0.5879
+deep brain stimulation,zona incerta,4,0.2981
+gabaergic neuron,globus pallidus externu,3,0.3689
+gabaergic neuron,levodopa-induced dyskinesia,3,0.3227
+gabaergic neuron,substantia nigra,3,0.1946
+hyperphosphorylated tau,rat model,3,0.6381
+halorhodopsin,rat model,3,0.4414
+rat model,substantia nigra pars compacta,3,0.4271
+rat model,substantia nigra,4,0.2703
+retrosplenial cortex,spatial navigation,3,0.8571
+neuronal activity,substantia nigra pars compacta,3,0.2785
+alleviates parkinsonian,subthalamic nucleu,3,0.3654
+alleviates parkinsonian,deep brain stimulation,3,0.2712
+high-frequency deep brain,subthalamic nucleu,3,0.3654
+deep brain stimulation,high-frequency deep brain,4,0.3402
+neuronal firing,subthalamic nucleu,3,0.2652
+deep brain stimulation,neuronal firing,3,0.1711
+deep brain stimulation,stn neuron,8,0.286
+basal ganglia,stn neuron,5,0.2047
+computational modeling,deep brain stimulation,4,0.2346
+deep brain stimulation,motor recovery,3,0.2712
+deep brain stimulation,magnetic resonance imaging,4,0.2346
+autism spectrum,autism spectrum disorder,3,0.8245
+astrocyte,calcium imaging,3,0.325
+astrocyte,substantia nigra,3,0.2049
+globus pallidus externu,thalamu,3,0.4271
+subthalamic nucleu,thalamu,7,0.3608
+medium spiny neuron,thalamu,3,0.3084
+striatum,thalamu,3,0.2413
+halorhodopsin,neuronal activity,4,0.363
+dorsolateral striatum,neuronal activity,3,0.3254
+adeno-associated viru,neuronal activity,3,0.2652
+globus pallidu,neuronal activity,4,0.2402
+channelrhodopsin-2,neuronal activity,4,0.2322
+beta frequency,globus pallidu,3,0.584
+dopamine depletion,globus pallidu,4,0.3028
+basal ganglia,globus pallidu,11,0.2931
+globus pallidu,motor control,3,0.2709
+basal ganglia,inhibitory input,3,0.2329
+computational model,subthalamic nucleu,3,0.2014
+circuit mechanism,subthalamic nucleu,3,0.3254
+locomotion,motor control,5,0.5441
+bradykinesia,motor control,3,0.4838
+indirect pathway,motor control,5,0.3904
+globus pallidus externu,motor control,3,0.325
+drug delivery,neural recording,3,0.7004
+dopamine neuron,midbrain dopamine,3,0.5193
+dopamine,dopamine neuron,5,0.2753
+dopamine neuron,substantia nigra,3,0.1587
+dopaminergic neuron,gaba,3,0.3063
+globus pallidus interna,halorhodopsin,3,0.7004
+channelrhodopsin-2,halorhodopsin,7,0.6263
+halorhodopsin,neural circuit,4,0.2526
+halorhodopsin,subthalamic nucleu,3,0.1688
+spinal cord,spinal cord injury,3,0.5708
+neural circuit,spinal cord,3,0.2396
+deep brain stimulation,motor thalamu,3,0.2712
+deep brain stimulation,therapeutic mechanism,6,0.3369
+subthalamic nucleu,therapeutic mechanism,4,0.3339
+arkypallidal neuron,basal ganglia,3,0.3055
+dopamine d2 receptor,indirect pathway,5,0.5545
+direct and indirect pathway,indirect pathway,4,0.5311
+direct pathway,indirect pathway,4,0.489
+indirect pathway,involuntary movement,4,0.489
+indirect pathway,medium spiny neuron,8,0.4539
+huntington disease,indirect pathway,3,0.4312
+dopamine d1 receptor,indirect pathway,3,0.4312
+dyskinesia,indirect pathway,3,0.4123
+involuntary movement,levodopa-induced dyskinesia,9,0.7774
+dyskinesia,involuntary movement,4,0.6542
+involuntary movement,l-dopa-induced dyskinesia,4,0.5907
+involuntary movement,medium spiny neuron,3,0.3553
+basal ganglia,involuntary movement,6,0.3032
+dopamine,involuntary movement,3,0.2998
+dyskinesia,l-dopa-induced dyskinesia,6,0.7225
+l-dopa-induced dyskinesia,levodopa-induced dyskinesia,8,0.6589
+dopamine d1 receptor,l-dopa-induced dyskinesia,3,0.5277
+indirect pathway,l-dopa-induced dyskinesia,3,0.3521
+l-dopa-induced dyskinesia,medium spiny neuron,3,0.2951
+l-dopa-induced dyskinesia,striatum,3,0.2281
+dyskinesia,levodopa-induced dyskinesia,6,0.6301
+levodopa,levodopa-induced dyskinesia,4,0.5475
+dopamine d1 receptor,levodopa-induced dyskinesia,3,0.4468
+indirect pathway,levodopa-induced dyskinesia,4,0.3402
+dentate gyru,memory,4,0.5597
+memory,neural circuit,3,0.2037
+dopaminergic neuron,neurodegeneration,5,0.1793
+executive function,neuropsychiatric disorder,3,0.5603
+annual deep brain,neuropsychiatric disorder,3,0.6002
+brain stimulation think,neuropsychiatric disorder,3,0.6002
+neuroethic,neuropsychiatric disorder,3,0.6002
+drug addiction,neuropsychiatric disorder,3,0.4762
+neural activity,neuropsychiatric disorder,3,0.2722
+deep brain stimulation,neuropsychiatric disorder,8,0.1819
+brain stimulation,neural activity,3,0.1525
+dopamine d1 receptor,dopamine d2 receptor,4,0.6741
+dopamine d1 receptor,medium spiny neuron,4,0.4488
+basal ganglia,dopamine d1 receptor,3,0.1603
+dopamine d2 receptor,striatal projection neuron,3,0.5879
+dopamine d2 receptor,dopamine receptor,3,0.4542
+dopamine d2 receptor,dopamine depletion,3,0.3847
+basal ganglia,dopamine d2 receptor,4,0.2035
+dopamine d2 receptor,subthalamic nucleu,3,0.2014
+motivation,reward,3,0.8571
+deep brain stimulation,motivation,3,0.2712
+non-rapid eye movement,nrem sleep,3,0.8571
+nrem sleep,sleep,3,0.733
+direct pathway,striatum,4,0.3582
+direct pathway,neural circuit,3,0.2208
+brain region,subthalamic nucleu,3,0.1544
+brain activity,neural circuit,4,0.269
+basal ganglia,huntington disease,3,0.1603
+drug addiction,reward,3,0.733
+basal ganglia,drug addiction,3,0.1814
+deep brain stimulation,tourette syndrome,4,0.2981
+basal ganglia,tourette syndrome,3,0.2655
+stimulation frequency,subthalamic nucleu,3,0.3254
+basal ganglia,stimulation frequency,3,0.2655
+channelrhodopsin-2,optical stimulation,3,0.3174
+channelrhodopsin-2,motor control,3,0.2633
+globus pallidus externa,subthalamic nucleu,3,0.3254
+action selection,electrophysiology,4,0.7215
+action selection,dyskinesia,3,0.6931
+action selection,basal ganglia,4,0.3342
+dyskinesia,levodopa,5,0.7709
+dyskinesia,electrophysiology,4,0.5907
+electrophysiology,striatum,6,0.402
+dopamine,electrophysiology,4,0.3069
+electrophysiology,medium spiny neuron,3,0.2951
+basal ganglia,electrophysiology,5,0.1901
+cp: neuroscience,medium spiny neuron,3,0.4468
+cp: neuroscience,striatum,3,0.3797
+cp: neuroscience,subthalamic nucleu,3,0.2928
+basal ganglia,cp: neuroscience,3,0.2329
+dopamine receptor,striatopallidal neuron,3,0.6181
+dopamine depletion,dopamine receptor,5,0.3977
+dopamine receptor,striatum,6,0.3396
+dopamine,dopamine receptor,4,0.2493
+basal ganglia,dopamine receptor,8,0.2452
+dopamine,levodopa,3,0.3398
+basal ganglia,levodopa,5,0.3003
+neurofibrillary tangle,tau phosphorylation,3,0.6067
+tau phosphorylation,tau protein,3,0.6067
+basal ganglia,parvalbumin,3,0.3055
+nucleus accumben,ventral tegmental area,3,0.4762
+nucleus accumben,striatum,5,0.3516
+dopamine,nucleus accumben,4,0.3069
+basal ganglia,hyperdirect pathway,4,0.3342
+deep brain stimulation,hyperdirect pathway,4,0.2981
+striatum,ventral tegmental area,4,0.3238
+dopamine,ventral tegmental area,3,0.2672
+cellular model,living cell,3,0.8245
+eeg,sleep,3,0.733
+bradykinesia,medium spiny neuron,3,0.4192
+bradykinesia,striatum,3,0.3521
+basal ganglia,bradykinesia,4,0.2708
+bradykinesia,subthalamic nucleu,3,0.2652
+bradykinesia,deep brain stimulation,3,0.1711
+basal ganglia,direct and indirect pathway,5,0.3003
+gamma oscillation,neural oscillation,4,0.5962
+gamma oscillation,inhibitory interneuron,3,0.5655
+gamma oscillation,somatostatin interneuron,3,0.5379
+adaptive dbs,annual deep brain,3,0.897
+adaptive dbs,brain stimulation think,3,0.897
+adaptive dbs,deep brain stimulation,4,0.3402
+annual deep brain,brain stimulation think,4,1.0
+annual deep brain,neuroethic,3,0.897
+annual deep brain,deep brain stimulation,4,0.3402
+brain stimulation think,neuroethic,3,0.897
+brain stimulation think,deep brain stimulation,4,0.3402
+deep brain stimulation,neuroethic,3,0.2712
+gaba release,medial septum,3,0.7845
+basal ganglia,neuron activity,3,0.1814
+brain network,neural circuit,3,0.2396
+brain network,deep brain stimulation,5,0.2394
+dorsolateral striatum,medium spiny neuron,4,0.4289
+dorsolateral striatum,indirect pathway,3,0.4123
+adeno-associated viru,specific cell,3,0.6002
+deep brain stimulation,locomotion,5,0.1999
+basal ganglia,locomotion,4,0.1855
+locomotion,subthalamic nucleu,3,0.1843
+magnetic stimulation,transcranial magnetic stimulation,3,0.773
+deep brain stimulation,transcranial magnetic stimulation,4,0.2094
+deep brain stimulation,electrophysiological recording,4,0.2346
+basal ganglia,electrophysiological recording,3,0.2053
+brain disorder,neural circuit,3,0.2208
+dystonia,essential tremor,5,0.7784
+dystonia,obsessive-compulsive disorder,3,0.6967
+basal ganglia,dopamine replacement therapy,4,0.2456
+firing rate,subthalamic nucleu,4,0.2865
+deep brain stimulation,firing rate,4,0.1872
+basal ganglia,firing rate,3,0.1603
+basal ganglia output,subthalamic nucleu,3,0.2928
+basal ganglia,basal ganglia output,3,0.2329
+chronic pain,nociceptive hypersensitivity,3,0.6931
+deep brain stimulation,therapeutic benefit,3,0.2313
+cofilin-actin rods,hippocampal neuron,3,0.773
+basal ganglia,striatal projection neuron,5,0.2771
+basal ganglia,movement,4,0.2998
+movement,subthalamic nucleu,3,0.2928
+deep brain stimulation,movement,3,0.1987
+medium spiny neuron,parkinsonian motor,3,0.3742
+basal ganglia,parkinsonian motor,6,0.3247
+neural circuit,parkinsonian motor,3,0.2396
+parkinsonian motor,subthalamic nucleu,3,0.2202
+deep brain stimulation,parkinsonian motor,4,0.1872
+fluorescent protein,genetically encoded,3,0.676
+glutamatergic synapse,striatum,3,0.3282
+basal ganglia,basal ganglia function,3,0.3055
+mechanisms underlying,neural circuit,5,0.2391
+dopaminergic neuron,mechanisms underlying,4,0.2098
+akinesia,deep brain stimulation,4,0.1673
+basal ganglia,motor behavior,3,0.1603
+subthalamic nucleu,vivo electrophysiology,3,0.3254
+deep brain stimulation,vivo electrophysiology,3,0.2313
+basal ganglia,motor function,3,0.1814
+deep brain stimulation,local field potential,6,0.2446
+local field potential,subthalamic nucleu,3,0.1843
+deep brain stimulation,neurostimulation,4,0.2981
+deep brain stimulation,obsessive-compulsive disorder,6,0.3369
+obsessive-compulsive disorder,subthalamic nucleu,3,0.2652
+protein synthesi,stress granule,3,0.8245
+basal ganglia,network dynamic,4,0.2998
+functional integration,neural stem cell,3,0.676
+aav vector,gene delivery,3,0.897
+basal ganglia circuit,subthalamic nucleu,3,0.3254
+basal ganglia,l-dopa,3,0.2655
+basal ganglia,parkinsonian motor symptom,3,0.3055
+deep brain stimulation,parkinsonian motor symptom,3,0.2712
+deep brain stimulation,tremor,4,0.3402
+basal ganglia,short-term plasticity,3,0.3055
+optical stimulation,substantia nigra,3,0.2049
+basal ganglia,midbrain dopamine neuron,3,0.2655
+basal ganglia,neuronal synchronization,3,0.3055
