@@ -3,6 +3,30 @@
 Todas as mudanças relevantes do projeto ficam registradas aqui
 ([Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), [SemVer](https://semver.org/lang/pt-BR/)).
 
+## [Não publicado]
+
+## [0.7.0] - 2026-10-31
+
+### Adicionado
+- `topicos/`: modelagem de tópicos (BERTopic) com benchmark de embeddings, redutores (UMAP, PaCMAP, PCA) e agrupadores (HDBSCAN, DBSCAN, OPTICS, k-means, Ward, GMM), mais LDA/NMF; estabilidade por bootstrap. Ambiente próprio (Python 3.13 + uv); o pipeline principal segue só com a biblioteca padrão.
+- Rede de termos (palavras-chave + frases do texto, NPMI, comunidades Louvain, tendência) em `data/topicos/`, exportada para Gephi (`term_graph.gexf`).
+- `grafo/`: notas do Obsidian por tópico e por termo, com grupos de cor por tema na visão de grafo; `topicos/viewer.html`, visualizador web do grafo.
+- Visualizações nativas do BERTopic (`topicos/visuals.py`) em HTML, JSON e PNG, com painéis por ano e mapa hierárquico dos trabalhos; seção de tópicos no `RELATORIO.md` e imagens em `grafo/Mapa.md`.
+- Nomes dos tópicos por LLM (`topicos/labels.py`, Claude Haiku ou Ollama local via `topicos/llm.py`) com revisão à mão em `topicos/rotulos_revisados.csv`.
+- Tradução para o inglês dos 26 títulos/resumos em outras línguas antes dos embeddings (`topicos/translate.py`), que desfaz o tópico formado só pelo idioma francês.
+- `litreview/vincular.py`: liga cada artigo (selecionados, não selecionados ou todos) ao seu tópico e aos termos do glossário com `[[ ]]`, e mede cobertura, prevalência e termos por tópico em `data/termos/<conjunto>/`; glossário em `grafo/termos/` com lista de exclusões editável (`topicos/termos_excluidos.txt`).
+- Grafos por escopo no Obsidian: notas de termo e tópico em `articles/grafo-todos/` (801) e `articles/selected/grafo-selecionados/` (370), com filtros documentados; artigos com tag `tema/<n>`.
+- Cabeçalho dos artigos: `topico`, `topico_nome`, `n_termos` e `tags`; bloco `<!-- vinculos:inicio/fim -->` com o tópico e os termos depois do resumo.
+- `litreview/keywords.py`: perfil das palavras-chave (idioma, outras palavras-chave, ano, periódico, tipos, origem autor vs. OpenAlex) em `data/keywords_profile.json` e `data/keywords_prevalence.csv`.
+- Seções "Tópicos (BERTopic)" e "Termos do glossário" no `RELATORIO.md`; README explica os vínculos, as medidas dos termos e os três filtros do grafo.
+
+### Alterado
+- `./run.sh` roda `litreview.vincular` nos três conjuntos depois do `export` (que recria `articles/`), quando as saídas de `topicos/` existem.
+- `.gitignore`: `.venv/`, `data/topicos/emb_*.npy` (cache de embeddings) e `topicos/__pycache__/`.
+
+### Corrigido
+- `grafo/` é atualizado no lugar, sem apagar e recriar a pasta, o que fazia o Obsidian perder o índice e criar notas vazias ao clicar nos links.
+
 ## [0.6.0] - 2026-10-29
 
 ### Adicionado
