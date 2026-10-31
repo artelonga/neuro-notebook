@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 5
+tags: ["artigo", "tema/3"]
 ---
+Optogenetic tools have provided a new way to establish causal relationships between [[grafo/termos/brain activity|brain activity]] and behaviour in health and disease. Although no animal model captures human disease precisely, behaviours that recapitulate disease symptoms may be elicited and modulated by optogenetic methods, including behaviours that are relevant to [[grafo/termos/anxiety|anxiety]], fear, [[grafo/termos/depression|depression]], [[grafo/termos/addiction|addiction]], autism and [[grafo/termos/parkinsonism|parkinsonism]]. The rapid proliferation of optogenetic reagents together with the swift advancement of strategies for implementation has created new opportunities for causal and precise dissection of the circuits underlying brain diseases in animal models.
 
-Optogenetic tools have provided a new way to establish causal relationships between brain activity and behaviour in health and disease. Although no animal model captures human disease precisely, behaviours that recapitulate disease symptoms may be elicited and modulated by optogenetic methods, including behaviours that are relevant to anxiety, fear, depression, addiction, autism and parkinsonism. The rapid proliferation of optogenetic reagents together with the swift advancement of strategies for implementation has created new opportunities for causal and precise dissection of the circuits underlying brain diseases in animal models.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (5):** [[grafo/termos/addiction|addiction]] · [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/depression|depression]] · [[grafo/termos/parkinsonism|parkinsonism]]
+<!-- vinculos:fim -->

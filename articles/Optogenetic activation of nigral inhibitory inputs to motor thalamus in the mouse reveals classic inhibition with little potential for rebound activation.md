@@ -64,6 +64,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 7
+tags: ["artigo", "tema/1"]
 ---
+The inhibitory output from the internal pallidum and [[grafo/termos/substantia nigra|substantia nigra]] to the [[grafo/termos/thalamus|thalamus]] forms an important link in the transmission of [[grafo/termos/basal ganglia|basal ganglia]] processing to cortex. Two hypotheses consider either inhibition of thalamic activity or thalamic excitation via post-inhibitory rebound burst firing as the functional mode of this link. We used optogenetics to characterize the [[grafo/termos/synaptic properties|synaptic properties]] of nigral input to [[grafo/termos/motor thalamus|motor thalamus]] in adult mouse [[grafo/termos/brain slices|brain slices]], and to determine in what conditions the nigral inhibition of motor thalamus is transmitted via inhibition or rebound firing. Our results are more consistent with graded inhibition of spiking for conditions expected in normal awake animals, because inhibitory potentials from nigral input were generally not sufficient to elicit rebound spikes when the thalamic neurons were actively firing. However, with bursty or fast trains of nigral input low-threshold rebound spike bursts could be triggered for low levels of excitation. This may form the basis of pathological burst generation and transmission in [[grafo/termos/parkinsonian conditions|parkinsonian conditions]].
 
-The inhibitory output from the internal pallidum and substantia nigra to the thalamus forms an important link in the transmission of basal ganglia processing to cortex. Two hypotheses consider either inhibition of thalamic activity or thalamic excitation via post-inhibitory rebound burst firing as the functional mode of this link. We used optogenetics to characterize the synaptic properties of nigral input to motor thalamus in adult mouse brain slices, and to determine in what conditions the nigral inhibition of motor thalamus is transmitted via inhibition or rebound firing. Our results are more consistent with graded inhibition of spiking for conditions expected in normal awake animals, because inhibitory potentials from nigral input were generally not sufficient to elicit rebound spikes when the thalamic neurons were actively firing. However, with bursty or fast trains of nigral input low-threshold rebound spike bursts could be triggered for low levels of excitation. This may form the basis of pathological burst generation and transmission in parkinsonian conditions.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (7):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/brain slices|brain slices]] · [[grafo/termos/motor thalamus|motor thalamus]] · [[grafo/termos/parkinsonian conditions|parkinsonian conditions]] · [[grafo/termos/substantia nigra|substantia nigra]] · [[grafo/termos/synaptic properties|synaptic properties]] · [[grafo/termos/thalamus|thalamus]]
+<!-- vinculos:fim -->

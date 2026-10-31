@@ -44,6 +44,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 2
+tags: ["artigo", "tema/3"]
 ---
+The human nervous system can be damaged as a result of disease or trauma, causing conditions such as Parkinson's disease. Most people try pharmaceuticals as a primary method of treatment. However, drugs cannot restore some cases, such as visual disorder. Alternatively, this impairment can be treated with electronic neural prostheses. A retinal prosthesis is an example of that for restoring sight, but it is not efficient and only people with retinal pigmentosa benefit from it. In such treatments, stimulation of the nervous system can be achieved by electrical or optical means. In the latter case, the nerves need to be rendered [[grafo/termos/light sensitive|light sensitive]] via genetic means (optogenetics). High radiance photonic devices are then required to deliver light to the target tissue. Such optical approaches hold the potential to be more effective while causing less harm to the [[grafo/termos/brain tissue|brain tissue]]. As these devices are implanted in tissue, wireless means need to be used to communicate with them. For this, IEEE 802.15.6 or Bluetooth protocols at 2.4GHz are potentially compatible with most advanced electronic devices, and are also safe and secure. Also, wireless power delivery can operate the implanted device. In this thesis, a fully wireless ... (continues)
 
-The human nervous system can be damaged as a result of disease or trauma, causing conditions such as Parkinson's disease. Most people try pharmaceuticals as a primary method of treatment. However, drugs cannot restore some cases, such as visual disorder. Alternatively, this impairment can be treated with electronic neural prostheses. A retinal prosthesis is an example of that for restoring sight, but it is not efficient and only people with retinal pigmentosa benefit from it. In such treatments, stimulation of the nervous system can be achieved by electrical or optical means. In the latter case, the nerves need to be rendered light sensitive via genetic means (optogenetics). High radiance photonic devices are then required to deliver light to the target tissue. Such optical approaches hold the potential to be more effective while causing less harm to the brain tissue. As these devices are implanted in tissue, wireless means need to be used to communicate with them. For this, IEEE 802.15.6 or Bluetooth protocols at 2.4GHz are potentially compatible with most advanced electronic devices, and are also safe and secure. Also, wireless power delivery can operate the implanted device. In this thesis, a fully wireless ... (continues)
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (2):** [[grafo/termos/brain tissue|brain tissue]] · [[grafo/termos/light sensitive|light sensitive]]
+<!-- vinculos:fim -->

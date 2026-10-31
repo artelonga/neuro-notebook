@@ -77,6 +77,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 5
+tags: ["artigo", "tema/1"]
 ---
+Identifying the properties of the rapid eye movement (REM) [[grafo/termos/sleep|sleep]] circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the [[grafo/termos/brainstem|brainstem]]. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp+ neurons) and project to the medulla promote [[grafo/termos/rem sleep|REM sleep]]. Within the medullary area receiving projections from Crhbp+ neurons, neurons expressing nitric oxide synthase 1 (Nos1+ neurons) project to the SubLDT and promote REM sleep, suggesting a positively interacting loop between the pons and the medulla operating as a core REM sleep circuit. Nos1+ neurons also project to areas that control wide forebrain activity. Ablating Crhbp+ neurons reduces sleep and impairs REM sleep atonia. In Parkinson's disease patients with REM sleep behavior disorders, CRHBP-immunoreactive neurons are largely reduced and contain pathologic [[grafo/termos/α-synuclein|α-synuclein]], providing insight into the [[grafo/termos/mechanisms underlying|mechanisms underlying]] the sleep deficits characterizing this disease.
 
-Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp+ neurons) and project to the medulla promote REM sleep. Within the medullary area receiving projections from Crhbp+ neurons, neurons expressing nitric oxide synthase 1 (Nos1+ neurons) project to the SubLDT and promote REM sleep, suggesting a positively interacting loop between the pons and the medulla operating as a core REM sleep circuit. Nos1+ neurons also project to areas that control wide forebrain activity. Ablating Crhbp+ neurons reduces sleep and impairs REM sleep atonia. In Parkinson's disease patients with REM sleep behavior disorders, CRHBP-immunoreactive neurons are largely reduced and contain pathologic α-synuclein, providing insight into the mechanisms underlying the sleep deficits characterizing this disease.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (5):** [[grafo/termos/brainstem|brainstem]] · [[grafo/termos/mechanisms underlying|mechanisms underlying]] · [[grafo/termos/rem sleep|rem sleep]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/α-synuclein|α-synuclein]]
+<!-- vinculos:fim -->

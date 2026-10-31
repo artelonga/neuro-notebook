@@ -51,6 +51,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T14"
+topico_nome: "Terapia celular com células-tronco"
+n_termos: 0
+tags: ["artigo", "tema/6"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T14 Terapia celular com células-tronco|T14 · Terapia celular com células-tronco]]
+<!-- vinculos:fim -->

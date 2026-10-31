@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 6
+tags: ["artigo", "tema/3"]
 ---
+[[grafo/termos/channelrhodopsin|Channelrhodopsins]] are used widely for [[grafo/termos/optical control|optical control]] of neurons, in which they generate photoinduced proton, sodium or chloride influx. Potassium (K+) is central to neuron [[grafo/termos/electrophysiology|electrophysiology]], yet no natural K+-selective light-gated channel has been identified. Here, we report kalium channelrhodopsins (KCRs) from Hyphochytrium catenoides. Previously known gated [[grafo/termos/potassium channels|potassium channels]] are mainly ligand- or voltage-gated and share a conserved K+-selectivity filter. KCRs differ in that they are light-gated and have independently evolved an alternative K+ selectivity mechanism. The KCRs are potent, highly selective of K+ over Na+, and open in less than 1 ms following photoactivation. The permeability ratio PK/PNa of 23 makes H. catenoides KCR1 (HcKCR1) a powerful hyperpolarizing tool to suppress excitable cell firing upon illumination, demonstrated here in mouse [[grafo/termos/cortical neurons|cortical neurons]]. HcKCR1 enables optogenetic control of K+ gradients, which is promising for the study and potential treatment of potassium channelopathies such as [[grafo/termos/epilepsy|epilepsy]], Parkinson's disease and long-QT syndrome and other cardiac arrhythmias.
 
-Channelrhodopsins are used widely for optical control of neurons, in which they generate photoinduced proton, sodium or chloride influx. Potassium (K+) is central to neuron electrophysiology, yet no natural K+-selective light-gated channel has been identified. Here, we report kalium channelrhodopsins (KCRs) from Hyphochytrium catenoides. Previously known gated potassium channels are mainly ligand- or voltage-gated and share a conserved K+-selectivity filter. KCRs differ in that they are light-gated and have independently evolved an alternative K+ selectivity mechanism. The KCRs are potent, highly selective of K+ over Na+, and open in less than 1 ms following photoactivation. The permeability ratio PK/PNa of 23 makes H. catenoides KCR1 (HcKCR1) a powerful hyperpolarizing tool to suppress excitable cell firing upon illumination, demonstrated here in mouse cortical neurons. HcKCR1 enables optogenetic control of K+ gradients, which is promising for the study and potential treatment of potassium channelopathies such as epilepsy, Parkinson's disease and long-QT syndrome and other cardiac arrhythmias.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (6):** [[grafo/termos/channelrhodopsin|channelrhodopsin]] · [[grafo/termos/cortical neurons|cortical neurons]] · [[grafo/termos/electrophysiology|electrophysiology]] · [[grafo/termos/epilepsy|epilepsy]] · [[grafo/termos/optical control|optical control]] · [[grafo/termos/potassium channels|potassium channels]]
+<!-- vinculos:fim -->

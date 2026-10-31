@@ -62,6 +62,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 8
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] (STN) is a key area of the [[grafo/termos/basal ganglia circuitry|basal ganglia circuitry]] regulating movement. We identified a subpopulation of neurons within this structure that coexpresses [[grafo/termos/vglut2|Vglut2]] and Pitx2, and by conditional targeting of this subpopulation we reduced Vglut2 expression levels in the STN by 40%, leaving Pitx2 expression intact. This reduction diminished, yet did not eliminate, [[grafo/termos/glutamatergic transmission|glutamatergic transmission]] in the [[grafo/termos/substantia nigra pars reticulata|substantia nigra pars reticulata]] and [[grafo/termos/entopeduncular nucleus|entopeduncular nucleus]], two major targets of the STN. The knockout mice displayed hyperlocomotion and decreased latency in the initiation of movement while preserving normal gait and balance. Spatial [[grafo/termos/cognition|cognition]], social function, and level of impulsive choice also remained undisturbed. Furthermore, these mice showed reduced [[grafo/termos/dopamine|dopamine]] transporter binding and slower dopamine clearance in vivo, suggesting that Vglut2-expressing cells in the STN regulate dopaminergic transmission. Our results demonstrate that altering the contribution of a limited population within the STN is sufficient to achieve results similar to STN lesions and high-frequency stimulation, but with fewer side effects.
 
-The subthalamic nucleus (STN) is a key area of the basal ganglia circuitry regulating movement. We identified a subpopulation of neurons within this structure that coexpresses Vglut2 and Pitx2, and by conditional targeting of this subpopulation we reduced Vglut2 expression levels in the STN by 40%, leaving Pitx2 expression intact. This reduction diminished, yet did not eliminate, glutamatergic transmission in the substantia nigra pars reticulata and entopeduncular nucleus, two major targets of the STN. The knockout mice displayed hyperlocomotion and decreased latency in the initiation of movement while preserving normal gait and balance. Spatial cognition, social function, and level of impulsive choice also remained undisturbed. Furthermore, these mice showed reduced dopamine transporter binding and slower dopamine clearance in vivo, suggesting that Vglut2-expressing cells in the STN regulate dopaminergic transmission. Our results demonstrate that altering the contribution of a limited population within the STN is sufficient to achieve results similar to STN lesions and high-frequency stimulation, but with fewer side effects.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+
+**Termos (8):** [[grafo/termos/basal ganglia circuitry|basal ganglia circuitry]] · [[grafo/termos/cognition|cognition]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/entopeduncular nucleus|entopeduncular nucleus]] · [[grafo/termos/glutamatergic transmission|glutamatergic transmission]] · [[grafo/termos/substantia nigra pars reticulata|substantia nigra pars reticulata]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] · [[grafo/termos/vglut2|vglut2]]
+<!-- vinculos:fim -->

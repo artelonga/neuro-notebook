@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 7
+tags: ["artigo", "tema/4"]
 ---
+The surgical treatment of Parkinson's disease has made significant progress over the past 70 years; however, its scope of effectiveness remains limited to [[grafo/termos/motor symptoms|motor symptoms]] like [[grafo/termos/bradykinesia|bradykinesia]], rigidity, [[grafo/termos/tremor|tremor]] and medication-induced [[grafo/termos/dyskinesia|dyskinesias]]. The field of surgery initially developed from lesioning procedures and then transitioned largely to [[grafo/termos/deep brain stimulation|deep brain stimulation]] due to its properties of adaptability and reversibility. Interestingly, there has been a renewed interest in lesioning procedures secondary to the introduction of [[grafo/termos/focused ultrasound|focused ultrasound]], a non-invasive technology. Despite the various current therapies' effectiveness, there is a significant need for developing treatments to modify the disease process itself. To date, [[grafo/termos/gene therapy|gene therapy]], immunotherapy, and cell transplantation trials have had both promising and disappointing results. Newer techniques being developed (optogenetics, magnetogenetics, and sonogenetics) are exciting possibilities for the future. Here, we examine and speculate on novel potential surgical treatments for Parkinson's disease.
 
-The surgical treatment of Parkinson's disease has made significant progress over the past 70 years; however, its scope of effectiveness remains limited to motor symptoms like bradykinesia, rigidity, tremor and medication-induced dyskinesias. The field of surgery initially developed from lesioning procedures and then transitioned largely to deep brain stimulation due to its properties of adaptability and reversibility. Interestingly, there has been a renewed interest in lesioning procedures secondary to the introduction of focused ultrasound, a non-invasive technology. Despite the various current therapies' effectiveness, there is a significant need for developing treatments to modify the disease process itself. To date, gene therapy, immunotherapy, and cell transplantation trials have had both promising and disappointing results. Newer techniques being developed (optogenetics, magnetogenetics, and sonogenetics) are exciting possibilities for the future. Here, we examine and speculate on novel potential surgical treatments for Parkinson's disease.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (7):** [[grafo/termos/bradykinesia|bradykinesia]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/dyskinesia|dyskinesia]] · [[grafo/termos/focused ultrasound|focused ultrasound]] · [[grafo/termos/gene therapy|gene therapy]] · [[grafo/termos/motor symptoms|motor symptoms]] · [[grafo/termos/tremor|tremor]]
+<!-- vinculos:fim -->

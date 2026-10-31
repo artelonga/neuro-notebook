@@ -47,6 +47,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer's disease (AD) is the most [[grafo/termos/common neurodegenerative|common neurodegenerative]] disease and cause of dementia. It is associated with progressive [[grafo/termos/cognitive decline|cognitive decline]] due to the development of cortical and hippocampal atrophy. We reviewed key factors in AD pathogenesis, such as [[grafo/termos/synaptic dysfunction|synaptic dysfunction]], accumulation and aggregation of [[grafo/termos/amyloid beta|amyloid beta]] (A) peptide, [[grafo/termos/tau phosphorylation|tau phosphorylation]] causing [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]], [[grafo/termos/mitochondrial dysfunction|mitochondrial dysfunction]], and [[grafo/termos/neuroinflammation|neuroinflammation]]. We studied the dysbiosis role in AD development and demonstrated how much the bidirectional communication between the gut and brain sheds new light on some pathogenic processes underlying AD. We reviewed state-of-the-art biomedical technologies for studying AD: transgenic models, electrophysiological techniques, optogenetics, multi-omics approaches, neuroimaging, etc. New biomedical technologies significantly expanded our current knowledge of the AD pathogenesis and laid the groundwork for state-of-the-art treatment approaches.
 
-Alzheimer's disease (AD) is the most common neurodegenerative disease and cause of dementia. It is associated with progressive cognitive decline due to the development of cortical and hippocampal atrophy. We reviewed key factors in AD pathogenesis, such as synaptic dysfunction, accumulation and aggregation of amyloid beta (A) peptide, tau phosphorylation causing neurofibrillary tangles, mitochondrial dysfunction, and neuroinflammation. We studied the dysbiosis role in AD development and demonstrated how much the bidirectional communication between the gut and brain sheds new light on some pathogenic processes underlying AD. We reviewed state-of-the-art biomedical technologies for studying AD: transgenic models, electrophysiological techniques, optogenetics, multi-omics approaches, neuroimaging, etc. New biomedical technologies significantly expanded our current knowledge of the AD pathogenesis and laid the groundwork for state-of-the-art treatment approaches.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (8):** [[grafo/termos/amyloid beta|amyloid beta]] · [[grafo/termos/cognitive decline|cognitive decline]] · [[grafo/termos/common neurodegenerative|common neurodegenerative]] · [[grafo/termos/mitochondrial dysfunction|mitochondrial dysfunction]] · [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] · [[grafo/termos/neuroinflammation|neuroinflammation]] · [[grafo/termos/synaptic dysfunction|synaptic dysfunction]] · [[grafo/termos/tau phosphorylation|tau phosphorylation]]
+<!-- vinculos:fim -->

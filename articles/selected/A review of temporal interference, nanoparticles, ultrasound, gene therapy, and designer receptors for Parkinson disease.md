@@ -67,6 +67,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 6
+tags: ["artigo", "tema/4"]
 ---
+In this review, we summarize preclinical and [[grafo/termos/clinical trials|clinical trials]] investigating innovative neuromodulatory approaches for Parkinson disease (PD) [[grafo/termos/motor symptoms|motor symptom]] management. We highlight the following technologies: temporal interference, nanoparticles for [[grafo/termos/drug delivery|drug delivery]], [[grafo/termos/blood-brain barrier|blood-brain barrier]] opening, [[grafo/termos/gene therapy|gene therapy]], optogenetics, upconversion nanoparticles, magnetothermal nanoparticles, magnetoelectric nanoparticles, ultrasound-responsive nanoparticles, and [[grafo/termos/designer receptors exclusively|designer receptors exclusively]] activated by designer drugs. These studies establish the basis for novel and promising neuromodulatory treatments for PD motor symptoms.
 
-In this review, we summarize preclinical and clinical trials investigating innovative neuromodulatory approaches for Parkinson disease (PD) motor symptom management. We highlight the following technologies: temporal interference, nanoparticles for drug delivery, blood-brain barrier opening, gene therapy, optogenetics, upconversion nanoparticles, magnetothermal nanoparticles, magnetoelectric nanoparticles, ultrasound-responsive nanoparticles, and designer receptors exclusively activated by designer drugs. These studies establish the basis for novel and promising neuromodulatory treatments for PD motor symptoms.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (6):** [[grafo/termos/blood-brain barrier|blood-brain barrier]] · [[grafo/termos/clinical trials|clinical trials]] · [[grafo/termos/designer receptors exclusively|designer receptors exclusively]] · [[grafo/termos/drug delivery|drug delivery]] · [[grafo/termos/gene therapy|gene therapy]] · [[grafo/termos/motor symptoms|motor symptoms]]
+<!-- vinculos:fim -->

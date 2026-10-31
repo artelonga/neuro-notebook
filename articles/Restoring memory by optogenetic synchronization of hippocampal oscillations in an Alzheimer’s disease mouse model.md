@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 3
+tags: ["artigo", "tema/2"]
 ---
+Disrupted [[grafo/termos/neural oscillations|neural oscillations]] are a feature of Alzheimer’s disease (AD). We observed reduced frequency of theta oscillations in the hippocampal [[grafo/termos/local field potentials|local field potential]] (LFP) in a mouse model of beta-amyloidosis. By restoring the temporal organization of theta oscillations using LFP-guided closed-loop optogenetic stimulation of parvalbumin-positive interneurons, we could rescue [[grafo/termos/memory deficits|memory deficits]] of APP/PS1 mice in the novel object recognition test.
 
-Disrupted neural oscillations are a feature of Alzheimer’s disease (AD). We observed reduced frequency of theta oscillations in the hippocampal local field potential (LFP) in a mouse model of beta-amyloidosis. By restoring the temporal organization of theta oscillations using LFP-guided closed-loop optogenetic stimulation of parvalbumin-positive interneurons, we could rescue memory deficits of APP/PS1 mice in the novel object recognition test.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (3):** [[grafo/termos/local field potentials|local field potentials]] · [[grafo/termos/memory deficits|memory deficits]] · [[grafo/termos/neural oscillations|neural oscillations]]
+<!-- vinculos:fim -->

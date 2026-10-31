@@ -62,6 +62,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T18"
+topico_nome: "Região locomotora mesencefálica"
+n_termos: 2
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] (STN) is traditionally thought to restrict movement. Lesion or prolonged STN inhibition increases movement vigor and propensity, while optogenetic excitation has opposing effects. However, STN neurons often exhibit movement-related increases in firing. To address this paradox, STN activity was recorded and manipulated in head-fixed mice at rest and during self-initiated and self-paced treadmill [[grafo/termos/locomotion|locomotion]]. We found that (1) most STN neurons (type 1) exhibit locomotion-dependent increases in activity, with half firing preferentially during the propulsive phase of the contralateral locomotor cycle; (2) a minority of STN neurons exhibit dips in activity or are uncorrelated with movement; (3) brief optogenetic inhibition of the lateral STN (where type 1 neurons are concentrated) slows and prematurely terminates locomotion; and (4) in Q175 Huntington's disease mice, abnormally brief, low-velocity locomotion is associated with type 1 hypoactivity. Together, these data argue that movement-related increases in STN activity contribute to optimal locomotor performance.
 
-The subthalamic nucleus (STN) is traditionally thought to restrict movement. Lesion or prolonged STN inhibition increases movement vigor and propensity, while optogenetic excitation has opposing effects. However, STN neurons often exhibit movement-related increases in firing. To address this paradox, STN activity was recorded and manipulated in head-fixed mice at rest and during self-initiated and self-paced treadmill locomotion. We found that (1) most STN neurons (type 1) exhibit locomotion-dependent increases in activity, with half firing preferentially during the propulsive phase of the contralateral locomotor cycle; (2) a minority of STN neurons exhibit dips in activity or are uncorrelated with movement; (3) brief optogenetic inhibition of the lateral STN (where type 1 neurons are concentrated) slows and prematurely terminates locomotion; and (4) in Q175 Huntington's disease mice, abnormally brief, low-velocity locomotion is associated with type 1 hypoactivity. Together, these data argue that movement-related increases in STN activity contribute to optimal locomotor performance.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T18 Região locomotora mesencefálica|T18 · Região locomotora mesencefálica]]
+
+**Termos (2):** [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]]
+<!-- vinculos:fim -->

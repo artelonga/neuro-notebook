@@ -1,0 +1,68 @@
+---
+tipo: "termo"
+escopo: "todos"
+termo: "mechanisms underlying"
+textos: 50
+N: 801
+cobertura: 6.24
+prevalencia: 2.45
+topico: "T07"
+tags: ["termo", "tema/2"]
+---
+
+# mechanisms underlying
+
+**50 de 801 textos (6.24%)** · prevalência 2.45 por 10 mil palavras · tópico dominante: [[grafo-todos/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]] · verbete geral: [[grafo/termos/mechanisms underlying|mechanisms underlying]]
+
+## Artigos (50)
+
+- [Activation of silent synapses driven by emerging technologies: mechanisms, disease associations, and prospects for clinical translation. (2026)](../../selected/Activation%20of%20silent%20synapses%20driven%20by%20emerging%20technologies-%20mechanisms%2C%20disease%20associations%2C%20and%20prospects%20for%20clinical%20translation.md)
+- [Illuminating early Alzheimer's disease: optogenetic approaches to restoring sleep-dependent slow oscillation (2026)](../../selected/Illuminating%20early%20Alzheimer%27s%20disease-%20optogenetic%20approaches%20to%20restoring%20sleep-dependent%20slow%20oscillation.md)
+- [Locus coeruleus-norepinephrine system dysfunction: A new concept in cognitive aging and neurodegenerative diseases. (2026)](../../selected/Locus%20coeruleus-norepinephrine%20system%20dysfunction-%20A%20new%20concept%20in%20cognitive%20aging%20and%20neurodegenerative%20diseases.md)
+- [Microcircuit Mechanisms of Primary Motor Cortex Dysfunction in Parkinsonism (2026)](../../Microcircuit%20Mechanisms%20of%20Primary%20Motor%20Cortex%20Dysfunction%20in%20Parkinsonism.md)
+- [Regulation of short-term declarative memory by selective activation of the locus coeruleus-retrosplenial cortex dopaminergic pathway and its pathological alterations in Parkinson's disease. (2026)](../../selected/Regulation%20of%20short-term%20declarative%20memory%20by%20selective%20activation%20of%20the%20locus%20coeruleus-retrosplenial%20cortex%20dopaminergic%20pathway%20and%20its%20pathological%20alterations%20in%20Parkinson%27s.md)
+- [Simultaneous In Vivo Electrophysiology, Two-Photon Imaging, and Optogenetics for Probing Neurovascular Coupling. (2026)](../../selected/Simultaneous%20In%20Vivo%20Electrophysiology%2C%20Two-Photon%20Imaging%2C%20and%20Optogenetics%20for%20Probing%20Neurovascular%20Coupling.md)
+- [The dynamic impairment of synaptic transmission in the PCx-IL engram circuit contributes to early olfactory memory decline in Alzheimer's disease. (2026)](../../selected/The%20dynamic%20impairment%20of%20synaptic%20transmission%20in%20the%20PCx-IL%20engram%20circuit%20contributes%20to%20early%20olfactory%20memory%20decline%20in%20Alzheimer%27s%20disease.md)
+- [Time Course and Microcircuit Mechanisms of Primary Motor Cortex Dysfunction in Progressive Parkinsonism. (2026)](../../Time%20Course%20and%20Microcircuit%20Mechanisms%20of%20Primary%20Motor%20Cortex%20Dysfunction%20in%20Progressive%20Parkinsonism.md)
+- [Ursolic acid reduces Aβ-driven aggression via Gab1-mediated autophagy and dorsal hippocampal circuit modulation in Alzheimer's disease. (2026)](../../selected/Ursolic%20acid%20reduces%20A%CE%B2-driven%20aggression%20via%20Gab1-mediated%20autophagy%20and%20dorsal%20hippocampal%20circuit%20modulation%20in%20Alzheimer%27s%20disease.md)
+- [Abnormal activity in the brainstem affects gait in a neuromusculoskeletal model. (2025)](../../selected/Abnormal%20activity%20in%20the%20brainstem%20affects%20gait%20in%20a%20neuromusculoskeletal%20model.md)
+- [Emerging biophysical techniques for probing synaptic transmission in neurodegenerative disorders. (2025)](../../selected/Emerging%20biophysical%20techniques%20for%20probing%20synaptic%20transmission%20in%20neurodegenerative%20disorders.md)
+- [Optogenetic-induced α-synuclein accumulation reveals early synaptic dysfunction in experimental models of Parkinson's disease. (2025)](../../selected/Optogenetic-induced%20%CE%B1-synuclein%20accumulation%20reveals%20early%20synaptic%20dysfunction%20in%20experimental%20models%20of%20Parkinson%27s%20disease.md)
+- [Segregated supramammillary-dentate gyrus circuits modulate cognitive and affective function in healthy and Alzheimer's disease model mice. (2025)](../../selected/Segregated%20supramammillary-dentate%20gyrus%20circuits%20modulate%20cognitive%20and%20affective%20function%20in%20healthy%20and%20Alzheimer%27s%20disease%20model%20mice.md)
+- [A pontine-medullary loop crucial for REM sleep and its deficit in Parkinson's disease. (2024)](../../selected/A%20pontine-medullary%20loop%20crucial%20for%20REM%20sleep%20and%20its%20deficit%20in%20Parkinson%27s%20disease.md)
+- [Dorsal raphe nucleus-hippocampus serotonergic circuit underlies the depressive and cognitive impairments in 5×FAD male mice. (2024)](../../selected/Dorsal%20raphe%20nucleus-hippocampus%20serotonergic%20circuit%20underlies%20the%20depressive%20and%20cognitive%20impairments%20in%205%C3%97FAD%20male%20mice.md)
+- [Excessive firing of dyskinesia-associated striatal direct pathway neurons is gated by dopamine and excitatory synaptic input. (2024)](../../selected/Excessive%20firing%20of%20dyskinesia-associated%20striatal%20direct%20pathway%20neurons%20is%20gated%20by%20dopamine%20and%20excitatory%20synaptic%20input.md)
+- [Rescuing impaired hippocampal-cortical interactions and spatial reorientation learning and memory during sleep in a mouse model of Alzheimer's disease using hippocampal 40 Hz stimulation. (2024)](../../Rescuing%20impaired%20hippocampal-cortical%20interactions%20and%20spatial%20reorientation%20learning%20and%20memory%20during%20sleep%20in%20a%20mouse%20model%20of%20Alzheimer%27s%20disease%20using%20hippocampal%2040%20Hz%20stimu.md)
+- [Synaptic Changes in Pallidostriatal Circuits Observed in the Parkinsonian Model Triggers Abnormal Beta Synchrony with Accurate Spatio-temporal Properties across the Basal Ganglia. (2024)](../../selected/Synaptic%20Changes%20in%20Pallidostriatal%20Circuits%20Observed%20in%20the%20Parkinsonian%20Model%20Triggers%20Abnormal%20Beta%20Synchrony%20with%20Accurate%20Spatio-temporal%20Properties%20across%20the%20Basal%20Ganglia.md)
+- [Urolithin A Inhibits Anterior Basolateral Amygdala to Ventral Hippocampal CA1 Circuit to Ameliorate Amyloid-β-Impaired Social Ability. (2024)](../../selected/Urolithin%20A%20Inhibits%20Anterior%20Basolateral%20Amygdala%20to%20Ventral%20Hippocampal%20CA1%20Circuit%20to%20Ameliorate%20Amyloid-%CE%B2-Impaired%20Social%20Ability.md)
+- [OPTOGENETIC STIMULATION OF THE INFERIOR COLLICULUS ACTIVATES NEURONS IN THE MESENCEPHALIC LOCOMOTOR REGION AND INDUCES PARADOXICAL KINESIA (2023)](../../selected/OPTOGENETIC%20STIMULATION%20OF%20THE%20INFERIOR%20COLLICULUS%20ACTIVATES%20NEURONS%20IN%20THE%20MESENCEPHALIC%20LOCOMOTOR%20REGION%20AND%20INDUCES%20PARADOXICAL%20KINESIA.md)
+- [Optogenetic targeting of astrocytes restores slow brain rhythm function and slows Alzheimer's disease pathology. (2023)](../../selected/Optogenetic%20Targeting%20of%20Astrocytes%20Restores%20Slow%20Brain%20Rhythm%20Function%20and%20Slows%20Alzheimer%27s%20Disease%20Pathology.md)
+- [Selective Activation of Subthalamic Nucleus Output Quantitatively Scales Movements. (2023)](../../selected/Selective%20Activation%20of%20Subthalamic%20Nucleus%20Output%20Quantitatively%20Scales%20Movements.md)
+- [Direct-laser-writing of arbitrary long waveguides in optical fibers (2022)](../../Direct-laser-writing%20of%20arbitrary%20long%20waveguides%20in%20optical%20fibers.md)
+- [Category learning in rodents using touchscreen-based tasks. (2021)](../../selected/Category%20learning%20in%20rodents%20using%20touchscreen-based%20tasks.md)
+- [Histaminergic neurons in the tuberomammillary nucleus as a control centre for wakefulness. (2021)](../../selected/Histaminergic%20neurons%20in%20the%20tuberomammillary%20nucleus%20as%20a%20control%20centre%20for%20wakefulness.md)
+- [Illuminating Neural Circuits in Alzheimer's Disease. (2021)](../../selected/Illuminating%20Neural%20Circuits%20in%20Alzheimer%27s%20Disease.md)
+- [Causal evidence of network communication in whole-brain dynamics through a multiplexed neural code (2020)](../../Causal%20evidence%20of%20network%20communication%20in%20whole-brain%20dynamics%20through%20a%20multiplexed%20neural%20code.md)
+- [Deep Brain Stimulation of the Subthalamic Nucleus Modulates Reward-Related Behavior: A Systematic Review. (2020)](../../selected/Deep%20Brain%20Stimulation%20of%20the%20Subthalamic%20Nucleus%20Modulates%20Reward-Related%20Behavior-%20A%20Systematic%20Review.md)
+- [Dissociation of somatostatin and parvalbumin interneurons circuit dysfunctions underlying hippocampal theta and gamma oscillations impaired by amyloid β oligomers in vivo. (2020)](../../selected/Dissociation%20of%20somatostatin%20and%20parvalbumin%20interneurons%20circuit%20dysfunctions%20underlying%20hippocampal%20theta%20and%20gamma%20oscillations%20impaired%20by%20amyloid%20%CE%B2%20oligomers%20in%20vivo.md)
+- [Dysregulation of external globus pallidus-subthalamic nucleus network dynamics in parkinsonian mice during cortical slow-wave activity and activation. (2020)](../../selected/Dysregulation%20of%20external%20globus%20pallidus-subthalamic%20nucleus%20network%20dynamics%20in%20parkinsonian%20mice%20during%20cortical%20slow-wave%20activity%20and%20activation.md)
+- [Slow Wave Sleep Is a Promising Intervention Target for Alzheimer's Disease. (2020)](../../selected/Slow%20Wave%20Sleep%20Is%20a%20Promising%20Intervention%20Target%20for%20Alzheimer%27s%20Disease.md)
+- [Dopamine Acts via D2-Like Receptors to Modulate Auditory Responses in the Inferior Colliculus. (2019)](../../Dopamine%20Acts%20via%20D2-Like%20Receptors%20to%20Modulate%20Auditory%20Responses%20in%20the%20Inferior%20Colliculus.md)
+- [Aberrant Striatal Activity in Parkinsonism and Levodopa-Induced Dyskinesia. (2018)](../../Aberrant%20Striatal%20Activity%20in%20Parkinsonism%20and%20Levodopa-Induced%20Dyskinesia.md)
+- [Astrocytes and presynaptic plasticity in the striatum: Evidence and unanswered questions. (2018)](../../Astrocytes%20and%20presynaptic%20plasticity%20in%20the%20striatum-%20Evidence%20and%20unanswered%20questions.md)
+- [Dopamine: Opening the door of movement (2018)](../../Dopamine-%20Opening%20the%20door%20of%20movement.md)
+- [Motor complications in Parkinson's disease: Striatal molecular and electrophysiological mechanisms of dyskinesias. (2018)](../../Motor%20complications%20in%20Parkinson%27s%20disease-%20Striatal%20molecular%20and%20electrophysiological%20mechanisms%20of%20dyskinesias.md)
+- [Biomarkers and Stimulation Algorithms for Adaptive Brain Stimulation. (2017)](../../Biomarkers%20and%20Stimulation%20Algorithms%20for%20Adaptive%20Brain%20Stimulation.md)
+- [Illuminating Neural Circuits: From Molecules to MRI. (2017)](../../Illuminating%20Neural%20Circuits-%20From%20Molecules%20to%20MRI.md)
+- [Optogenetic Rescue of Locomotor Dysfunction and Dopaminergic Degeneration Caused by Alpha-Synuclein and EKO Genes. (2017)](../../Optogenetic%20Rescue%20of%20Locomotor%20Dysfunction%20and%20Dopaminergic%20Degeneration%20Caused%20by%20Alpha-Synuclein%20and%20EKO%20Genes.md)
+- [Striatal activation by optogenetics induces dyskinesias in the 6-hydroxydopamine rat model of Parkinson disease. (2017)](../../Striatal%20activation%20by%20optogenetics%20induces%20dyskinesias%20in%20the%206-hydroxydopamine%20rat%20model%20of%20Parkinson%20disease.md)
+- [Optogenetic approaches to evaluate striatal function in animal models of Parkinson disease. (2016)](../../Optogenetic%20approaches%20to%20evaluate%20striatal%20function%20in%20animal%20models%20of%20Parkinson%20disease.md)
+- [Optogenetics enables functional analysis of human embryonic stem cell-derived grafts in a Parkinson's disease model. (2015)](../../Optogenetics%20enables%20functional%20analysis%20of%20human%20embryonic%20stem%20cell-derived%20grafts%20in%20a%20Parkinson%27s%20disease%20model.md)
+- [Spotlight on movement disorders: What optogenetics has to offer. (2015)](../../Spotlight%20on%20movement%20disorders-%20What%20optogenetics%20has%20to%20offer.md)
+- [Interneurons from Embryonic Development to Cell-Based Therapy (2014)](../../Interneurons%20from%20Embryonic%20Development%20to%20Cell-Based%20Therapy.md)
+- [Pharmacogenetic and optical dissection for mechanistic understanding of Parkinson's disease: potential utilities revealed through behavioural assessment. (2014)](../../Pharmacogenetic%20and%20optical%20dissection%20for%20mechanistic%20understanding%20of%20Parkinson%27s%20disease-%20potential%20utilities%20revealed%20through%20behavioural%20assessment.md)
+- [Optogenetic cell control in experimental models of neurological disorders. (2013)](../../Optogenetic%20cell%20control%20in%20experimental%20models%20of%20neurological%20disorders.md)
+- [Deep Brain Stimulation for Movement Disorders – A History of Success and Challenges to Conquer (2012)](../../Deep%20Brain%20Stimulation%20for%20Movement%20Disorders%20%E2%80%93%20A%20History%20of%20Success%20and%20Challenges%20to%20Conquer.md)
+- [Electrophysiological investigations of synaptic connectivity between host and graft neurons. (2012)](../../Electrophysiological%20investigations%20of%20synaptic%20connectivity%20between%20host%20and%20graft%20neurons.md)
+- [Functional integration of grafted neural stem cell-derived dopaminergic neurons monitored by optogenetics in an in vitro Parkinson model. (2011)](../../Functional%20integration%20of%20grafted%20neural%20stem%20cell-derived%20dopaminergic%20neurons%20monitored%20by%20optogenetics%20in%20an%20in%20vitro%20Parkinson%20model.md)
+- [Competitive regulation of synaptic Ca2+ influx by D2 dopamine and A2A adenosine receptors. (2010)](../../Competitive%20regulation%20of%20synaptic%20Ca2%2B%20influx%20by%20D2%20dopamine%20and%20A2A%20adenosine%20receptors.md)

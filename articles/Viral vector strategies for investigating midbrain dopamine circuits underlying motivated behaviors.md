@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 6
+tags: ["artigo", "tema/1"]
 ---
+[[grafo/termos/midbrain dopamine|Midbrain dopamine]] (DA) neurons have received significant attention in brain research because of their central role in [[grafo/termos/reward|reward]] processing and their dysfunction in [[grafo/termos/neuropsychiatric disorders|neuropsychiatric disorders]] such as Parkinson's disease, [[grafo/termos/drug addiction|drug addiction]], [[grafo/termos/depression|depression]] and schizophrenia. Until recently, it has been thought that DA neurons form a homogeneous population whose primary function is the computation of reward prediction errors. However, through the implementation of [[grafo/termos/viral vectors|viral vector]] strategies, an unexpected complexity and diversity has been revealed at the anatomical, molecular and functional level. In this review, we discuss recent viral vector approaches that have been leveraged to dissect how different circuits involving distinct DA neuron subpopulations may contribute to the role of DA in reward- and aversion-related behaviors. We focus on studies that have used cell type- and projection-specific optogenetic manipulations, discuss the strengths and limitations of each approach, and critically examine emergent organizational principles that have led to a reclassification of midbrain DA neurons.
 
-Midbrain dopamine (DA) neurons have received significant attention in brain research because of their central role in reward processing and their dysfunction in neuropsychiatric disorders such as Parkinson's disease, drug addiction, depression and schizophrenia. Until recently, it has been thought that DA neurons form a homogeneous population whose primary function is the computation of reward prediction errors. However, through the implementation of viral vector strategies, an unexpected complexity and diversity has been revealed at the anatomical, molecular and functional level. In this review, we discuss recent viral vector approaches that have been leveraged to dissect how different circuits involving distinct DA neuron subpopulations may contribute to the role of DA in reward- and aversion-related behaviors. We focus on studies that have used cell type- and projection-specific optogenetic manipulations, discuss the strengths and limitations of each approach, and critically examine emergent organizational principles that have led to a reclassification of midbrain DA neurons.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (6):** [[grafo/termos/depression|depression]] · [[grafo/termos/drug addiction|drug addiction]] · [[grafo/termos/midbrain dopamine|midbrain dopamine]] · [[grafo/termos/neuropsychiatric disorders|neuropsychiatric disorders]] · [[grafo/termos/reward|reward]] · [[grafo/termos/viral vectors|viral vectors]]
+<!-- vinculos:fim -->

@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+Brain state varies from moment to moment. While brain state can be defined by ongoing [[grafo/termos/neuronal populations|neuronal population]] activity, such as [[grafo/termos/neuronal oscillations|neuronal oscillations]], this is tightly coupled with certain behavioural or vigilant states. In recent decades, abnormalities in brain state have been recognised as biomarkers of various brain diseases and disorders. Intriguingly, accumulating evidence also demonstrates mutual interactions between brain states and disease pathologies: while abnormalities in brain state arise during disease progression, manipulations of brain state can modify disease pathology, suggesting a therapeutic potential. In this review, by focusing on Alzheimer's disease (AD), the most common form of dementia, we provide an overview of how brain states change in AD patients and mouse models, and how controlling brain states can modify AD pathology. Specifically, we summarise the relationship between AD and changes in gamma and [[grafo/termos/slow oscillations|slow oscillations]]. As pathological changes in these oscillations correlate with AD pathology, manipulations of either gamma or slow oscillations can modify AD pathology in mouse models. We argue that [[grafo/termos/neuromodulation|neuromodulation]] approaches to target brain states are a promising non-pharmacological intervention for neurodegenerative diseases.
 
-Brain state varies from moment to moment. While brain state can be defined by ongoing neuronal population activity, such as neuronal oscillations, this is tightly coupled with certain behavioural or vigilant states. In recent decades, abnormalities in brain state have been recognised as biomarkers of various brain diseases and disorders. Intriguingly, accumulating evidence also demonstrates mutual interactions between brain states and disease pathologies: while abnormalities in brain state arise during disease progression, manipulations of brain state can modify disease pathology, suggesting a therapeutic potential. In this review, by focusing on Alzheimer's disease (AD), the most common form of dementia, we provide an overview of how brain states change in AD patients and mouse models, and how controlling brain states can modify AD pathology. Specifically, we summarise the relationship between AD and changes in gamma and slow oscillations. As pathological changes in these oscillations correlate with AD pathology, manipulations of either gamma or slow oscillations can modify AD pathology in mouse models. We argue that neuromodulation approaches to target brain states are a promising non-pharmacological intervention for neurodegenerative diseases.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (4):** [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/neuronal oscillations|neuronal oscillations]] · [[grafo/termos/neuronal populations|neuronal populations]] · [[grafo/termos/slow oscillations|slow oscillations]]
+<!-- vinculos:fim -->

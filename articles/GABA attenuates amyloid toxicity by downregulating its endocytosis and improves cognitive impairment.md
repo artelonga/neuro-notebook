@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/gaba|GABA]] (gamma-aminobutyric acid) receptor modulators have been investigated as a potential treatment strategy in Alzheimer's disease (AD). In the present study, we found that GABA levels were different in wild type (WT) and AβPP/PS1 mouse brains. GABA downregulated [[grafo/termos/amyloid-β|amyloid-β]] (Aβ) uptake in neurons through the receptor for advanced glycation end-products. Therefore, relative high levels of GABA decreased cytotoxicity induced by Aβ in WT mice. GABA treatment decreased basal levels of [[grafo/termos/cell death|cell death]] and the cell death induced by hydrogen peroxide in WT and AβPP/PS1 neurons. Application of GABA during early life before 2 months of age can improve [[grafo/termos/cognitive function|cognitive function]] significantly in AβPP/PS1 mice. However, GABA treatment at 6 and 8 months of age cannot improve [[grafo/termos/water maze|water maze]] performance. Activating or suppressing [[grafo/termos/gabaa receptor|GABAA receptors]] by optogenetic methods also confirmed that GABA activation before 2 months of age increased water maze performance in AβPP/PS1 mice. Our data suggest that GABA administration during early life can be a potential treatment for AD.
 
-GABA (gamma-aminobutyric acid) receptor modulators have been investigated as a potential treatment strategy in Alzheimer's disease (AD). In the present study, we found that GABA levels were different in wild type (WT) and AβPP/PS1 mouse brains. GABA downregulated amyloid-β (Aβ) uptake in neurons through the receptor for advanced glycation end-products. Therefore, relative high levels of GABA decreased cytotoxicity induced by Aβ in WT mice. GABA treatment decreased basal levels of cell death and the cell death induced by hydrogen peroxide in WT and AβPP/PS1 neurons. Application of GABA during early life before 2 months of age can improve cognitive function significantly in AβPP/PS1 mice. However, GABA treatment at 6 and 8 months of age cannot improve water maze performance. Activating or suppressing GABAA receptors by optogenetic methods also confirmed that GABA activation before 2 months of age increased water maze performance in AβPP/PS1 mice. Our data suggest that GABA administration during early life can be a potential treatment for AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (6):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/cell death|cell death]] · [[grafo/termos/cognitive function|cognitive function]] · [[grafo/termos/gaba|gaba]] · [[grafo/termos/gabaa receptor|gabaa receptor]] · [[grafo/termos/water maze|water maze]]
+<!-- vinculos:fim -->

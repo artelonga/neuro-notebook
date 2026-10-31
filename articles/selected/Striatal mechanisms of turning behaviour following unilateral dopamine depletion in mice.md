@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 6
+tags: ["artigo", "tema/1"]
 ---
+Unilateral [[grafo/termos/dopamine|dopamine]] (DA) depletion produces ipsiversive turning behaviour, and the injection of DA receptor agonists can produce contraversive turning, but the [[grafo/termos/underlying mechanisms|underlying mechanisms]] remain unclear. We conducted in vivo recording and pharmacological and optogenetic manipulations to study the role of DA and striatal output in turning behaviour. We used a video-based tracking programme while recording single unit activity in both putative medium [[grafo/termos/spiny projection neurons|spiny projection neurons]] ([[grafo/termos/medium spiny neurons|MSNs]]) and fast-spiking interneurons (FSIs) in the [[grafo/termos/dorsal striatum|dorsal striatum]] bilaterally. Our results suggest that unilateral DA depletion reduced striatal output from the depleted side, resulting in asymmetric striatal output. Depletion systematically altered activity in both MSNs and FSIs, especially in neurons that increased firing during turning movements. Like D1 agonist SKF 38393, optogenetic stimulation in the depleted [[grafo/termos/striatum|striatum]] increased striatal output and reversed biassed turning. These results suggest that relative striatal outputs from the two cerebral hemispheres determine the direction of turning: Mice turn away from the side of higher striatal output and towards the side of the lower striatal output.
 
-Unilateral dopamine (DA) depletion produces ipsiversive turning behaviour, and the injection of DA receptor agonists can produce contraversive turning, but the underlying mechanisms remain unclear. We conducted in vivo recording and pharmacological and optogenetic manipulations to study the role of DA and striatal output in turning behaviour. We used a video-based tracking programme while recording single unit activity in both putative medium spiny projection neurons (MSNs) and fast-spiking interneurons (FSIs) in the dorsal striatum bilaterally. Our results suggest that unilateral DA depletion reduced striatal output from the depleted side, resulting in asymmetric striatal output. Depletion systematically altered activity in both MSNs and FSIs, especially in neurons that increased firing during turning movements. Like D1 agonist SKF 38393, optogenetic stimulation in the depleted striatum increased striatal output and reversed biassed turning. These results suggest that relative striatal outputs from the two cerebral hemispheres determine the direction of turning: Mice turn away from the side of higher striatal output and towards the side of the lower striatal output.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (6):** [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dorsal striatum|dorsal striatum]] · [[grafo/termos/medium spiny neurons|medium spiny neurons]] · [[grafo/termos/spiny projection neurons|spiny projection neurons]] · [[grafo/termos/striatum|striatum]] · [[grafo/termos/underlying mechanisms|underlying mechanisms]]
+<!-- vinculos:fim -->

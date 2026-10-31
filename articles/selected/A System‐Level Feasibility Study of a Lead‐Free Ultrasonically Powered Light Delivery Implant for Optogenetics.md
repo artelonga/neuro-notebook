@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 4
+tags: ["artigo", "tema/3"]
 ---
+Body implants play a crucial role in [[grafo/termos/clinical applications|clinical applications]], encompassing data acquisition, diagnosis, and disease treatment. However, challenges in size, power consumption, and biocompatibility, particularly in brain applications requiring small, battery‐free devices for deep areas, hinder their development. Despite potential advances through simplified, single‐purpose devices, such as recording or stimulation, overcoming the power and biocompatibility issues remains a hurdle. Addressing this, the article introduces an [[grafo/termos/ultrasonically powered|ultrasonically powered]] [[grafo/termos/light delivery|light delivery]] implant (LDI) utilizing lead‐free piezoelectric material (Li0.08K0.46Na0.46) NbO3 to harvest energy from external ultrasonic waves. The prototype includes a piezoelectric cube, a chip fabricated in 180 nm CMOS technology, and a microscale light‐emitting diode (μ‐LED) for optogenetics. Achieving an end‐to‐end efficiency of 0.75%, the LDI holds promise for various optogenetic studies, particularly in animal studies targeting specific [[grafo/termos/brain areas|brain areas]] for treating Parkinson's disease. The delivered optical power on the μ‐LED surface, at 14.1 mW mm−2, presents applicability to diverse studies involving specific opsins.
 
-Body implants play a crucial role in clinical applications, encompassing data acquisition, diagnosis, and disease treatment. However, challenges in size, power consumption, and biocompatibility, particularly in brain applications requiring small, battery‐free devices for deep areas, hinder their development. Despite potential advances through simplified, single‐purpose devices, such as recording or stimulation, overcoming the power and biocompatibility issues remains a hurdle. Addressing this, the article introduces an ultrasonically powered light delivery implant (LDI) utilizing lead‐free piezoelectric material (Li0.08K0.46Na0.46) NbO3 to harvest energy from external ultrasonic waves. The prototype includes a piezoelectric cube, a chip fabricated in 180 nm CMOS technology, and a microscale light‐emitting diode (μ‐LED) for optogenetics. Achieving an end‐to‐end efficiency of 0.75%, the LDI holds promise for various optogenetic studies, particularly in animal studies targeting specific brain areas for treating Parkinson's disease. The delivered optical power on the μ‐LED surface, at 14.1 mW mm−2, presents applicability to diverse studies involving specific opsins.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (4):** [[grafo/termos/brain areas|brain areas]] · [[grafo/termos/clinical applications|clinical applications]] · [[grafo/termos/light delivery|light delivery]] · [[grafo/termos/ultrasonically powered|ultrasonically powered]]
+<!-- vinculos:fim -->

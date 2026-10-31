@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T18"
+topico_nome: "Região locomotora mesencefálica"
+n_termos: 6
+tags: ["artigo", "tema/1"]
 ---
+In the past decade, the [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] (MLR) has emerged as a new surgical target for alleviating dopamine-resistant gait and balance disorders in Parkinson’s disease. Part of the reticular formation, the MLR contains nuclei with diffuse and open boundaries, which are currently difficult or impossible to visualize directly using conventional MRI in humans. Recent experiments have characterized the organization of [[grafo/termos/neuronal populations|neuronal populations]] in the rodent and primate [[grafo/termos/pedunculopontine nucleus|PPN]] and CuN, and their distinct connectivity profiles. New studies in primates together with [[grafo/termos/cell-type specific|cell-type specific]] optogenetic experiments in mice provide evidence for more-specific roles of the PPN and the CuN in [[grafo/termos/locomotion|locomotion]] and [[grafo/termos/arousal|arousal]]. We provide an update on key recent advances on MLR structure and function in normal and parkinsonian primates.
 
-In the past decade, the mesencephalic locomotor region (MLR) has emerged as a new surgical target for alleviating dopamine-resistant gait and balance disorders in Parkinson’s disease. Part of the reticular formation, the MLR contains nuclei with diffuse and open boundaries, which are currently difficult or impossible to visualize directly using conventional MRI in humans. Recent experiments have characterized the organization of neuronal populations in the rodent and primate PPN and CuN, and their distinct connectivity profiles. New studies in primates together with cell-type specific optogenetic experiments in mice provide evidence for more-specific roles of the PPN and the CuN in locomotion and arousal. We provide an update on key recent advances on MLR structure and function in normal and parkinsonian primates.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T18 Região locomotora mesencefálica|T18 · Região locomotora mesencefálica]]
+
+**Termos (6):** [[grafo/termos/arousal|arousal]] · [[grafo/termos/cell-type specific|cell-type specific]] · [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] · [[grafo/termos/neuronal populations|neuronal populations]] · [[grafo/termos/pedunculopontine nucleus|pedunculopontine nucleus]]
+<!-- vinculos:fim -->

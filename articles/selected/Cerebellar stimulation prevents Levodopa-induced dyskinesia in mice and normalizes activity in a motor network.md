@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T15"
+topico_nome: "Discinesia induzida por levodopa"
+n_termos: 8
+tags: ["artigo", "tema/1"]
 ---
+Chronic [[grafo/termos/levodopa|Levodopa]] therapy, the gold-standard treatment for Parkinson's Disease (PD), leads to the emergence of [[grafo/termos/involuntary movements|involuntary movements]], called [[grafo/termos/levodopa-induced dyskinesia|levodopa-induced dyskinesia]] (LID). Cerebellar stimulation has been shown to decrease LID severity in PD patients. Here, in order to determine how cerebellar stimulation induces LID alleviation, we performed daily short trains of optogenetic stimulations of Purkinje cells (PC) in [[grafo/termos/freely moving|freely moving]] LID mice. We demonstrated that these stimulations are sufficient to suppress LID or even prevent their development. This symptomatic relief is accompanied by the normalization of aberrant neuronal discharge in the cerebellar nuclei, the [[grafo/termos/motor cortex|motor cortex]] and the parafascicular [[grafo/termos/thalamus|thalamus]]. Inhibition of the cerebello-parafascicular pathway counteracted the beneficial effects of cerebellar stimulation. Moreover, cerebellar stimulation reversed plasticity in D1 [[grafo/termos/striatal neurons|striatal neurons]] and normalized the overexpression of FosB, a [[grafo/termos/transcription factor|transcription factor]] causally linked to LID. These findings demonstrate LID alleviation and prevention by daily PC stimulations, which restore the function of a wide motor network, and may be valuable for LID treatment.
 
-Chronic Levodopa therapy, the gold-standard treatment for Parkinson's Disease (PD), leads to the emergence of involuntary movements, called levodopa-induced dyskinesia (LID). Cerebellar stimulation has been shown to decrease LID severity in PD patients. Here, in order to determine how cerebellar stimulation induces LID alleviation, we performed daily short trains of optogenetic stimulations of Purkinje cells (PC) in freely moving LID mice. We demonstrated that these stimulations are sufficient to suppress LID or even prevent their development. This symptomatic relief is accompanied by the normalization of aberrant neuronal discharge in the cerebellar nuclei, the motor cortex and the parafascicular thalamus. Inhibition of the cerebello-parafascicular pathway counteracted the beneficial effects of cerebellar stimulation. Moreover, cerebellar stimulation reversed plasticity in D1 striatal neurons and normalized the overexpression of FosB, a transcription factor causally linked to LID. These findings demonstrate LID alleviation and prevention by daily PC stimulations, which restore the function of a wide motor network, and may be valuable for LID treatment.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T15 Discinesia induzida por levodopa|T15 · Discinesia induzida por levodopa]]
+
+**Termos (8):** [[grafo/termos/freely moving|freely moving]] · [[grafo/termos/involuntary movements|involuntary movements]] · [[grafo/termos/levodopa|levodopa]] · [[grafo/termos/levodopa-induced dyskinesia|levodopa-induced dyskinesia]] · [[grafo/termos/motor cortex|motor cortex]] · [[grafo/termos/striatal neurons|striatal neurons]] · [[grafo/termos/thalamus|thalamus]] · [[grafo/termos/transcription factor|transcription factor]]
+<!-- vinculos:fim -->

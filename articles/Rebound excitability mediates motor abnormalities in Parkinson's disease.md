@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+Parkinson's disease (PD) is a debilitating disorder resulting from loss of [[grafo/termos/dopamine neurons|dopamine neurons]]. In [[grafo/termos/dopamine|dopamine]] deficient state, the [[grafo/termos/basal ganglia|basal ganglia]] increases [[grafo/termos/inhibitory synaptic|inhibitory synaptic]] outputs to the [[grafo/termos/thalamus|thalamus]]. This increased inhibition by the [[grafo/termos/basal ganglia output|basal ganglia output]] is known to reduce [[grafo/termos/firing rate|firing rate]] of thalamic neurons that relay motor signals to the [[grafo/termos/motor cortex|motor cortex]]. This 'rate model' suggests that the reduced excitability of thalamic neurons is the key for inducing motor abnormalities in PD patients. We reveal that in response to inhibition, thalamic neurons generate rebound firing at the end of inhibition. This rebound firing increases motor cortical activity and induces muscular responses that triggers [[grafo/termos/parkinsonian motor|Parkinsonian motor]] dysfunction. Genetic and optogenetic intervention of the rebound firing prevent [[grafo/termos/motor dysfunction|motor dysfunction]] in a mouse model of PD. Our results suggest that inhibitory synaptic mechanism mediates motor dysfunction by generating rebound excitability in the thalamocortical pathway. [BMB Reports 2018; 51(1): 3-4].
 
-Parkinson's disease (PD) is a debilitating disorder resulting from loss of dopamine neurons. In dopamine deficient state, the basal ganglia increases inhibitory synaptic outputs to the thalamus. This increased inhibition by the basal ganglia output is known to reduce firing rate of thalamic neurons that relay motor signals to the motor cortex. This 'rate model' suggests that the reduced excitability of thalamic neurons is the key for inducing motor abnormalities in PD patients. We reveal that in response to inhibition, thalamic neurons generate rebound firing at the end of inhibition. This rebound firing increases motor cortical activity and induces muscular responses that triggers Parkinsonian motor dysfunction. Genetic and optogenetic intervention of the rebound firing prevent motor dysfunction in a mouse model of PD. Our results suggest that inhibitory synaptic mechanism mediates motor dysfunction by generating rebound excitability in the thalamocortical pathway. [BMB Reports 2018; 51(1): 3-4].
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (10):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/basal ganglia output|basal ganglia output]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dopamine neurons|dopamine neurons]] · [[grafo/termos/firing rate|firing rate]] · [[grafo/termos/inhibitory synaptic|inhibitory synaptic]] · [[grafo/termos/motor cortex|motor cortex]] · [[grafo/termos/motor dysfunction|motor dysfunction]] · [[grafo/termos/parkinsonian motor|parkinsonian motor]] · [[grafo/termos/thalamus|thalamus]]
+<!-- vinculos:fim -->

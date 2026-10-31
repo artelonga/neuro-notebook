@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T17"
+topico_nome: "Dor e nocicepção"
+n_termos: 6
+tags: ["artigo", "tema/7"]
 ---
+The basal nucleus of Meynert (NBM) subserves critically important functions in attention, [[grafo/termos/arousal|arousal]] and [[grafo/termos/cognition|cognition]] via its profound modulation of neocortical activity and is emerging as a key target in Alzheimer's and Parkinson's dementias. Despite the crucial role of neocortical domains in pain perception, however, the NBM has not been studied in models of [[grafo/termos/chronic pain|chronic pain]]. Here, using in vivo tetrode recordings in behaving mice, we report that beta and gamma [[grafo/termos/oscillatory activity|oscillatory activity]] is evoked in the NBM by noxious stimuli and is facilitated at peak inflammatory pain-like behavior. Optogenetic and [[grafo/termos/chemogenetics|chemogenetic]] cell-specific, reversible manipulations of NBM cholinergic-GABAergic neurons reveal their role in endogenous control of [[grafo/termos/nociceptive hypersensitivity|nociceptive hypersensitivity]], which are manifest via projections to the prelimbic cortex, resulting in layer 5-mediated antinociception. Our data unravel the importance of the NBM in top-down control of neocortical processing of pain-like behavior.
 
-The basal nucleus of Meynert (NBM) subserves critically important functions in attention, arousal and cognition via its profound modulation of neocortical activity and is emerging as a key target in Alzheimer's and Parkinson's dementias. Despite the crucial role of neocortical domains in pain perception, however, the NBM has not been studied in models of chronic pain. Here, using in vivo tetrode recordings in behaving mice, we report that beta and gamma oscillatory activity is evoked in the NBM by noxious stimuli and is facilitated at peak inflammatory pain-like behavior. Optogenetic and chemogenetic cell-specific, reversible manipulations of NBM cholinergic-GABAergic neurons reveal their role in endogenous control of nociceptive hypersensitivity, which are manifest via projections to the prelimbic cortex, resulting in layer 5-mediated antinociception. Our data unravel the importance of the NBM in top-down control of neocortical processing of pain-like behavior.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T17 Dor e nocicepção|T17 · Dor e nocicepção]]
+
+**Termos (6):** [[grafo/termos/arousal|arousal]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/chronic pain|chronic pain]] · [[grafo/termos/cognition|cognition]] · [[grafo/termos/nociceptive hypersensitivity|nociceptive hypersensitivity]] · [[grafo/termos/oscillatory activity|oscillatory activity]]
+<!-- vinculos:fim -->

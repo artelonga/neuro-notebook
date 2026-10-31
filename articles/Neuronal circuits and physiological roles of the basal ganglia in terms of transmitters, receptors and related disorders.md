@@ -75,6 +75,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+The authors have reviewed recent research advances in [[grafo/termos/basal ganglia circuitry|basal ganglia circuitry]] and function, as well as in related disorders from multidisciplinary perspectives derived from the results of morphological, electrophysiological, behavioral, biochemical and molecular biological studies. Based on their expertise in their respective fields, as denoted in the text, the authors discuss five distinct research topics, as follows: (1) area-specific [[grafo/termos/dopamine receptors|dopamine receptor]] expression of [[grafo/termos/astrocytes|astrocytes]] in [[grafo/termos/basal ganglia|basal ganglia]], (2) the role of physiologically released [[grafo/termos/dopamine|dopamine]] in the [[grafo/termos/striatum|striatum]], (3) control of behavioral flexibility by [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]], (4) regulation of phosphorylation states of DARPP-32 by protein phosphatases and (5) physiological perspective on [[grafo/termos/deep brain stimulation|deep brain stimulation]] with optogenetics and [[grafo/termos/closed-loop control|closed-loop control]] for ameliorating [[grafo/termos/parkinsonism|parkinsonism]].
 
-The authors have reviewed recent research advances in basal ganglia circuitry and function, as well as in related disorders from multidisciplinary perspectives derived from the results of morphological, electrophysiological, behavioral, biochemical and molecular biological studies. Based on their expertise in their respective fields, as denoted in the text, the authors discuss five distinct research topics, as follows: (1) area-specific dopamine receptor expression of astrocytes in basal ganglia, (2) the role of physiologically released dopamine in the striatum, (3) control of behavioral flexibility by striatal cholinergic interneurons, (4) regulation of phosphorylation states of DARPP-32 by protein phosphatases and (5) physiological perspective on deep brain stimulation with optogenetics and closed-loop control for ameliorating parkinsonism.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (10):** [[grafo/termos/astrocytes|astrocytes]] · [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/basal ganglia circuitry|basal ganglia circuitry]] · [[grafo/termos/closed-loop control|closed-loop control]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dopamine receptors|dopamine receptors]] · [[grafo/termos/parkinsonism|parkinsonism]] · [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]] · [[grafo/termos/striatum|striatum]]
+<!-- vinculos:fim -->

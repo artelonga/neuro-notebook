@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 3
+tags: ["artigo", "tema/3"]
 ---
+Monkeys are a premier model organism for neuroscience research. Activity in the [[grafo/termos/central nervous|central nervous]] systems of monkeys can be recorded and manipulated while they perform complex perceptual, motor, or cognitive tasks. Conventional techniques for manipulating [[grafo/termos/neural activity|neural activity]] in monkeys are too coarse to address many of the outstanding questions in primate neuroscience, but optogenetics holds the promise to overcome this hurdle. In this article, we review the progress that has been made in primate optogenetics over the past 5 years. We emphasize the use of gene regulatory sequences in [[grafo/termos/viral vectors|viral vectors]] to target specific neuronal types, and we present data on vectors that we engineered to target parvalbumin-expressing neurons. We conclude with a discussion of the utility of optogenetics for treating sensorimotor hearing loss and Parkinson's disease, areas of translational neuroscience in which monkeys provide unique leverage for basic science and medicine.
 
-Monkeys are a premier model organism for neuroscience research. Activity in the central nervous systems of monkeys can be recorded and manipulated while they perform complex perceptual, motor, or cognitive tasks. Conventional techniques for manipulating neural activity in monkeys are too coarse to address many of the outstanding questions in primate neuroscience, but optogenetics holds the promise to overcome this hurdle. In this article, we review the progress that has been made in primate optogenetics over the past 5 years. We emphasize the use of gene regulatory sequences in viral vectors to target specific neuronal types, and we present data on vectors that we engineered to target parvalbumin-expressing neurons. We conclude with a discussion of the utility of optogenetics for treating sensorimotor hearing loss and Parkinson's disease, areas of translational neuroscience in which monkeys provide unique leverage for basic science and medicine.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (3):** [[grafo/termos/central nervous|central nervous]] · [[grafo/termos/neural activity|neural activity]] · [[grafo/termos/viral vectors|viral vectors]]
+<!-- vinculos:fim -->

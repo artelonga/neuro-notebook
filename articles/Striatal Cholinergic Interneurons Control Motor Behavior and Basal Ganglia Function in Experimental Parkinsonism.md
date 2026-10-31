@@ -72,6 +72,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 9
+tags: ["artigo", "tema/1"]
 ---
+Despite evidence showing that anticholinergic drugs are of clinical relevance in Parkinson's disease (PD), the causal role of [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]] (CINs) in PD pathophysiology remains elusive. Here, we show that optogenetic inhibition of CINs alleviates [[grafo/termos/motor deficits|motor deficits]] in PD mouse models, providing direct demonstration for their implication in [[grafo/termos/parkinsonian motor|parkinsonian motor]] dysfunctions. As neural correlates, CIN inhibition in parkinsonian mice differentially impacts the excitability of striatal D1 and D2 [[grafo/termos/medium spiny neurons|medium spiny neurons]], normalizes pathological bursting activity in the main [[grafo/termos/basal ganglia output|basal ganglia output]] structure, and increases the functional weight of the direct striatonigral pathway in cortical [[grafo/termos/information processing|information processing]]. By contrast, CIN inhibition in non-lesioned mice does not affect [[grafo/termos/locomotor activity|locomotor activity]], equally modulates medium spiny neuron excitability, and does not modify spontaneous or cortically driven activity in the basal ganglia output, suggesting that the role of these interneurons in [[grafo/termos/motor function|motor function]] is highly dependent on [[grafo/termos/dopamine|dopamine]] tone.
 
-Despite evidence showing that anticholinergic drugs are of clinical relevance in Parkinson's disease (PD), the causal role of striatal cholinergic interneurons (CINs) in PD pathophysiology remains elusive. Here, we show that optogenetic inhibition of CINs alleviates motor deficits in PD mouse models, providing direct demonstration for their implication in parkinsonian motor dysfunctions. As neural correlates, CIN inhibition in parkinsonian mice differentially impacts the excitability of striatal D1 and D2 medium spiny neurons, normalizes pathological bursting activity in the main basal ganglia output structure, and increases the functional weight of the direct striatonigral pathway in cortical information processing. By contrast, CIN inhibition in non-lesioned mice does not affect locomotor activity, equally modulates medium spiny neuron excitability, and does not modify spontaneous or cortically driven activity in the basal ganglia output, suggesting that the role of these interneurons in motor function is highly dependent on dopamine tone.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (9):** [[grafo/termos/basal ganglia output|basal ganglia output]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/information processing|information processing]] · [[grafo/termos/locomotor activity|locomotor activity]] · [[grafo/termos/medium spiny neurons|medium spiny neurons]] · [[grafo/termos/motor deficits|motor deficits]] · [[grafo/termos/motor function|motor function]] · [[grafo/termos/parkinsonian motor|parkinsonian motor]] · [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]]
+<!-- vinculos:fim -->

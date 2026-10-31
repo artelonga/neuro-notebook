@@ -66,6 +66,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 9
+tags: ["artigo", "tema/2"]
 ---
+Patients with Alzheimer's disease (AD) exhibit [[grafo/termos/non-rapid eye movement|non-rapid eye movement]] (NREM) [[grafo/termos/sleep disturbances|sleep disturbances]] in addition to [[grafo/termos/memory deficits|memory deficits]]. Disruption of NREM [[grafo/termos/slow waves|slow waves]] occurs early in the disease progression and is recapitulated in transgenic mouse models of beta-amyloidosis. However, the [[grafo/termos/mechanisms underlying|mechanisms underlying]] slow-wave disruptions remain unknown. Because [[grafo/termos/astrocytes|astrocytes]] contribute to [[grafo/termos/slow-wave activity|slow-wave activity]], we used multiphoton microscopy and optogenetics to investigate whether they contribute to slow-wave disruptions in APP mice. The power but not the frequency of astrocytic calcium transients was reduced in APP mice compared to nontransgenic controls. Optogenetic activation of astrocytes at the endogenous frequency of slow waves restored slow-wave power, reduced amyloid deposition, prevented neuronal calcium elevations, and improved [[grafo/termos/memory|memory]] performance. Our findings revealed malfunction of the astrocytic network driving slow-wave disruptions. Thus, targeting astrocytes to restore circuit activity underlying [[grafo/termos/sleep|sleep]] and memory disruptions in AD could ameliorate disease progression.
 
-Patients with Alzheimer's disease (AD) exhibit non-rapid eye movement (NREM) sleep disturbances in addition to memory deficits. Disruption of NREM slow waves occurs early in the disease progression and is recapitulated in transgenic mouse models of beta-amyloidosis. However, the mechanisms underlying slow-wave disruptions remain unknown. Because astrocytes contribute to slow-wave activity, we used multiphoton microscopy and optogenetics to investigate whether they contribute to slow-wave disruptions in APP mice. The power but not the frequency of astrocytic calcium transients was reduced in APP mice compared to nontransgenic controls. Optogenetic activation of astrocytes at the endogenous frequency of slow waves restored slow-wave power, reduced amyloid deposition, prevented neuronal calcium elevations, and improved memory performance. Our findings revealed malfunction of the astrocytic network driving slow-wave disruptions. Thus, targeting astrocytes to restore circuit activity underlying sleep and memory disruptions in AD could ameliorate disease progression.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (9):** [[grafo/termos/astrocytes|astrocytes]] · [[grafo/termos/mechanisms underlying|mechanisms underlying]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory deficits|memory deficits]] · [[grafo/termos/non-rapid eye movement|non-rapid eye movement]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/sleep disturbances|sleep disturbances]] · [[grafo/termos/slow waves|slow waves]] · [[grafo/termos/slow-wave activity|slow-wave activity]]
+<!-- vinculos:fim -->

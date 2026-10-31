@@ -1,0 +1,39 @@
+---
+tipo: "termo"
+escopo: "todos"
+termo: "long-term potentiation"
+textos: 21
+N: 801
+cobertura: 2.62
+prevalencia: 1.02
+topico: "T02"
+tags: ["termo", "tema/2"]
+---
+
+# long-term potentiation
+
+**21 de 801 textos (2.62%)** · prevalência 1.02 por 10 mil palavras · tópico dominante: [[grafo-todos/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]] · verbete geral: [[grafo/termos/long-term potentiation|long-term potentiation]]
+
+## Artigos (21)
+
+- [Neuronal plasticity and its role in Alzheimer's disease and Parkinson's disease. (2026)](../../selected/Neuronal%20plasticity%20and%20its%20role%20in%20Alzheimer%27s%20disease%20and%20Parkinson%27s%20disease.md)
+- [Photostimulation of locus coeruleus CA1 catecholaminergic terminals reversed Spatial memory impairment in an alzheimer's disease mouse model. (2026)](../../selected/Photostimulation%20of%20locus%20coeruleus%20CA1%20catecholaminergic%20terminals%20reversed%20Spatial%20memory%20impairment%20in%20an%20alzheimer%27s%20disease%20mouse%20model.md)
+- [The dynamic impairment of synaptic transmission in the PCx-IL engram circuit contributes to early olfactory memory decline in Alzheimer's disease. (2026)](../../selected/The%20dynamic%20impairment%20of%20synaptic%20transmission%20in%20the%20PCx-IL%20engram%20circuit%20contributes%20to%20early%20olfactory%20memory%20decline%20in%20Alzheimer%27s%20disease.md)
+- [Dissection of retrosplenial cortex inputs: ubiquitous drive from anterior thalamus (2025)](../../Dissection%20of%20retrosplenial%20cortex%20inputs-%20ubiquitous%20drive%20from%20anterior%20thalamus.md)
+- [Optogenetic stimulation of midbrain dopaminergic neurons rescues hippocampal synaptic plasticity deficits in a mouse model of Alzheimer's disease. (2025)](../../selected/Optogenetic%20stimulation%20of%20midbrain%20dopaminergic%20neurons%20rescues%20hippocampal%20synaptic%20plasticity%20deficits%20in%20a%20mouse%20model%20of%20Alzheimer%27s%20disease.md)
+- [Modulation of inhibitory synaptic plasticity for restoration of basal ganglia dynamics in Parkinson’s disease (2024)](../../Modulation%20of%20inhibitory%20synaptic%20plasticity%20for%20restoration%20of%20basal%20ganglia%20dynamics%20in%20Parkinson%E2%80%99s%20disease.md)
+- [Optogenetic elevation of postsynaptic cGMP in the hippocampal dentate gyrus enhances LTP and modifies mouse behaviors. (2024)](../../selected/Optogenetic%20elevation%20of%20postsynaptic%20cGMP%20in%20the%20hippocampal%20dentate%20gyrus%20enhances%20LTP%20and%20modifies%20mouse%20behaviors.md)
+- [Synaptic Plasticity and Its Uses (2024)](../../Synaptic%20Plasticity%20and%20Its%20Uses.md)
+- [Activation of Gq-Coupled Receptors in Astrocytes Restores Cognitive Function in Alzheimer's Disease Mice Model. (2023)](../../selected/Activation%20of%20Gq-Coupled%20Receptors%20in%20Astrocytes%20Restores%20Cognitive%20Function%20in%20Alzheimer%27s%20Disease%20Mice%20Model.md)
+- [Role of neural oscillations modulating long term potentiation to Alzheimer's Disease (2023)](../../selected/Role%20of%20neural%20oscillations%20modulating%20long%20term%20potentiation%20to%20Alzheimer%27s%20Disease.md)
+- [Cholinergic interneuron inhibition potentiates corticostriatal transmission in direct medium spiny neurons and rescues motor learning in parkinsonism. (2022)](../../selected/Cholinergic%20interneuron%20inhibition%20potentiates%20corticostriatal%20transmission%20in%20direct%20medium%20spiny%20neurons%20and%20rescues%20motor%20learning%20in%20parkinsonism.md)
+- [Differential vulnerability of hippocampal CA3-CA1 synapses to Aβ. (2022)](../../selected/Differential%20vulnerability%20of%20hippocampal%20CA3-CA1%20synapses%20to%20A%CE%B2.md)
+- [Hebbian plasticity: the elusive missing link at the heart of Alzheimer’s disease pathogenesis? (2022)](../../selected/Hebbian%20plasticity-%20the%20elusive%20missing%20link%20at%20the%20heart%20of%20Alzheimer%E2%80%99s%20disease%20pathogenesis.md)
+- [Targeting thalamic circuits rescues motor and mood deficits in PD mice. (2022)](../../selected/Targeting%20thalamic%20circuits%20rescues%20motor%20and%20mood%20deficits%20in%20PD%20mice.md)
+- [Optogenetic activation of parvalbumin and somatostatin interneurons selectively restores theta-nested gamma oscillations and oscillation-induced spike timing-dependent long-term potentiation impaired by amyloid β oligomers. (2020)](../../selected/Optogenetic%20activation%20of%20parvalbumin%20and%20somatostatin%20interneurons%20selectively%20restores%20theta-nested%20gamma%20oscillations%20and%20oscillation-induced%20spike%20timing-dependent%20long-term%20po.md)
+- [Alpha-synuclein targets GluN2A NMDA receptor subunit causing striatal synaptic dysfunction and visuospatial memory alteration. (2019)](../../Alpha-synuclein%20targets%20GluN2A%20NMDA%20receptor%20subunit%20causing%20striatal%20synaptic%20dysfunction%20and%20visuospatial%20memory%20alteration.md)
+- [Loss of Hyperdirect Pathway Cortico-Subthalamic Inputs Following Degeneration of Midbrain Dopamine Neurons. (2017)](../../Loss%20of%20Hyperdirect%20Pathway%20Cortico-Subthalamic%20Inputs%20Following%20Degeneration%20of%20Midbrain%20Dopamine%20Neurons.md)
+- [Memory retrieval by activating engram cells in mouse models of early Alzheimer's disease. (2016)](../../Memory%20retrieval%20by%20activating%20engram%20cells%20in%20mouse%20models%20of%20early%20Alzheimer%27s%20disease.md)
+- [Optogenetic activation of intracellular adenosine A2A receptor signaling in the hippocampus is sufficient to trigger CREB phosphorylation and impair memory. (2015)](../../Optogenetic%20activation%20of%20intracellular%20adenosine%20A2A%20receptor%20signaling%20in%20the%20hippocampus%20is%20sufficient%20to%20trigger%20CREB%20phosphorylation%20and%20impair%20memory.md)
+- [Asymmetry of hippocampal function in mice : left-right differences in memory processing and vulnerability to amyloid beta (2014)](../../Asymmetry%20of%20hippocampal%20function%20in%20mice%20-%20left-right%20differences%20in%20memory%20processing%20and%20vulnerability%20to%20amyloid%20beta.md)
+- [Temporal components of cholinergic terminal to dopaminergic terminal transmission in dorsal striatum slices of mice. (2014)](../../Temporal%20components%20of%20cholinergic%20terminal%20to%20dopaminergic%20terminal%20transmission%20in%20dorsal%20striatum%20slices%20of%20mice.md)

@@ -49,6 +49,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 6
+tags: ["artigo", "tema/3"]
 ---
+The recent development of optogenetics, a revolutionary research tool in neuroscience, portends an evolution of current clinical [[grafo/termos/neuromodulation|neuromodulation]] tools. A form of [[grafo/termos/gene therapy|gene therapy]], optogenetics makes possible highly precise spatial and [[grafo/termos/temporal control|temporal control]] of [[grafo/termos/specific neuronal populations|specific neuronal populations]]. This technique has already provided several new insights relevant to clinical neuroscience, from the physiological substrate of [[grafo/termos/functional magnetic resonance|functional magnetic resonance]] imaging to the mechanism of [[grafo/termos/deep brain stimulation|deep brain stimulation]] in Parkinson's disease. The increased precision of optogenetic techniques also raises the possibility of eventual human use. Translational efforts have begun in primates, with success reported from multiple labs in rhesus macaques. These developments will remain of ongoing interest to neurologists and neurosurgeons.
 
-The recent development of optogenetics, a revolutionary research tool in neuroscience, portends an evolution of current clinical neuromodulation tools. A form of gene therapy, optogenetics makes possible highly precise spatial and temporal control of specific neuronal populations. This technique has already provided several new insights relevant to clinical neuroscience, from the physiological substrate of functional magnetic resonance imaging to the mechanism of deep brain stimulation in Parkinson's disease. The increased precision of optogenetic techniques also raises the possibility of eventual human use. Translational efforts have begun in primates, with success reported from multiple labs in rhesus macaques. These developments will remain of ongoing interest to neurologists and neurosurgeons.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (6):** [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/functional magnetic resonance|functional magnetic resonance]] · [[grafo/termos/gene therapy|gene therapy]] · [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/specific neuronal populations|specific neuronal populations]] · [[grafo/termos/temporal control|temporal control]]
+<!-- vinculos:fim -->

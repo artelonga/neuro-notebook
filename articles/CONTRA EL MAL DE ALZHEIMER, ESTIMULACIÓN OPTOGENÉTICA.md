@@ -52,6 +52,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 0
+tags: ["artigo", "tema/2"]
 ---
-
 LA ENFERMEDAD DE ALZHEIMER ES UN MAL NEURODEGENERATIVO Y PROGRESIVO QUE REPRESENTA LA PRINCIPAL CAUSA DE DEMENCIA. AFECTA POR IGUAL MEMORIA, PENSAMIENTO Y COMPORTAMIENTO DE QUIENES LA PADECEN. EL PRINCIPAL FACTOR DE RIESGO PARA SU APARICION ES EL ENVEJECIMIENTO.
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+<!-- vinculos:fim -->

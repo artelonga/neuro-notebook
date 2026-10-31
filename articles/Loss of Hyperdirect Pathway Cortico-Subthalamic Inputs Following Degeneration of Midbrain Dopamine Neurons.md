@@ -69,6 +69,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 9
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/motor symptoms|motor symptoms]] of Parkinson's disease (PD) are linked to abnormally correlated and coherent activity in the cortex and [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] (STN). However, in parkinsonian mice we found that cortico-STN transmission strength had diminished by 50%-75% through loss of axo-dendritic and axo-spinous [[grafo/termos/synapse|synapses]], was incapable of [[grafo/termos/long-term potentiation|long-term potentiation]], and less effectively patterned STN activity. Optogenetic, [[grafo/termos/chemogenetics|chemogenetic]], genetic, and pharmacological interrogation suggested that downregulation of cortico-STN transmission in PD mice was triggered by increased striato-pallidal transmission, leading to disinhibition of the STN and increased activation of STN [[grafo/termos/nmda receptor|NMDA receptors]]. Knockdown of STN NMDA receptors, which also suppresses proliferation of GABAergic pallido-STN inputs in PD mice, reduced loss of cortico-STN transmission and patterning and improved [[grafo/termos/motor function|motor function]]. Together, the data suggest that loss of [[grafo/termos/dopamine|dopamine]] triggers a maladaptive shift in the balance of synaptic excitation and inhibition in the STN, which contributes to parkinsonian activity and [[grafo/termos/motor dysfunction|motor dysfunction]].
 
-The motor symptoms of Parkinson's disease (PD) are linked to abnormally correlated and coherent activity in the cortex and subthalamic nucleus (STN). However, in parkinsonian mice we found that cortico-STN transmission strength had diminished by 50%-75% through loss of axo-dendritic and axo-spinous synapses, was incapable of long-term potentiation, and less effectively patterned STN activity. Optogenetic, chemogenetic, genetic, and pharmacological interrogation suggested that downregulation of cortico-STN transmission in PD mice was triggered by increased striato-pallidal transmission, leading to disinhibition of the STN and increased activation of STN NMDA receptors. Knockdown of STN NMDA receptors, which also suppresses proliferation of GABAergic pallido-STN inputs in PD mice, reduced loss of cortico-STN transmission and patterning and improved motor function. Together, the data suggest that loss of dopamine triggers a maladaptive shift in the balance of synaptic excitation and inhibition in the STN, which contributes to parkinsonian activity and motor dysfunction.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+
+**Termos (9):** [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/long-term potentiation|long-term potentiation]] · [[grafo/termos/motor dysfunction|motor dysfunction]] · [[grafo/termos/motor function|motor function]] · [[grafo/termos/motor symptoms|motor symptoms]] · [[grafo/termos/nmda receptor|nmda receptor]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] · [[grafo/termos/synapse|synapse]]
+<!-- vinculos:fim -->

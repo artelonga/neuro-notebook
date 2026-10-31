@@ -45,6 +45,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 3
+tags: ["artigo", "tema/3"]
 ---
+The discovery of [[grafo/termos/light-sensitive proteins|light sensitive proteins]] led to the development of optogenetics and allowed the precise manipulation of neuronal and non‐[[grafo/termos/neuronal cell|neuronal cells]]. This technique uses particular wavelengths of light to manipulate both neuronal and non‐neuronal cells [2 , 5] . It has enabled the study of [[grafo/termos/information processing|information processing]] in the brain and recent studies are looking into clinical translational applications of the technique [1] . Despite the advantages offered by optegenetics, it has the drawback of being invasive as light does not penetrate skin past a few millimeters. It is not possible to target deep tissue within the body using this technique and this limits the application in the context of diseases such as Parkinson’s [3] or heart malfunction [4] .
 
-The discovery of light sensitive proteins led to the development of optogenetics and allowed the precise manipulation of neuronal and non‐neuronal cells. This technique uses particular wavelengths of light to manipulate both neuronal and non‐neuronal cells [2 , 5] . It has enabled the study of information processing in the brain and recent studies are looking into clinical translational applications of the technique [1] . Despite the advantages offered by optegenetics, it has the drawback of being invasive as light does not penetrate skin past a few millimeters. It is not possible to target deep tissue within the body using this technique and this limits the application in the context of diseases such as Parkinson’s [3] or heart malfunction [4] .
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (3):** [[grafo/termos/information processing|information processing]] · [[grafo/termos/light-sensitive proteins|light-sensitive proteins]] · [[grafo/termos/neuronal cell|neuronal cell]]
+<!-- vinculos:fim -->

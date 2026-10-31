@@ -44,6 +44,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Patients with Alzheimers disease (AD) exhibit progressive [[grafo/termos/memory loss|memory loss]], [[grafo/termos/depression|depression]], and [[grafo/termos/anxiety|anxiety]]. accompanied by impaired adult hippocampal neurogenesis (AHN). Recent studies have pointed out that stimulation of the suprachiasmatic nucleus of the hypothalamus (SuM) enhances AHN in two different AD mouse models (53FAD and 33Tg-AD). and additional chemical gene activation of SuM enhances adult new-born neurons (ABNs), restoring [[grafo/termos/memory|memory]] and emotional deficits in these AD mice. However, the exact cause of the improvement in cognitive performance in mice is not clear, as there is an alteration in the behaviour of [[grafo/termos/microglia|microglia]] during activation of SuM and ABNs. We therefore designed experiments in the hope of experimentally verifying that the cognitive enhancement in mice comes directly from the altered activity of the AHN. And two other experiments were designed to test whether the altered microglia behaviour resulting from activation of SuM would have some effect on cognitive performance. The last experimental design then attempted to test whether the cognitive enhancement resulting from optogenetic activation of SuMs and chemical activation of ABNs was long-term.
 
-Patients with Alzheimers disease (AD) exhibit progressive memory loss, depression, and anxiety. accompanied by impaired adult hippocampal neurogenesis (AHN). Recent studies have pointed out that stimulation of the suprachiasmatic nucleus of the hypothalamus (SuM) enhances AHN in two different AD mouse models (53FAD and 33Tg-AD). and additional chemical gene activation of SuM enhances adult new-born neurons (ABNs), restoring memory and emotional deficits in these AD mice. However, the exact cause of the improvement in cognitive performance in mice is not clear, as there is an alteration in the behaviour of microglia during activation of SuM and ABNs. We therefore designed experiments in the hope of experimentally verifying that the cognitive enhancement in mice comes directly from the altered activity of the AHN. And two other experiments were designed to test whether the altered microglia behaviour resulting from activation of SuM would have some effect on cognitive performance. The last experimental design then attempted to test whether the cognitive enhancement resulting from optogenetic activation of SuMs and chemical activation of ABNs was long-term.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (5):** [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/depression|depression]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory loss|memory loss]] · [[grafo/termos/microglia|microglia]]
+<!-- vinculos:fim -->

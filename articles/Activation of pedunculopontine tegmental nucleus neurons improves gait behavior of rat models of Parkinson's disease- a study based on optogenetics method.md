@@ -50,6 +50,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T18"
+topico_nome: "Região locomotora mesencefálica"
+n_termos: 0
+tags: ["artigo", "tema/1"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T18 Região locomotora mesencefálica|T18 · Região locomotora mesencefálica]]
+<!-- vinculos:fim -->

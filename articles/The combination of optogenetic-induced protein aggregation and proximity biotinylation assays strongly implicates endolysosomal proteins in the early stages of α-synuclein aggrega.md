@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 5
+tags: ["artigo", "tema/5"]
 ---
+Summary [[grafo/termos/alpha-synuclein|Alpha-synuclein]] (α-syn) aggregation is a defining feature of Parkinson’s disease (PD) and related synucleinopathies. Despite significant research efforts focused on understanding α-syn aggregation mechanisms, the [[grafo/termos/early stages|early stages]] of this process remain elusive, largely due to limitations in experimental tools that lack the [[grafo/termos/temporal resolution|temporal resolution]] to capture these dynamic events. Here, we introduce UltraID-LIPA, an innovative platform that combines the [[grafo/termos/light-inducible protein aggregation|Light-Inducible Protein Aggregation]] (LIPA) system with the UltraID proximity-dependent biotinylation assay to identify α-syn-interacting proteins and uncover key mechanisms driving its oligomerization. UltraID-LIPA successfully identified 38 α-syn-interacting proteins, including both established and novel candidates, highlighting the accuracy and robustness of the approach. Notably, a strong interaction with endolysosomal and membrane-associated proteins was observed, supporting the hypothesis that interactions with membrane-bound organelles are pivotal in the early stages of α-syn aggregation. This powerful platform provides new insights into dynamic [[grafo/termos/protein aggregation|protein aggregation]] events, enhancing our understanding of synucleinopathies and other proteinopathies.
 
-Summary Alpha-synuclein (α-syn) aggregation is a defining feature of Parkinson’s disease (PD) and related synucleinopathies. Despite significant research efforts focused on understanding α-syn aggregation mechanisms, the early stages of this process remain elusive, largely due to limitations in experimental tools that lack the temporal resolution to capture these dynamic events. Here, we introduce UltraID-LIPA, an innovative platform that combines the Light-Inducible Protein Aggregation (LIPA) system with the UltraID proximity-dependent biotinylation assay to identify α-syn-interacting proteins and uncover key mechanisms driving its oligomerization. UltraID-LIPA successfully identified 38 α-syn-interacting proteins, including both established and novel candidates, highlighting the accuracy and robustness of the approach. Notably, a strong interaction with endolysosomal and membrane-associated proteins was observed, supporting the hypothesis that interactions with membrane-bound organelles are pivotal in the early stages of α-syn aggregation. This powerful platform provides new insights into dynamic protein aggregation events, enhancing our understanding of synucleinopathies and other proteinopathies.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (5):** [[grafo/termos/alpha-synuclein|alpha-synuclein]] · [[grafo/termos/early stages|early stages]] · [[grafo/termos/light-inducible protein aggregation|light-inducible protein aggregation]] · [[grafo/termos/protein aggregation|protein aggregation]] · [[grafo/termos/temporal resolution|temporal resolution]]
+<!-- vinculos:fim -->

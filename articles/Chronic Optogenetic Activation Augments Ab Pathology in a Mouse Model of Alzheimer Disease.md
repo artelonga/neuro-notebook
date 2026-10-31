@@ -54,6 +54,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+SUMMARY In vivo experimental [[grafo/termos/evidence indicates|evidence indicates]] that acute [[grafo/termos/neuronal activation|neuronal activation]] increases Ab release from presynaptic terminals, whereas long-term effects of chronic synaptic activation on Ab pathology remain unclear. To address this issue, we adopted optogenetics and transduced stabilized step-function opsin, a [[grafo/termos/channelrhodopsin|channelrhodopsin]] engineered to elicit a long-lasting neuronal hyperexcitability, into the hippocampal perforant pathway of APP transgenic mice. In vivo microdialysis revealed a 24% increase inthehippocampalinterstitialfluidAb42levelsimmediately after acute [[grafo/termos/light activation|light activation]]. Five months of chronic optogenetic stimulation increased Ab burdenspecificallyintheprojectionareaoftheperforant pathway (i.e., outer molecular layer of the [[grafo/termos/dentate gyrus|dentate gyrus]]) of the stimulated side by 2.5-fold comparedwiththatinthecontralateralside.Epileptic seizures were observed during the course of chronic stimulation, which might have partly contributed to theAbpathology. Thesefindingsimplicatefunctional abnormalities of specific neuronal circuitry in Ab pathology and Alzheimer disease.
 
-SUMMARY In vivo experimental evidence indicates that acute neuronal activation increases Ab release from presynaptic terminals, whereas long-term effects of chronic synaptic activation on Ab pathology remain unclear. To address this issue, we adopted optogenetics and transduced stabilized step-function opsin, a channelrhodopsin engineered to elicit a long-lasting neuronal hyperexcitability, into the hippocampal perforant pathway of APP transgenic mice. In vivo microdialysis revealed a 24% increase inthehippocampalinterstitialfluidAb42levelsimmediately after acute light activation. Five months of chronic optogenetic stimulation increased Ab burdenspecificallyintheprojectionareaoftheperforant pathway (i.e., outer molecular layer of the dentate gyrus) of the stimulated side by 2.5-fold comparedwiththatinthecontralateralside.Epileptic seizures were observed during the course of chronic stimulation, which might have partly contributed to theAbpathology. Thesefindingsimplicatefunctional abnormalities of specific neuronal circuitry in Ab pathology and Alzheimer disease.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (5):** [[grafo/termos/channelrhodopsin|channelrhodopsin]] · [[grafo/termos/dentate gyrus|dentate gyrus]] · [[grafo/termos/evidence indicates|evidence indicates]] · [[grafo/termos/light activation|light activation]] · [[grafo/termos/neuronal activation|neuronal activation]]
+<!-- vinculos:fim -->

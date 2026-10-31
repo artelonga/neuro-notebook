@@ -44,6 +44,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+One important challenge for the Alzheimer's disease research field is developing new and efficacious biomarkers. In this regard we have devoted significant efforts towards finding biomarkers that are able to detect the prodromal pathological stage at an early phase. The idea behind this picture is to detect [[grafo/termos/early stages|early stage]] points in order to provide better [[grafo/termos/treatment options|treatment options]]. Here, we firmly believe that this strategy will offer better hope for patients. With this in mind, we discuss the use of [[grafo/termos/brain circuits|brain circuit]] alterations as a potential tool for early time point detection. Additionally, we briefly discuss the combination of powerful new techniques, like optogenetics and [[grafo/termos/magnetic resonance imaging|magnetic resonance imaging]], for new diagnosis and treatment strategies. The short document will be an important contribution towards exploring new strategies for AD diagnosis and treatment. Given the practical application of these data, we feel that this manuscript will be of significant interest to the audience of Journal of Neurology and Neuroscience.
 
-One important challenge for the Alzheimer's disease research field is developing new and efficacious biomarkers. In this regard we have devoted significant efforts towards finding biomarkers that are able to detect the prodromal pathological stage at an early phase. The idea behind this picture is to detect early stage points in order to provide better treatment options. Here, we firmly believe that this strategy will offer better hope for patients. With this in mind, we discuss the use of brain circuit alterations as a potential tool for early time point detection. Additionally, we briefly discuss the combination of powerful new techniques, like optogenetics and magnetic resonance imaging, for new diagnosis and treatment strategies. The short document will be an important contribution towards exploring new strategies for AD diagnosis and treatment. Given the practical application of these data, we feel that this manuscript will be of significant interest to the audience of Journal of Neurology and Neuroscience.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (4):** [[grafo/termos/brain circuits|brain circuits]] · [[grafo/termos/early stages|early stages]] · [[grafo/termos/magnetic resonance imaging|magnetic resonance imaging]] · [[grafo/termos/treatment options|treatment options]]
+<!-- vinculos:fim -->

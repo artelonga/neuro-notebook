@@ -49,6 +49,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 5
+tags: ["artigo", "tema/4"]
 ---
+[[grafo/termos/movement disorders|Movement disorders]] including Parkinson’s disease and [[grafo/termos/dystonia|dystonia]] are caused by neurological dysfunction, typically resulting from the loss of a neuronal input within a circuit. [[grafo/termos/neuromodulation|Neuromodulation]], specifically [[grafo/termos/deep brain stimulation|deep brain stimulation]] (DBS), has proven to be a critical development in the treatment of movement disorders. Continuing efforts aim to improve DBS techniques, both in how they exert their effects and in the efficacy of the mechanism involved in eliciting those effects. While optogenetic stimulation is currently infeasible in human patients, opto-DBS research provides an indispensible avenue to understand the mechanisms of DBS therapeutic and adverse effects. We review the benefits of [[grafo/termos/cell-type specific|cell-type specific]] manipulations in understanding the root cause of movement disorders and how DBS might optimally combat those causes. We also explore new circuit-inspired applications of DBS suggested by thorough, high-throughput optogenetic techniques. Maximizing the efficacy and outcome of DBS requires a multi-tiered approach; research employing optogenetics provides the specificity and feasibility to uncover the mechanisms that will help realize these gains in patient care.
 
-Movement disorders including Parkinson’s disease and dystonia are caused by neurological dysfunction, typically resulting from the loss of a neuronal input within a circuit. Neuromodulation, specifically deep brain stimulation (DBS), has proven to be a critical development in the treatment of movement disorders. Continuing efforts aim to improve DBS techniques, both in how they exert their effects and in the efficacy of the mechanism involved in eliciting those effects. While optogenetic stimulation is currently infeasible in human patients, opto-DBS research provides an indispensible avenue to understand the mechanisms of DBS therapeutic and adverse effects. We review the benefits of cell-type specific manipulations in understanding the root cause of movement disorders and how DBS might optimally combat those causes. We also explore new circuit-inspired applications of DBS suggested by thorough, high-throughput optogenetic techniques. Maximizing the efficacy and outcome of DBS requires a multi-tiered approach; research employing optogenetics provides the specificity and feasibility to uncover the mechanisms that will help realize these gains in patient care.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (5):** [[grafo/termos/cell-type specific|cell-type specific]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/dystonia|dystonia]] · [[grafo/termos/movement disorders|movement disorders]] · [[grafo/termos/neuromodulation|neuromodulation]]
+<!-- vinculos:fim -->

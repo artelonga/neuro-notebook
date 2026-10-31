@@ -77,6 +77,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 6
+tags: ["artigo", "tema/1"]
 ---
+Postural and locomotor dysfunction represent axial symptoms of Parkinson's disease (PD), which remain poorly treated by medication and [[grafo/termos/deep brain stimulation|deep brain stimulation]]. Whilst [[grafo/termos/non-invasive neuromodulation|non-invasive neuromodulation]] of the vestibular system via the vestibular nucleus complex (VNC) offers a novel therapeutic avenue, the underlying circuits are still poorly characterized. Here we show that the mouse VNC feeds extensive Vglut2-defined projections into striato-thalamo-subthalamic and caudal medulla motor hubs and receives substantial input from the sensorimotor cortex. Optogenetic activation of excitatory VNC neurons at sub-symptomatic intensities increased cFos-based activity in basal ganglia-associated and [[grafo/termos/brainstem|brainstem]] motor targets. Unbiased pose dynamics and motion analysis respectively showed enhancement of behavioural modularity and [[grafo/termos/locomotion|locomotion]] with threshold-level stimulation. In a mouse model of PD, the latter further favored naturalistic gait patterns through improved [[grafo/termos/motor coordination|motor coordination]]. Our data identify excitatory VNC processes as candidates for therapeutic targeting of axial [[grafo/termos/motor dysfunction|motor dysfunction]] in the context of PD.
 
-Postural and locomotor dysfunction represent axial symptoms of Parkinson's disease (PD), which remain poorly treated by medication and deep brain stimulation. Whilst non-invasive neuromodulation of the vestibular system via the vestibular nucleus complex (VNC) offers a novel therapeutic avenue, the underlying circuits are still poorly characterized. Here we show that the mouse VNC feeds extensive Vglut2-defined projections into striato-thalamo-subthalamic and caudal medulla motor hubs and receives substantial input from the sensorimotor cortex. Optogenetic activation of excitatory VNC neurons at sub-symptomatic intensities increased cFos-based activity in basal ganglia-associated and brainstem motor targets. Unbiased pose dynamics and motion analysis respectively showed enhancement of behavioural modularity and locomotion with threshold-level stimulation. In a mouse model of PD, the latter further favored naturalistic gait patterns through improved motor coordination. Our data identify excitatory VNC processes as candidates for therapeutic targeting of axial motor dysfunction in the context of PD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+
+**Termos (6):** [[grafo/termos/brainstem|brainstem]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/motor coordination|motor coordination]] · [[grafo/termos/motor dysfunction|motor dysfunction]] · [[grafo/termos/non-invasive neuromodulation|non-invasive neuromodulation]]
+<!-- vinculos:fim -->

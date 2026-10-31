@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 9
+tags: ["artigo", "tema/3"]
 ---
+[[grafo/termos/deep brain stimulation|Deep brain stimulation]] (DBS) is a [[grafo/termos/therapeutic option|therapeutic option]] for intractable neurological and [[grafo/termos/psychiatric disorders|psychiatric disorders]], including Parkinson's disease and major [[grafo/termos/depression|depression]]. Because of the heterogeneity of [[grafo/termos/brain tissue|brain tissues]] where electrodes are placed, it has been challenging to elucidate the relevant [[grafo/termos/target cells|target cell]] types or [[grafo/termos/underlying mechanisms|underlying mechanisms]] of DBS. We used optogenetics and solid-state optics to systematically drive or inhibit an array of distinct circuit elements in [[grafo/termos/freely moving|freely moving]] parkinsonian rodents and found that therapeutic effects within the [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] can be accounted for by direct selective stimulation of afferent axons projecting to this region. In addition to providing insight into DBS mechanisms, these results demonstrate an optical approach for dissection of disease circuitry and define the technological toolbox needed for systematic deconstruction of disease circuits by selectively controlling individual components.
 
-Deep brain stimulation (DBS) is a therapeutic option for intractable neurological and psychiatric disorders, including Parkinson's disease and major depression. Because of the heterogeneity of brain tissues where electrodes are placed, it has been challenging to elucidate the relevant target cell types or underlying mechanisms of DBS. We used optogenetics and solid-state optics to systematically drive or inhibit an array of distinct circuit elements in freely moving parkinsonian rodents and found that therapeutic effects within the subthalamic nucleus can be accounted for by direct selective stimulation of afferent axons projecting to this region. In addition to providing insight into DBS mechanisms, these results demonstrate an optical approach for dissection of disease circuitry and define the technological toolbox needed for systematic deconstruction of disease circuits by selectively controlling individual components.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (9):** [[grafo/termos/brain tissue|brain tissue]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/depression|depression]] · [[grafo/termos/freely moving|freely moving]] · [[grafo/termos/psychiatric disorders|psychiatric disorders]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] · [[grafo/termos/target cells|target cells]] · [[grafo/termos/therapeutic option|therapeutic option]] · [[grafo/termos/underlying mechanisms|underlying mechanisms]]
+<!-- vinculos:fim -->

@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Activity of the [[grafo/termos/locus coeruleus|locus coeruleus]] (LC) influences behaviors that go awry in prodromal Alzheimer’s disease (AD), and these abnormalities coincide with early accumulation of [[grafo/termos/hyperphosphorylated tau|hyperphosphorylated tau]] in the LC. LC stimulation changes global [[grafo/termos/functional connectivity|functional connectivity]], but it is unknown how AD‐like neuropathology affects the LC’s ability to regulate brain state. Therefore, we combined optogenetics and [[grafo/termos/functional magnetic resonance|functional magnetic resonance]] imaging (fMRI) in the TgF344‐AD rats that develop endogenous hyperphosphorylated tau in the LC prior to amyloid or [[grafo/termos/tau pathology|tau pathology]] in forebrain regions.
 
-Activity of the locus coeruleus (LC) influences behaviors that go awry in prodromal Alzheimer’s disease (AD), and these abnormalities coincide with early accumulation of hyperphosphorylated tau in the LC. LC stimulation changes global functional connectivity, but it is unknown how AD‐like neuropathology affects the LC’s ability to regulate brain state. Therefore, we combined optogenetics and functional magnetic resonance imaging (fMRI) in the TgF344‐AD rats that develop endogenous hyperphosphorylated tau in the LC prior to amyloid or tau pathology in forebrain regions.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (5):** [[grafo/termos/functional connectivity|functional connectivity]] · [[grafo/termos/functional magnetic resonance|functional magnetic resonance]] · [[grafo/termos/hyperphosphorylated tau|hyperphosphorylated tau]] · [[grafo/termos/locus coeruleus|locus coeruleus]] · [[grafo/termos/tau pathology|tau pathology]]
+<!-- vinculos:fim -->

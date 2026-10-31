@@ -46,6 +46,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 1
+tags: ["artigo", "tema/1"]
 ---
+The strength, functional significance and origins of parasympathetic (vagal) control of left ventricular function remain controversial. Experimental studies conducted on rats and mice using methods of genetic neuronal targeting, functional neuroanatomical mapping, and pharmaco- and optogenetics were employed to test the hypothesis that parasympathetic control of the left ventricle is provided by vagal preganglionic neurones of the dorsal motor nucleus (DVMN). The results of the experiments described in this thesis suggest that (i) activity of the DVMN vagal preganglionic neurones are responsible for tonic parasympathetic control of ventricular excitability, likely to be mediated by nitric oxide; (ii) synuclein deficiency (a model relevant to Parkinson's disease) results in a reduction in the activity of the DVMN neurones affecting the [[grafo/termos/electrophysiological properties|electrophysiological properties]] of the ventricle; (iii) tonic muscarinic influence on left ventricular contractility is provided by a subpopulation of vagal preganglionic neurones located in the caudal region of the left DVMN; (iv) reduced activity of the DVMN neurones is associated with a severely compromised aerobic exercise capacity; (v) increased activity of the DVMN neurones ... (continues)
 
-The strength, functional significance and origins of parasympathetic (vagal) control of left ventricular function remain controversial. Experimental studies conducted on rats and mice using methods of genetic neuronal targeting, functional neuroanatomical mapping, and pharmaco- and optogenetics were employed to test the hypothesis that parasympathetic control of the left ventricle is provided by vagal preganglionic neurones of the dorsal motor nucleus (DVMN). The results of the experiments described in this thesis suggest that (i) activity of the DVMN vagal preganglionic neurones are responsible for tonic parasympathetic control of ventricular excitability, likely to be mediated by nitric oxide; (ii) synuclein deficiency (a model relevant to Parkinson's disease) results in a reduction in the activity of the DVMN neurones affecting the electrophysiological properties of the ventricle; (iii) tonic muscarinic influence on left ventricular contractility is provided by a subpopulation of vagal preganglionic neurones located in the caudal region of the left DVMN; (iv) reduced activity of the DVMN neurones is associated with a severely compromised aerobic exercise capacity; (v) increased activity of the DVMN neurones ... (continues)
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (1):** [[grafo/termos/electrophysiological properties|electrophysiological properties]]
+<!-- vinculos:fim -->

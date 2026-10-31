@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+We combine optogenetics with proteomics for time-resolved identification of [[grafo/termos/tau|tau]] oligomer (oTau) protein interactomes. Optically induced [[grafo/termos/tau oligomerization|tau oligomerization]] is elicits a translational stress response exhibiting increased cytoplasmic localization of N6-methyladenosine (m6A) modified transcripts that partially co-localize with oTau, [[grafo/termos/stress granules|stress granules]] composed of HNRNPA2B1 and TIA1 but not G3BP1. Appearance of the cytoplasmic m6A complex occurs with a concomitant reduction in [[grafo/termos/protein synthesis|protein synthesis]]. Persistent tau oligomerization elicits [[grafo/termos/neurodegeneration|neurodegeneration]]. We show that cytoplasmic translocation of m6A labeled transcripts is a prominent neuropathological feature of [[grafo/termos/tauopathy|tauopathy]] in [[grafo/termos/p301s tau|P301S tau]] mice and Alzheimer’s disease brain. Characterization of the oTau proteome identifies the RNA [[grafo/termos/binding protein|binding protein]], HNRNPA2B1 as a principle target of oTau. Knockdown of HNRNPA2B1 abrogates the association of oTau with m6A-labeled transcripts, preventing the oTau-induced reduction in protein synthesis and reducing neurodegeneration. These results suggest that oTau elicits stress and toxicity through binding to HNRNPA2B1, which functions as a reader of m6A-labeled transcripts.
 
-We combine optogenetics with proteomics for time-resolved identification of tau oligomer (oTau) protein interactomes. Optically induced tau oligomerization is elicits a translational stress response exhibiting increased cytoplasmic localization of N6-methyladenosine (m6A) modified transcripts that partially co-localize with oTau, stress granules composed of HNRNPA2B1 and TIA1 but not G3BP1. Appearance of the cytoplasmic m6A complex occurs with a concomitant reduction in protein synthesis. Persistent tau oligomerization elicits neurodegeneration. We show that cytoplasmic translocation of m6A labeled transcripts is a prominent neuropathological feature of tauopathy in P301S tau mice and Alzheimer’s disease brain. Characterization of the oTau proteome identifies the RNA binding protein, HNRNPA2B1 as a principle target of oTau. Knockdown of HNRNPA2B1 abrogates the association of oTau with m6A-labeled transcripts, preventing the oTau-induced reduction in protein synthesis and reducing neurodegeneration. These results suggest that oTau elicits stress and toxicity through binding to HNRNPA2B1, which functions as a reader of m6A-labeled transcripts.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (8):** [[grafo/termos/binding protein|binding protein]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/p301s tau|p301s tau]] · [[grafo/termos/protein synthesis|protein synthesis]] · [[grafo/termos/stress granules|stress granules]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau oligomerization|tau oligomerization]] · [[grafo/termos/tauopathy|tauopathy]]
+<!-- vinculos:fim -->

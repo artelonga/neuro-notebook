@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer's disease (AD) is the most [[grafo/termos/common neurodegenerative|common neurodegenerative]] disorder and there is currently no cure. [[grafo/termos/neural circuits|Neural circuit]] dysfunction is the fundamental mechanism underlying the learning and [[grafo/termos/memory deficits|memory deficits]] in patients with AD. Therefore, it is important to understand the structural features and [[grafo/termos/mechanisms underlying|mechanisms underlying]] the deregulated circuits during AD progression, by which new tools for intervention can be developed. Here, we briefly summarize the most recently established cutting-edge experimental approaches and key techniques that enable neural circuit tracing and manipulation of their activity. We also discuss the advantages and limitations of these approaches. Finally, we review the applications of these techniques in the discovery of [[grafo/termos/circuit mechanisms underlying|circuit mechanisms underlying]] β-amyloid and [[grafo/termos/tau|tau]] pathologies during AD progression, and as well as the strategies for targeted AD treatments.
 
-Alzheimer's disease (AD) is the most common neurodegenerative disorder and there is currently no cure. Neural circuit dysfunction is the fundamental mechanism underlying the learning and memory deficits in patients with AD. Therefore, it is important to understand the structural features and mechanisms underlying the deregulated circuits during AD progression, by which new tools for intervention can be developed. Here, we briefly summarize the most recently established cutting-edge experimental approaches and key techniques that enable neural circuit tracing and manipulation of their activity. We also discuss the advantages and limitations of these approaches. Finally, we review the applications of these techniques in the discovery of circuit mechanisms underlying β-amyloid and tau pathologies during AD progression, and as well as the strategies for targeted AD treatments.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (6):** [[grafo/termos/circuit mechanisms underlying|circuit mechanisms underlying]] · [[grafo/termos/common neurodegenerative|common neurodegenerative]] · [[grafo/termos/mechanisms underlying|mechanisms underlying]] · [[grafo/termos/memory deficits|memory deficits]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/tau|tau]]
+<!-- vinculos:fim -->

@@ -44,6 +44,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 0
+tags: ["artigo", "tema/2"]
 ---
-
 A Kísérleti Orvostudományi Kutatóintézet Rendszer-Neurobiológia Ku­tatócsoportjában a fő célkitűzésünk a kognitív folyamatok agyi mechanizmusainak jobb megértése. A tanulás, memória, figyelem és döntéshozás idegrendszeri alapjait nemcsak normális körülmények között, hanem kóros állapotokban is vizsgáljuk, különös tekintettel a neurodegeneratív dementiákra, mint az Alzheimer- és a Par­kinson-kór.
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+<!-- vinculos:fim -->

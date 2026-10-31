@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T18"
+topico_nome: "Região locomotora mesencefálica"
+n_termos: 7
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] (MLR) is a key midbrain center with roles in [[grafo/termos/locomotion|locomotion]]. Despite extensive studies and [[grafo/termos/clinical trials|clinical trials]] aimed at therapy-resistant Parkinson's disease (PD), debate on its function remains. Here, we reveal the existence of functionally diverse [[grafo/termos/neuronal populations|neuronal populations]] with distinct roles in control of body movements. We identify two spatially intermingled glutamatergic populations separable by axonal projections, mouse genetics, [[grafo/termos/neuronal activity|neuronal activity]] profiles, and [[grafo/termos/motor function|motor functions]]. Most spinally projecting MLR neurons encoded the full-body behavior rearing. Loss- and gain-of-function optogenetic perturbation experiments establish a function for these neurons in controlling body extension. In contrast, Rbp4-transgene-positive MLR neurons project in an ascending direction to [[grafo/termos/basal ganglia|basal ganglia]], preferentially encode the forelimb behaviors handling and grooming, and exhibit a role in modulating movement. Thus, the MLR contains glutamatergic neuronal subpopulations stratified by projection target exhibiting roles in action control not restricted to locomotion.
 
-The mesencephalic locomotor region (MLR) is a key midbrain center with roles in locomotion. Despite extensive studies and clinical trials aimed at therapy-resistant Parkinson's disease (PD), debate on its function remains. Here, we reveal the existence of functionally diverse neuronal populations with distinct roles in control of body movements. We identify two spatially intermingled glutamatergic populations separable by axonal projections, mouse genetics, neuronal activity profiles, and motor functions. Most spinally projecting MLR neurons encoded the full-body behavior rearing. Loss- and gain-of-function optogenetic perturbation experiments establish a function for these neurons in controlling body extension. In contrast, Rbp4-transgene-positive MLR neurons project in an ascending direction to basal ganglia, preferentially encode the forelimb behaviors handling and grooming, and exhibit a role in modulating movement. Thus, the MLR contains glutamatergic neuronal subpopulations stratified by projection target exhibiting roles in action control not restricted to locomotion.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T18 Região locomotora mesencefálica|T18 · Região locomotora mesencefálica]]
+
+**Termos (7):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/clinical trials|clinical trials]] · [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] · [[grafo/termos/motor function|motor function]] · [[grafo/termos/neuronal activity|neuronal activity]] · [[grafo/termos/neuronal populations|neuronal populations]]
+<!-- vinculos:fim -->

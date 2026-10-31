@@ -54,6 +54,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 5
+tags: ["artigo", "tema/5"]
 ---
+Studying Parkinson's disease (PD) is complex due to a lack of [[grafo/termos/cellular models|cellular models]] mimicking key aspects of protein pathology. Here, we present a protocol for inducing and monitoring [[grafo/termos/α-synuclein|α-synuclein]] aggregation in [[grafo/termos/living cells|living cells]] using optogenetics. We describe steps for plasmid transduction, biochemical validation, immunocytochemistry, and live-cell confocal imaging. These induced aggregates fulfill the cardinal features of authentic protein inclusions observed in PD-diseased brains and offer a tool to study the role of [[grafo/termos/protein aggregation|protein aggregation]] in [[grafo/termos/neurodegeneration|neurodegeneration]]. For complete details on the use and execution of this protocol, please refer to Bérard et al.1.
 
-Studying Parkinson's disease (PD) is complex due to a lack of cellular models mimicking key aspects of protein pathology. Here, we present a protocol for inducing and monitoring α-synuclein aggregation in living cells using optogenetics. We describe steps for plasmid transduction, biochemical validation, immunocytochemistry, and live-cell confocal imaging. These induced aggregates fulfill the cardinal features of authentic protein inclusions observed in PD-diseased brains and offer a tool to study the role of protein aggregation in neurodegeneration. For complete details on the use and execution of this protocol, please refer to Bérard et al.1.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (5):** [[grafo/termos/cellular models|cellular models]] · [[grafo/termos/living cells|living cells]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/protein aggregation|protein aggregation]] · [[grafo/termos/α-synuclein|α-synuclein]]
+<!-- vinculos:fim -->

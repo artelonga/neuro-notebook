@@ -49,6 +49,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Aggregation and accumulation of [[grafo/termos/microtubule-associated protein tau|microtubule associated protein tau]] in neurons is major neuropathological hallmark of Alzheimer’s disease (AD) and related tauopathies. Attempts have been made to promote clearance of [[grafo/termos/pathological tau|pathological tau]] (p-Tau) from neurons via [[grafo/termos/autophagy|autophagy]]. Over expression of [[grafo/termos/transcription factor|transcription factor]] EB (TFEB), has shown to clear pTau from neurons via autophagy. However, sustained TFEB activation and/or autophagy can create burden on cellular bioenergetics and can be deleterious. Thus, we engineered a minimally invasive optical system that could transiently alter autophagic flux. We optimized and tested an optogenetic [[grafo/termos/gene expression|gene expression]] system derived from a previously engineered bacterial transcription factor, EL222. For the first time, our group utilized this system not only to spatial-temporally control nuclear TFEB expression, we also show light-induced TFEB has the capacity to reduce p-Tau burden in AD patient-derived human iPSC-neurons. Together, these results suggest that optically-regulatable gene expression of TFEB unlocks opto-therapeutics to treat AD and other dementias.
 
-Aggregation and accumulation of microtubule associated protein tau in neurons is major neuropathological hallmark of Alzheimer’s disease (AD) and related tauopathies. Attempts have been made to promote clearance of pathological tau (p-Tau) from neurons via autophagy. Over expression of transcription factor EB (TFEB), has shown to clear pTau from neurons via autophagy. However, sustained TFEB activation and/or autophagy can create burden on cellular bioenergetics and can be deleterious. Thus, we engineered a minimally invasive optical system that could transiently alter autophagic flux. We optimized and tested an optogenetic gene expression system derived from a previously engineered bacterial transcription factor, EL222. For the first time, our group utilized this system not only to spatial-temporally control nuclear TFEB expression, we also show light-induced TFEB has the capacity to reduce p-Tau burden in AD patient-derived human iPSC-neurons. Together, these results suggest that optically-regulatable gene expression of TFEB unlocks opto-therapeutics to treat AD and other dementias.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (5):** [[grafo/termos/autophagy|autophagy]] · [[grafo/termos/gene expression|gene expression]] · [[grafo/termos/microtubule-associated protein tau|microtubule-associated protein tau]] · [[grafo/termos/pathological tau|pathological tau]] · [[grafo/termos/transcription factor|transcription factor]]
+<!-- vinculos:fim -->

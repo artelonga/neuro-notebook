@@ -51,6 +51,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 7
+tags: ["artigo", "tema/3"]
 ---
+ABSTRACT Cyclic adenosine monophosphate (cAMP) is a second messenger that regulates various [[grafo/termos/cellular processes|cellular processes]], including the activity of hyperpolarization-activated channels (HCN), which are implicated in cardiac physiology and neurodegenerative diseases such as Parkinson’s disease (PD). In this study, we used a photoactivated adenylyl cyclase (PAC) S27A mutant to optogenetically control intracellular cAMP levels. We demonstrated that light-induced elevation of cAMP activated HCN4 channels, leading to increased beating rates in cardiomyocytes. Unilateral expression of PAC(S27A) in the [[grafo/termos/substantia nigra pars compacta|substantia nigra pars compacta]] of mice induced rotation behavior upon [[grafo/termos/light stimulation|light stimulation]], which could be attenuated by HCN inhibitors. Furthermore, PAC(S27A) activation partially recovered [[grafo/termos/motor deficits|motor deficits]] in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD mouse model, accompanied by increased HCN2 channel expression in ipsilateral [[grafo/termos/basal ganglia|basal ganglia]]. Our findings highlight the potential of using optogenetics to modulate cAMP and [[grafo/termos/hcn channel|HCN channel]] activity for the treatment of cardiac and [[grafo/termos/neurological disorders|neurological disorders]].
 
-ABSTRACT Cyclic adenosine monophosphate (cAMP) is a second messenger that regulates various cellular processes, including the activity of hyperpolarization-activated channels (HCN), which are implicated in cardiac physiology and neurodegenerative diseases such as Parkinson’s disease (PD). In this study, we used a photoactivated adenylyl cyclase (PAC) S27A mutant to optogenetically control intracellular cAMP levels. We demonstrated that light-induced elevation of cAMP activated HCN4 channels, leading to increased beating rates in cardiomyocytes. Unilateral expression of PAC(S27A) in the substantia nigra pars compacta of mice induced rotation behavior upon light stimulation, which could be attenuated by HCN inhibitors. Furthermore, PAC(S27A) activation partially recovered motor deficits in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD mouse model, accompanied by increased HCN2 channel expression in ipsilateral basal ganglia. Our findings highlight the potential of using optogenetics to modulate cAMP and HCN channel activity for the treatment of cardiac and neurological disorders.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (7):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/cellular processes|cellular processes]] · [[grafo/termos/hcn channel|hcn channel]] · [[grafo/termos/light stimulation|light stimulation]] · [[grafo/termos/motor deficits|motor deficits]] · [[grafo/termos/neurological disorders|neurological disorders]] · [[grafo/termos/substantia nigra pars compacta|substantia nigra pars compacta]]
+<!-- vinculos:fim -->

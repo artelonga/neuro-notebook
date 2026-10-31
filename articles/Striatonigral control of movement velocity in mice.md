@@ -58,6 +58,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 6
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/basal ganglia|basal ganglia]] have long been implicated in action initiation. Using three-dimensional motion capture, we quantified the effects of optogenetic stimulation of the striatonigral (direct) pathway on movement kinematics. We generated transgenic mice with [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] expression in [[grafo/termos/striatal neurons|striatal neurons]] that express the D1-like [[grafo/termos/dopamine receptors|dopamine receptor]]. With optic fibres placed in the sensorimotor [[grafo/termos/striatum|striatum]], an area known to contain movement velocity-related single units, photo-stimulation reliably produced movements that could be precisely quantified with our motion capture programme. A single light pulse was sufficient to elicit movements with short latencies (< 30 ms). Increasing [[grafo/termos/stimulation frequency|stimulation frequency]] increased movement speed, with a highly linear relationship. These findings support the hypothesis that the sensorimotor striatum is part of a velocity controller that controls rate of change in body configurations.
 
-The basal ganglia have long been implicated in action initiation. Using three-dimensional motion capture, we quantified the effects of optogenetic stimulation of the striatonigral (direct) pathway on movement kinematics. We generated transgenic mice with channelrhodopsin-2 expression in striatal neurons that express the D1-like dopamine receptor. With optic fibres placed in the sensorimotor striatum, an area known to contain movement velocity-related single units, photo-stimulation reliably produced movements that could be precisely quantified with our motion capture programme. A single light pulse was sufficient to elicit movements with short latencies (< 30 ms). Increasing stimulation frequency increased movement speed, with a highly linear relationship. These findings support the hypothesis that the sensorimotor striatum is part of a velocity controller that controls rate of change in body configurations.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (6):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] · [[grafo/termos/dopamine receptors|dopamine receptors]] · [[grafo/termos/stimulation frequency|stimulation frequency]] · [[grafo/termos/striatal neurons|striatal neurons]] · [[grafo/termos/striatum|striatum]]
+<!-- vinculos:fim -->

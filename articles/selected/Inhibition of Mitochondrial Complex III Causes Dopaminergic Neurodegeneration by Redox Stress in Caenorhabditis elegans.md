@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T16"
+topico_nome: "Disfunção dopaminérgica e sintomas motores"
+n_termos: 4
+tags: ["artigo", "tema/1"]
 ---
+Environmental factors including chemical exposures are important contributors to Parkinson's disease (PD). Nearly all well-validated chemicals involved in PD affect mitochondria, and the great majority of those identified inhibit mitochondrial complex I, causing ATP depletion and [[grafo/termos/oxidative stress|oxidative stress]]. We hypothesized that inhibition of mitochondrial complex III would also cause dopaminergic [[grafo/termos/neurodegeneration|neurodegeneration]]. Using [[grafo/termos/caenorhabditis elegans|Caenorhabditis elegans]] to evaluate the in vivo effects of the complex III-inhibiting pesticides antimycin A and pyraclostrobin, we found that both caused neurodegeneration. Neurodegeneration was specific to the [[grafo/termos/dopamine neurons|dopamine neurons]], and complex III inhibition caused a more-oxidized cellular environment in those neurons. Pharmacological and genetic antioxidant interventions rescued neurodegeneration, but energetic rescue attempts did not. Finally, optogenetic production of superoxide anion specifically at complex III caused dopaminergic neurodegeneration. Thus, redox stress at complex III is sufficient for dopaminergic neurodegeneration, and redox stress following chemical inhibition is necessary for dopaminergic neurodegeneration in vivo in C. elegans.
 
-Environmental factors including chemical exposures are important contributors to Parkinson's disease (PD). Nearly all well-validated chemicals involved in PD affect mitochondria, and the great majority of those identified inhibit mitochondrial complex I, causing ATP depletion and oxidative stress. We hypothesized that inhibition of mitochondrial complex III would also cause dopaminergic neurodegeneration. Using Caenorhabditis elegans to evaluate the in vivo effects of the complex III-inhibiting pesticides antimycin A and pyraclostrobin, we found that both caused neurodegeneration. Neurodegeneration was specific to the dopamine neurons, and complex III inhibition caused a more-oxidized cellular environment in those neurons. Pharmacological and genetic antioxidant interventions rescued neurodegeneration, but energetic rescue attempts did not. Finally, optogenetic production of superoxide anion specifically at complex III caused dopaminergic neurodegeneration. Thus, redox stress at complex III is sufficient for dopaminergic neurodegeneration, and redox stress following chemical inhibition is necessary for dopaminergic neurodegeneration in vivo in C. elegans.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T16 Disfunção dopaminérgica e sintomas motores|T16 · Disfunção dopaminérgica e sintomas motores]]
+
+**Termos (4):** [[grafo/termos/caenorhabditis elegans|caenorhabditis elegans]] · [[grafo/termos/dopamine neurons|dopamine neurons]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/oxidative stress|oxidative stress]]
+<!-- vinculos:fim -->

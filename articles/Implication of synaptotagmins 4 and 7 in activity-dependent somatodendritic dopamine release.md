@@ -50,6 +50,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 5
+tags: ["artigo", "tema/1"]
 ---
+ABSTRACT [[grafo/termos/dopamine|Dopamine]] (DA) neurons can release DA not just from [[grafo/termos/axon terminals|axon terminals]], but also from their somatodendritic (STD) compartment thought a mechanism that is still incompletely understood. Using [[grafo/termos/voltammetry|voltammetry]] in mouse mesencephalic [[grafo/termos/brain slices|brain slices]], we find that STD DA release has low capacity, is stable in response to electrical but not optogenetic train pulses and shows a calcium sensitivity that is comparable to that of axonal release. It is also strikingly more resilient compared to axonal release in a 6‐ hydroxydopamine model of Parkinson’s disease plasticity. We find that the [[grafo/termos/molecular mechanisms|molecular mechanism]] of STD DA release differs from axonal release with regards to the implication of synaptotagmin (Syt) calcium sensors. While individual constitutive knock-out Syt4 and Syt7 is not sufficient to reduce STD DA release, removal of both isoforms reduces this release by ~50%, leaving axonal release unimpaired. Our works unveils clear differences in the mechanisms of STD and axonal DA release.
 
-ABSTRACT Dopamine (DA) neurons can release DA not just from axon terminals, but also from their somatodendritic (STD) compartment thought a mechanism that is still incompletely understood. Using voltammetry in mouse mesencephalic brain slices, we find that STD DA release has low capacity, is stable in response to electrical but not optogenetic train pulses and shows a calcium sensitivity that is comparable to that of axonal release. It is also strikingly more resilient compared to axonal release in a 6‐ hydroxydopamine model of Parkinson’s disease plasticity. We find that the molecular mechanism of STD DA release differs from axonal release with regards to the implication of synaptotagmin (Syt) calcium sensors. While individual constitutive knock-out Syt4 and Syt7 is not sufficient to reduce STD DA release, removal of both isoforms reduces this release by ~50%, leaving axonal release unimpaired. Our works unveils clear differences in the mechanisms of STD and axonal DA release.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (5):** [[grafo/termos/axon terminals|axon terminals]] · [[grafo/termos/brain slices|brain slices]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/molecular mechanisms|molecular mechanisms]] · [[grafo/termos/voltammetry|voltammetry]]
+<!-- vinculos:fim -->

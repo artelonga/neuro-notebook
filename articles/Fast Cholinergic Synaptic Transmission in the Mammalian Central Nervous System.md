@@ -48,6 +48,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T19"
+topico_nome: "Neurônios colinérgicos do prosencéfalo basal"
+n_termos: 5
+tags: ["artigo", "tema/8"]
 ---
+Release of [[grafo/termos/acetylcholine|acetylcholine]] (ACh) in the brain controls several cognitive processes, and a number of disorders including Alzheimer's and Parkinson's diseases are associated with a loss of cholinergic function. Despite the importance of ACh signaling in modulating [[grafo/termos/information processing|information processing]] in thalamocortical circuits, understanding the dynamics of cholinergic function has long been limited by a lack of in vitro model systems. Recent studies employing both electrical as well as optogenetic stimulation techniques have overcome this challenge, resulting in the identification of multiple forms of fast [[grafo/termos/cholinergic signaling|cholinergic signaling]] throughout the [[grafo/termos/mammalian brain|mammalian brain]]. Here we highlight a simple strategy making use of extracellular [[grafo/termos/electrical stimulation|electrical stimulation]] techniques that allows for the study of cholinergic synaptic inputs onto neurons in the thalamic reticular nucleus (TRN).
 
-Release of acetylcholine (ACh) in the brain controls several cognitive processes, and a number of disorders including Alzheimer's and Parkinson's diseases are associated with a loss of cholinergic function. Despite the importance of ACh signaling in modulating information processing in thalamocortical circuits, understanding the dynamics of cholinergic function has long been limited by a lack of in vitro model systems. Recent studies employing both electrical as well as optogenetic stimulation techniques have overcome this challenge, resulting in the identification of multiple forms of fast cholinergic signaling throughout the mammalian brain. Here we highlight a simple strategy making use of extracellular electrical stimulation techniques that allows for the study of cholinergic synaptic inputs onto neurons in the thalamic reticular nucleus (TRN).
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T19 Neurônios colinérgicos do prosencéfalo basal|T19 · Neurônios colinérgicos do prosencéfalo basal]]
+
+**Termos (5):** [[grafo/termos/acetylcholine|acetylcholine]] · [[grafo/termos/cholinergic signaling|cholinergic signaling]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/information processing|information processing]] · [[grafo/termos/mammalian brain|mammalian brain]]
+<!-- vinculos:fim -->

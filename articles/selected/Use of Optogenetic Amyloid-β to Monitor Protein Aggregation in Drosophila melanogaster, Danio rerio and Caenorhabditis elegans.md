@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer's Disease (AD) has long been associated with accumulation of extracellular [[grafo/termos/amyloid- plaques|amyloid plaques]] (Aβ) originating from the [[grafo/termos/amyloid precursor protein|Amyloid Precursor Protein]]. Plaques have, however, been discovered in healthy individuals and not all AD brains show plaques, suggesting that extracellular Aβ aggregates may play a smaller role than anticipated. One limitation to studying Aβ peptide in vivo during disease progression is the inability to induce aggregation in a controlled manner. We developed an optogenetic method to induce Aβ aggregation and tested its biological influence in three model organisms-D. melanogaster, C. elegans and D. rerio. We generated a fluorescently labeled, optogenetic Aβ peptide that oligomerizes rapidly in vivo in the presence of [[grafo/termos/blue light|blue light]] in all organisms. Here, we detail the procedures for expressing this fusion protein in animal models, investigating the effects on the nervous system using time lapse light-sheet microscopy, and performing metabolic assays to measure changes due to intracellular Aβ aggregation. This method, employing optogenetics to study the pathology of AD, allows spatial and [[grafo/termos/temporal control|temporal control]] in vivo that cannot be achieved by any other method at present.
 
-Alzheimer's Disease (AD) has long been associated with accumulation of extracellular amyloid plaques (Aβ) originating from the Amyloid Precursor Protein. Plaques have, however, been discovered in healthy individuals and not all AD brains show plaques, suggesting that extracellular Aβ aggregates may play a smaller role than anticipated. One limitation to studying Aβ peptide in vivo during disease progression is the inability to induce aggregation in a controlled manner. We developed an optogenetic method to induce Aβ aggregation and tested its biological influence in three model organisms-D. melanogaster, C. elegans and D. rerio. We generated a fluorescently labeled, optogenetic Aβ peptide that oligomerizes rapidly in vivo in the presence of blue light in all organisms. Here, we detail the procedures for expressing this fusion protein in animal models, investigating the effects on the nervous system using time lapse light-sheet microscopy, and performing metabolic assays to measure changes due to intracellular Aβ aggregation. This method, employing optogenetics to study the pathology of AD, allows spatial and temporal control in vivo that cannot be achieved by any other method at present.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (4):** [[grafo/termos/amyloid precursor protein|amyloid precursor protein]] · [[grafo/termos/amyloid- plaques|amyloid- plaques]] · [[grafo/termos/blue light|blue light]] · [[grafo/termos/temporal control|temporal control]]
+<!-- vinculos:fim -->

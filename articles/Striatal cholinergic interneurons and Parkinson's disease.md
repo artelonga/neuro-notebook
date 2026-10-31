@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 5
+tags: ["artigo", "tema/1"]
 ---
+Giant, aspiny [[grafo/termos/cholinergic interneurons|cholinergic interneurons]] (ChIs) have long been known to be key nodes in the [[grafo/termos/striatal circuitry|striatal circuitry]] controlling goal-directed actions and habits. In recent years, new experimental approaches, like optogenetics and monosynaptic rabies virus mapping, have expanded our understanding of how ChIs contribute to the striatal activity underlying [[grafo/termos/action selection|action selection]] and the interplay of dopaminergic and [[grafo/termos/cholinergic signaling|cholinergic signaling]]. These approaches also have begun to reveal how ChI function is distorted in disease states affecting the [[grafo/termos/basal ganglia|basal ganglia]], like Parkinson's disease (PD). This review gives a brief overview of our current understanding of the functional role played by ChIs in striatal physiology and how this changes in PD. The translational implications of these discoveries, as well as the gaps that remain to be bridged, are discussed as well.
 
-Giant, aspiny cholinergic interneurons (ChIs) have long been known to be key nodes in the striatal circuitry controlling goal-directed actions and habits. In recent years, new experimental approaches, like optogenetics and monosynaptic rabies virus mapping, have expanded our understanding of how ChIs contribute to the striatal activity underlying action selection and the interplay of dopaminergic and cholinergic signaling. These approaches also have begun to reveal how ChI function is distorted in disease states affecting the basal ganglia, like Parkinson's disease (PD). This review gives a brief overview of our current understanding of the functional role played by ChIs in striatal physiology and how this changes in PD. The translational implications of these discoveries, as well as the gaps that remain to be bridged, are discussed as well.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (5):** [[grafo/termos/action selection|action selection]] · [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/cholinergic interneurons|cholinergic interneurons]] · [[grafo/termos/cholinergic signaling|cholinergic signaling]] · [[grafo/termos/striatal circuitry|striatal circuitry]]
+<!-- vinculos:fim -->

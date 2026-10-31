@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+Altered neuronal timing and synchrony are biomarkers for Alzheimer’s disease (AD) and correlate with [[grafo/termos/memory impairment|memory impairments]]. [[grafo/termos/electrical stimulation|Electrical stimulation]] of the fornix, the main fibre bundle connecting the [[grafo/termos/hippocampus|hippocampus]] to the septum, has emerged as a potential intervention to restore network synchrony and [[grafo/termos/memory|memory]] performance in human AD and mouse models. However, electrical stimulation is non‐specific and may partially explain why fornix stimulation in AD patients has yielded mixed results. We hypothesize that driving the specific circuits underlying rhythmicity within the fornix via optogenetics at the biologically relevant [[grafo/termos/theta rhythm|theta rhythm]] (5Hz) will stabilize septo‐[[grafo/termos/hippocampal network|hippocampal network]] timing in an AD mouse model (hAPP‐j20) to alleviate hypersynchronous interictal spikes (IS) and restore memory performance.
 
-Altered neuronal timing and synchrony are biomarkers for Alzheimer’s disease (AD) and correlate with memory impairments. Electrical stimulation of the fornix, the main fibre bundle connecting the hippocampus to the septum, has emerged as a potential intervention to restore network synchrony and memory performance in human AD and mouse models. However, electrical stimulation is non‐specific and may partially explain why fornix stimulation in AD patients has yielded mixed results. We hypothesize that driving the specific circuits underlying rhythmicity within the fornix via optogenetics at the biologically relevant theta rhythm (5Hz) will stabilize septo‐hippocampal network timing in an AD mouse model (hAPP‐j20) to alleviate hypersynchronous interictal spikes (IS) and restore memory performance.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (6):** [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/hippocampal network|hippocampal network]] · [[grafo/termos/hippocampus|hippocampus]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory impairment|memory impairment]] · [[grafo/termos/theta rhythm|theta rhythm]]
+<!-- vinculos:fim -->

@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 2
+tags: ["artigo", "tema/3"]
 ---
+In brain science and psychology, one of the most important purposes of recent studies about [[grafo/termos/neural network|neural network]], biological circuit in brain, is to establish a method of treatment for the [[grafo/termos/central nervous|central nervous]] system disease, such as Alzheimer. Neurons in a neural network is stimulated and controlled by visible lights by Optogenetics methods. In this paper, we propose a microchip integrated micro electrodes, micro lenses, and pinholes. The proposed microchip is capable of stimulating a neural network with two focused lights which have different affection to the neuron, and measuring the electrical reaction of the neural network.
 
-In brain science and psychology, one of the most important purposes of recent studies about neural network, biological circuit in brain, is to establish a method of treatment for the central nervous system disease, such as Alzheimer. Neurons in a neural network is stimulated and controlled by visible lights by Optogenetics methods. In this paper, we propose a microchip integrated micro electrodes, micro lenses, and pinholes. The proposed microchip is capable of stimulating a neural network with two focused lights which have different affection to the neuron, and measuring the electrical reaction of the neural network.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (2):** [[grafo/termos/central nervous|central nervous]] · [[grafo/termos/neural network|neural network]]
+<!-- vinculos:fim -->

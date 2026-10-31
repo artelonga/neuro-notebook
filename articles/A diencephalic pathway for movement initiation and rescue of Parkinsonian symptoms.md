@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+Summary The [[grafo/termos/parafascicular nucleus|parafascicular nucleus]] (Pf) of the [[grafo/termos/thalamus|thalamus]] projects to the [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] (STN), a major target for [[grafo/termos/deep brain stimulation|deep brain stimulation]] (DBS) in Parkinson’s disease (PD), but the function of this projection remains unknown. Here, we used optogenetics, 3D motion capture, in [[grafo/termos/vivo electrophysiology|vivo electrophysiology]] and 1-photon [[grafo/termos/calcium imaging|calcium imaging]], unsupervised behavioral classification, and viral-based neuroanatomical tracing to examine the contribution of Pf efferents to movement generation in mice. We discovered that Pf neurons are highly correlated with movement velocity and excitation of Pf neurons generates turning and orienting movements. Movement initiation was not due to Pf projections to the [[grafo/termos/striatum|striatum]], but rather its projections to the STN. Optogenetic excitation of the Pf-STN pathway restores movement in a common mouse model of PD with complete [[grafo/termos/akinesia|akinesia]]. Collectively, our results reveal a thalamo-subthalamic pathway regulating movement initiation, and demonstrate a [[grafo/termos/circuit mechanisms|circuit mechanism]] that could potentially explain the clinical efficacy of DBS for relief of PD [[grafo/termos/motor symptoms|motor symptoms]].
 
-Summary The parafascicular nucleus (Pf) of the thalamus projects to the subthalamic nucleus (STN), a major target for deep brain stimulation (DBS) in Parkinson’s disease (PD), but the function of this projection remains unknown. Here, we used optogenetics, 3D motion capture, in vivo electrophysiology and 1-photon calcium imaging, unsupervised behavioral classification, and viral-based neuroanatomical tracing to examine the contribution of Pf efferents to movement generation in mice. We discovered that Pf neurons are highly correlated with movement velocity and excitation of Pf neurons generates turning and orienting movements. Movement initiation was not due to Pf projections to the striatum, but rather its projections to the STN. Optogenetic excitation of the Pf-STN pathway restores movement in a common mouse model of PD with complete akinesia. Collectively, our results reveal a thalamo-subthalamic pathway regulating movement initiation, and demonstrate a circuit mechanism that could potentially explain the clinical efficacy of DBS for relief of PD motor symptoms.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+
+**Termos (10):** [[grafo/termos/akinesia|akinesia]] · [[grafo/termos/calcium imaging|calcium imaging]] · [[grafo/termos/circuit mechanisms|circuit mechanisms]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/motor symptoms|motor symptoms]] · [[grafo/termos/parafascicular nucleus|parafascicular nucleus]] · [[grafo/termos/striatum|striatum]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] · [[grafo/termos/thalamus|thalamus]] · [[grafo/termos/vivo electrophysiology|vivo electrophysiology]]
+<!-- vinculos:fim -->

@@ -62,6 +62,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 9
+tags: ["artigo", "tema/1"]
 ---
+Glutamatergic projections of the thalamic rostral intralaminar nuclei of the [[grafo/termos/thalamus|thalamus]] (rILN) innervate the [[grafo/termos/dorsal striatum|dorsal striatum]] (DS) and are implicated in [[grafo/termos/dopamine|dopamine]] (DA)-dependent incubation of drug seeking. However, the mechanism by which rILN signaling modulates [[grafo/termos/reward seeking|reward seeking]] and striatal DA release is unknown. We find that activation of rILN inputs to the DS drives [[grafo/termos/cholinergic interneurons|cholinergic interneuron]] burst-firing behavior and DA D2 receptor-dependent post-burst pauses in cholinergic interneuron firing. In vivo, optogenetic activation of this pathway drives reinforcement in a DA D1 receptor-dependent manner, and [[grafo/termos/chemogenetics|chemogenetic]] suppression of the rILN reduces dopaminergic nigrostriatal terminal activity as measured by [[grafo/termos/fiber photometry|fiber photometry]]. Altogether, these data provide evidence that the rILN activates [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]] to enhance the pursuit of [[grafo/termos/reward|reward]] through local striatal DA release and introduce an additional level of complexity in our understanding of striatal DA signaling.
 
-Glutamatergic projections of the thalamic rostral intralaminar nuclei of the thalamus (rILN) innervate the dorsal striatum (DS) and are implicated in dopamine (DA)-dependent incubation of drug seeking. However, the mechanism by which rILN signaling modulates reward seeking and striatal DA release is unknown. We find that activation of rILN inputs to the DS drives cholinergic interneuron burst-firing behavior and DA D2 receptor-dependent post-burst pauses in cholinergic interneuron firing. In vivo, optogenetic activation of this pathway drives reinforcement in a DA D1 receptor-dependent manner, and chemogenetic suppression of the rILN reduces dopaminergic nigrostriatal terminal activity as measured by fiber photometry. Altogether, these data provide evidence that the rILN activates striatal cholinergic interneurons to enhance the pursuit of reward through local striatal DA release and introduce an additional level of complexity in our understanding of striatal DA signaling.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (9):** [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/cholinergic interneurons|cholinergic interneurons]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dorsal striatum|dorsal striatum]] · [[grafo/termos/fiber photometry|fiber photometry]] · [[grafo/termos/reward|reward]] · [[grafo/termos/reward seeking|reward seeking]] · [[grafo/termos/striatal cholinergic interneurons|striatal cholinergic interneurons]] · [[grafo/termos/thalamus|thalamus]]
+<!-- vinculos:fim -->

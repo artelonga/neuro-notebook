@@ -51,6 +51,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 3
+tags: ["artigo", "tema/1"]
 ---
+Corollary discharge (CD) signals are copies of motor commands that inform the brain of impending movements. Dysfunction in CD has been implicated in a variety of disorders, from schizophrenia to Parkinson's disease. In the current study, we used intersectional viral tracing techniques, electron microscopy, and dual opsin optogenetics to investigate potential CD circuits in mice. We focused on the centrolateral (CL) nucleus of the [[grafo/termos/thalamus|thalamus]] to relate our findings to previous studies of CD carried out in primates. We found that single neurons in the CL integrate ascending inputs from premotor neurons in the superior colliculus with descending inputs from neurons in layer 5 of the [[grafo/termos/motor cortex|motor cortex]]; these integrated signals are subsequently sent to the [[grafo/termos/striatum|striatum]] and motor cortex. These results suggest that CL circuits may detect the relative timing of cortical and subcortical movement commands, providing an important feedback loop for ongoing adjustments of movement planning and initiation.
 
-Corollary discharge (CD) signals are copies of motor commands that inform the brain of impending movements. Dysfunction in CD has been implicated in a variety of disorders, from schizophrenia to Parkinson's disease. In the current study, we used intersectional viral tracing techniques, electron microscopy, and dual opsin optogenetics to investigate potential CD circuits in mice. We focused on the centrolateral (CL) nucleus of the thalamus to relate our findings to previous studies of CD carried out in primates. We found that single neurons in the CL integrate ascending inputs from premotor neurons in the superior colliculus with descending inputs from neurons in layer 5 of the motor cortex; these integrated signals are subsequently sent to the striatum and motor cortex. These results suggest that CL circuits may detect the relative timing of cortical and subcortical movement commands, providing an important feedback loop for ongoing adjustments of movement planning and initiation.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (3):** [[grafo/termos/motor cortex|motor cortex]] · [[grafo/termos/striatum|striatum]] · [[grafo/termos/thalamus|thalamus]]
+<!-- vinculos:fim -->

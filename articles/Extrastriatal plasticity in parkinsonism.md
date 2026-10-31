@@ -55,6 +55,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T15"
+topico_nome: "Discinesia induzida por levodopa"
+n_termos: 0
+tags: ["artigo", "tema/1"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T15 Discinesia induzida por levodopa|T15 · Discinesia induzida por levodopa]]
+<!-- vinculos:fim -->

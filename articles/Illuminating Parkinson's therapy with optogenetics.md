@@ -50,6 +50,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 1
+tags: ["artigo", "tema/3"]
 ---
+Controlling transplanted [[grafo/termos/dopamine neurons|dopamine neurons]] with light helps define their mechanism of action.
 
-Controlling transplanted dopamine neurons with light helps define their mechanism of action.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (1):** [[grafo/termos/dopamine neurons|dopamine neurons]]
+<!-- vinculos:fim -->

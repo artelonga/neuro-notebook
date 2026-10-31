@@ -69,6 +69,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+Functional network activity alterations are one of the earliest hallmarks of Alzheimer's disease (AD), detected prior to amyloidosis and [[grafo/termos/tauopathy|tauopathy]]. Better understanding the neuronal underpinnings of such network alterations could offer [[grafo/termos/mechanistic insight|mechanistic insight]] into AD progression. Here, we examined a mouse model (3xTgAD mice) recapitulating this early AD stage. We found resting [[grafo/termos/functional connectivity|functional connectivity]] loss within ventral networks, including the [[grafo/termos/entorhinal cortex|entorhinal cortex]], aligning with the spatial distribution of tauopathy reported in humans. Unexpectedly, in contrast to decreased connectivity at rest, 3xTgAD mice show enhanced fMRI signal within several projection areas following optogenetic activation of the entorhinal cortex. We corroborate this finding by demonstrating neuronal facilitation within ventral networks and synaptic hyperexcitability in projection targets. 3xTgAD mice, thus, reveal a dichotomic hypo-connected:resting versus hyper-responsive:active phenotype. This strong homotopy between the areas affected supports the translatability of this pathophysiological model to tau-related, early-AD deficits in humans.
 
-Functional network activity alterations are one of the earliest hallmarks of Alzheimer's disease (AD), detected prior to amyloidosis and tauopathy. Better understanding the neuronal underpinnings of such network alterations could offer mechanistic insight into AD progression. Here, we examined a mouse model (3xTgAD mice) recapitulating this early AD stage. We found resting functional connectivity loss within ventral networks, including the entorhinal cortex, aligning with the spatial distribution of tauopathy reported in humans. Unexpectedly, in contrast to decreased connectivity at rest, 3xTgAD mice show enhanced fMRI signal within several projection areas following optogenetic activation of the entorhinal cortex. We corroborate this finding by demonstrating neuronal facilitation within ventral networks and synaptic hyperexcitability in projection targets. 3xTgAD mice, thus, reveal a dichotomic hypo-connected:resting versus hyper-responsive:active phenotype. This strong homotopy between the areas affected supports the translatability of this pathophysiological model to tau-related, early-AD deficits in humans.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (4):** [[grafo/termos/entorhinal cortex|entorhinal cortex]] · [[grafo/termos/functional connectivity|functional connectivity]] · [[grafo/termos/mechanistic insight|mechanistic insight]] · [[grafo/termos/tauopathy|tauopathy]]
+<!-- vinculos:fim -->

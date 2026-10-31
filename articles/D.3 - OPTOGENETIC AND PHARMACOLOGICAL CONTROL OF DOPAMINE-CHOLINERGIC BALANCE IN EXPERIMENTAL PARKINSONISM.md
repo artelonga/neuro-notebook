@@ -57,6 +57,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 0
+tags: ["artigo", "tema/3"]
 ---
-
 Ztaou, Samiraa; Liberge, Martinea; Nicolas, Mauriceb; Camon, Jérémya; Jaouen, Florenceb; Kerkerian-Le Goff, Lydiab; Amalric, Mariannea; Beurrier, Corinneb Author Information
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+<!-- vinculos:fim -->

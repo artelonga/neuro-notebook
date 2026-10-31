@@ -47,6 +47,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer’s disease (AD) and >20 other dementias, termed tauopathies, are pathologically defined by insoluble aggregates of the microtubule‐associated [[grafo/termos/protein tau|protein tau]] (MAPT). A predictive relationship between the onset and progression of clinical AD symptoms correlates with post‐translational modifications of [[grafo/termos/tau|tau]] in cerebrospinal fluid and [[grafo/termos/tau aggregation|tau aggregation]] in the brains of AD patients. However, the biological basis for the transition of tau from a microtubule‐associated protein to an insoluble aggregate and the precise relationship between tau aggregation and neuronal dysfunction remains unknown. Recent studies have reported the development of photo‐inducible systems to control [[grafo/termos/protein aggregation|protein aggregation]] using photo‐oligomerizable proteins that self‐associate upon exposure to [[grafo/termos/blue light|blue light]]. We hypothesized that the development of a photo‐inducible system, which permits [[grafo/termos/temporal control|temporal control]] of tau aggregation, would provide a novel tool to study the cause and consequence of tau aggregation.
 
-Alzheimer’s disease (AD) and >20 other dementias, termed tauopathies, are pathologically defined by insoluble aggregates of the microtubule‐associated protein tau (MAPT). A predictive relationship between the onset and progression of clinical AD symptoms correlates with post‐translational modifications of tau in cerebrospinal fluid and tau aggregation in the brains of AD patients. However, the biological basis for the transition of tau from a microtubule‐associated protein to an insoluble aggregate and the precise relationship between tau aggregation and neuronal dysfunction remains unknown. Recent studies have reported the development of photo‐inducible systems to control protein aggregation using photo‐oligomerizable proteins that self‐associate upon exposure to blue light. We hypothesized that the development of a photo‐inducible system, which permits temporal control of tau aggregation, would provide a novel tool to study the cause and consequence of tau aggregation.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (6):** [[grafo/termos/blue light|blue light]] · [[grafo/termos/protein aggregation|protein aggregation]] · [[grafo/termos/protein tau|protein tau]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau aggregation|tau aggregation]] · [[grafo/termos/temporal control|temporal control]]
+<!-- vinculos:fim -->

@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 7
+tags: ["artigo", "tema/2"]
 ---
+The earliest abnormality associated with Alzheimer's disease (AD) is the presence of persistently phosphorylated pretangle [[grafo/termos/tau|tau]] in [[grafo/termos/locus coeruleus|locus coeruleus]] (LC) neurons. LC neuron numbers and fiber density are positive predictors of [[grafo/termos/cognition|cognition]] prior to death. Using an animal model of LC pretangle tau, we ask if LC [[grafo/termos/activity patterns|activity patterns]] influence the sequelae of pretangle tau. We seeded LC neurons with a pretangle [[grafo/termos/human tau|human tau]] gene. We provided daily novelty- or stress-associated optogenetic activation patterns to LC neurons for 6 weeks in mid-adulthood and, subsequently, probed cognitive and anatomical changes. Prior LC phasic stimulation prevented spatial and olfactory discrimination deficits and preserved LC axonal density. A stress-associated activation pattern increased indices of [[grafo/termos/anxiety|anxiety]] and [[grafo/termos/depression|depression]], did not improve cognition, and worsened LC neuronal health. These results argue that variations in environmental experiences associated with differing LC activity patterns may account for individual susceptibility to development of AD in humans.
 
-The earliest abnormality associated with Alzheimer's disease (AD) is the presence of persistently phosphorylated pretangle tau in locus coeruleus (LC) neurons. LC neuron numbers and fiber density are positive predictors of cognition prior to death. Using an animal model of LC pretangle tau, we ask if LC activity patterns influence the sequelae of pretangle tau. We seeded LC neurons with a pretangle human tau gene. We provided daily novelty- or stress-associated optogenetic activation patterns to LC neurons for 6 weeks in mid-adulthood and, subsequently, probed cognitive and anatomical changes. Prior LC phasic stimulation prevented spatial and olfactory discrimination deficits and preserved LC axonal density. A stress-associated activation pattern increased indices of anxiety and depression, did not improve cognition, and worsened LC neuronal health. These results argue that variations in environmental experiences associated with differing LC activity patterns may account for individual susceptibility to development of AD in humans.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (7):** [[grafo/termos/activity patterns|activity patterns]] · [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/cognition|cognition]] · [[grafo/termos/depression|depression]] · [[grafo/termos/human tau|human tau]] · [[grafo/termos/locus coeruleus|locus coeruleus]] · [[grafo/termos/tau|tau]]
+<!-- vinculos:fim -->

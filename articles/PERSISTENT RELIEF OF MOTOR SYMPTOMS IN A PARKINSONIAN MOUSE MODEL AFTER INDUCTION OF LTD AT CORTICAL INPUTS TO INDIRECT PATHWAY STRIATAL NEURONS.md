@@ -64,6 +64,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+Summary In Parkinson’s disease (PD) patients, [[grafo/termos/dopamine replacement therapy|dopamine replacement therapy]] requires days to reach maximal effects, and the return of symptoms without treatment is similarly delayed. We previously postulated that these phenomena are mediated by plasticity of coritcostriatal [[grafo/termos/synapse|synapses]]. As [[grafo/termos/dopamine depletion|dopamine depletion]] is expected to promote aberrant potentiation of the cortical inputs onto [[grafo/termos/indirect pathway|indirect pathway]] neurons, we reasoned that induction of LTD here could reduce [[grafo/termos/motor deficits|motor deficits]] in a PD model. Optogenetic cortical stimulation combined with a D2 receptor agonist, quinpirole, induces robust optical LTD (oLTD) in [[grafo/termos/brain slices|brain slices]] from [[grafo/termos/6-hydroxydopamine|6-OHDA]] lesioned mice. When lesioned mice were subjected to corticostriatal oLTD treatment over 5 days, motor performance was improved for >3 weeks. Consistent with LTD induction, oLTD-treated mice had reduced VGLUT1 expression in [[grafo/termos/striatum|striatum]] and greater excitability of D2 neurons. These findings suggest that reversing aberrant corticostriatal [[grafo/termos/synaptic plasticity|synaptic plasticity]] in the indirect pathway may lead to persistent relief of PD [[grafo/termos/motor symptoms|motor symptoms]].
 
-Summary In Parkinson’s disease (PD) patients, dopamine replacement therapy requires days to reach maximal effects, and the return of symptoms without treatment is similarly delayed. We previously postulated that these phenomena are mediated by plasticity of coritcostriatal synapses. As dopamine depletion is expected to promote aberrant potentiation of the cortical inputs onto indirect pathway neurons, we reasoned that induction of LTD here could reduce motor deficits in a PD model. Optogenetic cortical stimulation combined with a D2 receptor agonist, quinpirole, induces robust optical LTD (oLTD) in brain slices from 6-OHDA lesioned mice. When lesioned mice were subjected to corticostriatal oLTD treatment over 5 days, motor performance was improved for >3 weeks. Consistent with LTD induction, oLTD-treated mice had reduced VGLUT1 expression in striatum and greater excitability of D2 neurons. These findings suggest that reversing aberrant corticostriatal synaptic plasticity in the indirect pathway may lead to persistent relief of PD motor symptoms.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (10):** [[grafo/termos/6-hydroxydopamine|6-hydroxydopamine]] · [[grafo/termos/brain slices|brain slices]] · [[grafo/termos/dopamine depletion|dopamine depletion]] · [[grafo/termos/dopamine replacement therapy|dopamine replacement therapy]] · [[grafo/termos/indirect pathway|indirect pathway]] · [[grafo/termos/motor deficits|motor deficits]] · [[grafo/termos/motor symptoms|motor symptoms]] · [[grafo/termos/striatum|striatum]] · [[grafo/termos/synapse|synapse]] · [[grafo/termos/synaptic plasticity|synaptic plasticity]]
+<!-- vinculos:fim -->

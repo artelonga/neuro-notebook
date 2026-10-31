@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 10
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/slow oscillations|Slow oscillations]] are important for consolidation of [[grafo/termos/memory|memory]] during [[grafo/termos/sleep|sleep]], and Alzheimer's disease (AD) patients experience memory disturbances. Thus, we examined slow oscillation activity in an animal model of AD. APP mice exhibit aberrant slow oscillation activity. Aberrant inhibitory activity within the cortical circuit was responsible for slow oscillation dysfunction, since topical application of [[grafo/termos/gaba|GABA]] restored slow oscillations in APP mice. In addition, [[grafo/termos/light activation|light activation]] of [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] (ChR2) expressed in excitatory [[grafo/termos/cortical neurons|cortical neurons]] restored slow oscillations by synchronizing [[grafo/termos/neuronal activity|neuronal activity]]. Driving slow oscillation activity with ChR2 halted [[grafo/termos/amyloid- plaques|amyloid plaque]] deposition and prevented calcium overload associated with this pathology. Thus, targeting slow [[grafo/termos/oscillatory activity|oscillatory activity]] in AD patients might prevent neurodegenerative phenotypes and slow disease progression.
 
-Slow oscillations are important for consolidation of memory during sleep, and Alzheimer's disease (AD) patients experience memory disturbances. Thus, we examined slow oscillation activity in an animal model of AD. APP mice exhibit aberrant slow oscillation activity. Aberrant inhibitory activity within the cortical circuit was responsible for slow oscillation dysfunction, since topical application of GABA restored slow oscillations in APP mice. In addition, light activation of channelrhodopsin-2 (ChR2) expressed in excitatory cortical neurons restored slow oscillations by synchronizing neuronal activity. Driving slow oscillation activity with ChR2 halted amyloid plaque deposition and prevented calcium overload associated with this pathology. Thus, targeting slow oscillatory activity in AD patients might prevent neurodegenerative phenotypes and slow disease progression.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (10):** [[grafo/termos/amyloid- plaques|amyloid- plaques]] · [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] · [[grafo/termos/cortical neurons|cortical neurons]] · [[grafo/termos/gaba|gaba]] · [[grafo/termos/light activation|light activation]] · [[grafo/termos/memory|memory]] · [[grafo/termos/neuronal activity|neuronal activity]] · [[grafo/termos/oscillatory activity|oscillatory activity]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/slow oscillations|slow oscillations]]
+<!-- vinculos:fim -->

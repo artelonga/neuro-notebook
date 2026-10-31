@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 7
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/functional connectivity|Functional connectivity]] of the brain as measured by the blood oxygen level dependent (BOLD) signal in fMRI is altered during Alzheimer’s disease (AD) progression. Common practice during preprocessing of fMRI data is removal of the global signal, defined as the averaged brain signal, by regression, removing major sources of noise while risking loss of [[grafo/termos/neural activity|neural activity]]. The [[grafo/termos/locus coeruleus|locus coeruleus]] (LC), one of the first [[grafo/termos/brain regions|brain regions]] to accumulate [[grafo/termos/hyperphosphorylated tau|hyperphosphorylated tau]], contributes to brainwide neuromodulatory regulation. Therefore, we combined optogenetics and fMRI to study how LC activity affects the global signal in the TgF344‐AD [[grafo/termos/rat model|rat model]] of AD, which overexpresses mutant human [[grafo/termos/amyloid precursor protein|amyloid precursor protein]] and presenilin‐1.
 
-Functional connectivity of the brain as measured by the blood oxygen level dependent (BOLD) signal in fMRI is altered during Alzheimer’s disease (AD) progression. Common practice during preprocessing of fMRI data is removal of the global signal, defined as the averaged brain signal, by regression, removing major sources of noise while risking loss of neural activity. The locus coeruleus (LC), one of the first brain regions to accumulate hyperphosphorylated tau, contributes to brainwide neuromodulatory regulation. Therefore, we combined optogenetics and fMRI to study how LC activity affects the global signal in the TgF344‐AD rat model of AD, which overexpresses mutant human amyloid precursor protein and presenilin‐1.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (7):** [[grafo/termos/amyloid precursor protein|amyloid precursor protein]] · [[grafo/termos/brain regions|brain regions]] · [[grafo/termos/functional connectivity|functional connectivity]] · [[grafo/termos/hyperphosphorylated tau|hyperphosphorylated tau]] · [[grafo/termos/locus coeruleus|locus coeruleus]] · [[grafo/termos/neural activity|neural activity]] · [[grafo/termos/rat model|rat model]]
+<!-- vinculos:fim -->

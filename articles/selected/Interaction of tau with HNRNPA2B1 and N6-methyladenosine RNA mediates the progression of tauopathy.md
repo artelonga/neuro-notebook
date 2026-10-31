@@ -92,6 +92,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+The [[grafo/termos/microtubule-associated protein tau|microtubule-associated protein tau]] oligomerizes, but the actions of oligomeric [[grafo/termos/tau|tau]] (oTau) are unknown. We have used Cry2-based optogenetics to induce tau oligomers (oTau-c). Optical induction of oTau-c elicits [[grafo/termos/tau phosphorylation|tau phosphorylation]], aggregation, and a translational stress response that includes [[grafo/termos/stress granules|stress granules]] and reduced [[grafo/termos/protein synthesis|protein synthesis]]. Proteomic analysis identifies HNRNPA2B1 as a principle target of oTau-c. The association of HNRNPA2B1 with endogenous oTau was verified in neurons, animal models, and human Alzheimer [[grafo/termos/brain tissue|brain tissues]]. Mechanistic studies demonstrate that HNRNPA2B1 functions as a linker, connecting oTau with N6-methyladenosine (m6A) modified RNA transcripts. Knockdown of HNRNPA2B1 prevents oTau or oTau-c from associating with m6A or from reducing protein synthesis and reduces oTau-induced [[grafo/termos/neurodegeneration|neurodegeneration]]. Levels of m6A and the m6A-oTau-HNRNPA2B1 complex are increased up to 5-fold in the brains of Alzheimer subjects and [[grafo/termos/p301s tau|P301S tau]] mice. These results reveal a complex containing oTau, HNRNPA2B1, and m6A that contributes to the integrated stress response of oTau.
 
-The microtubule-associated protein tau oligomerizes, but the actions of oligomeric tau (oTau) are unknown. We have used Cry2-based optogenetics to induce tau oligomers (oTau-c). Optical induction of oTau-c elicits tau phosphorylation, aggregation, and a translational stress response that includes stress granules and reduced protein synthesis. Proteomic analysis identifies HNRNPA2B1 as a principle target of oTau-c. The association of HNRNPA2B1 with endogenous oTau was verified in neurons, animal models, and human Alzheimer brain tissues. Mechanistic studies demonstrate that HNRNPA2B1 functions as a linker, connecting oTau with N6-methyladenosine (m6A) modified RNA transcripts. Knockdown of HNRNPA2B1 prevents oTau or oTau-c from associating with m6A or from reducing protein synthesis and reduces oTau-induced neurodegeneration. Levels of m6A and the m6A-oTau-HNRNPA2B1 complex are increased up to 5-fold in the brains of Alzheimer subjects and P301S tau mice. These results reveal a complex containing oTau, HNRNPA2B1, and m6A that contributes to the integrated stress response of oTau.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (8):** [[grafo/termos/brain tissue|brain tissue]] · [[grafo/termos/microtubule-associated protein tau|microtubule-associated protein tau]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/p301s tau|p301s tau]] · [[grafo/termos/protein synthesis|protein synthesis]] · [[grafo/termos/stress granules|stress granules]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau phosphorylation|tau phosphorylation]]
+<!-- vinculos:fim -->

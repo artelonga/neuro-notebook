@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 6
+tags: ["artigo", "tema/4"]
 ---
+Symptoms of neurological diseases emerge through the dysfunction of [[grafo/termos/neural circuits|neural circuits]] whose diffuse and intertwined architectures pose serious challenges for delivering therapies. [[grafo/termos/deep brain stimulation|Deep brain stimulation]] (DBS) improves Parkinson’s disease symptoms acutely but does not differentiate between [[grafo/termos/neuronal circuits|neuronal circuits]], and its effects decay rapidly if stimulation is discontinued. Recent findings suggest that optogenetic manipulation of distinct neuronal subpopulations in the [[grafo/termos/external globus pallidus|external globus pallidus]] (GPe) provides long-lasting therapeutic effects in dopamine-depleted (DD) mice. We used synaptic differences to excite parvalbumin-expressing GPe neurons and inhibit lim-homeobox-6–expressing GPe neurons simultaneously using brief bursts of [[grafo/termos/electrical stimulation|electrical stimulation]]. In DD mice, circuit-inspired DBS provided long-lasting [[grafo/termos/therapeutic benefits|therapeutic benefits]] that far exceeded those induced by conventional DBS, extending several hours after stimulation. These results establish the feasibility of transforming knowledge of circuit architecture into translatable therapeutic approaches.
 
-Symptoms of neurological diseases emerge through the dysfunction of neural circuits whose diffuse and intertwined architectures pose serious challenges for delivering therapies. Deep brain stimulation (DBS) improves Parkinson’s disease symptoms acutely but does not differentiate between neuronal circuits, and its effects decay rapidly if stimulation is discontinued. Recent findings suggest that optogenetic manipulation of distinct neuronal subpopulations in the external globus pallidus (GPe) provides long-lasting therapeutic effects in dopamine-depleted (DD) mice. We used synaptic differences to excite parvalbumin-expressing GPe neurons and inhibit lim-homeobox-6–expressing GPe neurons simultaneously using brief bursts of electrical stimulation. In DD mice, circuit-inspired DBS provided long-lasting therapeutic benefits that far exceeded those induced by conventional DBS, extending several hours after stimulation. These results establish the feasibility of transforming knowledge of circuit architecture into translatable therapeutic approaches.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (6):** [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/external globus pallidus|external globus pallidus]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/neuronal circuits|neuronal circuits]] · [[grafo/termos/therapeutic benefits|therapeutic benefits]]
+<!-- vinculos:fim -->

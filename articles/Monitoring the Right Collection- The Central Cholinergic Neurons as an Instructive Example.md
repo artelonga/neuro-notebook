@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 4
+tags: ["artigo", "tema/1"]
 ---
+Some neurons are more equal than others: neuroscience relies heavily on the notion that there is a division of labor among different subtypes of brain cells. Therefore, it is important to recognize groups of neurons that participate in the same computation or share similar tasks. However, what the best ways are to identify such collections is not yet clear. Here, we argue that monitoring the activity of genetically defined [[grafo/termos/cell types|cell types]] will lead to new insights about [[grafo/termos/neural mechanisms|neural mechanisms]] and improve our understanding of disease vulnerability. Through highlighting how central [[grafo/termos/cholinergic neurons|cholinergic neurons]] encode [[grafo/termos/reward|reward]] and punishment that can be captured by a unified framework of reinforcement surprise, we hope to provide an instructive example of how studying a genetically defined cell type may further our understanding of neural function.
 
-Some neurons are more equal than others: neuroscience relies heavily on the notion that there is a division of labor among different subtypes of brain cells. Therefore, it is important to recognize groups of neurons that participate in the same computation or share similar tasks. However, what the best ways are to identify such collections is not yet clear. Here, we argue that monitoring the activity of genetically defined cell types will lead to new insights about neural mechanisms and improve our understanding of disease vulnerability. Through highlighting how central cholinergic neurons encode reward and punishment that can be captured by a unified framework of reinforcement surprise, we hope to provide an instructive example of how studying a genetically defined cell type may further our understanding of neural function.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (4):** [[grafo/termos/cell types|cell types]] · [[grafo/termos/cholinergic neurons|cholinergic neurons]] · [[grafo/termos/neural mechanisms|neural mechanisms]] · [[grafo/termos/reward|reward]]
+<!-- vinculos:fim -->

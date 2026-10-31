@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T17"
+topico_nome: "Dor e nocicepção"
+n_termos: 6
+tags: ["artigo", "tema/7"]
 ---
+This thesis investigated the role of the [[grafo/termos/subthalamic nucleus|STN]] in pain symptoms of Parkinson’s disease and provided an anatomo-functional characterization of the direct STN-M1 pathway under normal and [[grafo/termos/parkinsonian conditions|parkinsonian conditions]] using [[grafo/termos/chemogenetics|chemogenetic]], optogenetic, behavioral and electrophysiological approaches in Vglut2-cre mice. Our results demonstrated that selective inhibition of STNglutamatergic neurons [[grafo/termos/improves motor|improves motor]] and nociceptive deficits induced by [[grafo/termos/6-hydroxydopamine|6-OHDA]] dopaminergiclesion. Anatomical analyses revealed direct STN projections to motor and somatosensory corticesin mice, with preferential connectivity toward PV+ interneurons of the M1 cortex. Optogeneticinhibition of the STN-M1 pathway attenuated motor and pain-related abnormalities and restored altered nociceptive cortical responses in parkinsonian conditions. These findings identify the STNM1pathway as a critical contributor to Parkinson’s disease pathophysiology and highlight itspotential [[grafo/termos/therapeutic relevance|therapeutic relevance]].
 
-This thesis investigated the role of the STN in pain symptoms of Parkinson’s disease and provided an anatomo-functional characterization of the direct STN-M1 pathway under normal and parkinsonian conditions using chemogenetic, optogenetic, behavioral and electrophysiological approaches in Vglut2-cre mice. Our results demonstrated that selective inhibition of STNglutamatergic neurons improves motor and nociceptive deficits induced by 6-OHDA dopaminergiclesion. Anatomical analyses revealed direct STN projections to motor and somatosensory corticesin mice, with preferential connectivity toward PV+ interneurons of the M1 cortex. Optogeneticinhibition of the STN-M1 pathway attenuated motor and pain-related abnormalities and restored altered nociceptive cortical responses in parkinsonian conditions. These findings identify the STNM1pathway as a critical contributor to Parkinson’s disease pathophysiology and highlight itspotential therapeutic relevance.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T17 Dor e nocicepção|T17 · Dor e nocicepção]]
+
+**Termos (6):** [[grafo/termos/6-hydroxydopamine|6-hydroxydopamine]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/improves motor|improves motor]] · [[grafo/termos/parkinsonian conditions|parkinsonian conditions]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] · [[grafo/termos/therapeutic relevance|therapeutic relevance]]
+<!-- vinculos:fim -->

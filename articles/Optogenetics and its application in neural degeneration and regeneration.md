@@ -66,6 +66,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 7
+tags: ["artigo", "tema/3"]
 ---
+Neural degeneration and regeneration are important topics in neurological diseases. There are limited options for [[grafo/termos/therapeutic interventions|therapeutic interventions]] in neurological diseases that provide simultaneous spatial and [[grafo/termos/temporal control|temporal control]] of neurons. This drawback increases side effects due to non-specific targeting. Optogenetics is a technology that allows precise spatial and temporal control of cells. Therefore, this technique has high potential as a [[grafo/termos/therapeutic strategy|therapeutic strategy]] for neurological diseases. Even though the application of optogenetics in understanding brain functional organization and complex behaviour states have been elaborated, reviews of its therapeutic potential especially in [[grafo/termos/neurodegeneration|neurodegeneration]] and regeneration are still limited. This short review presents representative work in optogenetics in disease models such as [[grafo/termos/spinal cord injury|spinal cord injury]], [[grafo/termos/multiple sclerosis|multiple sclerosis]], [[grafo/termos/epilepsy|epilepsy]], Alzheimer's disease and Parkinson's disease. It is aimed to provide a broader perspective on optogenetic therapeutic potential in neurodegeneration and neural regeneration.
 
-Neural degeneration and regeneration are important topics in neurological diseases. There are limited options for therapeutic interventions in neurological diseases that provide simultaneous spatial and temporal control of neurons. This drawback increases side effects due to non-specific targeting. Optogenetics is a technology that allows precise spatial and temporal control of cells. Therefore, this technique has high potential as a therapeutic strategy for neurological diseases. Even though the application of optogenetics in understanding brain functional organization and complex behaviour states have been elaborated, reviews of its therapeutic potential especially in neurodegeneration and regeneration are still limited. This short review presents representative work in optogenetics in disease models such as spinal cord injury, multiple sclerosis, epilepsy, Alzheimer's disease and Parkinson's disease. It is aimed to provide a broader perspective on optogenetic therapeutic potential in neurodegeneration and neural regeneration.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (7):** [[grafo/termos/epilepsy|epilepsy]] · [[grafo/termos/multiple sclerosis|multiple sclerosis]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/spinal cord injury|spinal cord injury]] · [[grafo/termos/temporal control|temporal control]] · [[grafo/termos/therapeutic interventions|therapeutic interventions]] · [[grafo/termos/therapeutic strategy|therapeutic strategy]]
+<!-- vinculos:fim -->

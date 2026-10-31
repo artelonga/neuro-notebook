@@ -69,6 +69,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 5
+tags: ["artigo", "tema/4"]
 ---
+Subthalamic [[grafo/termos/deep brain stimulation|deep brain stimulation]] (STN-DBS) provides unprecedented spatiotemporal precision for the treatment of Parkinson's disease (PD), allowing for direct real-time state-specific adjustments. Inspired by findings from optogenetic stimulation in mice, we hypothesized that STN-DBS can mimic dopaminergic reinforcement of ongoing movement kinematics during stimulation. To investigate this hypothesis, we delivered DBS bursts during particularly fast and slow movements in 24 patients with PD. Our findings reveal that DBS during fast movements enhanced future movement speed more than DBS during slow movements, raising movement speed to the level of healthy controls. To understand which [[grafo/termos/brain circuits|brain circuits]] mediate this neurophysiological mechanism, we investigated the behavioral effects using [[grafo/termos/magnetic resonance imaging|magnetic resonance imaging]] connectomics and [[grafo/termos/motor cortex|motor cortex]] electrocorticography. Last, we demonstrate that machine learning-based brain signal decoding can be used to predict continuous movement speed for fully embedded state-dependent closed-loop algorithms. Our findings provide important evidence for reinforcement-based DBS [[grafo/termos/circuit mechanisms|circuit mechanisms]] that may inspire previously unexplored treatment avenues for dopaminergic disorders.
 
-Subthalamic deep brain stimulation (STN-DBS) provides unprecedented spatiotemporal precision for the treatment of Parkinson's disease (PD), allowing for direct real-time state-specific adjustments. Inspired by findings from optogenetic stimulation in mice, we hypothesized that STN-DBS can mimic dopaminergic reinforcement of ongoing movement kinematics during stimulation. To investigate this hypothesis, we delivered DBS bursts during particularly fast and slow movements in 24 patients with PD. Our findings reveal that DBS during fast movements enhanced future movement speed more than DBS during slow movements, raising movement speed to the level of healthy controls. To understand which brain circuits mediate this neurophysiological mechanism, we investigated the behavioral effects using magnetic resonance imaging connectomics and motor cortex electrocorticography. Last, we demonstrate that machine learning-based brain signal decoding can be used to predict continuous movement speed for fully embedded state-dependent closed-loop algorithms. Our findings provide important evidence for reinforcement-based DBS circuit mechanisms that may inspire previously unexplored treatment avenues for dopaminergic disorders.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (5):** [[grafo/termos/brain circuits|brain circuits]] · [[grafo/termos/circuit mechanisms|circuit mechanisms]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/magnetic resonance imaging|magnetic resonance imaging]] · [[grafo/termos/motor cortex|motor cortex]]
+<!-- vinculos:fim -->

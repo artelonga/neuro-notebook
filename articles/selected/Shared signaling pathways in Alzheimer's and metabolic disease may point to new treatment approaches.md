@@ -70,6 +70,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+'A peculiar severe disease process of the [[grafo/termos/cerebral cortex|cerebral cortex]]' are the exact words used by A. Alzheimer in 1906 to describe a patient's increasingly severe condition of [[grafo/termos/memory loss|memory loss]], changes in personality, and [[grafo/termos/sleep disturbances|sleep disturbance]]. A century later, this 'peculiar' disease has become widely known as Alzheimer's disease (AD), the world's most [[grafo/termos/common neurodegenerative|common neurodegenerative]] disease, affecting more than 35 million people globally. At the same time, its pathology [[grafo/termos/remains unclear|remains unclear]] and no successful treatment exists. Several theories for AD etiology have emerged throughout the past century. In this review, we focus on the metabolic mechanisms that are similar between AD and metabolic diseases, based on the results from genome-wide association studies. We discuss [[grafo/termos/signaling pathways|signaling pathways]] involved in both types of disease and look into new optogenetic methods to study the in vivo mechanisms of AD.
 
-'A peculiar severe disease process of the cerebral cortex' are the exact words used by A. Alzheimer in 1906 to describe a patient's increasingly severe condition of memory loss, changes in personality, and sleep disturbance. A century later, this 'peculiar' disease has become widely known as Alzheimer's disease (AD), the world's most common neurodegenerative disease, affecting more than 35 million people globally. At the same time, its pathology remains unclear and no successful treatment exists. Several theories for AD etiology have emerged throughout the past century. In this review, we focus on the metabolic mechanisms that are similar between AD and metabolic diseases, based on the results from genome-wide association studies. We discuss signaling pathways involved in both types of disease and look into new optogenetic methods to study the in vivo mechanisms of AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (6):** [[grafo/termos/cerebral cortex|cerebral cortex]] · [[grafo/termos/common neurodegenerative|common neurodegenerative]] · [[grafo/termos/memory loss|memory loss]] · [[grafo/termos/remains unclear|remains unclear]] · [[grafo/termos/signaling pathways|signaling pathways]] · [[grafo/termos/sleep disturbances|sleep disturbances]]
+<!-- vinculos:fim -->

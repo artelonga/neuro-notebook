@@ -50,6 +50,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T18"
+topico_nome: "Região locomotora mesencefálica"
+n_termos: 3
+tags: ["artigo", "tema/1"]
 ---
+In the last decade, scientific and clinical interest in the [[grafo/termos/pedunculopontine nucleus|pedunculopontine nucleus]] (PPN) has grown dramatically. This growth is largely a consequence of experimental work demonstrating its connection to the control of gait and of clinical work implicating PPN pathology in levodopa-insensitive gait symptoms of Parkinson's disease (PD). In addition, the development of optogenetic and [[grafo/termos/chemogenetics|chemogenetic]] approaches has made experimental analysis of PPN circuitry and function more tractable. In this brief review, recent findings in the field linking PPN to the [[grafo/termos/basal ganglia|basal ganglia]] and PD are summarized; in addition, an attempt is made to identify key gaps in our understanding and challenges this field faces in moving forward.
 
-In the last decade, scientific and clinical interest in the pedunculopontine nucleus (PPN) has grown dramatically. This growth is largely a consequence of experimental work demonstrating its connection to the control of gait and of clinical work implicating PPN pathology in levodopa-insensitive gait symptoms of Parkinson's disease (PD). In addition, the development of optogenetic and chemogenetic approaches has made experimental analysis of PPN circuitry and function more tractable. In this brief review, recent findings in the field linking PPN to the basal ganglia and PD are summarized; in addition, an attempt is made to identify key gaps in our understanding and challenges this field faces in moving forward.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T18 Região locomotora mesencefálica|T18 · Região locomotora mesencefálica]]
+
+**Termos (3):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/pedunculopontine nucleus|pedunculopontine nucleus]]
+<!-- vinculos:fim -->

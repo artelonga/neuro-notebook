@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 9
+tags: ["artigo", "tema/2"]
 ---
+The [[grafo/termos/entorhinal cortex|entorhinal cortex]] (EC) is one of the most vulnerable [[grafo/termos/brain regions|brain regions]] that is attacked during the [[grafo/termos/early stages|early stage]] of Alzheimer's disease (AD). Here, we report that the synaptic terminals of [[grafo/termos/pyramidal neurons|pyramidal neurons]] in the EC layer II (ECIIPN) directly innervate CA1 [[grafo/termos/parvalbumin|parvalbumin]] (PV) neurons (CA1PV) and are selectively degenerated in AD mice, which exhibit [[grafo/termos/amyloid-β|amyloid-β]] plaques similar to those observed in AD patients. A loss of ECIIPN-CA1PV [[grafo/termos/synapse|synapses]] disables the excitatory and inhibitory balance in the CA1 circuit and impairs spatial learning and [[grafo/termos/memory|memory]]. Optogenetic activation of ECIIPN using a theta burst paradigm rescues ECIIPN-CA1PV synaptic defects and intercepts the decline in spatial learning and memory. These data reveal a novel mechanism of [[grafo/termos/memory loss|memory loss]] in AD mice via the selective degeneration of the ECIIPN-CA1PV pathway.
 
-The entorhinal cortex (EC) is one of the most vulnerable brain regions that is attacked during the early stage of Alzheimer's disease (AD). Here, we report that the synaptic terminals of pyramidal neurons in the EC layer II (ECIIPN) directly innervate CA1 parvalbumin (PV) neurons (CA1PV) and are selectively degenerated in AD mice, which exhibit amyloid-β plaques similar to those observed in AD patients. A loss of ECIIPN-CA1PV synapses disables the excitatory and inhibitory balance in the CA1 circuit and impairs spatial learning and memory. Optogenetic activation of ECIIPN using a theta burst paradigm rescues ECIIPN-CA1PV synaptic defects and intercepts the decline in spatial learning and memory. These data reveal a novel mechanism of memory loss in AD mice via the selective degeneration of the ECIIPN-CA1PV pathway.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (9):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/brain regions|brain regions]] · [[grafo/termos/early stages|early stages]] · [[grafo/termos/entorhinal cortex|entorhinal cortex]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory loss|memory loss]] · [[grafo/termos/parvalbumin|parvalbumin]] · [[grafo/termos/pyramidal neurons|pyramidal neurons]] · [[grafo/termos/synapse|synapse]]
+<!-- vinculos:fim -->

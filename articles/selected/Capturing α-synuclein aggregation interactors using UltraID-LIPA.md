@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 2
+tags: ["artigo", "tema/5"]
 ---
+Teixeira et al. present UltraID-light-inducible [[grafo/termos/protein aggregation|protein aggregation]] (UltraID-LIPA), a technique that combines optogenetic induction of [[grafo/termos/α-synuclein|α-synuclein]] aggregation with proximity-based proteomics. This system enables high-resolution capture of early aggregation events in live cells and implicates known and novel endolysosomal proteins, offering a robust framework for dissecting early pathogenic mechanisms in synucleinopathies and guiding future innovations.
 
-Teixeira et al. present UltraID-light-inducible protein aggregation (UltraID-LIPA), a technique that combines optogenetic induction of α-synuclein aggregation with proximity-based proteomics. This system enables high-resolution capture of early aggregation events in live cells and implicates known and novel endolysosomal proteins, offering a robust framework for dissecting early pathogenic mechanisms in synucleinopathies and guiding future innovations.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (2):** [[grafo/termos/protein aggregation|protein aggregation]] · [[grafo/termos/α-synuclein|α-synuclein]]
+<!-- vinculos:fim -->

@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 9
+tags: ["artigo", "tema/3"]
 ---
+Light modulation plays an important role in understanding the pathology of [[grafo/termos/brain disorders|brain disorders]] and improving [[grafo/termos/brain function|brain function]]. Optogenetic techniques can activate or silence [[grafo/termos/targeted neurons|targeted neurons]] with high temporal and spatial accuracy and provide [[grafo/termos/precise control|precise control]], and have recently become a method for quick manipulation of genetically identified types of neurons. Photobiomodulation (PBM) is light therapy that utilizes non-ionizing [[grafo/termos/light sources|light sources]], including lasers, light emitting diodes, or broadband light. It provides a safe means of modulating [[grafo/termos/brain activity|brain activity]] without any irreversible damage and has established optimal treatment parameters in clinical practice. This manuscript reviews 1) how optogenetic approaches have been used to dissect [[grafo/termos/neural circuits|neural circuits]] in animal models of Alzheimer's disease, Parkinson's disease, and [[grafo/termos/depression|depression]], and 2) how low level transcranial lasers and LED stimulation in humans improves brain activity patterns in these diseases. State-of-the-art brain machine interfaces that can record [[grafo/termos/neural activity|neural activity]] and stimulate neurons with light have good prospects in the future.
 
-Light modulation plays an important role in understanding the pathology of brain disorders and improving brain function. Optogenetic techniques can activate or silence targeted neurons with high temporal and spatial accuracy and provide precise control, and have recently become a method for quick manipulation of genetically identified types of neurons. Photobiomodulation (PBM) is light therapy that utilizes non-ionizing light sources, including lasers, light emitting diodes, or broadband light. It provides a safe means of modulating brain activity without any irreversible damage and has established optimal treatment parameters in clinical practice. This manuscript reviews 1) how optogenetic approaches have been used to dissect neural circuits in animal models of Alzheimer's disease, Parkinson's disease, and depression, and 2) how low level transcranial lasers and LED stimulation in humans improves brain activity patterns in these diseases. State-of-the-art brain machine interfaces that can record neural activity and stimulate neurons with light have good prospects in the future.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (9):** [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/brain disorders|brain disorders]] · [[grafo/termos/brain function|brain function]] · [[grafo/termos/depression|depression]] · [[grafo/termos/light sources|light sources]] · [[grafo/termos/neural activity|neural activity]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/precise control|precise control]] · [[grafo/termos/targeted neurons|targeted neurons]]
+<!-- vinculos:fim -->

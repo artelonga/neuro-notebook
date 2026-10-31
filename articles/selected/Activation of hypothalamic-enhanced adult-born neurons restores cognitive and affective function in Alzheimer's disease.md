@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Patients with Alzheimer's disease (AD) exhibit progressive [[grafo/termos/memory loss|memory loss]], [[grafo/termos/depression|depression]], and [[grafo/termos/anxiety|anxiety]], accompanied by impaired adult hippocampal neurogenesis (AHN). Whether AHN can be enhanced in impaired AD brain to restore cognitive and affective function remains elusive. Here, we report that patterned optogenetic stimulation of the hypothalamic supramammillary nucleus (SuM) enhances AHN in two distinct AD mouse models, 5×FAD and 3×Tg-AD. Strikingly, the [[grafo/termos/chemogenetic activation|chemogenetic activation]] of SuM-enhanced adult-born neurons (ABNs) rescues [[grafo/termos/memory|memory]] and emotion deficits in these AD mice. By contrast, SuM stimulation alone or activation of ABNs without SuM modification fails to restore [[grafo/termos/behavioral deficits|behavioral deficits]]. Furthermore, quantitative phosphoproteomics analyses reveal activation of the canonical pathways related to [[grafo/termos/synaptic plasticity|synaptic plasticity]] and [[grafo/termos/microglia|microglia]] phagocytosis of plaques following acute chemogenetic activation of SuM-enhanced (vs. control) ABNs. Our study establishes the activity-dependent contribution of SuM-enhanced ABNs in modulating AD-related deficits and informs signaling mechanisms mediated by the activation of SuM-enhanced ABNs.
 
-Patients with Alzheimer's disease (AD) exhibit progressive memory loss, depression, and anxiety, accompanied by impaired adult hippocampal neurogenesis (AHN). Whether AHN can be enhanced in impaired AD brain to restore cognitive and affective function remains elusive. Here, we report that patterned optogenetic stimulation of the hypothalamic supramammillary nucleus (SuM) enhances AHN in two distinct AD mouse models, 5×FAD and 3×Tg-AD. Strikingly, the chemogenetic activation of SuM-enhanced adult-born neurons (ABNs) rescues memory and emotion deficits in these AD mice. By contrast, SuM stimulation alone or activation of ABNs without SuM modification fails to restore behavioral deficits. Furthermore, quantitative phosphoproteomics analyses reveal activation of the canonical pathways related to synaptic plasticity and microglia phagocytosis of plaques following acute chemogenetic activation of SuM-enhanced (vs. control) ABNs. Our study establishes the activity-dependent contribution of SuM-enhanced ABNs in modulating AD-related deficits and informs signaling mechanisms mediated by the activation of SuM-enhanced ABNs.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (8):** [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/behavioral deficits|behavioral deficits]] · [[grafo/termos/chemogenetic activation|chemogenetic activation]] · [[grafo/termos/depression|depression]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory loss|memory loss]] · [[grafo/termos/microglia|microglia]] · [[grafo/termos/synaptic plasticity|synaptic plasticity]]
+<!-- vinculos:fim -->

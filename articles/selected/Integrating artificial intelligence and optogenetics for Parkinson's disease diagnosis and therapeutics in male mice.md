@@ -61,6 +61,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 7
+tags: ["artigo", "tema/3"]
 ---
+Parkinson's disease (PD), a [[grafo/termos/progressive neurodegenerative|progressive neurodegenerative]] disorder, presents complex [[grafo/termos/motor symptoms|motor symptoms]] and lacks effective disease-modifying treatments. Here we show that integrating [[grafo/termos/artificial intelligence|artificial intelligence]] (AI) with optogenetic intervention, termed optoRET, modulating c-RET (REarranged during Transfection) signalling, enables task-independent behavioural assessments and [[grafo/termos/therapeutic benefits|therapeutic benefits]] in [[grafo/termos/freely moving|freely moving]] male AAV-hA53T mice. Utilising a 3D pose estimation technique, we developed tree-based AI models that detect PD severity cohorts earlier and with higher accuracy than conventional methods. Employing an explainable AI technique, we identified a comprehensive array of PD behavioural markers, encompassing gait and spectro-temporal features. Moreover, our AI-driven analysis highlights that optoRET effectively alleviates PD progression by improving limb coordination and [[grafo/termos/locomotion|locomotion]] and reducing chest [[grafo/termos/tremor|tremor]]. Our study demonstrates the synergy of integrating AI and optogenetic techniques to provide an efficient diagnostic method with extensive behavioural evaluations and sets the stage for an innovative treatment strategy for PD.
 
-Parkinson's disease (PD), a progressive neurodegenerative disorder, presents complex motor symptoms and lacks effective disease-modifying treatments. Here we show that integrating artificial intelligence (AI) with optogenetic intervention, termed optoRET, modulating c-RET (REarranged during Transfection) signalling, enables task-independent behavioural assessments and therapeutic benefits in freely moving male AAV-hA53T mice. Utilising a 3D pose estimation technique, we developed tree-based AI models that detect PD severity cohorts earlier and with higher accuracy than conventional methods. Employing an explainable AI technique, we identified a comprehensive array of PD behavioural markers, encompassing gait and spectro-temporal features. Moreover, our AI-driven analysis highlights that optoRET effectively alleviates PD progression by improving limb coordination and locomotion and reducing chest tremor. Our study demonstrates the synergy of integrating AI and optogenetic techniques to provide an efficient diagnostic method with extensive behavioural evaluations and sets the stage for an innovative treatment strategy for PD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (7):** [[grafo/termos/artificial intelligence|artificial intelligence]] · [[grafo/termos/freely moving|freely moving]] · [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/motor symptoms|motor symptoms]] · [[grafo/termos/progressive neurodegenerative|progressive neurodegenerative]] · [[grafo/termos/therapeutic benefits|therapeutic benefits]] · [[grafo/termos/tremor|tremor]]
+<!-- vinculos:fim -->

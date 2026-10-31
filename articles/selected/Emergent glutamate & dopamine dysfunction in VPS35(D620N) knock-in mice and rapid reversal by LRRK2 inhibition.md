@@ -61,6 +61,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T16"
+topico_nome: "Disfunção dopaminérgica e sintomas motores"
+n_termos: 7
+tags: ["artigo", "tema/1"]
 ---
+The D620N variant in Vacuolar Protein Sorting 35 (VPS35) causes autosomal-dominant, late-onset Parkinson's disease. VPS35 is a core subunit of the retromer complex that canonically recycles transmembrane cargo from sorting endosomes. Although retromer cargoes include many [[grafo/termos/synaptic proteins|synaptic proteins]], VPS35's [[grafo/termos/neuronal functions|neuronal functions]] are [[grafo/termos/poorly understood|poorly understood]]. To investigate the consequences of the Parkinson's mutation, striatal neurotransmission was assessed in 1- to 6-month-old VPS35 D620N knock-in (VKI) mice. Spontaneous and optogenetically-evoked corticostriatal [[grafo/termos/glutamate|glutamate]] transmission was increased in VKI [[grafo/termos/spiny projection neurons|spiny projection neurons]] by 6 months and was unaffected by acute leucine-rich repeat kinase 2 (LRRK2) inhibition. Total striatal glutamate release by iGluSnFR imaging was similar to wild-type. dLight imaging revealed robust increases in VKI [[grafo/termos/striatal dopamine release|striatal dopamine release]] by 6 months, which were reversed with acute LRRK2 kinase inhibition. We conclude that increased striatal neurotransmission in VKI mice progressively emerges in young-adulthood, and that [[grafo/termos/dopamine|dopamine]] dysfunction is likely the result of sustained, rapidly-reversible, LRRK2 hyperactivity.
 
-The D620N variant in Vacuolar Protein Sorting 35 (VPS35) causes autosomal-dominant, late-onset Parkinson's disease. VPS35 is a core subunit of the retromer complex that canonically recycles transmembrane cargo from sorting endosomes. Although retromer cargoes include many synaptic proteins, VPS35's neuronal functions are poorly understood. To investigate the consequences of the Parkinson's mutation, striatal neurotransmission was assessed in 1- to 6-month-old VPS35 D620N knock-in (VKI) mice. Spontaneous and optogenetically-evoked corticostriatal glutamate transmission was increased in VKI spiny projection neurons by 6 months and was unaffected by acute leucine-rich repeat kinase 2 (LRRK2) inhibition. Total striatal glutamate release by iGluSnFR imaging was similar to wild-type. dLight imaging revealed robust increases in VKI striatal dopamine release by 6 months, which were reversed with acute LRRK2 kinase inhibition. We conclude that increased striatal neurotransmission in VKI mice progressively emerges in young-adulthood, and that dopamine dysfunction is likely the result of sustained, rapidly-reversible, LRRK2 hyperactivity.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T16 Disfunção dopaminérgica e sintomas motores|T16 · Disfunção dopaminérgica e sintomas motores]]
+
+**Termos (7):** [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/glutamate|glutamate]] · [[grafo/termos/neuronal functions|neuronal functions]] · [[grafo/termos/poorly understood|poorly understood]] · [[grafo/termos/spiny projection neurons|spiny projection neurons]] · [[grafo/termos/striatal dopamine release|striatal dopamine release]] · [[grafo/termos/synaptic proteins|synaptic proteins]]
+<!-- vinculos:fim -->

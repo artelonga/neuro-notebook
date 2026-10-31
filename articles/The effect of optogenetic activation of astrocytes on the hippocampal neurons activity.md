@@ -51,6 +51,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 7
+tags: ["artigo", "tema/2"]
 ---
+The method of optogenetics has spread widely in neurobiology over the past 10 years and has found extensive application in various fields of this sciences. It allows to control and regulate cellular activity with high spatial and [[grafo/termos/temporal resolution|temporal resolution]]. In this study, optogenetic activation was applied to [[grafo/termos/astrocytes expressing|astrocytes expressing]] [[grafo/termos/channelrhodopsin-2|ChR2]]. Optogenetic [[grafo/termos/stimulation parameters|stimulation parameters]] were determined, in which the frequency of spontaneous currents of hippocampal [[grafo/termos/pyramidal neurons|pyramidal neurons]] significantly changed. In the future, it is planned to use the obtained data on the modes of optogenetic stimulation of [[grafo/termos/astrocytes|astrocytes]] to normalize the functions of the [[grafo/termos/hippocampus|hippocampus]] in mice-models of Alzheimer’s disease.
 
-The method of optogenetics has spread widely in neurobiology over the past 10 years and has found extensive application in various fields of this sciences. It allows to control and regulate cellular activity with high spatial and temporal resolution. In this study, optogenetic activation was applied to astrocytes expressing ChR2. Optogenetic stimulation parameters were determined, in which the frequency of spontaneous currents of hippocampal pyramidal neurons significantly changed. In the future, it is planned to use the obtained data on the modes of optogenetic stimulation of astrocytes to normalize the functions of the hippocampus in mice-models of Alzheimer’s disease.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (7):** [[grafo/termos/astrocytes|astrocytes]] · [[grafo/termos/astrocytes expressing|astrocytes expressing]] · [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] · [[grafo/termos/hippocampus|hippocampus]] · [[grafo/termos/pyramidal neurons|pyramidal neurons]] · [[grafo/termos/stimulation parameters|stimulation parameters]] · [[grafo/termos/temporal resolution|temporal resolution]]
+<!-- vinculos:fim -->

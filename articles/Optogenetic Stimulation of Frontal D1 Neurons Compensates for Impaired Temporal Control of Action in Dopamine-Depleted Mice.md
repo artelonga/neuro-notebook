@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 8
+tags: ["artigo", "tema/1"]
 ---
+Disrupted mesocortical [[grafo/termos/dopamine|dopamine]] contributes to cognitive symptoms of Parkinson's disease (PD). Past work has implicated medial frontal neurons expressing D1 [[grafo/termos/dopamine receptors|dopamine receptors]] (D1DRs) in temporal processing. Here, we investigated whether these neurons can compensate for [[grafo/termos/behavioral deficits|behavioral deficits]] resulting from [[grafo/termos/midbrain dopamine|midbrain dopamine]] dysfunction. We report three main results. First, both PD patients and mice with [[grafo/termos/ventral tegmental area|ventral tegmental area]] (VTA) [[grafo/termos/dopamine depletion|dopamine depletion]] had attenuated delta activity (1-4 Hz) in the medial frontal cortex (MFC) during interval timing. Second, we found that optogenetically stimulating MFC D1DR neurons could increase ramping activity among MFC neurons. Finally, stimulating MFC D1DR neurons specifically at delta frequencies (2 Hz) compensated for deficits in [[grafo/termos/temporal control|temporal control]] of action caused by VTA dopamine depletion. Our results suggest that cortical networks can be targeted by frequency-specific [[grafo/termos/brain stimulation|brain stimulation]] to improve dopamine-dependent cognitive processing.
 
-Disrupted mesocortical dopamine contributes to cognitive symptoms of Parkinson's disease (PD). Past work has implicated medial frontal neurons expressing D1 dopamine receptors (D1DRs) in temporal processing. Here, we investigated whether these neurons can compensate for behavioral deficits resulting from midbrain dopamine dysfunction. We report three main results. First, both PD patients and mice with ventral tegmental area (VTA) dopamine depletion had attenuated delta activity (1-4 Hz) in the medial frontal cortex (MFC) during interval timing. Second, we found that optogenetically stimulating MFC D1DR neurons could increase ramping activity among MFC neurons. Finally, stimulating MFC D1DR neurons specifically at delta frequencies (2 Hz) compensated for deficits in temporal control of action caused by VTA dopamine depletion. Our results suggest that cortical networks can be targeted by frequency-specific brain stimulation to improve dopamine-dependent cognitive processing.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (8):** [[grafo/termos/behavioral deficits|behavioral deficits]] · [[grafo/termos/brain stimulation|brain stimulation]] · [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dopamine depletion|dopamine depletion]] · [[grafo/termos/dopamine receptors|dopamine receptors]] · [[grafo/termos/midbrain dopamine|midbrain dopamine]] · [[grafo/termos/temporal control|temporal control]] · [[grafo/termos/ventral tegmental area|ventral tegmental area]]
+<!-- vinculos:fim -->

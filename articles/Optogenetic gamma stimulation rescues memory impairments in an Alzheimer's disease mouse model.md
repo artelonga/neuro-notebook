@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+Slow [[grafo/termos/gamma oscillations|gamma oscillations]] (30-60 Hz) correlate with retrieval of [[grafo/termos/spatial memory|spatial memory]]. Altered slow gamma oscillations have been observed in Alzheimer's disease. Here, we use the J20-APP AD mouse model that displays spatial memory loss as well as reduced slow gamma amplitude and phase-amplitude coupling to theta oscillations phase. To restore gamma oscillations in the [[grafo/termos/hippocampus|hippocampus]], we used optogenetics to activate medial septal [[grafo/termos/parvalbumin neurons|parvalbumin neurons]] at different frequencies. We show that optogenetic stimulation of parvalbumin neurons at 40 Hz (but not 80 Hz) restores hippocampal slow gamma oscillations amplitude, and phase-amplitude coupling of the J20 AD mouse model. Restoration of slow gamma oscillations during retrieval rescued spatial memory in mice despite significant plaque deposition. These results support the role of slow gamma oscillations in [[grafo/termos/memory|memory]] and suggest that optogenetic stimulation of medial septal parvalbumin neurons at 40 Hz could provide a novel strategy for treating [[grafo/termos/memory deficits|memory deficits]] in AD.
 
-Slow gamma oscillations (30-60 Hz) correlate with retrieval of spatial memory. Altered slow gamma oscillations have been observed in Alzheimer's disease. Here, we use the J20-APP AD mouse model that displays spatial memory loss as well as reduced slow gamma amplitude and phase-amplitude coupling to theta oscillations phase. To restore gamma oscillations in the hippocampus, we used optogenetics to activate medial septal parvalbumin neurons at different frequencies. We show that optogenetic stimulation of parvalbumin neurons at 40 Hz (but not 80 Hz) restores hippocampal slow gamma oscillations amplitude, and phase-amplitude coupling of the J20 AD mouse model. Restoration of slow gamma oscillations during retrieval rescued spatial memory in mice despite significant plaque deposition. These results support the role of slow gamma oscillations in memory and suggest that optogenetic stimulation of medial septal parvalbumin neurons at 40 Hz could provide a novel strategy for treating memory deficits in AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (6):** [[grafo/termos/gamma oscillations|gamma oscillations]] · [[grafo/termos/hippocampus|hippocampus]] · [[grafo/termos/memory|memory]] · [[grafo/termos/memory deficits|memory deficits]] · [[grafo/termos/parvalbumin neurons|parvalbumin neurons]] · [[grafo/termos/spatial memory|spatial memory]]
+<!-- vinculos:fim -->

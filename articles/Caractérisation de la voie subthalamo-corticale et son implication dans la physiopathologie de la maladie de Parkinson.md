@@ -64,6 +64,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T17"
+topico_nome: "Dor e nocicepção"
+n_termos: 1
+tags: ["artigo", "tema/7"]
 ---
+Characterization of the subthalamo-cortical pathway and its involvement in the pathophysiology of Parkinson's disease Cette thèse a étudié le rôle du NST dans les symptômes douloureux associés à la maladie de Parkinson et a permis une caractérisation anatomo-fonctionnelle de la voie NST-M1 dans des conditions normales et parkinsoniennes à l’aide d’approches chimiogénétiques, optogénétiques,comportementales et électrophysiologiques chez des souris Vglut2-cre. Nos résultats ont montré que l’inhibition sélective des neurones glutamatergiques du NST améliore les déficits moteurs et nociceptifs induits par les lésions dopaminergiques à la [[grafo/termos/6-hydroxydopamine|6-OHDA]]. Les analyses anatomiques ont révélé l’existence de projections directes du NST vers les cortex moteur et somatosensoriel chez la souris, avec une connectivité préférentielle vers les interneurones corticaux PV+ du M1 cortex. L’inhibition optogénétique de la voie NST-M1 a atténué les altérations motrices et douloureuses et restauré les réponses corticales nociceptives perturbées en condition parkinsonienne. Ces résultats identifient la voie NST-M1 comme un acteur majeur de la physiopathologie de la maladie de Parkinson et soulignent son potentiel thérapeutique.
 
-Characterization of the subthalamo-cortical pathway and its involvement in the pathophysiology of Parkinson's disease Cette thèse a étudié le rôle du NST dans les symptômes douloureux associés à la maladie de Parkinson et a permis une caractérisation anatomo-fonctionnelle de la voie NST-M1 dans des conditions normales et parkinsoniennes à l’aide d’approches chimiogénétiques, optogénétiques,comportementales et électrophysiologiques chez des souris Vglut2-cre. Nos résultats ont montré que l’inhibition sélective des neurones glutamatergiques du NST améliore les déficits moteurs et nociceptifs induits par les lésions dopaminergiques à la 6-OHDA. Les analyses anatomiques ont révélé l’existence de projections directes du NST vers les cortex moteur et somatosensoriel chez la souris, avec une connectivité préférentielle vers les interneurones corticaux PV+ du M1 cortex. L’inhibition optogénétique de la voie NST-M1 a atténué les altérations motrices et douloureuses et restauré les réponses corticales nociceptives perturbées en condition parkinsonienne. Ces résultats identifient la voie NST-M1 comme un acteur majeur de la physiopathologie de la maladie de Parkinson et soulignent son potentiel thérapeutique.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T17 Dor e nocicepção|T17 · Dor e nocicepção]]
+
+**Termos (1):** [[grafo/termos/6-hydroxydopamine|6-hydroxydopamine]]
+<!-- vinculos:fim -->
