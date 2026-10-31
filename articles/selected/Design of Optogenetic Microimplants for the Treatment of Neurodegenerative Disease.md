@@ -44,6 +44,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T11"
+topico_nome: "Ferramentas, implantes e vetores"
+n_termos: 3
+tags: ["artigo", "tema/3"]
 ---
+In the context of global aging, neurodegenerative diseases such as Alzheimer’s disease have become important issues in global public health and scientific research. This is due to their soaring incidence, serious impact on patients’ quality of life, and the huge burden they place on families and social economies. However, current treatments, such as drug therapy and [[grafo/termos/deep brain stimulation|deep brain stimulation]], have obvious shortcomings. Moreover, there is a lack of precise [[grafo/termos/neuromodulation|neuromodulation]] tools to study the pathogenesis of these diseases In order to solve these problems, optogenetics has attracted attention in recent years, which uses light as a stimulus signal carrier and can realize the detection and control of neurodegenerative diseases at the level of neurons and [[grafo/termos/neural circuits|neural circuits]] by implanting micro-implants such as μ leds. This review summarize the recent advances in microimplant technology in the fields of optogenetics and neuroscience, and summarize the development and application of optogenetic microimplants for the treatment of neurodegenerative diseases in detail.
 
-In the context of global aging, neurodegenerative diseases such as Alzheimer’s disease have become important issues in global public health and scientific research. This is due to their soaring incidence, serious impact on patients’ quality of life, and the huge burden they place on families and social economies. However, current treatments, such as drug therapy and deep brain stimulation, have obvious shortcomings. Moreover, there is a lack of precise neuromodulation tools to study the pathogenesis of these diseases In order to solve these problems, optogenetics has attracted attention in recent years, which uses light as a stimulus signal carrier and can realize the detection and control of neurodegenerative diseases at the level of neurons and neural circuits by implanting micro-implants such as μ leds. This review summarize the recent advances in microimplant technology in the fields of optogenetics and neuroscience, and summarize the development and application of optogenetic microimplants for the treatment of neurodegenerative diseases in detail.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T11 Ferramentas, implantes e vetores|T11 · Ferramentas, implantes e vetores]]
+
+**Termos (3):** [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/neuromodulation|neuromodulation]]
+<!-- vinculos:fim -->

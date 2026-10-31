@@ -61,6 +61,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Intracellular [[grafo/termos/tau aggregation|tau aggregation]] requires a local protein concentration increase, referred to as "droplets". However, the [[grafo/termos/cellular mechanisms|cellular mechanism]] for droplet formation is [[grafo/termos/poorly understood|poorly understood]]. Here, we expressed OptoTau, a P301L mutant [[grafo/termos/tau|tau]] fused with CRY2olig, a [[grafo/termos/light-sensitive proteins|light-sensitive protein]] that can form homo-oligomers. Under [[grafo/termos/blue light|blue light]] exposure, OptoTau increased [[grafo/termos/tau phosphorylation|tau phosphorylation]] and was sequestered in aggresomes. Suppressing aggresome formation by nocodazole formed tau granular clusters in the cytoplasm. The granular clusters disappeared by discontinuing blue light exposure or 1,6-hexanediol treatment suggesting that intracellular tau droplet formation requires microtubule collapse. Expressing OptoTau-ΔN, a species of N-terminal cleaved tau observed in the Alzheimer's disease brain, formed 1,6-hexanediol and detergent-resistant tau clusters in the cytoplasm with blue light stimulation. These intracellular stable tau clusters acted as a seed for tau fibrils in vitro. These results suggest that tau droplet formation and N-terminal cleavage are necessary for [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] formation in neurodegenerative diseases.
 
-Intracellular tau aggregation requires a local protein concentration increase, referred to as "droplets". However, the cellular mechanism for droplet formation is poorly understood. Here, we expressed OptoTau, a P301L mutant tau fused with CRY2olig, a light-sensitive protein that can form homo-oligomers. Under blue light exposure, OptoTau increased tau phosphorylation and was sequestered in aggresomes. Suppressing aggresome formation by nocodazole formed tau granular clusters in the cytoplasm. The granular clusters disappeared by discontinuing blue light exposure or 1,6-hexanediol treatment suggesting that intracellular tau droplet formation requires microtubule collapse. Expressing OptoTau-ΔN, a species of N-terminal cleaved tau observed in the Alzheimer's disease brain, formed 1,6-hexanediol and detergent-resistant tau clusters in the cytoplasm with blue light stimulation. These intracellular stable tau clusters acted as a seed for tau fibrils in vitro. These results suggest that tau droplet formation and N-terminal cleavage are necessary for neurofibrillary tangles formation in neurodegenerative diseases.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (8):** [[grafo/termos/blue light|blue light]] · [[grafo/termos/cellular mechanisms|cellular mechanisms]] · [[grafo/termos/light-sensitive proteins|light-sensitive proteins]] · [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] · [[grafo/termos/poorly understood|poorly understood]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau aggregation|tau aggregation]] · [[grafo/termos/tau phosphorylation|tau phosphorylation]]
+<!-- vinculos:fim -->

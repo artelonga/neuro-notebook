@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 7
+tags: ["artigo", "tema/1"]
 ---
+Conventional [[grafo/termos/deep brain stimulation|deep brain stimulation]] of [[grafo/termos/basal ganglia|basal ganglia]] uses high-frequency regular electrical pulses to treat [[grafo/termos/parkinsonian motor symptoms|Parkinsonian motor symptoms]] but has a series of limitations. Relatively new and not yet clinically tested, optogenetic stimulation is an effective experimental stimulation technique to affect pathological [[grafo/termos/network dynamics|network dynamics]]. We compared the effects of electrical and optogenetic stimulation of the basal gangliaon the pathologicalParkinsonian rhythmic [[grafo/termos/neural activity|neural activity]]. We studied the network response to [[grafo/termos/electrical stimulation|electrical stimulation]] and excitatory and inhibitory optogenetic stimulations. Different stimulations exhibit different interactions with pathological activity in the network. We studied these interactions for different network and [[grafo/termos/stimulation parameters|stimulation parameter]] values. Optogenetic stimulation was found to be more efficient than electrical stimulation in suppressing pathological rhythmicity. Our findings indicate that optogenetic control of neural synchrony may be more efficacious than electrical control because of the different ways of how stimulations interact with network dynamics.
 
-Conventional deep brain stimulation of basal ganglia uses high-frequency regular electrical pulses to treat Parkinsonian motor symptoms but has a series of limitations. Relatively new and not yet clinically tested, optogenetic stimulation is an effective experimental stimulation technique to affect pathological network dynamics. We compared the effects of electrical and optogenetic stimulation of the basal gangliaon the pathologicalParkinsonian rhythmic neural activity. We studied the network response to electrical stimulation and excitatory and inhibitory optogenetic stimulations. Different stimulations exhibit different interactions with pathological activity in the network. We studied these interactions for different network and stimulation parameter values. Optogenetic stimulation was found to be more efficient than electrical stimulation in suppressing pathological rhythmicity. Our findings indicate that optogenetic control of neural synchrony may be more efficacious than electrical control because of the different ways of how stimulations interact with network dynamics.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (7):** [[grafo/termos/basal ganglia|basal ganglia]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/network dynamics|network dynamics]] · [[grafo/termos/neural activity|neural activity]] · [[grafo/termos/parkinsonian motor symptoms|parkinsonian motor symptoms]] · [[grafo/termos/stimulation parameters|stimulation parameters]]
+<!-- vinculos:fim -->

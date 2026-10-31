@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 9
+tags: ["artigo", "tema/2"]
 ---
+We show that a natural behavior, exploration of a novel environment, causes DNA double-strand breaks (DSBs) in neurons of young adult wild-type mice. DSBs occurred in multiple [[grafo/termos/brain regions|brain regions]], were most abundant in the [[grafo/termos/dentate gyrus|dentate gyrus]], which is involved in learning and [[grafo/termos/memory|memory]], and were repaired within 24 h. Increasing [[grafo/termos/neuronal activity|neuronal activity]] by sensory or optogenetic stimulation increased neuronal DSBs in relevant but not irrelevant networks. Mice transgenic for human [[grafo/termos/amyloid precursor protein|amyloid precursor protein]] (hAPP), which simulate key aspects of Alzheimer's disease, had increased neuronal DSBs at baseline and more severe and prolonged DSBs after exploration. Interventions that suppress aberrant neuronal activity and improve learning and memory in hAPP mice normalized their levels of DSBs. Blocking extrasynaptic NMDA-type [[grafo/termos/glutamate receptors|glutamate receptors]] prevented [[grafo/termos/amyloid-β|amyloid-β]] (Aβ)-induced DSBs in neuronal cultures. Thus, transient increases in neuronal DSBs occur as a result of physiological [[grafo/termos/brain activity|brain activity]], and Aβ exacerbates DNA damage, most likely by eliciting [[grafo/termos/synaptic dysfunction|synaptic dysfunction]].
 
-We show that a natural behavior, exploration of a novel environment, causes DNA double-strand breaks (DSBs) in neurons of young adult wild-type mice. DSBs occurred in multiple brain regions, were most abundant in the dentate gyrus, which is involved in learning and memory, and were repaired within 24 h. Increasing neuronal activity by sensory or optogenetic stimulation increased neuronal DSBs in relevant but not irrelevant networks. Mice transgenic for human amyloid precursor protein (hAPP), which simulate key aspects of Alzheimer's disease, had increased neuronal DSBs at baseline and more severe and prolonged DSBs after exploration. Interventions that suppress aberrant neuronal activity and improve learning and memory in hAPP mice normalized their levels of DSBs. Blocking extrasynaptic NMDA-type glutamate receptors prevented amyloid-β (Aβ)-induced DSBs in neuronal cultures. Thus, transient increases in neuronal DSBs occur as a result of physiological brain activity, and Aβ exacerbates DNA damage, most likely by eliciting synaptic dysfunction.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (9):** [[grafo/termos/amyloid precursor protein|amyloid precursor protein]] · [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/brain regions|brain regions]] · [[grafo/termos/dentate gyrus|dentate gyrus]] · [[grafo/termos/glutamate receptors|glutamate receptors]] · [[grafo/termos/memory|memory]] · [[grafo/termos/neuronal activity|neuronal activity]] · [[grafo/termos/synaptic dysfunction|synaptic dysfunction]]
+<!-- vinculos:fim -->

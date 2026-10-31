@@ -54,6 +54,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 5
+tags: ["artigo", "tema/3"]
 ---
+Abstract. In the past two decades, optogenetic technology has developed to be the most accurate method for investigating or treating neural correlated diseases. Currently, the applications of optogenetic technology have been expanded from the initial [[grafo/termos/central nervous|central nervous]] system to the peripheral nervous system, circulatory system, locomotor system, alimentary system, urinary system, and so on. We summarize the recent progress of optogenetic technology in biomedical applications through two categories: activation or inhibition of neural impulses. The involved diseases include Alzheimer’s disease, [[grafo/termos/ischemic stroke|ischemic stroke]], Parkinson’s disease, [[grafo/termos/epilepsy|epilepsy]], [[grafo/termos/spinal cord injury|spinal cord injury]], cardiac arrhythmias, and chronic kidney disease. Furthermore, basic and clinical research in optogenetic technology for visual restoration is highlighted, and the challenges of optogenetic technology for [[grafo/termos/clinical applications|clinical applications]] are discussed.
 
-Abstract. In the past two decades, optogenetic technology has developed to be the most accurate method for investigating or treating neural correlated diseases. Currently, the applications of optogenetic technology have been expanded from the initial central nervous system to the peripheral nervous system, circulatory system, locomotor system, alimentary system, urinary system, and so on. We summarize the recent progress of optogenetic technology in biomedical applications through two categories: activation or inhibition of neural impulses. The involved diseases include Alzheimer’s disease, ischemic stroke, Parkinson’s disease, epilepsy, spinal cord injury, cardiac arrhythmias, and chronic kidney disease. Furthermore, basic and clinical research in optogenetic technology for visual restoration is highlighted, and the challenges of optogenetic technology for clinical applications are discussed.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (5):** [[grafo/termos/central nervous|central nervous]] · [[grafo/termos/clinical applications|clinical applications]] · [[grafo/termos/epilepsy|epilepsy]] · [[grafo/termos/ischemic stroke|ischemic stroke]] · [[grafo/termos/spinal cord injury|spinal cord injury]]
+<!-- vinculos:fim -->

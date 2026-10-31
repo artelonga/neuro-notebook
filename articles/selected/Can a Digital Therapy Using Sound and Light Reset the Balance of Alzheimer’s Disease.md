@@ -45,6 +45,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer’s disease (AD) is a degenerative cognition-declining disease with no clear understanding of the [[grafo/termos/underlying mechanisms|underlying mechanisms]]. Currently, no [[grafo/termos/effective therapeutic|effective therapeutics]] are available for AD. [[grafo/termos/amyloid-β|Amyloid-β]] (A-β) plaques and [[grafo/termos/tau tangles|tau tangles]] were considered as the contributing factors to the development of AD. In contrast, controversial exists due to efforts focusing on A-β as a pharmacological [[grafo/termos/therapeutic target|therapeutic target]] was failed. Emerging evidence appeared for the external stimuli applied through vision (LED) and hearing (~40Hz) to certain intensity to dementia subjects with promising results such as reducing A-β and tau tangles in the [[grafo/termos/brain tissue|brain tissue]], increasing the brain volume reducing the decline of daily activities and mental status. This optogenetic and sound-derived digital therapeutic maneuver provides a striking way for conquering the development of AD.
 
-Alzheimer’s disease (AD) is a degenerative cognition-declining disease with no clear understanding of the underlying mechanisms. Currently, no effective therapeutics are available for AD. Amyloid-β (A-β) plaques and tau tangles were considered as the contributing factors to the development of AD. In contrast, controversial exists due to efforts focusing on A-β as a pharmacological therapeutic target was failed. Emerging evidence appeared for the external stimuli applied through vision (LED) and hearing (~40Hz) to certain intensity to dementia subjects with promising results such as reducing A-β and tau tangles in the brain tissue, increasing the brain volume reducing the decline of daily activities and mental status. This optogenetic and sound-derived digital therapeutic maneuver provides a striking way for conquering the development of AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (6):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/brain tissue|brain tissue]] · [[grafo/termos/effective therapeutic|effective therapeutic]] · [[grafo/termos/tau tangles|tau tangles]] · [[grafo/termos/therapeutic target|therapeutic target]] · [[grafo/termos/underlying mechanisms|underlying mechanisms]]
+<!-- vinculos:fim -->

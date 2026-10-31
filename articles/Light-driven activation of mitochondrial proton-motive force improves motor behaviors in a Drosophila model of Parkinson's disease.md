@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T16"
+topico_nome: "Disfunção dopaminérgica e sintomas motores"
+n_termos: 7
+tags: ["artigo", "tema/1"]
 ---
+Mitochondrial degeneration is considered one of the major causes of Parkinson's disease (PD). Improved mitochondrial functions are expected to be a [[grafo/termos/promising therapeutic|promising therapeutic]] strategy for PD. In this study, we introduced a light-driven proton transporter, Delta-rhodopsin (dR), to Drosophila mitochondria, where the mitochondrial proton-motive force (Δp) and mitochondrial membrane potential are maintained in a light-dependent manner. The loss of the PD-associated mitochondrial gene CHCHD2 resulted in reduced ATP production, enhanced mitochondrial peroxide production and lower Ca2+-buffering activity in dopaminergic (DA) terminals in flies. These cellular defects were improved by the light-dependent activation of mitochondrion-targeted dR (mito-dR). Moreover, mito-dR reversed the pathology caused by the CHCHD2 deficiency to suppress [[grafo/termos/α-synuclein|α-synuclein]] aggregation, DA [[grafo/termos/neuronal loss|neuronal loss]], and elevated lipid peroxidation in [[grafo/termos/brain tissue|brain tissue]], improving [[grafo/termos/motor behaviors|motor behaviors]]. This study suggests the enhancement of Δp by mito-dR as a [[grafo/termos/therapeutic mechanisms|therapeutic mechanism]] that ameliorates [[grafo/termos/neurodegeneration|neurodegeneration]] by protecting mitochondrial functions.
 
-Mitochondrial degeneration is considered one of the major causes of Parkinson's disease (PD). Improved mitochondrial functions are expected to be a promising therapeutic strategy for PD. In this study, we introduced a light-driven proton transporter, Delta-rhodopsin (dR), to Drosophila mitochondria, where the mitochondrial proton-motive force (Δp) and mitochondrial membrane potential are maintained in a light-dependent manner. The loss of the PD-associated mitochondrial gene CHCHD2 resulted in reduced ATP production, enhanced mitochondrial peroxide production and lower Ca2+-buffering activity in dopaminergic (DA) terminals in flies. These cellular defects were improved by the light-dependent activation of mitochondrion-targeted dR (mito-dR). Moreover, mito-dR reversed the pathology caused by the CHCHD2 deficiency to suppress α-synuclein aggregation, DA neuronal loss, and elevated lipid peroxidation in brain tissue, improving motor behaviors. This study suggests the enhancement of Δp by mito-dR as a therapeutic mechanism that ameliorates neurodegeneration by protecting mitochondrial functions.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T16 Disfunção dopaminérgica e sintomas motores|T16 · Disfunção dopaminérgica e sintomas motores]]
+
+**Termos (7):** [[grafo/termos/brain tissue|brain tissue]] · [[grafo/termos/motor behaviors|motor behaviors]] · [[grafo/termos/neurodegeneration|neurodegeneration]] · [[grafo/termos/neuronal loss|neuronal loss]] · [[grafo/termos/promising therapeutic|promising therapeutic]] · [[grafo/termos/therapeutic mechanisms|therapeutic mechanisms]] · [[grafo/termos/α-synuclein|α-synuclein]]
+<!-- vinculos:fim -->

@@ -58,6 +58,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 5
+tags: ["artigo", "tema/1"]
 ---
+Paradoxical kinesia refers to a sudden transient ability of akinetic [[grafo/termos/parkinsonian patients|Parkinsonian patients]] to perform motor tasks they are otherwise unable to perform. However, the neuronal [[grafo/termos/mechanisms underlying|mechanisms underlying]] paradoxical kinesia are still unknown. Previous studies pointed at the [[grafo/termos/inferior colliculus|inferior colliculus]] (IC), as a potential structure involved in paradoxical kinesia. The present study used [[grafo/termos/electrophysiological recordings|electrophysiological recordings]] and optogenetic stimulation to evaluate the hypothesis that IC neuronal projections to the [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] (MLR) are involved in paradoxical kinesia.
 
-Paradoxical kinesia refers to a sudden transient ability of akinetic Parkinsonian patients to perform motor tasks they are otherwise unable to perform. However, the neuronal mechanisms underlying paradoxical kinesia are still unknown. Previous studies pointed at the inferior colliculus (IC), as a potential structure involved in paradoxical kinesia. The present study used electrophysiological recordings and optogenetic stimulation to evaluate the hypothesis that IC neuronal projections to the mesencephalic locomotor region (MLR) are involved in paradoxical kinesia.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (5):** [[grafo/termos/electrophysiological recordings|electrophysiological recordings]] · [[grafo/termos/inferior colliculus|inferior colliculus]] · [[grafo/termos/mechanisms underlying|mechanisms underlying]] · [[grafo/termos/mesencephalic locomotor region|mesencephalic locomotor region]] · [[grafo/termos/parkinsonian patients|parkinsonian patients]]
+<!-- vinculos:fim -->

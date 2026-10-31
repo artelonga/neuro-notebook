@@ -59,6 +59,61 @@ def table(rows, cols, header=None):
     return "\n".join(out)
 
 
+def topics_section():
+    """Topic model (topicos/, BERTopic) summary, when its outputs exist."""
+    base = DATA / "topicos"
+    if not (base / "topics.csv").exists() or not (base / "viz" / "insights.json").exists():
+        return []
+    model = json.loads((base / "model.json").read_text())
+    ins = {t["topic"]: t for t in json.loads((base / "viz" / "insights.json").read_text())["topics"]}
+    topics = list(csv.DictReader((base / "topics.csv").open()))
+    emb = {"specter": "SPECTER", "minilm": "all-MiniLM-L6-v2", "bge": "bge-small-en-v1.5",
+           "e5-multi": "multilingual-e5-small"}.get(model["embedding"], model["embedding"])
+    L = ["## Tópicos (BERTopic)\n",
+         f"Gerado por `topicos/` (ver `topicos/README.md`): {num(model['n_topics'])} tópicos nos "
+         f"{num(model['n_docs'])} trabalhos de `articles/`, com embeddings {emb}, redução {model['reducer'].upper()} e "
+         f"agrupamento {model['clusterer']} ({model['params']}), escolhidos num benchmark de 4 embeddings × 4 "
+         f"redutores × 6 agrupadores, mais LDA e NMF. Coerência NPMI média {pct(round(model['npmi'], 2))}, "
+         f"diversidade {pct(round(model['diversity'], 2))}. Nomes dos tópicos: modelo de linguagem local "
+         "(Ollama), com revisão à mão onde indicado.\n"]
+    rows = []
+    for t in topics:
+        i = ins[int(t["topic"])]
+        g = i["growth"]
+        rows.append({"t": f"T{int(t['topic']):02d}", "nome": (t.get("llm_label") or t["label"])
+                     + (" (revisado)" if t.get("label_source") == "revisado" else ""),
+                     "n": num(t["n_docs"]), "ad": f"{round(i['alzheimer'] * 100)}%", "pd": f"{round(i['parkinson'] * 100)}%",
+                     "g": pct(f"×{g:.1f}") if g is not None else "", "sel": f"{round(i['included'] * 100)}%"})
+    L.append(table(rows, ["t", "nome", "n", "ad", "pd", "g", "sel"],
+                   ["Tópico", "Nome", "Trabalhos", "Citam Alzheimer", "Citam Parkinson", "2021–26 vs 2016–20",
+                    "Na seleção final"]))
+    L.append("\n*Citam Alzheimer/Parkinson* = o título ou o resumo menciona a doença (um trabalho pode citar as duas). "
+             "*2021–26 vs 2016–20* = razão entre a parcela de trabalhos do tópico nos dois períodos.\n")
+    for name, title in [("over_time_facets", "Tópicos por ano"), ("disease", "Tópicos por doença citada"),
+                        ("hierarchy", "Hierarquia de tópicos"), ("selection", "Tópicos dentro e fora da seleção final")]:
+        if (base / "viz" / f"{name}.png").exists():
+            L.append(f"![{title}](data/topicos/viz/{name}.png)\n")
+    L.append("Versões interativas em `data/topicos/viz/*.html`; rede de termos no Obsidian em `grafo/Mapa.md`.\n")
+    sel, fora = DATA / "termos" / "selecionados" / "termos.csv", DATA / "termos" / "nao-selecionados" / "termos.csv"
+    if sel.exists() and fora.exists():
+        s_rows = list(csv.DictReader(sel.open()))
+        f_cov = {r["termo"]: r["cobertura"] for r in csv.DictReader(fora.open())}
+        n_sel = len(list((ROOT / "articles" / "selected").glob("*.md")))
+        L.append("### Termos do glossário\n")
+        L.append(f"`python3 -m litreview.vincular` liga cada artigo ao seu tópico e aos termos do glossário "
+                 f"(`grafo/termos/`, {num(len(json.loads((base / 'notes_index.json').read_text())['terms']))} verbetes) "
+                 f"e mede cada termo. *Cobertura* = % dos textos em que o termo aparece; *prevalência* = ocorrências "
+                 f"por 10 mil palavras dos resumos. Denominador: os {num(n_sel)} artigos da seleção final; a última "
+                 "coluna repete a cobertura entre os artigos fora da seleção. Tabelas completas em `data/termos/`.\n")
+        L.append(table([{"t": r["rotulo"], "n": num(r["n_textos"]), "c": pct(f"{float(r['cobertura']):.1f}%"),
+                         "p": pct(r["prevalencia"]), "f": pct(f"{float(f_cov.get(r['termo'], 0)):.1f}%")}
+                        for r in s_rows[:15]],
+                       ["t", "n", "c", "p", "f"], ["Termo", "Textos", "Cobertura", "Prevalência (/10 mil)",
+                                                   "Cobertura fora da seleção"]))
+        L.append("")
+    return L
+
+
 def prisma_section(p):
     """PRISMA 2020 flow (data/prisma.json, written by litreview.prisma)."""
     idn, rm, sc, inc, rg = (p["identification"], p["removed_before_screening"], p["screening"],
@@ -257,6 +312,8 @@ def main():
         L.append("- Os trabalhos `unknown` (em geral teses ou itens em outros idiomas sem DOI) ficam `false`.")
         L.append("- A deduplicação por título pode falhar com títulos corrompidos, por exemplo \"Aβ\" escrito "
                  "como \"Ab\" ou \"A b\". Vale conferir isso na triagem.\n")
+
+    L += topics_section()
 
     # --- AC-4 ------------------------------------------------------------
     L.append("## Registros de ensaios clínicos: qualquer uso de optogenética\n")

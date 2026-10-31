@@ -57,6 +57,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T11"
+topico_nome: "Ferramentas, implantes e vetores"
+n_termos: 0
+tags: ["artigo", "tema/3"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T11 Ferramentas, implantes e vetores|T11 · Ferramentas, implantes e vetores]]
+<!-- vinculos:fim -->

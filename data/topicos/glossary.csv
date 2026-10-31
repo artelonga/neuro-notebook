@@ -1,0 +1,585 @@
+term,label,docs,source,topic,in_graph
+deep brain stimulation,deep brain stimulation,132,ambos,4,1
+basal ganglia,basal ganglia,109,ambos,1,1
+subthalamic nucleu,subthalamic nucleus,78,ambos,8,1
+neural circuit,neural circuits,70,ambos,5,1
+dopaminergic neuron,dopaminergic neurons,62,ambos,0,1
+striatum,striatum,48,palavra-chave,0,1
+dopamine,dopamine,45,palavra-chave,0,1
+substantia nigra,substantia nigra,45,ambos,16,1
+brain stimulation,brain stimulation,41,ambos,4,1
+synaptic plasticity,synaptic plasticity,40,ambos,2,1
+neuronal activity,neuronal activity,39,ambos,1,1
+neurodegenerative disorder,neurodegenerative disorders,38,texto,3,1
+medium spiny neuron,medium spiny neurons,33,ambos,0,1
+neuromodulation,neuromodulation,33,palavra-chave,4,1
+motor symptom,motor symptoms,30,ambos,8,1
+neurological disorder,neurological disorders,29,ambos,5,1
+dopamine depletion,dopamine depletion,28,ambos,1,1
+neurodegeneration,neurodegeneration,26,palavra-chave,6,1
+motor cortex,motor cortex,25,ambos,8,1
+dopamine release,dopamine release,25,ambos,0,1
+movement disorder,movement disorders,25,ambos,4,1
+neural activity,neural activity,25,texto,1,1
+brain function,brain function,24,texto,0,1
+indirect pathway,indirect pathway,24,ambos,15,1
+channelrhodopsin-2,channelrhodopsin-2,24,palavra-chave,1,1
+chemogenetic,chemogenetics,23,palavra-chave,0,1
+calcium imaging,calcium imaging,23,ambos,5,1
+synaptic transmission,synaptic transmission,23,ambos,0,1
+globus pallidu,globus pallidus,23,ambos,1,1
+motor control,motor control,23,ambos,12,1
+dopamine neuron,dopamine neurons,22,texto,12,1
+memory impairment,memory impairment,22,ambos,2,1
+levodopa-induced dyskinesia,levodopa-induced dyskinesia,22,ambos,15,1
+striatal cholinergic interneuron,striatal cholinergic interneurons,21,ambos,0,1
+gene therapy,gene therapy,21,ambos,4,1
+long-term potentiation,long-term potentiation,21,ambos,2,1
+neuropsychiatric disorder,neuropsychiatric disorders,21,ambos,0,1
+beta oscillation,beta oscillations,20,ambos,1,1
+motor deficit,motor deficits,19,texto,1,1
+cognitive function,cognitive function,19,ambos,2,1
+hippocampu,hippocampus,19,palavra-chave,2,1
+dopamine receptor,dopamine receptors,19,ambos,0,1
+depression,depression,18,palavra-chave,5,1
+oxidative stress,oxidative stress,18,ambos,3,1
+6-hydroxydopamine,6-hydroxydopamine,18,palavra-chave,1,1
+memory deficit,memory deficits,18,texto,2,1
+gabaergic neuron,gabaergic neurons,18,ambos,1,1
+parkinsonism,parkinsonism,17,palavra-chave,16,1
+basal ganglia circuitry,basal ganglia circuitry,17,ambos,12,1
+astrocyte,astrocytes,17,palavra-chave,3,1
+central nervou,central nervous,17,texto,5,1
+light stimulation,light stimulation,17,texto,1,1
+rodent model,rodent models,17,ambos,1,1
+motor impairment,motor impairment,17,ambos,1,1
+striatal neuron,striatal neurons,17,ambos,0,1
+optical stimulation,optical stimulation,17,texto,10,1
+protein aggregation,protein aggregation,17,ambos,13,1
+globus pallidus externu,globus pallidus externus,17,ambos,1,1
+mechanisms underlying,mechanisms underlying,17,texto,0,1
+ion channel,ion channels,17,ambos,5,1
+cholinergic interneuron,cholinergic interneurons,17,ambos,0,1
+rat model,rat model,17,ambos,16,1
+gamma oscillation,gamma oscillations,17,ambos,7,1
+cognitive decline,cognitive decline,16,ambos,3,1
+cognitive impairment,cognitive impairment,16,ambos,2,1
+6-hydroxydopamine lesion,6-hydroxydopamine lesion,15,palavra-chave,17,1
+therapeutic target,therapeutic target,15,ambos,3,1
+parvalbumin interneuron,parvalbumin interneurons,15,ambos,2,1
+prefrontal cortex,prefrontal cortex,15,ambos,2,1
+dentate gyru,dentate gyrus,15,ambos,2,1
+functional connectivity,functional connectivity,15,ambos,6,1
+pyramidal neuron,pyramidal neurons,15,ambos,2,1
+clinical trial,clinical trials,15,ambos,3,1
+epilepsy,epilepsy,15,palavra-chave,4,1
+dorsal striatum,dorsal striatum,14,ambos,12,1
+nmda receptor,nmda receptor,14,ambos,3,1
+adeno-associated viru,adeno-associated virus,14,ambos,1,1
+glutamatergic neuron,glutamatergic neurons,14,ambos,18,1
+molecular mechanism,molecular mechanisms,14,ambos,6,0
+electrophysiology,electrophysiology,14,palavra-chave,0,1
+neuronal circuit,neuronal circuits,14,ambos,0,1
+striatal cholinergic,striatal cholinergic,14,texto,0,1
+gene expression,gene expression,14,ambos,6,1
+l-dopa-induced dyskinesia,l-dopa-induced dyskinesia,14,ambos,15,1
+nucleus accumben,nucleus accumbens,14,ambos,0,1
+synuclein aggregation,synuclein aggregation,13,texto,13,1
+memory formation,memory formation,13,ambos,2,1
+acetylcholine,acetylcholine,13,palavra-chave,0,1
+basal forebrain,basal forebrain,13,ambos,19,1
+amyotrophic lateral sclerosi,amyotrophic lateral sclerosis,13,ambos,3,1
+locus coeruleu,locus coeruleus,13,ambos,6,1
+stem cell,stem cells,13,ambos,14,1
+substantia nigra pars compacta,substantia nigra pars compacta,13,palavra-chave,16,1
+stn neuron,stn neurons,13,texto,8,1
+brain region,brain regions,13,texto,19,1
+thalamu,thalamus,13,palavra-chave,1,1
+gpe neuron,gpe neurons,12,texto,1,1
+external globus pallidu,external globus pallidus,12,ambos,1,1
+gabaergic interneuron,gabaergic interneurons,12,ambos,7,0
+ventral tegmental area,ventral tegmental area,12,ambos,0,1
+neuronal population,neuronal populations,12,texto,18,0
+lewy bodie,lewy bodies,12,ambos,13,1
+electrical stimulation,electrical stimulation,12,ambos,1,0
+pedunculopontine nucleu,pedunculopontine nucleus,12,ambos,18,1
+halorhodopsin,halorhodopsin,12,palavra-chave,1,1
+entorhinal cortex,entorhinal cortex,12,ambos,6,0
+viral vector,viral vectors,12,ambos,11,1
+spiny projection neuron,spiny projection neurons,11,texto,0,1
+neural stem cell,neural stem cells,11,ambos,14,1
+blue light,blue light,11,texto,6,0
+neuroinflammation,neuroinflammation,11,palavra-chave,6,1
+genetically encoded,genetically encoded,11,texto,16,1
+amyloid beta,amyloid beta,11,texto,3,1
+mesencephalic locomotor region,mesencephalic locomotor region,11,ambos,18,1
+local field potential,local field potentials,11,ambos,4,1
+locomotion,locomotion,11,palavra-chave,18,1
+cholinergic neuron,cholinergic neurons,11,ambos,19,1
+spinal cord injury,spinal cord injury,11,ambos,5,1
+memory retrieval,memory retrieval,11,ambos,2,0
+memory,memory,11,palavra-chave,3,1
+brain activity,brain activity,11,texto,7,1
+essential tremor,essential tremor,11,ambos,4,1
+psychiatric disorder,psychiatric disorders,10,ambos,4,1
+brain disorder,brain disorders,10,ambos,5,1
+therapeutic intervention,therapeutic interventions,10,texto,14,1
+signaling pathway,signaling pathways,10,texto,3,0
+chronic pain,chronic pain,10,ambos,17,1
+fiber photometry,fiber photometry,10,ambos,12,1
+globus pallidus internu,globus pallidus internus,10,ambos,1,1
+primary motor cortex,primary motor cortex,10,ambos,17,1
+dopamine signaling,dopamine signaling,10,ambos,0,1
+computational model,computational model,10,ambos,1,1
+neuronal excitability,neuronal excitability,10,ambos,5,1
+striatal dopamine,striatal dopamine,10,ambos,0,1
+nigrostriatal pathway,nigrostriatal pathway,10,ambos,14,1
+long-term depression,long-term depression,10,ambos,6,1
+substantia nigra pars,substantia nigra pars,10,texto,8,1
+channelrhodopsin,channelrhodopsin,10,palavra-chave,5,1
+memory loss,memory loss,10,ambos,3,1
+dorsolateral striatum,dorsolateral striatum,10,ambos,0,1
+clinical application,clinical applications,10,texto,10,0
+akinesia,akinesia,10,palavra-chave,0,1
+involuntary movement,involuntary movements,10,ambos,15,1
+dopamine d2 receptor,dopamine d2 receptor,10,palavra-chave,1,1
+direct pathway,direct pathway,10,ambos,12,1
+dyskinesia,dyskinesia,10,palavra-chave,15,1
+motor behavior,motor behaviors,9,ambos,12,1
+synaptic dysfunction,synaptic dysfunction,9,ambos,6,1
+neurotrophic factor,neurotrophic factors,9,ambos,14,1
+tau aggregation,tau aggregation,9,ambos,6,1
+nicotinic acetylcholine receptor,nicotinic acetylcholine receptors,9,ambos,0,1
+striatal projection neuron,striatal projection neurons,9,ambos,1,1
+substantia nigra pars reticulata,substantia nigra pars reticulata,9,palavra-chave,8,1
+huntington disease,huntington's disease,9,palavra-chave,6,1
+neurofibrillary tangle,neurofibrillary tangles,9,ambos,6,1
+tau protein,tau protein,9,ambos,6,1
+chemogenetic inhibition,chemogenetic inhibition,9,ambos,0,0
+pluripotent stem cell,pluripotent stem cells,9,texto,14,0
+remains unclear,remains unclear,9,texto,13,0
+neuroprotection,neuroprotection,9,palavra-chave,16,1
+tyrosine hydroxylase,tyrosine hydroxylase,9,ambos,9,1
+firing rate,firing rate,9,texto,1,1
+brain network,brain network,9,ambos,8,1
+non-human primate,non-human primates,9,ambos,4,1
+closed-loop stimulation,closed-loop stimulation,9,ambos,4,1
+tau phosphorylation,tau phosphorylation,9,ambos,6,1
+spinal cord,spinal cord,9,ambos,5,1
+optical fiber,optical fibers,9,texto,10,0
+brain tissue,brain tissue,9,ambos,10,0
+dreadd,dreadd,9,palavra-chave,5,1
+multiple sclerosi,multiple sclerosis,9,ambos,14,0
+dopamine d1 receptor,dopamine d1 receptor,9,palavra-chave,15,1
+brain slice,brain slices,9,ambos,11,0
+parkinsonian motor,parkinsonian motor,9,texto,1,1
+entopeduncular nucleu,entopeduncular nucleus,8,ambos,1,1
+tau pathology,tau pathology,8,ambos,6,0
+parkinsonian condition,parkinsonian conditions,8,texto,17,1
+chemogenetic activation,chemogenetic activation,8,ambos,2,0
+stem cell therapy,stem cell therapy,8,ambos,14,1
+parkinsonian symptom,parkinsonian symptoms,8,ambos,8,1
+dopamine replacement,dopamine replacement,8,texto,14,1
+drug discovery,drug discovery,8,ambos,5,0
+direct and indirect pathway,direct and indirect pathways,8,palavra-chave,9,1
+sleep,sleep,8,palavra-chave,7,1
+brain circuit,brain circuits,8,texto,0,0
+risk factor,risk factor,8,ambos,3,0
+underlying mechanism,underlying mechanisms,8,texto,1,0
+neural oscillation,neural oscillations,8,ambos,7,1
+alpha-synuclein,alpha-synuclein,8,palavra-chave,13,1
+neural recording,neural recording,8,ambos,10,1
+motor function,motor function,8,ambos,18,1
+amyloid plaque,amyloid plaques,8,texto,7,0
+drug addiction,drug addiction,8,ambos,8,1
+levodopa,levodopa,8,palavra-chave,15,1
+neuron activity,neuron activity,8,texto,8,1
+transcranial magnetic stimulation,transcranial magnetic stimulation,8,ambos,4,1
+dopamine replacement therapy,dopamine replacement therapy,8,ambos,15,1
+light activation,light activation,8,texto,3,0
+glutamatergic synapse,glutamatergic synapses,8,ambos,0,1
+glutamate receptor,glutamate receptors,8,ambos,6,0
+hippocampal neuron,hippocampal neurons,8,ambos,11,1
+α-synuclein,α-synuclein,7,palavra-chave,13,0
+receptor activation,receptor activation,7,texto,12,0
+anxiety,anxiety,7,palavra-chave,3,1
+hippocampal ca1,hippocampal ca1,7,texto,2,1
+synapse,synapse,7,palavra-chave,3,1
+brain rhythm,brain rhythms,7,texto,7,0
+gabaergic inhibition,gabaergic inhibition,7,ambos,12,1
+engram cell,engram cells,7,ambos,2,1
+blood-brain barrier,blood-brain barrier,7,texto,11,1
+amyloid-β,amyloid-β,7,palavra-chave,3,0
+nigrostriatal dopamine,nigrostriatal dopamine,7,texto,0,1
+gene editing,gene editing,7,texto,14,0
+slow oscillation,slow oscillations,7,ambos,7,1
+caenorhabditis elegan,caenorhabditis elegans,7,ambos,3,0
+light-sensitive protein,light-sensitive proteins,7,ambos,5,1
+parkinsonian rats,parkinsonian rats,7,texto,10,1
+receptor antagonist,receptor antagonist,7,texto,0,0
+muscarinic receptor,muscarinic receptors,7,ambos,0,1
+protein tau,protein tau,7,texto,6,1
+cortical neuron,cortical neurons,7,ambos,5,0
+therapeutic strategie,therapeutic strategies,7,texto,14,0
+non-motor symptom,non-motor symptoms,7,ambos,17,1
+gaba,gaba,7,palavra-chave,16,1
+neuronal firing,neuronal firing,7,texto,4,1
+computational modeling,computational modeling,7,ambos,4,1
+magnetic resonance imaging,magnetic resonance imaging,7,ambos,4,1
+drosophila melanogaster,drosophila melanogaster,7,ambos,9,0
+electrophysiological recording,electrophysiological recordings,7,texto,8,1
+therapeutic mechanism,therapeutic mechanisms,7,ambos,8,1
+designer receptor,designer receptors,7,ambos,9,1
+cholinergic signaling,cholinergic signaling,7,texto,19,0
+bradykinesia,bradykinesia,7,palavra-chave,8,1
+dystonia,dystonia,7,palavra-chave,4,1
+dopaminergic cell,dopaminergic cells,7,texto,14,0
+mammalian brain,mammalian brain,7,ambos,19,0
+spatial memory,spatial memory,7,ambos,2,0
+projection neuron,projection neurons,7,texto,0,0
+genetic engineering,genetic engineering,7,ambos,5,1
+cell type,cell types,7,ambos,11,1
+obsessive-compulsive disorder,obsessive-compulsive disorder,7,ambos,8,1
+somatostatin interneuron,somatostatin interneurons,7,ambos,7,1
+clinical translation,clinical translation,6,ambos,5,0
+sleep disorder,sleep disorders,6,ambos,1,0
+mood disorder,mood disorders,6,ambos,0,1
+neurotransmitter system,neurotransmitter systems,6,ambos,0,1
+improves motor,improves motor,6,texto,17,1
+axon terminal,axon terminals,6,texto,0,0
+microtubule-associated protein tau,microtubule-associated protein tau,6,texto,6,1
+inhibitory interneuron,inhibitory interneurons,6,texto,7,1
+gaba release,gaba release,6,ambos,0,1
+brain area,brain areas,6,texto,2,0
+therapeutic application,therapeutic applications,6,texto,3,0
+memory engram,memory engram,6,texto,2,1
+neuronal loss,neuronal loss,6,ambos,6,0
+protein synthesi,protein synthesis,6,ambos,6,1
+memory consolidation,memory consolidation,6,ambos,7,1
+slow wave,slow waves,6,ambos,7,1
+genetically targeted,genetically targeted,6,texto,5,1
+pars compacta,pars compacta,6,texto,14,1
+non-invasive neuromodulation,non-invasive neuromodulation,6,ambos,10,1
+neural circuitry,neural circuitry,6,texto,5,0
+freely moving,freely moving,6,texto,5,0
+phase separation,phase separation,6,ambos,13,1
+pathophysiological mechanism,pathophysiological mechanisms,6,texto,3,0
+medial prefrontal cortex,medial prefrontal cortex,6,ambos,2,1
+locomotor activity,locomotor activity,6,texto,18,0
+behavioral deficit,behavioral deficits,6,ambos,6,0
+transcription factor,transcription factor,6,ambos,6,0
+potassium channel,potassium channels,6,ambos,16,1
+machine learning,machine learning,6,ambos,4,0
+neurodegenerative condition,neurodegenerative conditions,6,texto,4,1
+brain-computer interface,brain-computer interface,6,ambos,4,0
+locomotor region,locomotor region,6,texto,18,1
+therapeutic option,therapeutic option,6,texto,10,0
+autism spectrum disorder,autism spectrum disorder,6,ambos,2,1
+unilateral hydroxydopamine,unilateral hydroxydopamine,6,texto,1,1
+early stage,early stages,6,texto,3,0
+inhibitory input,inhibitory input,6,texto,1,1
+drug delivery,drug delivery,6,ambos,10,1
+better understand,better understand,6,texto,13,0
+basal ganglia output,basal ganglia output,6,ambos,8,1
+stimulation parameter,stimulation parameters,6,texto,4,0
+cp: neuroscience,cp: neuroscience,6,palavra-chave,8,1
+common neurodegenerative,common neurodegenerative,6,texto,5,0
+cellular model,cellular models,6,texto,6,1
+glutamate,glutamate,6,palavra-chave,16,1
+locomotor deficit,locomotor deficits,6,ambos,18,1
+specific cell,specific cell,6,texto,5,1
+spatial resolution,spatial resolution,6,texto,10,0
+hippocampal network,hippocampal network,6,texto,7,1
+brain injury,brain injury,6,ambos,1,0
+treatment option,treatment options,6,ambos,3,0
+midbrain dopamine,midbrain dopamine,6,texto,12,1
+temporal control,temporal control,6,ambos,12,0
+neural mechanism,neural mechanisms,6,texto,0,0
+network dynamic,network dynamics,6,ambos,1,1
+cell-type specific,cell-type specific,5,texto,0,0
+mechanisms involved,mechanisms involved,5,texto,0,0
+closed-loop control,closed-loop control,5,ambos,4,0
+nociceptive hypersensitivity,nociceptive hypersensitivity,5,texto,17,1
+parkinsonian state,parkinsonian states,5,texto,0,0
+addiction,addiction,5,palavra-chave,1,1
+dendritic spine,dendritic spine,5,ambos,3,1
+synaptic protein,synaptic proteins,5,texto,2,0
+therapeutic relevance,therapeutic relevance,5,texto,17,0
+p301s tau,p301s tau,5,ambos,2,1
+autophagy,autophagy,5,palavra-chave,3,0
+cell therapy,cell therapy,5,ambos,14,0
+gabaa receptor,gabaa receptor,5,ambos,0,0
+nigra pars reticulata,nigra pars reticulata,5,texto,0,1
+l-dopa treatment,l-dopa treatment,5,ambos,16,1
+circuit mechanism,circuit mechanisms,5,texto,8,1
+synaptic loss,synaptic loss,5,ambos,6,0
+dorsomedial striatum,dorsomedial striatum,5,ambos,0,0
+cell-type specificity,cell-type specificity,5,texto,11,1
+basolateral amygdala,basolateral amygdala,5,texto,2,0
+focused ultrasound,focused ultrasound,5,ambos,10,1
+frontotemporal dementia,frontotemporal dementia,5,ambos,6,0
+tau accumulation,tau accumulation,5,texto,6,0
+neuromodulation technique,neuromodulation techniques,5,texto,10,0
+intrinsic excitability,intrinsic excitability,5,ambos,5,0
+tau tangle,tau tangles,5,texto,6,0
+striatal dopamine release,striatal dopamine release,5,texto,16,0
+cellular mechanism,cellular mechanisms,5,texto,6,0
+cell biology,cell biology,5,ambos,13,0
+retrosplenial cortex,retrosplenial cortex,5,ambos,2,1
+executive function,executive function,5,ambos,2,1
+vivo electrophysiology,vivo electrophysiology,5,texto,8,1
+blood flow,blood flow,5,texto,11,0
+neurovascular coupling,neurovascular coupling,5,ambos,11,0
+tau oligomerization,tau oligomerization,5,ambos,6,1
+tauopathy,tauopathy,5,palavra-chave,6,0
+functional magnetic resonance,functional magnetic resonance,5,texto,2,0
+experimental parkinsonism,experimental parkinsonism,5,ambos,0,0
+molecular pathway,molecular pathways,5,ambos,3,1
+motor coordination,motor coordination,5,ambos,8,0
+promising therapeutic,promising therapeutic,5,texto,13,0
+nrem sleep,nrem sleep,5,ambos,7,1
+wide range,wide range,5,texto,0,0
+cuneiform nucleu,cuneiform nucleus,5,ambos,18,1
+freezing of gait,freezing of gait,5,palavra-chave,18,1
+zona incerta,zona incerta,5,ambos,17,1
+specific cell type,specific cell types,5,texto,0,0
+human tau,human tau,5,texto,6,0
+artificial intelligence,artificial intelligence,5,ambos,4,0
+protein kinase,protein kinase,5,texto,3,0
+anterior cingulate cortex,anterior cingulate cortex,5,ambos,19,0
+neuronal function,neuronal functions,5,texto,16,0
+inferior colliculu,inferior colliculus,5,ambos,1,0
+therapeutic benefit,therapeutic benefits,5,texto,4,1
+progressive neurodegenerative,progressive neurodegenerative,5,texto,3,0
+specific neuron,specific neurons,5,texto,10,0
+therapeutic strategy,therapeutic strategy,5,texto,16,0
+syn aggregate,syn aggregates,5,texto,13,1
+midbrain dopaminergic neuron,midbrain dopaminergic neurons,5,ambos,12,1
+stimulation frequency,stimulation frequency,5,ambos,1,1
+tau,tau,5,palavra-chave,6,1
+water maze,water maze,5,texto,2,0
+neurostimulation,neurostimulation,5,palavra-chave,4,1
+stem cell-derived,stem cell-derived,5,texto,13,0
+tourette syndrome,tourette syndrome,5,ambos,8,1
+neural network,neural network,5,ambos,10,0
+globus pallidus externa,globus pallidus externa,5,ambos,1,1
+cognitive deficit,cognitive deficits,5,ambos,7,0
+action selection,action selection,5,ambos,0,1
+basal ganglia circuit,basal ganglia circuit,5,texto,8,1
+inhibitory synaptic,inhibitory synaptic,5,texto,1,0
+hyperdirect pathway,hyperdirect pathway,5,ambos,8,1
+stn dbs,stn dbs,5,texto,8,1
+expressing channelrhodopsin-2,expressing channelrhodopsin-2,5,texto,7,0
+eeg,eeg,5,palavra-chave,7,1
+medial septum,medial septum,5,ambos,19,1
+reward,reward,5,palavra-chave,0,1
+living tissue,living tissues,5,texto,5,0
+theta rhythm,theta rhythm,5,texto,7,0
+arousal,arousal,5,palavra-chave,1,0
+functional integration,functional integration,5,ambos,14,1
+fluorescent protein,fluorescent protein,5,texto,9,1
+reward seeking,reward seeking,5,texto,0,0
+midbrain dopamine neuron,midbrain dopamine neurons,5,texto,0,1
+ventral striatum,ventral striatum,5,ambos,0,0
+action potential,action potentials,5,texto,5,0
+information processing,information processing,5,texto,2,0
+activity pattern,activity patterns,5,texto,6,0
+temporal resolution,temporal resolution,5,texto,11,0
+acetylcholine receptor,acetylcholine receptors,5,texto,19,0
+l-dopa,l-dopa,5,palavra-chave,12,1
+synaptic connectivity,synaptic connectivity,5,ambos,3,0
+n-methyl-d-aspartate receptor,n-methyl-d-aspartate receptor,4,ambos,2,0
+chronic neurodegenerative,chronic neurodegenerative,4,texto,4,0
+striatal medium spiny neuron,striatal medium spiny neurons,4,palavra-chave,15,1
+nociception,nociception,4,palavra-chave,17,1
+pain processing,pain processing,4,ambos,17,0
+temporal lobe epilepsy,temporal lobe epilepsy,4,ambos,7,0
+tau hyperphosphorylation,tau hyperphosphorylation,4,ambos,6,0
+vivo brain,vivo brain,4,texto,0,1
+striatal circuitry,striatal circuitry,4,palavra-chave,0,1
+effective therapeutic,effective therapeutic,4,texto,11,0
+light intensity,light intensity,4,texto,10,0
+cns disorder,cns disorders,4,texto,0,1
+amyloid- plaque,amyloid- plaques,4,texto,3,0
+lewy body,lewy body,4,texto,13,0
+snr neuron,snr neurons,4,texto,0,1
+functional alteration,functional alterations,4,texto,2,0
+amyloid precursor protein,amyloid precursor protein,4,ambos,2,0
+microglia,microglia,4,palavra-chave,7,0
+network disruption,network disruption,4,texto,2,1
+cognitive dysfunction,cognitive dysfunction,4,texto,0,0
+striatal dopamine depletion,striatal dopamine depletion,4,ambos,0,0
+basal forebrain cholinergic,basal forebrain cholinergic,4,texto,0,0
+gene delivery,gene delivery,4,ambos,11,1
+rem sleep,rem sleep,4,ambos,1,0
+functional impairment,functional impairments,4,texto,6,0
+pharmacological treatment,pharmacological treatments,4,texto,10,1
+norepinephrine,norepinephrine,4,palavra-chave,6,1
+ultrasound stimulation,ultrasound stimulation,4,ambos,10,1
+parvalbumin neuron,parvalbumin neurons,4,palavra-chave,10,1
+cellular processe,cellular processes,4,texto,10,0
+light delivery,light delivery,4,texto,10,0
+neurologic disorder,neurologic disorders,4,texto,10,0
+personalized medicine,personalized medicine,4,ambos,10,0
+trpv1,trpv1,4,palavra-chave,10,0
+visual cortex,visual cortex,4,ambos,5,0
+mitochondrial dysfunction,mitochondrial dysfunction,4,texto,6,0
+hcn channel,hcn channel,4,ambos,1,1
+behaving animal,behaving animals,4,texto,5,0
+optical control,optical control,4,texto,5,0
+retinal degeneration,retinal degeneration,4,palavra-chave,5,0
+target cell,target cells,4,texto,5,1
+light-inducible protein aggregation,light-inducible protein aggregation,4,texto,13,0
+mechanistic insight,mechanistic insight,4,texto,6,0
+retinitis pigmentosa,retinitis pigmentosa,4,ambos,11,0
+neuromodulation strategie,neuromodulation strategies,4,texto,8,0
+spatial working memory,spatial working memory,4,ambos,2,0
+nucleus deep brain,nucleus deep brain,4,texto,8,1
+motor dysfunction,motor dysfunction,4,texto,8,0
+two-photon microscopy,two-photon microscopy,4,texto,11,0
+spiking activity,spiking activity,4,texto,11,0
+neuromodulatory system,neuromodulatory systems,4,texto,0,0
+diagonal band,diagonal band,4,texto,19,1
+monosynaptic tracing,monosynaptic tracing,4,ambos,14,0
+pathological tau,pathological tau,4,texto,6,1
+working memory,working memory,4,ambos,2,1
+human brain,human brain,4,texto,6,0
+vivo electrophysiological,vivo electrophysiological,4,texto,1,0
+mild cognitive impairment,mild cognitive impairment,4,texto,2,0
+basal ganglia function,basal ganglia function,4,texto,9,1
+glial cell,glial cells,4,texto,3,0
+small molecule,small molecule,4,ambos,3,0
+regenerative medicine,regenerative medicine,4,ambos,14,1
+ischemic stroke,ischemic stroke,4,ambos,3,0
+growth factor,growth factor,4,texto,3,0
+neuropsychiatric symptom,neuropsychiatric symptoms,4,ambos,2,0
+circuit mechanisms underlying,circuit mechanisms underlying,4,texto,2,0
+binding protein,binding protein,4,texto,2,0
+sleep disturbance,sleep disturbances,4,texto,7,0
+specific neuronal population,specific neuronal populations,4,texto,14,0
+neuronal activation,neuronal activation,4,texto,3,0
+poorly understood,poorly understood,4,texto,6,0
+ventral hippocampu,ventral hippocampus,4,ambos,2,1
+social memory,social memory,4,ambos,2,1
+brainstem,brainstem,4,palavra-chave,18,0
+quantum dots,quantum dots,4,ambos,11,0
+stroke,stroke,4,palavra-chave,5,0
+hyperphosphorylated tau,hyperphosphorylated tau,4,texto,6,1
+spatial navigation,spatial navigation,4,texto,2,1
+synaptic strength,synaptic strength,4,texto,12,0
+ht3 receptor,ht3 receptors,4,texto,17,0
+neuronal hyperactivity,neuronal hyperactivity,4,ambos,2,0
+confocal microscopy,confocal microscopy,4,texto,6,0
+high-frequency deep brain,high-frequency deep brain,4,texto,8,1
+alleviates parkinsonian,alleviates parkinsonian,4,texto,8,1
+motor recovery,motor recovery,4,ambos,8,1
+neurological condition,neurological conditions,4,texto,4,0
+fully understood,fully understood,4,texto,3,0
+dopamine transmission,dopamine transmission,4,texto,0,0
+autism spectrum,autism spectrum,4,texto,2,1
+cognitive disorder,cognitive disorders,4,texto,7,0
+pyramidal cell,pyramidal cells,4,texto,7,0
+histamine,histamine,4,palavra-chave,1,0
+effective treatment,effective treatments,4,texto,13,0
+light source,light sources,4,texto,10,1
+external globu,external globus,4,texto,1,1
+amyloid load,amyloid load,4,texto,7,0
+dopaminergic neurotransmission,dopaminergic neurotransmission,4,texto,9,0
+paper present,paper presents,4,texto,10,0
+induced pluripotent stem cell,induced pluripotent stem cells,4,palavra-chave,11,0
+excitatory neuron,excitatory neurons,4,ambos,9,0
+cell death,cell death,4,ambos,13,0
+sleep-wake cycle,sleep-wake cycles,4,ambos,1,0
+glutamatergic transmission,glutamatergic transmission,4,texto,2,0
+cell population,cell populations,4,texto,3,0
+motor thalamu,motor thalamus,4,ambos,1,1
+globus pallidus interna,globus pallidus interna,4,ambos,1,1
+arkypallidal neuron,arkypallidal neurons,4,ambos,1,1
+phosphorylated tau,phosphorylated tau,4,ambos,6,0
+future therapeutic,future therapeutic,4,texto,0,0
+replacement therapy,replacement therapy,4,texto,13,0
+cognitive flexibility,cognitive flexibility,4,ambos,0,0
+neuronal cell,neuronal cell,4,texto,3,0
+parkinsonian animal,parkinsonian animals,4,texto,8,0
+motivation,motivation,4,palavra-chave,8,1
+non-rapid eye movement,non-rapid eye movement,4,texto,7,1
+designer receptors exclusively,designer receptors exclusively,4,texto,4,0
+dyskinetic behavior,dyskinetic behaviors,4,texto,15,0
+shed light,shed light,4,texto,2,0
+cerebral blood flow,cerebral blood flow,4,texto,11,0
+nicotinic receptor,nicotinic receptors,4,ambos,19,0
+parvalbumin,parvalbumin,4,palavra-chave,12,1
+immune response,immune responses,4,texto,6,0
+neural substrate,neural substrates,4,texto,0,0
+molecular basi,molecular basis,4,texto,6,0
+neuronal oscillation,neuronal oscillations,4,texto,7,0
+magnetic stimulation,magnetic stimulation,4,texto,7,1
+living cell,living cells,4,texto,3,1
+dopaminergic neuron loss,dopaminergic neuron loss,4,palavra-chave,9,1
+neuronal death,neuronal death,4,texto,5,0
+brain stimulation think,brain stimulation think,4,texto,4,1
+neuroethic,neuroethics,4,palavra-chave,4,1
+annual deep brain,annual deep brain,4,texto,4,1
+adaptive dbs,adaptive dbs,4,ambos,4,1
+diagnostic tool,diagnostic tools,4,ambos,6,0
+vglut2,vglut2,4,palavra-chave,18,1
+glutamate uptake,glutamate uptake,4,ambos,3,0
+episodic memory,episodic memory,4,ambos,2,1
+inhibit specific,inhibit specific,4,texto,3,0
+mesencephalic locomotor,mesencephalic locomotor,4,texto,18,1
+firing pattern,firing patterns,4,texto,4,0
+ultrasonically powered,ultrasonically powered,4,texto,10,0
+cognition,cognition,4,palavra-chave,2,0
+ameliorating parkinsonian motor,ameliorating parkinsonian motor,4,texto,12,1
+hippocampal theta,hippocampal theta,4,texto,7,0
+striatopallidal neuron,striatopallidal neurons,4,ambos,0,1
+synaptic propertie,synaptic properties,4,texto,1,0
+neuronal spiking,neuronal spiking,4,texto,7,0
+evidence indicate,evidence indicates,4,texto,3,0
+astrocytes expressing,astrocytes expressing,4,texto,3,0
+vagus nerve,vagus nerve,4,ambos,11,0
+parkinsonian patient,parkinsonian patients,4,texto,8,0
+slow-wave activity,slow-wave activity,4,texto,7,0
+cofilin-actin rods,cofilin-actin rods,4,ambos,11,1
+stress granule,stress granules,4,ambos,6,1
+hippocampal memory,hippocampal memory,4,texto,6,0
+cholinergic receptor,cholinergic receptors,4,texto,19,0
+nonhuman primate,nonhuman primates,4,texto,10,0
+precise control,precise control,4,texto,3,0
+expressing chr2,expressing chr2,4,texto,11,0
+oscillatory activity,oscillatory activity,4,texto,17,0
+motor learning,motor learning,4,ambos,0,0
+amyloid precursor,amyloid precursor,4,texto,6,0
+cerebral cortex,cerebral cortex,4,texto,3,0
+targeted neuron,targeted neurons,4,texto,14,0
+neurons derived,neurons derived,4,texto,14,0
+receptor signaling,receptor signaling,4,texto,0,0
+parafascicular nucleu,parafascicular nucleus,4,ambos,0,0
+theta burst stimulation,theta burst stimulation,4,palavra-chave,1,0
+cerebellum,cerebellum,4,palavra-chave,8,0
+physiological processe,physiological processes,4,texto,5,0
+gene transfer,gene transfer,4,ambos,11,0
+nucleus neuron,nucleus neurons,4,texto,8,0
+hippocampal slice,hippocampal slices,4,texto,7,0
+amyloid- peptide,amyloid- peptide,4,texto,3,0
+voltammetry,voltammetry,4,palavra-chave,9,1
+aav vector,aav vectors,4,texto,11,1
+motor complication,motor complications,4,ambos,15,0
+neural population,neural population,4,texto,1,0
+plaque formation,plaque formation,4,texto,3,0
+embryonic stem cell,embryonic stem cells,4,ambos,14,0
+cation channel,cation channels,4,texto,11,0
+reactive oxygen specie,reactive oxygen species,4,ambos,6,0
+glutamatergic subthalamic nucleu,glutamatergic subthalamic nucleus,4,texto,1,1
+electrophysiological propertie,electrophysiological properties,4,texto,1,0
+promising tool,promising tool,4,texto,11,0
+parkinsonian motor symptom,parkinsonian motor symptoms,4,ambos,8,1
+light sensitive,light sensitive,4,texto,10,0
+tremor,tremor,4,palavra-chave,4,1
+beta frequency,beta frequency,4,texto,1,1
+parkinson disease model,parkinson's disease model,4,palavra-chave,9,0
+muscarinic acetylcholine receptor,muscarinic acetylcholine receptor,4,ambos,0,0
+moving animal,moving animals,4,texto,10,0
+cell activity,cell activity,4,texto,5,0
+short-term plasticity,short-term plasticity,4,palavra-chave,0,1
+neuronal synchronization,neuronal synchronization,4,palavra-chave,1,1

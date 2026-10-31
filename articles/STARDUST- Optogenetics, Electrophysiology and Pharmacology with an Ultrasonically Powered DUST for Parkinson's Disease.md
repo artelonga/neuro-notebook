@@ -47,6 +47,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 5
+tags: ["artigo", "tema/3"]
 ---
+This [[grafo/termos/paper presents|paper presents]] the main objectives, future vision and the achievements of a multidisciplinary project called STARDUST. STARDUST Project targets on development of a novel [[grafo/termos/ultrasonically powered|ultrasonically powered]] implant enabling in-vivo optogenetics, localized [[grafo/termos/drug delivery|drug delivery]], and [[grafo/termos/neural recording|neural recording]] in [[grafo/termos/freely moving|freely moving]] animals, all in one single micro-scale device. The envisioned implant will be used as a novel treatment for Parkinson's Disease by providing optogenetics stimuli and localized drug delivery in external Globous Pallidus. This paper covers the achievements so far from the technological point of view.
 
-This paper presents the main objectives, future vision and the achievements of a multidisciplinary project called STARDUST. STARDUST Project targets on development of a novel ultrasonically powered implant enabling in-vivo optogenetics, localized drug delivery, and neural recording in freely moving animals, all in one single micro-scale device. The envisioned implant will be used as a novel treatment for Parkinson's Disease by providing optogenetics stimuli and localized drug delivery in external Globous Pallidus. This paper covers the achievements so far from the technological point of view.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (5):** [[grafo/termos/drug delivery|drug delivery]] · [[grafo/termos/freely moving|freely moving]] · [[grafo/termos/neural recording|neural recording]] · [[grafo/termos/paper presents|paper presents]] · [[grafo/termos/ultrasonically powered|ultrasonically powered]]
+<!-- vinculos:fim -->

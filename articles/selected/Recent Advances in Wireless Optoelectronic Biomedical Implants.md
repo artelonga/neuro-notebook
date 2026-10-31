@@ -46,6 +46,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 1
+tags: ["artigo", "tema/3"]
 ---
+Optoelectronic implants have gained increasing attention over the last ten years for their [[grafo/termos/clinical applications|clinical applications]], such as optogenetics, photodynamic therapy, and deep‐tissue physiological sensing, which are expected to diagnose and treat a large number of diseases, such as Parkinson's and Alzheimer's diseases, visual impairment, and cancer. One of the main challenges for biomedical optoelectronics is to produce a compact, biocompatible system that delivers optical energy into specific tissue regions. While early‐stage devices are initially adopting batteries or wired solutions for energy supply, recent development has shifted toward wireless devices based on alternative methods, such as wireless power transmission, kinetic energy, and photovoltaic harvesting, which do not normally require periodic replacement or servicing and do not constrain the movement of the patient. In this paper, the principles of the main biomedical applications of implantable optoelectronic devices are reviewed. Recent developments in wireless implantable optoelectronic devices are summarized and sorted by their energy transfer mechanisms. These energy transfer techniques are compared in terms of quantitative parameters (electrical power, optical power, operating frequency, size, weight, and operating range), application fields where they are tested, and main advantages and limitations.
 
-Optoelectronic implants have gained increasing attention over the last ten years for their clinical applications, such as optogenetics, photodynamic therapy, and deep‐tissue physiological sensing, which are expected to diagnose and treat a large number of diseases, such as Parkinson's and Alzheimer's diseases, visual impairment, and cancer. One of the main challenges for biomedical optoelectronics is to produce a compact, biocompatible system that delivers optical energy into specific tissue regions. While early‐stage devices are initially adopting batteries or wired solutions for energy supply, recent development has shifted toward wireless devices based on alternative methods, such as wireless power transmission, kinetic energy, and photovoltaic harvesting, which do not normally require periodic replacement or servicing and do not constrain the movement of the patient. In this paper, the principles of the main biomedical applications of implantable optoelectronic devices are reviewed. Recent developments in wireless implantable optoelectronic devices are summarized and sorted by their energy transfer mechanisms. These energy transfer techniques are compared in terms of quantitative parameters (electrical power, optical power, operating frequency, size, weight, and operating range), application fields where they are tested, and main advantages and limitations.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (1):** [[grafo/termos/clinical applications|clinical applications]]
+<!-- vinculos:fim -->

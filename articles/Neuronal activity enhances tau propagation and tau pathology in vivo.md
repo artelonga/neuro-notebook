@@ -65,6 +65,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 7
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/tau protein|Tau protein]] can transfer between neurons transneuronally and trans-synaptically, which is thought to explain the progressive spread of [[grafo/termos/tauopathy|tauopathy]] observed in the brain of patients with Alzheimer's disease. Here we show that physiological [[grafo/termos/tau|tau]] released from donor cells can transfer to recipient cells via the medium, suggesting that at least one mechanism by which tau can transfer is via the extracellular space. [[grafo/termos/neuronal activity|Neuronal activity]] has been shown to regulate tau secretion, but its effect on [[grafo/termos/tau pathology|tau pathology]] is unknown. Using optogenetic and [[grafo/termos/chemogenetics|chemogenetic]] approaches, we found that increased neuronal activity stimulates the release of tau in vitro and enhances tau pathology in vivo. These data have implications for disease pathogenesis and [[grafo/termos/therapeutic strategies|therapeutic strategies]] for Alzheimer's disease and other tauopathies.
 
-Tau protein can transfer between neurons transneuronally and trans-synaptically, which is thought to explain the progressive spread of tauopathy observed in the brain of patients with Alzheimer's disease. Here we show that physiological tau released from donor cells can transfer to recipient cells via the medium, suggesting that at least one mechanism by which tau can transfer is via the extracellular space. Neuronal activity has been shown to regulate tau secretion, but its effect on tau pathology is unknown. Using optogenetic and chemogenetic approaches, we found that increased neuronal activity stimulates the release of tau in vitro and enhances tau pathology in vivo. These data have implications for disease pathogenesis and therapeutic strategies for Alzheimer's disease and other tauopathies.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (7):** [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/neuronal activity|neuronal activity]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau pathology|tau pathology]] · [[grafo/termos/tau protein|tau protein]] · [[grafo/termos/tauopathy|tauopathy]] · [[grafo/termos/therapeutic strategies|therapeutic strategies]]
+<!-- vinculos:fim -->

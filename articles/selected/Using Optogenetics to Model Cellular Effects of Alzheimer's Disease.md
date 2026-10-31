@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Across the world a dementia case is diagnosed every three seconds. Alzheimer's disease (AD) causes 50-60% of these cases. The most prominent theory for AD correlates the deposition of [[grafo/termos/amyloid beta|amyloid beta]] (Aβ) with the onset of dementia. Whether Aβ is causative [[grafo/termos/remains unclear|remains unclear]] due to findings such as the recently approved drug Aducanumab showing effective clearance of Aβ, but not improving [[grafo/termos/cognition|cognition]]. New approaches for understanding Aβ function, are therefore necessary. Here we discuss the application of optogenetic techniques to gain insight into AD. Optogenetics, or [[grafo/termos/genetically encoded|genetically encoded]], light-dependent on/off switches, provides precise spatiotemporal control to regulate cellular dynamics. This [[grafo/termos/precise control|precise control]] over protein expression and oligomerization or aggregation could provide a better understanding of the etiology of AD.
 
-Across the world a dementia case is diagnosed every three seconds. Alzheimer's disease (AD) causes 50-60% of these cases. The most prominent theory for AD correlates the deposition of amyloid beta (Aβ) with the onset of dementia. Whether Aβ is causative remains unclear due to findings such as the recently approved drug Aducanumab showing effective clearance of Aβ, but not improving cognition. New approaches for understanding Aβ function, are therefore necessary. Here we discuss the application of optogenetic techniques to gain insight into AD. Optogenetics, or genetically encoded, light-dependent on/off switches, provides precise spatiotemporal control to regulate cellular dynamics. This precise control over protein expression and oligomerization or aggregation could provide a better understanding of the etiology of AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (5):** [[grafo/termos/amyloid beta|amyloid beta]] · [[grafo/termos/cognition|cognition]] · [[grafo/termos/genetically encoded|genetically encoded]] · [[grafo/termos/precise control|precise control]] · [[grafo/termos/remains unclear|remains unclear]]
+<!-- vinculos:fim -->

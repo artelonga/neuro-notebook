@@ -55,6 +55,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 2
+tags: ["artigo", "tema/5"]
 ---
+It is now possible to functionally impair mitochondria through light illumination with high specificity. These optogenetic tools permit [[grafo/termos/precise control|precise control]] on the timing, location, and extent of mitochondrial damage within a [[grafo/termos/cell populations|cell population]] with subcellular resolution, allowing quantitative probing of the various types of mitochondrial damage responses within cells. This approach can generally be extended toward the probing of other organelle damage responses.
 
-It is now possible to functionally impair mitochondria through light illumination with high specificity. These optogenetic tools permit precise control on the timing, location, and extent of mitochondrial damage within a cell population with subcellular resolution, allowing quantitative probing of the various types of mitochondrial damage responses within cells. This approach can generally be extended toward the probing of other organelle damage responses.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (2):** [[grafo/termos/cell populations|cell populations]] · [[grafo/termos/precise control|precise control]]
+<!-- vinculos:fim -->

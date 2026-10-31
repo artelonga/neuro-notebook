@@ -1,0 +1,201 @@
+group,keyword,key,works,prevalence
+with_keywords,Parkinson's disease,parkinson disease,273,0.526
+with_keywords,Alzheimer’s disease,alzheimer disease,107,0.206
+with_keywords,deep brain stimulation,deep brain stimulation,81,0.156
+with_keywords,basal ganglia,basal ganglia,77,0.148
+with_keywords,subthalamic nucleus,subthalamic nucleu,61,0.118
+with_keywords,Striatum,striatum,48,0.092
+with_keywords,Dopamine,dopamine,45,0.087
+with_keywords,neuromodulation,neuromodulation,33,0.064
+with_keywords,Neurodegeneration,neurodegeneration,26,0.05
+with_keywords,channelrhodopsin-2,channelrhodopsin-2,24,0.046
+with_keywords,chemogenetics,chemogenetic,23,0.044
+with_keywords,medium spiny neurons,medium spiny neuron,20,0.039
+with_keywords,neural circuits,neural circuit,20,0.039
+with_keywords,dopamine depletion,dopamine depletion,20,0.039
+with_keywords,motor control,motor control,20,0.039
+with_keywords,beta oscillations,beta oscillation,19,0.037
+with_keywords,Hippocampus,hippocampu,19,0.037
+with_keywords,depression,depression,18,0.035
+with_keywords,6-hydroxydopamine,6-hydroxydopamine,18,0.035
+with_keywords,parkinsonism,parkinsonism,17,0.033
+with_keywords,Astrocytes,astrocyte,17,0.033
+with_keywords,synaptic plasticity,synaptic plasticity,17,0.033
+with_keywords,dopaminergic neurons,dopaminergic neuron,17,0.033
+with_keywords,levodopa-induced dyskinesia,levodopa-induced dyskinesia,17,0.033
+with_keywords,globus pallidus externus,globus pallidus externu,16,0.031
+with_keywords,6-hydroxydopamine lesion,6-hydroxydopamine lesion,15,0.029
+with_keywords,motor impairment,motor impairment,15,0.029
+with_keywords,Epilepsy,epilepsy,15,0.029
+with_keywords,striatal cholinergic interneurons,striatal cholinergic interneuron,14,0.027
+with_keywords,neurodegenerative diseases,neurodegenerative disease,14,0.027
+with_keywords,Electrophysiology,electrophysiology,14,0.027
+with_keywords,parvalbumin interneurons,parvalbumin interneuron,13,0.025
+with_keywords,Acetylcholine,acetylcholine,13,0.025
+with_keywords,gene therapy,gene therapy,13,0.025
+with_keywords,substantia nigra pars compacta,substantia nigra pars compacta,13,0.025
+with_keywords,thalamus,thalamu,13,0.025
+with_keywords,motor symptoms,motor symptom,13,0.025
+with_keywords,globus pallidus,globus pallidu,13,0.025
+with_keywords,Neuroscience,neuroscience,12,0.023
+with_keywords,halorhodopsin,halorhodopsin,12,0.023
+with_keywords,substantia nigra,substantia nigra,12,0.023
+with_keywords,motor cortex,motor cortex,11,0.021
+with_keywords,Calcium imaging,calcium imaging,11,0.021
+with_keywords,neuroinflammation,neuroinflammation,11,0.021
+with_keywords,Locomotion,locomotion,11,0.021
+with_keywords,Mouse,mouse,11,0.021
+with_keywords,Memory,memory,11,0.021
+with_keywords,movement disorders,movement disorder,11,0.021
+with_keywords,prefrontal cortex,prefrontal cortex,10,0.019
+with_keywords,Neurological Disorders,neurological disorder,10,0.019
+with_keywords,Locus coeruleus,locus coeruleu,10,0.019
+with_keywords,long-term potentiation,long-term potentiation,10,0.019
+with_keywords,dopamine release,dopamine release,10,0.019
+with_keywords,channelrhodopsin,channelrhodopsin,10,0.019
+with_keywords,cholinergic interneurons,cholinergic interneuron,10,0.019
+with_keywords,akinesia,akinesia,10,0.019
+with_keywords,dopamine D2 receptor,dopamine d2 receptor,10,0.019
+with_keywords,Dyskinesia,dyskinesia,10,0.019
+with_keywords,globus pallidus internus,globus pallidus internu,9,0.017
+with_keywords,substantia nigra pars reticulata,substantia nigra pars reticulata,9,0.017
+with_keywords,Huntington’s Disease,huntington disease,9,0.017
+with_keywords,neuroprotection,neuroprotection,9,0.017
+with_keywords,mouse model,mouse model,9,0.017
+with_keywords,mesencephalic locomotor region,mesencephalic locomotor region,9,0.017
+with_keywords,DREADD,dreadd,9,0.017
+with_keywords,dopamine D1 receptor,dopamine d1 receptor,9,0.017
+with_keywords,Animal model,animal model,9,0.017
+with_keywords,glutamatergic neurons,glutamatergic neuron,8,0.015
+with_keywords,primary motor cortex,primary motor cortex,8,0.015
+with_keywords,long-term depression,long-term depression,8,0.015
+with_keywords,oxidative stress,oxidative stress,8,0.015
+with_keywords,direct and indirect pathways,direct and indirect pathway,8,0.015
+with_keywords,Sleep,sleep,8,0.015
+with_keywords,alpha-synuclein,alpha-synuclein,8,0.015
+with_keywords,GABAergic neurons,gabaergic neuron,8,0.015
+with_keywords,indirect pathway,indirect pathway,8,0.015
+with_keywords,nucleus accumbens,nucleus accumben,8,0.015
+with_keywords,Levodopa,levodopa,8,0.015
+with_keywords,entopeduncular nucleus,entopeduncular nucleu,7,0.013
+with_keywords,α-synuclein,α-synuclein,7,0.013
+with_keywords,anxiety,anxiety,7,0.013
+with_keywords,therapeutic target,therapeutic target,7,0.013
+with_keywords,Synapse,synapse,7,0.013
+with_keywords,Amyloid-β,amyloid-β,7,0.013
+with_keywords,spinal cord injury,spinal cord injury,7,0.013
+with_keywords,GABA,gaba,7,0.013
+with_keywords,Brain Stimulation,brain stimulation,7,0.013
+with_keywords,bradykinesia,bradykinesia,7,0.013
+with_keywords,dystonia,dystonia,7,0.013
+with_keywords,basal ganglia circuitry,basal ganglia circuitry,7,0.013
+with_keywords,viral vectors,viral vector,7,0.013
+with_keywords,somatostatin interneurons,somatostatin interneuron,7,0.013
+with_keywords,Cognitive impairment,cognitive impairment,6,0.012
+with_keywords,striatal projection neurons,striatal projection neuron,6,0.012
+with_keywords,NMDA receptor,nmda receptor,6,0.012
+with_keywords,synaptic transmission,synaptic transmission,6,0.012
+with_keywords,direct pathway,direct pathway,6,0.012
+with_keywords,pedunculopontine nucleus,pedunculopontine nucleu,6,0.012
+with_keywords,Cp: Neuroscience,cp: neuroscience,6,0.012
+with_keywords,Glutamate,glutamate,6,0.012
+opto_keyword,Parkinson's disease,parkinson disease,184,0.584
+opto_keyword,deep brain stimulation,deep brain stimulation,60,0.19
+opto_keyword,Alzheimer's disease,alzheimer disease,59,0.187
+opto_keyword,basal ganglia,basal ganglia,53,0.168
+opto_keyword,subthalamic nucleus,subthalamic nucleu,47,0.149
+opto_keyword,Striatum,striatum,30,0.095
+opto_keyword,neuromodulation,neuromodulation,26,0.083
+opto_keyword,Dopamine,dopamine,26,0.083
+opto_keyword,chemogenetics,chemogenetic,22,0.07
+opto_keyword,channelrhodopsin-2,channelrhodopsin-2,22,0.07
+opto_keyword,neural circuits,neural circuit,18,0.057
+opto_keyword,beta oscillations,beta oscillation,16,0.051
+opto_keyword,levodopa-induced dyskinesia,levodopa-induced dyskinesia,16,0.051
+opto_keyword,Neurodegeneration,neurodegeneration,15,0.048
+opto_keyword,medium spiny neurons,medium spiny neuron,15,0.048
+opto_keyword,motor impairment,motor impairment,14,0.044
+opto_keyword,dopamine depletion,dopamine depletion,14,0.044
+opto_keyword,Astrocytes,astrocyte,13,0.041
+opto_keyword,parvalbumin interneurons,parvalbumin interneuron,12,0.038
+opto_keyword,halorhodopsin,halorhodopsin,12,0.038
+opto_keyword,parkinsonism,parkinsonism,12,0.038
+opto_keyword,motor control,motor control,12,0.038
+opto_keyword,6-hydroxydopamine lesion,6-hydroxydopamine lesion,11,0.035
+opto_keyword,dopaminergic neurons,dopaminergic neuron,11,0.035
+opto_keyword,6-hydroxydopamine,6-hydroxydopamine,11,0.035
+opto_keyword,motor symptoms,motor symptom,11,0.035
+opto_keyword,globus pallidus externus,globus pallidus externu,11,0.035
+opto_keyword,depression,depression,11,0.035
+opto_keyword,gene therapy,gene therapy,10,0.032
+opto_keyword,thalamus,thalamu,10,0.032
+opto_keyword,Electrophysiology,electrophysiology,10,0.032
+opto_keyword,movement disorders,movement disorder,10,0.032
+opto_keyword,striatal cholinergic interneurons,striatal cholinergic interneuron,10,0.032
+opto_keyword,motor cortex,motor cortex,9,0.029
+opto_keyword,Acetylcholine,acetylcholine,9,0.029
+opto_keyword,channelrhodopsin,channelrhodopsin,9,0.029
+opto_keyword,Epilepsy,epilepsy,9,0.029
+opto_keyword,DREADD,dreadd,9,0.029
+opto_keyword,dopamine D2 receptor,dopamine d2 receptor,9,0.029
+opto_keyword,Calcium imaging,calcium imaging,8,0.025
+opto_keyword,neurodegenerative diseases,neurodegenerative disease,8,0.025
+opto_keyword,Locomotion,locomotion,8,0.025
+opto_keyword,mouse model,mouse model,8,0.025
+opto_keyword,hippocampus,hippocampu,8,0.025
+opto_keyword,dopamine D1 receptor,dopamine d1 receptor,8,0.025
+opto_keyword,Dyskinesia,dyskinesia,8,0.025
+opto_keyword,synaptic plasticity,synaptic plasticity,8,0.025
+opto_keyword,Neurological Disorders,neurological disorder,7,0.022
+opto_keyword,indirect pathway,indirect pathway,7,0.022
+opto_keyword,substantia nigra,substantia nigra,7,0.022
+opto_keyword,globus pallidus internus,globus pallidus internu,7,0.022
+opto_keyword,Levodopa,levodopa,7,0.022
+opto_keyword,substantia nigra pars reticulata,substantia nigra pars reticulata,7,0.022
+opto_keyword,glutamatergic neurons,glutamatergic neuron,6,0.019
+opto_keyword,primary motor cortex,primary motor cortex,6,0.019
+opto_keyword,prefrontal cortex,prefrontal cortex,6,0.019
+opto_keyword,neuroinflammation,neuroinflammation,6,0.019
+opto_keyword,cholinergic interneurons,cholinergic interneuron,6,0.019
+opto_keyword,substantia nigra pars compacta,substantia nigra pars compacta,6,0.019
+opto_keyword,akinesia,akinesia,6,0.019
+opto_keyword,mesencephalic locomotor region,mesencephalic locomotor region,6,0.019
+opto_keyword,GABAergic neurons,gabaergic neuron,6,0.019
+opto_keyword,Mouse,mouse,6,0.019
+opto_keyword,direct pathway,direct pathway,6,0.019
+opto_keyword,dopamine release,dopamine release,6,0.019
+opto_keyword,Animal model,animal model,6,0.019
+opto_keyword,long-term potentiation,long-term potentiation,6,0.019
+opto_keyword,globus pallidus,globus pallidu,6,0.019
+opto_keyword,Neuroscience,neuroscience,6,0.019
+opto_keyword,somatostatin interneurons,somatostatin interneuron,6,0.019
+opto_keyword,striatal projection neurons,striatal projection neuron,5,0.016
+opto_keyword,oxidative stress,oxidative stress,5,0.016
+opto_keyword,spinal cord injury,spinal cord injury,5,0.016
+opto_keyword,alpha-synuclein,alpha-synuclein,5,0.016
+opto_keyword,pedunculopontine nucleus,pedunculopontine nucleu,5,0.016
+opto_keyword,Memory,memory,5,0.016
+opto_keyword,direct and indirect pathways,direct and indirect pathway,5,0.016
+opto_keyword,bradykinesia,bradykinesia,5,0.016
+opto_keyword,basal ganglia circuitry,basal ganglia circuitry,5,0.016
+opto_keyword,glutamatergic synapses,glutamatergic synapse,5,0.016
+opto_keyword,viral vectors,viral vector,5,0.016
+opto_keyword,nociception,nociception,4,0.013
+opto_keyword,therapeutic target,therapeutic target,4,0.013
+opto_keyword,Huntington's disease,huntington disease,4,0.013
+opto_keyword,non-human primates,non-human primate,4,0.013
+opto_keyword,Computational Models,computational model,4,0.013
+opto_keyword,synaptic transmission,synaptic transmission,4,0.013
+opto_keyword,GABA,gaba,4,0.013
+opto_keyword,Inferior colliculus,inferior colliculu,4,0.013
+opto_keyword,neuronal excitability,neuronal excitability,4,0.013
+opto_keyword,entopeduncular nucleus,entopeduncular nucleu,4,0.013
+opto_keyword,stimulation frequency,stimulation frequency,4,0.013
+opto_keyword,Neurostimulation,neurostimulation,4,0.013
+opto_keyword,α-synuclein,α-synuclein,4,0.013
+opto_keyword,EEG,eeg,4,0.013
+opto_keyword,long-term depression,long-term depression,4,0.013
+opto_keyword,Synapse,synapse,4,0.013
+opto_keyword,dystonia,dystonia,4,0.013
+opto_keyword,non-motor symptoms,non-motor symptom,4,0.013
+opto_keyword,neural oscillations,neural oscillation,4,0.013

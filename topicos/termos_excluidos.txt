@@ -1,0 +1,23 @@
+# Termos que não viram verbete do glossário nem link nos artigos: genéricos demais.
+# Um por linha, na forma normalizada (minúsculas, singular). Linhas com # são comentários.
+# Depois de editar: cd topicos && uv run python graph.py && uv run python obsidian.py,
+# e então python3 -m litreview.vincular (para cada conjunto).
+mouse
+mice
+mouse model
+rat
+rats
+neuroscience
+review
+brain
+neuron
+cell
+animal
+animal model
+human
+patient
+treatment
+therapy
+disorder
+neurology
+movement

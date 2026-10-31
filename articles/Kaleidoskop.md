@@ -62,6 +62,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 1
+tags: ["artigo", "tema/3"]
 ---
+Genau wie Landpflanzen nutzen auch Algen das Sonnenlicht als Energiequelle. Viele Grünalgen bewegen sich aktiv im Wasser; sie können sich dem Licht nähern oder sich von ihm entfernen. Dafür benutzen sie Photorezeptoren. Die jahrzehntelange Suche nach diesen Lichtsensoren führte erstmals 2002 zum Erfolg: Forscher entdeckten und charakterisierten in Algen zwei sogenannte Channelrhodopsine. Es handelt sich dabei um Ionenkanäle, die Licht absorbieren, sich daraufhin öffnen und Ionen transportieren. Jetzt kennt man ein drittes «Auge» bei Algen: einen neuen Lichtsensor, der unerwartete Eigenschaften hat. Das berichten die Forschungsgruppen von Professor Armin Hallmann (Universität Bielefeld) und Professor Georg Nagel (Julius-Maximilians-Universität Würzburg) in der Zeitschrift BMC Biology. sich die Aktivität lebender Gewebe und Organismen durch Lichtsignale beeinflussen. Mittels Optogenetik wurden schon viele grundlegende biologische Vorgänge in Zellen aufgeklärt. Mit ihr ergaben sich zum Beispiel neue Einblicke in Mechanismen der Parkinson-Krankheit und anderer neurologischer Erkrankungen. Sie brachte auch neue Erkenntnisse über Krankheiten wie Autismus, Schizophrenie und [[grafo/termos/depression|Depression]] oder Angststörungen.
 
-Genau wie Landpflanzen nutzen auch Algen das Sonnenlicht als Energiequelle. Viele Grünalgen bewegen sich aktiv im Wasser; sie können sich dem Licht nähern oder sich von ihm entfernen. Dafür benutzen sie Photorezeptoren. Die jahrzehntelange Suche nach diesen Lichtsensoren führte erstmals 2002 zum Erfolg: Forscher entdeckten und charakterisierten in Algen zwei sogenannte Channelrhodopsine. Es handelt sich dabei um Ionenkanäle, die Licht absorbieren, sich daraufhin öffnen und Ionen transportieren. Jetzt kennt man ein drittes «Auge» bei Algen: einen neuen Lichtsensor, der unerwartete Eigenschaften hat. Das berichten die Forschungsgruppen von Professor Armin Hallmann (Universität Bielefeld) und Professor Georg Nagel (Julius-Maximilians-Universität Würzburg) in der Zeitschrift BMC Biology. sich die Aktivität lebender Gewebe und Organismen durch Lichtsignale beeinflussen. Mittels Optogenetik wurden schon viele grundlegende biologische Vorgänge in Zellen aufgeklärt. Mit ihr ergaben sich zum Beispiel neue Einblicke in Mechanismen der Parkinson-Krankheit und anderer neurologischer Erkrankungen. Sie brachte auch neue Erkenntnisse über Krankheiten wie Autismus, Schizophrenie und Depression oder Angststörungen.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (1):** [[grafo/termos/depression|depression]]
+<!-- vinculos:fim -->

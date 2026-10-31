@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+Deficits in levels of phosphatidylinositol-4,5-bisphosphate [PI(4,5)P2] mediate Alzheimer's disease (AD) pathogenesis and etiology. The depletion of PI(4,5)P2 has been reported in AD in both [[grafo/termos/human brain|human brain]] and animal models. Repletion of the synaptic pool of PI(4,5)P2, through haploinsufficiency of the degrading enzyme, Synaptojanin 1, ameliorated [[grafo/termos/behavioral deficits|behavioral deficits]] in a mouse model of AD, in spite of accumulating amyloid. In order to refine the contribution of PI(4,5)P2 to AD, we used optogenetic translocation of the PI(4,5)P2-synthesizing enzyme, phosphoinositide phosphate 4 kinase2A (PIP4K2A) to the plasma membrane using light inducible dimerizable cryptochrome 2 (CRY-2) and the [[grafo/termos/transcription factor|transcription factor]] CRY2-binding domain (CIBN) fused to the plasma membrane-targeting motif (CAAX). Spatiotemporally controlled production of phosphatidylinositol-4,5-bisphosphate [PI(4,5)P2] at the plasma membrane induced amelioration of behavioral deficits in a mouse model of AD. Imaging mass spectrometry confirmed alteration of specific PI(4,5)P2 acyl species, di-oleate, indicating that precise PI(4,5)P2 species may ultimately be leveraged for [[grafo/termos/therapeutic interventions|therapeutic intervention]].
 
-Deficits in levels of phosphatidylinositol-4,5-bisphosphate [PI(4,5)P2] mediate Alzheimer's disease (AD) pathogenesis and etiology. The depletion of PI(4,5)P2 has been reported in AD in both human brain and animal models. Repletion of the synaptic pool of PI(4,5)P2, through haploinsufficiency of the degrading enzyme, Synaptojanin 1, ameliorated behavioral deficits in a mouse model of AD, in spite of accumulating amyloid. In order to refine the contribution of PI(4,5)P2 to AD, we used optogenetic translocation of the PI(4,5)P2-synthesizing enzyme, phosphoinositide phosphate 4 kinase2A (PIP4K2A) to the plasma membrane using light inducible dimerizable cryptochrome 2 (CRY-2) and the transcription factor CRY2-binding domain (CIBN) fused to the plasma membrane-targeting motif (CAAX). Spatiotemporally controlled production of phosphatidylinositol-4,5-bisphosphate [PI(4,5)P2] at the plasma membrane induced amelioration of behavioral deficits in a mouse model of AD. Imaging mass spectrometry confirmed alteration of specific PI(4,5)P2 acyl species, di-oleate, indicating that precise PI(4,5)P2 species may ultimately be leveraged for therapeutic intervention.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (4):** [[grafo/termos/behavioral deficits|behavioral deficits]] · [[grafo/termos/human brain|human brain]] · [[grafo/termos/therapeutic interventions|therapeutic interventions]] · [[grafo/termos/transcription factor|transcription factor]]
+<!-- vinculos:fim -->

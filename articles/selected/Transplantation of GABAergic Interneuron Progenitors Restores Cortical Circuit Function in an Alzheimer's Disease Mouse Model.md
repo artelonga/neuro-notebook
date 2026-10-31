@@ -74,6 +74,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+In addition to dementia, Alzheimer's patients suffer from [[grafo/termos/sleep|sleep]] impairments and aberrations in sleep-dependent [[grafo/termos/brain rhythms|brain rhythms]]. Deficits in inhibitory [[grafo/termos/gabaergic interneurons|GABAergic interneuron]] function disrupt one of those rhythms, [[grafo/termos/slow oscillations|slow oscillation]] in particular, and actively contribute to Alzheimer's progression. We tested the degree to which transplantation of healthy donor interneuron progenitors would restore slow oscillation rhythm in young APP mice. We harvested medial ganglionic eminence (MGE) progenitors from mouse embryos and transplanted them into host APP mutant cortices. 3D light-sheet and structured illumination microscopy revealed that transplanted MGE progenitors survived and matured into healthy interneurons. In vivo multiphoton [[grafo/termos/calcium imaging|calcium imaging]] and voltage-sensitive dye imaging showed [[grafo/termos/functional integration|functional integration]] and slow oscillation rescue in absence or presence of optogenetic stimulation. Our work provides proof-of-concept evidence that [[grafo/termos/stem cell therapy|stem cell therapy]] may serve as a viable strategy to rescue [[grafo/termos/functional impairments|functional impairments]] in cortical circuits of APP mice and potentially those of Alzheimer's patients.
 
-In addition to dementia, Alzheimer's patients suffer from sleep impairments and aberrations in sleep-dependent brain rhythms. Deficits in inhibitory GABAergic interneuron function disrupt one of those rhythms, slow oscillation in particular, and actively contribute to Alzheimer's progression. We tested the degree to which transplantation of healthy donor interneuron progenitors would restore slow oscillation rhythm in young APP mice. We harvested medial ganglionic eminence (MGE) progenitors from mouse embryos and transplanted them into host APP mutant cortices. 3D light-sheet and structured illumination microscopy revealed that transplanted MGE progenitors survived and matured into healthy interneurons. In vivo multiphoton calcium imaging and voltage-sensitive dye imaging showed functional integration and slow oscillation rescue in absence or presence of optogenetic stimulation. Our work provides proof-of-concept evidence that stem cell therapy may serve as a viable strategy to rescue functional impairments in cortical circuits of APP mice and potentially those of Alzheimer's patients.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (8):** [[grafo/termos/brain rhythms|brain rhythms]] · [[grafo/termos/calcium imaging|calcium imaging]] · [[grafo/termos/functional impairments|functional impairments]] · [[grafo/termos/functional integration|functional integration]] · [[grafo/termos/gabaergic interneurons|gabaergic interneurons]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/slow oscillations|slow oscillations]] · [[grafo/termos/stem cell therapy|stem cell therapy]]
+<!-- vinculos:fim -->

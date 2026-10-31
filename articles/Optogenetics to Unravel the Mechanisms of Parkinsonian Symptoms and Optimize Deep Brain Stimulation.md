@@ -51,6 +51,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 0
+tags: ["artigo", "tema/3"]
 ---
-
 http://ercim-news.ercim.eu/en97/special/optogenetics-to-unravel-the-mechanisms-of-parkinsonian-symptoms-and-optimize-deep-brain-stimulation
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+<!-- vinculos:fim -->

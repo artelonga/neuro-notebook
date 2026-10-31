@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 8
+tags: ["artigo", "tema/3"]
 ---
+Accelerating technological progress in experimental neuroscience is increasing the scale as well as specificity of both observational and perturbational approaches to study circuit physiology. While these techniques have also been used to study disease mechanisms, a wider adoption of these approaches in the field of experimental neurology would greatly facilitate our understanding of neurological dysfunctions and their potential treatments at cellular and circuit level. In this review, we will introduce classic and novel methods ranging from single-cell [[grafo/termos/electrophysiological recordings|electrophysiological recordings]] to state-of-the-art [[grafo/termos/calcium imaging|calcium imaging]] and [[grafo/termos/cell-type specific|cell-type specific]] optogenetic or [[grafo/termos/chemogenetics|chemogenetic]] stimulation. We will focus on their application in [[grafo/termos/rodent models|rodent models]] of Parkinson's disease while also presenting their use in the context of [[grafo/termos/motor control|motor control]] and [[grafo/termos/basal ganglia function|basal ganglia function]]. By highlighting the scope and limitations of each method, we will discuss how they can be used to study [[grafo/termos/pathophysiological mechanisms|pathophysiological mechanisms]] at local and global circuit levels and how novel frameworks can help to bridge these scales.
 
-Accelerating technological progress in experimental neuroscience is increasing the scale as well as specificity of both observational and perturbational approaches to study circuit physiology. While these techniques have also been used to study disease mechanisms, a wider adoption of these approaches in the field of experimental neurology would greatly facilitate our understanding of neurological dysfunctions and their potential treatments at cellular and circuit level. In this review, we will introduce classic and novel methods ranging from single-cell electrophysiological recordings to state-of-the-art calcium imaging and cell-type specific optogenetic or chemogenetic stimulation. We will focus on their application in rodent models of Parkinson's disease while also presenting their use in the context of motor control and basal ganglia function. By highlighting the scope and limitations of each method, we will discuss how they can be used to study pathophysiological mechanisms at local and global circuit levels and how novel frameworks can help to bridge these scales.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (8):** [[grafo/termos/basal ganglia function|basal ganglia function]] · [[grafo/termos/calcium imaging|calcium imaging]] · [[grafo/termos/cell-type specific|cell-type specific]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/electrophysiological recordings|electrophysiological recordings]] · [[grafo/termos/motor control|motor control]] · [[grafo/termos/pathophysiological mechanisms|pathophysiological mechanisms]] · [[grafo/termos/rodent models|rodent models]]
+<!-- vinculos:fim -->

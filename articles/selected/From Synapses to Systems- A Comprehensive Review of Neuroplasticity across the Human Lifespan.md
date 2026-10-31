@@ -58,6 +58,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 3
+tags: ["artigo", "tema/2"]
 ---
+The capacity of the brain to change, its structures and/or functions, through the process of recovery, adaptation or adaptation to intrinsic and/or external stimuli is based on neuroplasticity, which is central to learning, [[grafo/termos/memory formation|memory formation]], recovery and lifespan. The evidence synthesis covered by this review comprises more than 200 peer-reviewed studies and incorporates molecular, cellular, structural, and systems-level strategies of neuroplasticity both in prenatal development and in late adulthood. Plasticity is subdivided into categories of developmental similar to experiences, injury-related and compensatory and a specific focus is laid on different paths along which developmental flow occurs, as well as, on cognitive implications. Developments in neuroimaging, optogenetics, and longitudinal cohort investigation have brought expression to the interactive conditions between genetic and environmental influence of neuroplastic potential. Moreover, we discuss pathological interferences of plasticity in [[grafo/termos/stroke|stroke]] disease, Alzheimer and [[grafo/termos/autism spectrum disorder|Autism spectrum disorder]]. An article review is summarized by the discussion of clinical and educational interventions and providing future research priorities in order to utilize neuroplasticity in neurorehabilitation, aging population, and cognitive development strategies.
 
-The capacity of the brain to change, its structures and/or functions, through the process of recovery, adaptation or adaptation to intrinsic and/or external stimuli is based on neuroplasticity, which is central to learning, memory formation, recovery and lifespan. The evidence synthesis covered by this review comprises more than 200 peer-reviewed studies and incorporates molecular, cellular, structural, and systems-level strategies of neuroplasticity both in prenatal development and in late adulthood. Plasticity is subdivided into categories of developmental similar to experiences, injury-related and compensatory and a specific focus is laid on different paths along which developmental flow occurs, as well as, on cognitive implications. Developments in neuroimaging, optogenetics, and longitudinal cohort investigation have brought expression to the interactive conditions between genetic and environmental influence of neuroplastic potential. Moreover, we discuss pathological interferences of plasticity in stroke disease, Alzheimer and Autism spectrum disorder. An article review is summarized by the discussion of clinical and educational interventions and providing future research priorities in order to utilize neuroplasticity in neurorehabilitation, aging population, and cognitive development strategies.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (3):** [[grafo/termos/autism spectrum disorder|autism spectrum disorder]] · [[grafo/termos/memory formation|memory formation]] · [[grafo/termos/stroke|stroke]]
+<!-- vinculos:fim -->

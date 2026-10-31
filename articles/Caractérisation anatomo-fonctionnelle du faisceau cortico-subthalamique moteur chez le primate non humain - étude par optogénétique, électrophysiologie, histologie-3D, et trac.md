@@ -58,6 +58,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 0
+tags: ["artigo", "tema/1"]
 ---
-
 La maladie de Parkinson (MP) est la seconde maladie neurodégénérative la plus répandue. Les symptômes moteurs répondent initialement bien aux médicaments dopaminergiques. Toutefois, des complications motrices de ces médicaments finissent par survenir. Certains patients se voient alors proposer un traitement neurochirurgical par stimulation cérébrale profonde (SCP) et chronique du Noyau Subthalamique (NST). Plusieurs études suggèrent que la modulation du faisceau cortico-subthalamique moteur explique au moins en partie l’efficacité de la SCP du NST. Approfondir la compréhension du mécanisme d’action de la SCP du NST pour le traitement de la MP devrait permettre d’optimiser le rapport innocuité/efficacité de cette procédure qui s’adresse à des dizaines de milliers de patients dans le monde. L’objectif primaire de cette thèse est de caractériser le faisceau cortico-subthalamique moteur sur les plans anatomique et fonctionnel chez le primate non humain. Les objectifs secondaires sont : Permettre la visualisation directe et en conditions stéréotaxiques du NST chez le primate non humain et le patient parkinsonien - Mettre au point une méthodologie permettant de caractériser sur les plans anatomique et fonctionnel tout faisceau de fibres entre deux régions cérébrales anatomiquement distinctes, chez le primate non humain - Elaborer une loi de commande pour la stimulation du NST par optogénétique et en boucle fermée, afin de détruire sélectivement les oscillations béta et tester l’hypothèse de leur rôle dans l’émergence des symptômes moteurs de la MP...
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+<!-- vinculos:fim -->

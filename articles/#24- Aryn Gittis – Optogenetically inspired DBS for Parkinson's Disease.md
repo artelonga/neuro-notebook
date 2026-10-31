@@ -48,6 +48,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 5
+tags: ["artigo", "tema/4"]
 ---
+Following a fascinating talk Aryn gave at OptoDBS 2022, we talk about her work on optogenetically inspired [[grafo/termos/deep brain stimulation|deep brain stimulation]] for Parkinson's Disease. In a first paper (2017 Nature Neuroscience), Aryn's lab could establish that a specific lineage of cells in the external pallidum needed to be stimulated (or a second one suppressed) to achieve symptom relief in the [[grafo/termos/6-hydroxydopamine|6-OHDA]] mouse model of Parkinson's Disease. Crucially, these effects outlasted the stimulation, sometimes by up to eight hours. In a second paper (2021 Science), her team was able to mimick the exact same effect using a very creative form of deep brain stimulation to the [[grafo/termos/entopeduncular nucleus|entopeduncular nucleus]]. I am convinced that these results could transform the way we apply DBS in humans and they form a template of successful translation from optogenetics to electical stimulation. In a way, Aryn's story of discovery very much resemble the ones by Anne Young (previous episode), both were puzzled that differentially modulating specific – not all – cells (for Anne D1 vs. D2 cells in the [[grafo/termos/striatum|striatum]] & Aryn Pv+ vs. Lhx6+ cells in the pallidum) would have an effect on [[grafo/termos/parkinsonism|Parkinsonism]]. I hope you will be as fascinated by the conversation I had with Aryn, as I was!
 
-Following a fascinating talk Aryn gave at OptoDBS 2022, we talk about her work on optogenetically inspired deep brain stimulation for Parkinson's Disease. In a first paper (2017 Nature Neuroscience), Aryn's lab could establish that a specific lineage of cells in the external pallidum needed to be stimulated (or a second one suppressed) to achieve symptom relief in the 6-OHDA mouse model of Parkinson's Disease. Crucially, these effects outlasted the stimulation, sometimes by up to eight hours. In a second paper (2021 Science), her team was able to mimick the exact same effect using a very creative form of deep brain stimulation to the entopeduncular nucleus. I am convinced that these results could transform the way we apply DBS in humans and they form a template of successful translation from optogenetics to electical stimulation. In a way, Aryn's story of discovery very much resemble the ones by Anne Young (previous episode), both were puzzled that differentially modulating specific – not all – cells (for Anne D1 vs. D2 cells in the striatum & Aryn Pv+ vs. Lhx6+ cells in the pallidum) would have an effect on Parkinsonism. I hope you will be as fascinated by the conversation I had with Aryn, as I was!
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (5):** [[grafo/termos/6-hydroxydopamine|6-hydroxydopamine]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/entopeduncular nucleus|entopeduncular nucleus]] · [[grafo/termos/parkinsonism|parkinsonism]] · [[grafo/termos/striatum|striatum]]
+<!-- vinculos:fim -->

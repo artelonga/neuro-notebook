@@ -49,6 +49,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 9
+tags: ["artigo", "tema/3"]
 ---
+The [[grafo/termos/dreadd|DREADD]] ([[grafo/termos/designer receptors exclusively|Designer Receptors Exclusively]] Activated by Designer Drugs) technique is a new [[grafo/termos/chemogenetics|chemogenetic]] approach allowing for selective and remote control of [[grafo/termos/neural activity|neural activity]] with a high degree of [[grafo/termos/spatial resolution|spatial resolution]]. Since its discovery in 2007 the DREADD technique was successfully employed into basic research, and together with the optogenetic method provided so far the best tool to influence the activity of the [[grafo/termos/brain circuits|brain circuits]] and [[grafo/termos/cell populations|cell populations]]. The first aim of this review was to concisely describe the technique with regard to such issues like the history of its development, biochemistry as well as modes of the [[grafo/termos/designer receptors|designer receptors]] delivery and expression. The other aim was to summarize approaches employed for probing of the brain circuits using the DREADD technique and to characterize the current knowledge of the method's application in medical research focusing on two diseases - Parkinson's disease and [[grafo/termos/drug addiction|drug addiction]] - in which designer receptors were found notably valuable.
 
-The DREADD (Designer Receptors Exclusively Activated by Designer Drugs) technique is a new chemogenetic approach allowing for selective and remote control of neural activity with a high degree of spatial resolution. Since its discovery in 2007 the DREADD technique was successfully employed into basic research, and together with the optogenetic method provided so far the best tool to influence the activity of the brain circuits and cell populations. The first aim of this review was to concisely describe the technique with regard to such issues like the history of its development, biochemistry as well as modes of the designer receptors delivery and expression. The other aim was to summarize approaches employed for probing of the brain circuits using the DREADD technique and to characterize the current knowledge of the method's application in medical research focusing on two diseases - Parkinson's disease and drug addiction - in which designer receptors were found notably valuable.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (9):** [[grafo/termos/brain circuits|brain circuits]] · [[grafo/termos/cell populations|cell populations]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/designer receptors|designer receptors]] · [[grafo/termos/designer receptors exclusively|designer receptors exclusively]] · [[grafo/termos/dreadd|dreadd]] · [[grafo/termos/drug addiction|drug addiction]] · [[grafo/termos/neural activity|neural activity]] · [[grafo/termos/spatial resolution|spatial resolution]]
+<!-- vinculos:fim -->

@@ -58,6 +58,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 5
+tags: ["artigo", "tema/3"]
 ---
+Optogenetics and novel [[grafo/termos/designer receptors|designer receptors]] have revolutionized the way neuroscientists can interrogate [[grafo/termos/neural circuits|neural circuits]]. These new tools are being rapidly applied to many facets of neuroscience including the study of Parkinson's disease circuitry and therapies. This review highlights how optogenetics and designer receptors can be applied in the study of Parkinsonian dysfunction to understand the mechanisms behind motor and [[grafo/termos/non-motor symptoms|non-motor symptoms]]. We discuss how these tools have recently advanced our understanding of [[grafo/termos/basal ganglia function|basal ganglia function]] and outline how they can be applied in future to refine existing treatments and generate novel [[grafo/termos/therapeutic strategies|therapeutic strategies]] for Parkinson's disease. This article is part of a Special Issue entitled Optogenetics (7th BRES).
 
-Optogenetics and novel designer receptors have revolutionized the way neuroscientists can interrogate neural circuits. These new tools are being rapidly applied to many facets of neuroscience including the study of Parkinson's disease circuitry and therapies. This review highlights how optogenetics and designer receptors can be applied in the study of Parkinsonian dysfunction to understand the mechanisms behind motor and non-motor symptoms. We discuss how these tools have recently advanced our understanding of basal ganglia function and outline how they can be applied in future to refine existing treatments and generate novel therapeutic strategies for Parkinson's disease. This article is part of a Special Issue entitled Optogenetics (7th BRES).
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (5):** [[grafo/termos/basal ganglia function|basal ganglia function]] · [[grafo/termos/designer receptors|designer receptors]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/non-motor symptoms|non-motor symptoms]] · [[grafo/termos/therapeutic strategies|therapeutic strategies]]
+<!-- vinculos:fim -->

@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 2
+tags: ["artigo", "tema/3"]
 ---
+Millions of people worldwide suffer from diseases that result from a failure of central pathways to regulate behavioral and [[grafo/termos/physiological processes|physiological processes]]. Advances in genetics and pharmacology have already allowed us to appreciate that rather than this dysregulation being systemic throughout the brain, it is usually rooted in specific subsets of dysfunctional cells within discrete neurological circuits. This article discusses the advent of opto- and [[grafo/termos/chemogenetics|chemogenetic]] tools and how they are providing the means to dissect these circuits with a degree of temporal and spatial sensitivity not previously possible. We also highlight the potential applications for treating disease and the key developments likely to have the greatest impact over the next 5 years.
 
-Millions of people worldwide suffer from diseases that result from a failure of central pathways to regulate behavioral and physiological processes. Advances in genetics and pharmacology have already allowed us to appreciate that rather than this dysregulation being systemic throughout the brain, it is usually rooted in specific subsets of dysfunctional cells within discrete neurological circuits. This article discusses the advent of opto- and chemogenetic tools and how they are providing the means to dissect these circuits with a degree of temporal and spatial sensitivity not previously possible. We also highlight the potential applications for treating disease and the key developments likely to have the greatest impact over the next 5 years.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (2):** [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/physiological processes|physiological processes]]
+<!-- vinculos:fim -->

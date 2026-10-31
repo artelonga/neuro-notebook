@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T11"
+topico_nome: "Ferramentas, implantes e vetores"
+n_termos: 9
+tags: ["artigo", "tema/3"]
 ---
+Alzheimer's disease (AD) is the most common cause of dementia in the elderly, clinically defined by progressive [[grafo/termos/cognitive decline|cognitive decline]] and pathologically, by brain atrophy, [[grafo/termos/neuroinflammation|neuroinflammation]], and accumulation of extracellular [[grafo/termos/amyloid- plaques|amyloid plaques]] and intracellular [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]]. Neurotechnological approaches, including optogenetics and [[grafo/termos/deep brain stimulation|deep brain stimulation]], have exploded as new tools for not only the study of the brain but also for application in the treatment of neurological diseases. Here, we review the current state of AD therapeutics and recent advancements in both invasive and non-invasive neurotechnologies that can be used to ameliorate AD pathology, including [[grafo/termos/neurostimulation|neurostimulation]] via optogenetics, photobiomodulation, [[grafo/termos/electrical stimulation|electrical stimulation]], [[grafo/termos/ultrasound stimulation|ultrasound stimulation]], and magnetic neurostimulation, as well as nanotechnologies employing nanovectors, magnetic nanoparticles, and [[grafo/termos/quantum dots|quantum dots]]. We also discuss the current challenges in developing these neurotechnological tools and the prospects for implementing them in the treatment of AD and other neurodegenerative diseases.
 
-Alzheimer's disease (AD) is the most common cause of dementia in the elderly, clinically defined by progressive cognitive decline and pathologically, by brain atrophy, neuroinflammation, and accumulation of extracellular amyloid plaques and intracellular neurofibrillary tangles. Neurotechnological approaches, including optogenetics and deep brain stimulation, have exploded as new tools for not only the study of the brain but also for application in the treatment of neurological diseases. Here, we review the current state of AD therapeutics and recent advancements in both invasive and non-invasive neurotechnologies that can be used to ameliorate AD pathology, including neurostimulation via optogenetics, photobiomodulation, electrical stimulation, ultrasound stimulation, and magnetic neurostimulation, as well as nanotechnologies employing nanovectors, magnetic nanoparticles, and quantum dots. We also discuss the current challenges in developing these neurotechnological tools and the prospects for implementing them in the treatment of AD and other neurodegenerative diseases.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T11 Ferramentas, implantes e vetores|T11 · Ferramentas, implantes e vetores]]
+
+**Termos (9):** [[grafo/termos/amyloid- plaques|amyloid- plaques]] · [[grafo/termos/cognitive decline|cognitive decline]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] · [[grafo/termos/neuroinflammation|neuroinflammation]] · [[grafo/termos/neurostimulation|neurostimulation]] · [[grafo/termos/quantum dots|quantum dots]] · [[grafo/termos/ultrasound stimulation|ultrasound stimulation]]
+<!-- vinculos:fim -->

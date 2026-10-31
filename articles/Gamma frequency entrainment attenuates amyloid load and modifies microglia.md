@@ -63,6 +63,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Changes in [[grafo/termos/gamma oscillations|gamma oscillations]] (20-50 Hz) have been observed in several [[grafo/termos/neurological disorders|neurological disorders]]. However, the relationship between gamma oscillations and cellular pathologies is unclear. Here we show reduced, behaviourally driven gamma oscillations before the onset of [[grafo/termos/plaque formation|plaque formation]] or [[grafo/termos/cognitive decline|cognitive decline]] in a mouse model of Alzheimer's disease. Optogenetically driving fast-spiking parvalbumin-positive (FS-PV)-interneurons at gamma (40 Hz), but not other frequencies, reduces levels of [[grafo/termos/amyloid-β|amyloid-β]] (Aβ)1-40 and Aβ 1-42 isoforms. [[grafo/termos/gene expression|Gene expression]] profiling revealed induction of genes associated with morphological transformation of [[grafo/termos/microglia|microglia]], and histological analysis confirmed increased microglia co-localization with Aβ. Subsequently, we designed a non-invasive 40 Hz light-flickering regime that reduced Aβ1-40 and Aβ1-42 levels in the [[grafo/termos/visual cortex|visual cortex]] of pre-depositing mice and mitigated plaque load in aged, depositing mice. Our findings uncover a previously unappreciated function of gamma rhythms in recruiting both neuronal and glial responses to attenuate Alzheimer's-disease-associated pathology.
 
-Changes in gamma oscillations (20-50 Hz) have been observed in several neurological disorders. However, the relationship between gamma oscillations and cellular pathologies is unclear. Here we show reduced, behaviourally driven gamma oscillations before the onset of plaque formation or cognitive decline in a mouse model of Alzheimer's disease. Optogenetically driving fast-spiking parvalbumin-positive (FS-PV)-interneurons at gamma (40 Hz), but not other frequencies, reduces levels of amyloid-β (Aβ)1-40 and Aβ 1-42 isoforms. Gene expression profiling revealed induction of genes associated with morphological transformation of microglia, and histological analysis confirmed increased microglia co-localization with Aβ. Subsequently, we designed a non-invasive 40 Hz light-flickering regime that reduced Aβ1-40 and Aβ1-42 levels in the visual cortex of pre-depositing mice and mitigated plaque load in aged, depositing mice. Our findings uncover a previously unappreciated function of gamma rhythms in recruiting both neuronal and glial responses to attenuate Alzheimer's-disease-associated pathology.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (8):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/cognitive decline|cognitive decline]] · [[grafo/termos/gamma oscillations|gamma oscillations]] · [[grafo/termos/gene expression|gene expression]] · [[grafo/termos/microglia|microglia]] · [[grafo/termos/neurological disorders|neurological disorders]] · [[grafo/termos/plaque formation|plaque formation]] · [[grafo/termos/visual cortex|visual cortex]]
+<!-- vinculos:fim -->

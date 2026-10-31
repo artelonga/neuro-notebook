@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 8
+tags: ["artigo", "tema/3"]
 ---
+This [[grafo/termos/paper presents|paper presents]] the development, characterization, and evaluation of polymer [[grafo/termos/optical fibers|optical fibers]] (POFs) for [[grafo/termos/neuromodulation|neuromodulation]] and [[grafo/termos/neural recording|neural recordings]] in neuroscience. Specifically, the POFs enable optimized illumination patterns for optogenetics, brain temperature monitoring, and bidirectional infrared neural stimulation (INS). Leveraging the exceptional flexibility of polymer materials, multifunctional POFs offer a promising avenue for advancing the comprehensive understanding of neural connectivity and function.Clinical Relevance- Exploring neurological diseases such as [[grafo/termos/epilepsy|epilepsy]] and Parkinson's disease requires precise neuromodulation and recordings. Traditional implants often cause tissue damage and lack multifunctionality. Our POFs neural implant integrates [[grafo/termos/electrical stimulation|electrical stimulation]], optogenetics, and [[grafo/termos/drug delivery|drug delivery]] in a flexible, biocompatible design, ensuring long-term stability and minimal invasiveness. This advanced platform offers new possibilities for treating [[grafo/termos/neurological disorders|neurological disorders]] related diseases through optogenetics and infrared stimulation.
 
-This paper presents the development, characterization, and evaluation of polymer optical fibers (POFs) for neuromodulation and neural recordings in neuroscience. Specifically, the POFs enable optimized illumination patterns for optogenetics, brain temperature monitoring, and bidirectional infrared neural stimulation (INS). Leveraging the exceptional flexibility of polymer materials, multifunctional POFs offer a promising avenue for advancing the comprehensive understanding of neural connectivity and function.Clinical Relevance- Exploring neurological diseases such as epilepsy and Parkinson's disease requires precise neuromodulation and recordings. Traditional implants often cause tissue damage and lack multifunctionality. Our POFs neural implant integrates electrical stimulation, optogenetics, and drug delivery in a flexible, biocompatible design, ensuring long-term stability and minimal invasiveness. This advanced platform offers new possibilities for treating neurological disorders related diseases through optogenetics and infrared stimulation.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (8):** [[grafo/termos/drug delivery|drug delivery]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/epilepsy|epilepsy]] · [[grafo/termos/neural recording|neural recording]] · [[grafo/termos/neurological disorders|neurological disorders]] · [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/optical fibers|optical fibers]] · [[grafo/termos/paper presents|paper presents]]
+<!-- vinculos:fim -->

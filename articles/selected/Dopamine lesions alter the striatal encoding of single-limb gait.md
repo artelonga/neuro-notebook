@@ -58,6 +58,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+The [[grafo/termos/striatum|striatum]] serves an important role in [[grafo/termos/motor control|motor control]], and neurons in this area encode the body's initiation, cessation, and speed of [[grafo/termos/locomotion|locomotion]]. However, it [[grafo/termos/remains unclear|remains unclear]] whether the same neurons also encode the step-by-step rhythmic motor patterns of individual limbs that characterize gait. By combining high-speed video tracking, [[grafo/termos/electrophysiology|electrophysiology]], and optogenetic tagging, we found that a sizable population of both D1 and D2 receptor expressing medium [[grafo/termos/spiny projection neurons|spiny projection neurons]] ([[grafo/termos/medium spiny neurons|MSNs]]) were phase-locked to the gait cycle of individual limbs in mice. Healthy animals showed balanced limb phase-locking between D1 and D2 MSNs, while [[grafo/termos/dopamine depletion|dopamine depletion]] led to stronger phase-locking in D2 MSNs. These findings indicate that [[grafo/termos/striatal neurons|striatal neurons]] represent gait on a single-limb and step basis, and suggest that elevated limb phase-locking of D2 MSNs may underlie some of the gait impairments associated with [[grafo/termos/dopamine|dopamine]] loss.
 
-The striatum serves an important role in motor control, and neurons in this area encode the body's initiation, cessation, and speed of locomotion. However, it remains unclear whether the same neurons also encode the step-by-step rhythmic motor patterns of individual limbs that characterize gait. By combining high-speed video tracking, electrophysiology, and optogenetic tagging, we found that a sizable population of both D1 and D2 receptor expressing medium spiny projection neurons (MSNs) were phase-locked to the gait cycle of individual limbs in mice. Healthy animals showed balanced limb phase-locking between D1 and D2 MSNs, while dopamine depletion led to stronger phase-locking in D2 MSNs. These findings indicate that striatal neurons represent gait on a single-limb and step basis, and suggest that elevated limb phase-locking of D2 MSNs may underlie some of the gait impairments associated with dopamine loss.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (10):** [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/dopamine depletion|dopamine depletion]] · [[grafo/termos/electrophysiology|electrophysiology]] · [[grafo/termos/locomotion|locomotion]] · [[grafo/termos/medium spiny neurons|medium spiny neurons]] · [[grafo/termos/motor control|motor control]] · [[grafo/termos/remains unclear|remains unclear]] · [[grafo/termos/spiny projection neurons|spiny projection neurons]] · [[grafo/termos/striatal neurons|striatal neurons]] · [[grafo/termos/striatum|striatum]]
+<!-- vinculos:fim -->

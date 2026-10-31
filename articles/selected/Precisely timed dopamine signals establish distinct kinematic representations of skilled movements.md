@@ -72,6 +72,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T12"
+topico_nome: "Gânglios da base e comportamento motor"
+n_termos: 4
+tags: ["artigo", "tema/1"]
 ---
+Brain [[grafo/termos/dopamine|dopamine]] is critical for normal [[grafo/termos/motor control|motor control]], as evidenced by its importance in Parkinson Disease and related disorders. Current hypotheses are that dopamine influences motor control by 'invigorating' movements and regulating [[grafo/termos/motor learning|motor learning]]. Most evidence for these aspects of dopamine function comes from simple tasks (e.g. lever pressing). Therefore, the influence of dopamine on motor skills requiring multi-joint coordination is unknown. To determine the effects of precisely timed dopamine manipulations on the performance of a complex, finely coordinated dexterous skill, we optogenetically stimulated or inhibited [[grafo/termos/midbrain dopamine neurons|midbrain dopamine neurons]] as rats performed a skilled reaching task. We found that reach kinematics and coordination between gross and fine movements progressively changed with repeated manipulations. However, once established, rats transitioned abruptly between aberrant and baseline reach kinematics in a dopamine-dependent manner. These results suggest that precisely timed dopamine signals have immediate and long-term influences on motor skill performance, distinct from simply 'invigorating' movement.
 
-Brain dopamine is critical for normal motor control, as evidenced by its importance in Parkinson Disease and related disorders. Current hypotheses are that dopamine influences motor control by 'invigorating' movements and regulating motor learning. Most evidence for these aspects of dopamine function comes from simple tasks (e.g. lever pressing). Therefore, the influence of dopamine on motor skills requiring multi-joint coordination is unknown. To determine the effects of precisely timed dopamine manipulations on the performance of a complex, finely coordinated dexterous skill, we optogenetically stimulated or inhibited midbrain dopamine neurons as rats performed a skilled reaching task. We found that reach kinematics and coordination between gross and fine movements progressively changed with repeated manipulations. However, once established, rats transitioned abruptly between aberrant and baseline reach kinematics in a dopamine-dependent manner. These results suggest that precisely timed dopamine signals have immediate and long-term influences on motor skill performance, distinct from simply 'invigorating' movement.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T12 Gânglios da base e comportamento motor|T12 · Gânglios da base e comportamento motor]]
+
+**Termos (4):** [[grafo/termos/dopamine|dopamine]] · [[grafo/termos/midbrain dopamine neurons|midbrain dopamine neurons]] · [[grafo/termos/motor control|motor control]] · [[grafo/termos/motor learning|motor learning]]
+<!-- vinculos:fim -->

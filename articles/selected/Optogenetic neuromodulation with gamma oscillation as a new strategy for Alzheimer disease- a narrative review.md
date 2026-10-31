@@ -65,6 +65,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+The amyloid hypothesis has been considered a major explanation of the pathogenesis of Alzheimer disease. However, failure of phase III [[grafo/termos/clinical trials|clinical trials]] with anti-amyloid-beta monoclonal antibodies reveals the need for other therapeutic approaches to treat Alzheimer disease. Compared to its relatively short history, optogenetics has developed considerably. The expression of microbial opsins in cells using [[grafo/termos/genetic engineering|genetic engineering]] allows specific control of cell signals or molecules. The application of optogenetics to Alzheimer disease research or clinical approaches is increasing. When applied with gamma entrainment, optogenetic [[grafo/termos/neuromodulation|neuromodulation]] can improve Alzheimer disease symptoms. Although safety problems exist with optogenetics such as the use of [[grafo/termos/viral vectors|viral vectors]], this technique has great potential for use in Alzheimer disease. In this paper, we review the historical applications of optogenetic neuromodulation with gamma entrainment to investigate the [[grafo/termos/mechanisms involved|mechanisms involved]] in Alzheimer disease and potential [[grafo/termos/therapeutic strategies|therapeutic strategies]].
 
-The amyloid hypothesis has been considered a major explanation of the pathogenesis of Alzheimer disease. However, failure of phase III clinical trials with anti-amyloid-beta monoclonal antibodies reveals the need for other therapeutic approaches to treat Alzheimer disease. Compared to its relatively short history, optogenetics has developed considerably. The expression of microbial opsins in cells using genetic engineering allows specific control of cell signals or molecules. The application of optogenetics to Alzheimer disease research or clinical approaches is increasing. When applied with gamma entrainment, optogenetic neuromodulation can improve Alzheimer disease symptoms. Although safety problems exist with optogenetics such as the use of viral vectors, this technique has great potential for use in Alzheimer disease. In this paper, we review the historical applications of optogenetic neuromodulation with gamma entrainment to investigate the mechanisms involved in Alzheimer disease and potential therapeutic strategies.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (6):** [[grafo/termos/clinical trials|clinical trials]] · [[grafo/termos/genetic engineering|genetic engineering]] · [[grafo/termos/mechanisms involved|mechanisms involved]] · [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/therapeutic strategies|therapeutic strategies]] · [[grafo/termos/viral vectors|viral vectors]]
+<!-- vinculos:fim -->

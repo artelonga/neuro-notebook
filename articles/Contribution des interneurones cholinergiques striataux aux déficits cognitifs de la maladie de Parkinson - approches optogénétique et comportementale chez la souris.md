@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 1
+tags: ["artigo", "tema/1"]
 ---
+La maladie de Parkinson (MP) se caractérise essentiellement par des symptômes moteurs, mais comprend également des troubles psychiatriques et cognitifs. La MP est causée par la perte progressive des neurones dopaminergiques (DA) qui projettent vers le [[grafo/termos/striatum|striatum]]. Au niveau de cette structure, les neurones DA interagissent avec les interneurones cholinergiques (CINs) pour moduler certaines fonctions motrices et cognitives. Par des approches comportementale, lésionnelle et optogénétique chez la souris, mes travaux de thèse montrent qu’une lésion des neurones DA ou une inactivation des CINs induit de l’impulsivité ainsi que des troubles de flexibilité ; ces dysfonctionnements cognitifs pourraient précéder l’apparition des troubles moteurs et ainsi constituer des marqueurs précoces de la maladie. L’interaction entre ces deux populations de neurones ne semble cependant pas être impliquée dans le développement de ces troubles cognitifs spécifiques dans notre modèle murin de la MP.
 
-La maladie de Parkinson (MP) se caractérise essentiellement par des symptômes moteurs, mais comprend également des troubles psychiatriques et cognitifs. La MP est causée par la perte progressive des neurones dopaminergiques (DA) qui projettent vers le striatum. Au niveau de cette structure, les neurones DA interagissent avec les interneurones cholinergiques (CINs) pour moduler certaines fonctions motrices et cognitives. Par des approches comportementale, lésionnelle et optogénétique chez la souris, mes travaux de thèse montrent qu’une lésion des neurones DA ou une inactivation des CINs induit de l’impulsivité ainsi que des troubles de flexibilité ; ces dysfonctionnements cognitifs pourraient précéder l’apparition des troubles moteurs et ainsi constituer des marqueurs précoces de la maladie. L’interaction entre ces deux populations de neurones ne semble cependant pas être impliquée dans le développement de ces troubles cognitifs spécifiques dans notre modèle murin de la MP.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+
+**Termos (1):** [[grafo/termos/striatum|striatum]]
+<!-- vinculos:fim -->

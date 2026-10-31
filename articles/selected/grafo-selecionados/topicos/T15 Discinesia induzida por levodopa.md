@@ -1,0 +1,32 @@
+---
+tipo: "topico"
+escopo: "selecionados"
+topico: "T15"
+nome: "Discinesia induzida por levodopa"
+artigos: 12
+N: 370
+tags: ["topico", "tema/1"]
+---
+
+# T15 · Discinesia induzida por levodopa
+
+**12 de 370 artigos** · tópico geral: [[grafo/topicos/T15 Discinesia induzida por levodopa|T15]]
+
+## Termos característicos (lift)
+
+[[grafo-selecionados/termos/dyskinetic behaviors|dyskinetic behaviors]] · [[grafo-selecionados/termos/levodopa-induced dyskinesia|levodopa-induced dyskinesia]] · [[grafo-selecionados/termos/involuntary movements|involuntary movements]] · [[grafo-selecionados/termos/l-dopa-induced dyskinesia|l-dopa-induced dyskinesia]] · [[grafo-selecionados/termos/dyskinesia|dyskinesia]] · [[grafo-selecionados/termos/levodopa|levodopa]] · [[grafo-selecionados/termos/direct pathway|direct pathway]] · [[grafo-selecionados/termos/l-dopa|l-dopa]]
+
+## Artigos (12)
+
+- [Bidirectional regulation of levodopa-induced dyskinesia by a specific neural ensemble in globus pallidus external segment. (2024)](../../Bidirectional%20regulation%20of%20levodopa-induced%20dyskinesia%20by%20a%20specific%20neural%20ensemble%20in%20globus%20pallidus%20external%20segment.md)
+- [Excessive firing of dyskinesia-associated striatal direct pathway neurons is gated by dopamine and excitatory synaptic input. (2024)](../../Excessive%20firing%20of%20dyskinesia-associated%20striatal%20direct%20pathway%20neurons%20is%20gated%20by%20dopamine%20and%20excitatory%20synaptic%20input.md)
+- [Suppression of presynaptic corticostriatal glutamate activity attenuates L-dopa-induced dyskinesia in 6-OHDA-lesioned Parkinson's disease mice. (2024)](../../Suppression%20of%20presynaptic%20corticostriatal%20glutamate%20activity%20attenuates%20L-dopa-induced%20dyskinesia%20in%206-OHDA-lesioned%20Parkinson%27s%20disease%20mice.md)
+- [Three paradoxes related to the mode of action of pramipexole: The path from D2/D3 dopamine receptor stimulation to modification of dopamine-modulated functions. (2024)](../../Three%20paradoxes%20related%20to%20the%20mode%20of%20action%20of%20pramipexole-%20The%20path%20from%20D2-D3%20dopamine%20receptor%20stimulation%20to%20modification%20of%20dopamine-modulated%20functions.md)
+- [D2 dopamine receptors and the striatopallidal pathway modulate L-DOPA-induced dyskinesia in the mouse. (2023)](../../D2%20dopamine%20receptors%20and%20the%20striatopallidal%20pathway%20modulate%20L-DOPA-induced%20dyskinesia%20in%20the%20mouse.md)
+- [Selective activation of striatal indirect pathway suppresses levodopa induced-dyskinesias. (2023)](../../Selective%20activation%20of%20striatal%20indirect%20pathway%20suppresses%20levodopa%20induced-dyskinesias.md)
+- [The Dynamics of Dopamine D2 Receptor-Expressing Striatal Neurons and the Downstream Circuit Underlying L-Dopa-Induced Dyskinesia in Rats. (2023)](../../The%20Dynamics%20of%20Dopamine%20D2%20Receptor-Expressing%20Striatal%20Neurons%20and%20the%20Downstream%20Circuit%20Underlying%20L-Dopa-Induced%20Dyskinesia%20in%20Rats.md)
+- [Cerebellar stimulation prevents Levodopa-induced dyskinesia in mice and normalizes activity in a motor network. (2022)](../../Cerebellar%20stimulation%20prevents%20Levodopa-induced%20dyskinesia%20in%20mice%20and%20normalizes%20activity%20in%20a%20motor%20network.md)
+- [Dopamine neuron stimulation induces context-dependent abnormal involuntary movements in healthy rats. (2022)](../../Dopamine%20neuron%20stimulation%20induces%20context-dependent%20abnormal%20involuntary%20movements%20in%20healthy%20rats.md)
+- [Striatal D1 Dopamine Neuronal Population Dynamics in a Rat Model of Levodopa-Induced Dyskinesia. (2022)](../../Striatal%20D1%20Dopamine%20Neuronal%20Population%20Dynamics%20in%20a%20Rat%20Model%20of%20Levodopa-Induced%20Dyskinesia.md)
+- [Dopaminergic co-transmission with sonic hedgehog inhibits abnormal involuntary movements in models of Parkinson's disease and L-Dopa induced dyskinesia. (2021)](../../Dopaminergic%20co-transmission%20with%20sonic%20hedgehog%20inhibits%20abnormal%20involuntary%20movements%20in%20models%20of%20Parkinson%27s%20disease%20and%20L-Dopa%20induced%20dyskinesia.md)
+- [The effect of 5-HT1A receptor agonists on the entopeduncular nucleus is modified in 6-hydroxydopamine-lesioned rats. (2021)](../../The%20effect%20of%205-HT1A%20receptor%20agonists%20on%20the%20entopeduncular%20nucleus%20is%20modified%20in%206-hydroxydopamine-lesioned%20rats.md)

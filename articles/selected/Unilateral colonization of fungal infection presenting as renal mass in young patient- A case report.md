@@ -45,6 +45,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Getting a sufficient quantity of [[grafo/termos/sleep|sleep]] is an important aspect of maintaining a healthy sleep pattern. A good night-sleep is the natural cure for all health problems. Sleeping disorders affect people of all ages, although adults (18-60) are the most common sufferers these days. If a person does not get enough sleep during the day, he or she may develop major health problems such as high blood pressure, high sugar, and drowsiness most of time. As a result, the person may develop Parkinson’s disease, Alzheimer’s disease, or insomnia, among other ailments. The sleep cycle is normally divided into two stages i.e. NON REM and REM. Depending on the age category, the entire cycle takes between 7 - 10 hours to complete. The REM stage will take 90 minutes to complete. This stage is regarded as the most powerful stage of the sleep cycle. This aids in improving one’s ability to memorise information. An experiment using a mouse as a model organism has shown that [[grafo/termos/rem sleep|REM sleep]] can help a person retain things for a long time even when [[grafo/termos/brain activity|brain activity]] is silenced, whereas optogenetically manipulating the brain can help patients to forget events that occurred before sleep. To obtain optimal health, a person needs to take adequate sleep on a daily basis. Keywords: hypothalamus; [[grafo/termos/memory|memory]]; neuronal modulation; optogenetic activity; sleep; [[grafo/termos/synapse|synapse]].
 
-Getting a sufficient quantity of sleep is an important aspect of maintaining a healthy sleep pattern. A good night-sleep is the natural cure for all health problems. Sleeping disorders affect people of all ages, although adults (18-60) are the most common sufferers these days. If a person does not get enough sleep during the day, he or she may develop major health problems such as high blood pressure, high sugar, and drowsiness most of time. As a result, the person may develop Parkinson’s disease, Alzheimer’s disease, or insomnia, among other ailments. The sleep cycle is normally divided into two stages i.e. NON REM and REM. Depending on the age category, the entire cycle takes between 7 - 10 hours to complete. The REM stage will take 90 minutes to complete. This stage is regarded as the most powerful stage of the sleep cycle. This aids in improving one’s ability to memorise information. An experiment using a mouse as a model organism has shown that REM sleep can help a person retain things for a long time even when brain activity is silenced, whereas optogenetically manipulating the brain can help patients to forget events that occurred before sleep. To obtain optimal health, a person needs to take adequate sleep on a daily basis. Keywords: hypothalamus; memory; neuronal modulation; optogenetic activity; sleep; synapse.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (5):** [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/memory|memory]] · [[grafo/termos/rem sleep|rem sleep]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/synapse|synapse]]
+<!-- vinculos:fim -->

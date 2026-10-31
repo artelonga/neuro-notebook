@@ -50,6 +50,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 8
+tags: ["artigo", "tema/3"]
 ---
+Parkinson's disease (PD) is a [[grafo/termos/common neurodegenerative|common neurodegenerative]] disease with strong heterogeneity of clinical symptoms and progressive aggravation. The core pathological feature is the apoptosis of [[grafo/termos/dopaminergic neurons|dopaminergic neurons]] in [[grafo/termos/substantia nigra|substantia nigra]] and [[grafo/termos/striatum|striatum]], but this pathological feature can only explain part of the symptom. With the development of [[grafo/termos/electrophysiological recordings|electrophysiological recording]], fMRI, optogenetics and other technologies, it has been found that [[grafo/termos/neural circuits|neural circuit]] dysfunction after dopaminergic neuron apoptosis is an important mechanism for the occurrence and development of PD, as well as many therapeutic measures such as [[grafo/termos/deep brain stimulation|deep brain stimulation]] (DBS) intervention target. This article reviews the research progress of PD neural circuit mechanism in recent years, including common symptoms of PD, neural circuit models, and abnormal electrical [[grafo/termos/activity patterns|activity patterns]], to provide ideas for clinical research. DOI：10.3969/j.issn.1672⁃6731.2020.12.002
 
-Parkinson's disease (PD) is a common neurodegenerative disease with strong heterogeneity of clinical symptoms and progressive aggravation. The core pathological feature is the apoptosis of dopaminergic neurons in substantia nigra and striatum, but this pathological feature can only explain part of the symptom. With the development of electrophysiological recording, fMRI, optogenetics and other technologies, it has been found that neural circuit dysfunction after dopaminergic neuron apoptosis is an important mechanism for the occurrence and development of PD, as well as many therapeutic measures such as deep brain stimulation (DBS) intervention target. This article reviews the research progress of PD neural circuit mechanism in recent years, including common symptoms of PD, neural circuit models, and abnormal electrical activity patterns, to provide ideas for clinical research. DOI：10.3969/j.issn.1672⁃6731.2020.12.002
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (8):** [[grafo/termos/activity patterns|activity patterns]] · [[grafo/termos/common neurodegenerative|common neurodegenerative]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/dopaminergic neurons|dopaminergic neurons]] · [[grafo/termos/electrophysiological recordings|electrophysiological recordings]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/striatum|striatum]] · [[grafo/termos/substantia nigra|substantia nigra]]
+<!-- vinculos:fim -->

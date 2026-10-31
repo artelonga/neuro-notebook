@@ -51,6 +51,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T16"
+topico_nome: "Disfunção dopaminérgica e sintomas motores"
+n_termos: 0
+tags: ["artigo", "tema/1"]
 ---
-
 Parkinson hastalığında yürüme yetisini geri kazandıran beyin pili ve optogenetik uyarı yöntemi, yeni nesil tedavilerin kapısını aralıyor.
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T16 Disfunção dopaminérgica e sintomas motores|T16 · Disfunção dopaminérgica e sintomas motores]]
+<!-- vinculos:fim -->

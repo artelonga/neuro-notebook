@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+BACKGROUND: Memantine, a low- to moderate-affinity uncompetitive [[grafo/termos/n-methyl-d-aspartate receptor|N-methyl-D-aspartate receptor]] antagonist, has been shown to improve [[grafo/termos/cognitive function|cognitive functions]] in animal models of Alzheimer's disease (AD). Here we treated APP/PS1 AD mice with a therapeutic dose of memantine (20 mg/kg/day) and examined its [[grafo/termos/underlying mechanisms|underlying mechanisms]] in ameliorating cognitive defects. METHODS: Using behavioral, electrophysiological, optogenetic and morphology approaches to explore how memantine delay the pathogenesis of AD. RESULTS: Memantine significantly improved the acquisition in Morris [[grafo/termos/water maze|water maze]] (MWM) in APP/PS1 mice without affecting the speed of swimming. Furthermore, memantine enhanced EC to CA1 synaptic neurotransmission and promoted [[grafo/termos/dendritic spine|dendritic spine]] regeneration of EC neurons that projected to CA1. CONCLUSIONS: Our study reveals the underlying mechanism of memantine in the treatment of AD mice.
 
-BACKGROUND: Memantine, a low- to moderate-affinity uncompetitive N-methyl-D-aspartate receptor antagonist, has been shown to improve cognitive functions in animal models of Alzheimer's disease (AD). Here we treated APP/PS1 AD mice with a therapeutic dose of memantine (20 mg/kg/day) and examined its underlying mechanisms in ameliorating cognitive defects. METHODS: Using behavioral, electrophysiological, optogenetic and morphology approaches to explore how memantine delay the pathogenesis of AD. RESULTS: Memantine significantly improved the acquisition in Morris water maze (MWM) in APP/PS1 mice without affecting the speed of swimming. Furthermore, memantine enhanced EC to CA1 synaptic neurotransmission and promoted dendritic spine regeneration of EC neurons that projected to CA1. CONCLUSIONS: Our study reveals the underlying mechanism of memantine in the treatment of AD mice.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (5):** [[grafo/termos/cognitive function|cognitive function]] · [[grafo/termos/dendritic spine|dendritic spine]] · [[grafo/termos/n-methyl-d-aspartate receptor|n-methyl-d-aspartate receptor]] · [[grafo/termos/underlying mechanisms|underlying mechanisms]] · [[grafo/termos/water maze|water maze]]
+<!-- vinculos:fim -->

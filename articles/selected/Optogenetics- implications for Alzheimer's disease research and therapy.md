@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer's disease (AD), a critical [[grafo/termos/neurodegenerative conditions|neurodegenerative condition]], has a [[grafo/termos/wide range|wide range]] of effects on [[grafo/termos/brain activity|brain activity]]. [[grafo/termos/synaptic plasticity|Synaptic plasticity]] and [[grafo/termos/neuronal circuits|neuronal circuits]] are the most vulnerable in Alzheimer's disease, but the exact mechanism is unknown. Incorporating optogenetics into the study of AD has resulted in a significant leap in this field during the last decades, kicking off a revolution in our knowledge of the networks that underpin [[grafo/termos/cognitive function|cognitive functions]]. In Alzheimer's disease, optogenetics can help to reduce and reverse [[grafo/termos/neural circuits|neural circuit]] and [[grafo/termos/memory impairment|memory impairments]]. Here we review how optogenetically driven methods have helped expand our knowledge of Alzheimer's disease, and how optogenetic interventions hint at a future translation into therapeutic possibilities for further utilization in clinical settings. In conclusion, neuroscience has witnessed one of its largest revolutions following the introduction of optogenetics into the field.
 
-Alzheimer's disease (AD), a critical neurodegenerative condition, has a wide range of effects on brain activity. Synaptic plasticity and neuronal circuits are the most vulnerable in Alzheimer's disease, but the exact mechanism is unknown. Incorporating optogenetics into the study of AD has resulted in a significant leap in this field during the last decades, kicking off a revolution in our knowledge of the networks that underpin cognitive functions. In Alzheimer's disease, optogenetics can help to reduce and reverse neural circuit and memory impairments. Here we review how optogenetically driven methods have helped expand our knowledge of Alzheimer's disease, and how optogenetic interventions hint at a future translation into therapeutic possibilities for further utilization in clinical settings. In conclusion, neuroscience has witnessed one of its largest revolutions following the introduction of optogenetics into the field.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (8):** [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/cognitive function|cognitive function]] · [[grafo/termos/memory impairment|memory impairment]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/neurodegenerative conditions|neurodegenerative conditions]] · [[grafo/termos/neuronal circuits|neuronal circuits]] · [[grafo/termos/synaptic plasticity|synaptic plasticity]] · [[grafo/termos/wide range|wide range]]
+<!-- vinculos:fim -->

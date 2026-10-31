@@ -64,6 +64,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 4
+tags: ["artigo", "tema/5"]
 ---
+Human [[grafo/termos/induced pluripotent stem cells|induced pluripotent stem cells]] (hiPSCs) offer advantages for disease modeling and [[grafo/termos/drug discovery|drug discovery]]. However, recreating innate cellular pathologies, particularly in late-onset neurodegenerative diseases with accumulated protein aggregates including Parkinson's disease (PD), has been challenging. To overcome this barrier, we developed an optogenetics-assisted [[grafo/termos/α-synuclein|α-synuclein]] (α-syn) aggregation induction system (OASIS) that rapidly induces α-syn aggregates and toxicity in PD hiPSC-midbrain [[grafo/termos/dopaminergic neurons|dopaminergic neurons]] and midbrain organoids. Our OASIS-based primary compound screening with SH-SY5Y cells identified 5 candidates that were secondarily validated with OASIS PD hiPSC-midbrain dopaminergic neurons and midbrain organoids, leading us to finally select BAG956. Furthermore, BAG956 significantly reverses characteristic PD phenotypes in α-syn preformed fibril models in vitro and in vivo by promoting autophagic clearance of pathological α-syn aggregates. Following the FDA Modernization Act 2.0's emphasis on alternative non-animal testing methods, our OASIS can serve as an animal-free preclinical test model (newly termed "nonclinical test") for the synucleinopathy drug development.
 
-Human induced pluripotent stem cells (hiPSCs) offer advantages for disease modeling and drug discovery. However, recreating innate cellular pathologies, particularly in late-onset neurodegenerative diseases with accumulated protein aggregates including Parkinson's disease (PD), has been challenging. To overcome this barrier, we developed an optogenetics-assisted α-synuclein (α-syn) aggregation induction system (OASIS) that rapidly induces α-syn aggregates and toxicity in PD hiPSC-midbrain dopaminergic neurons and midbrain organoids. Our OASIS-based primary compound screening with SH-SY5Y cells identified 5 candidates that were secondarily validated with OASIS PD hiPSC-midbrain dopaminergic neurons and midbrain organoids, leading us to finally select BAG956. Furthermore, BAG956 significantly reverses characteristic PD phenotypes in α-syn preformed fibril models in vitro and in vivo by promoting autophagic clearance of pathological α-syn aggregates. Following the FDA Modernization Act 2.0's emphasis on alternative non-animal testing methods, our OASIS can serve as an animal-free preclinical test model (newly termed "nonclinical test") for the synucleinopathy drug development.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (4):** [[grafo/termos/dopaminergic neurons|dopaminergic neurons]] · [[grafo/termos/drug discovery|drug discovery]] · [[grafo/termos/induced pluripotent stem cells|induced pluripotent stem cells]] · [[grafo/termos/α-synuclein|α-synuclein]]
+<!-- vinculos:fim -->

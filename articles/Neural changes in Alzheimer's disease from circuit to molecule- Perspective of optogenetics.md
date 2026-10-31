@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+Alzheimer's disease (AD), as a crucial [[grafo/termos/neurodegenerative disorders|neurodegenerative disorder]], affects neural activities at many levels. [[grafo/termos/synaptic plasticity|Synaptic plasticity]] and [[grafo/termos/neural circuits|neural circuits]] are most susceptible in AD, but the detailed mechanism is unclear. Optogenetic tools provide unprecedented spatio-temporal specificity to stimulate specific neural circuits or synaptic molecules to reveal the precise function of normal brain and mechanism of deficits in AD models. Furthermore, using optogenetics to stimulate neurons can rescue learning and [[grafo/termos/memory loss|memory loss]] caused by AD. It also has possibility to use light to control the Neurotransmitter receptors and their downstream signal pathway. These technical methods have broad [[grafo/termos/therapeutic applications|therapeutic application]] prospect.
 
-Alzheimer's disease (AD), as a crucial neurodegenerative disorder, affects neural activities at many levels. Synaptic plasticity and neural circuits are most susceptible in AD, but the detailed mechanism is unclear. Optogenetic tools provide unprecedented spatio-temporal specificity to stimulate specific neural circuits or synaptic molecules to reveal the precise function of normal brain and mechanism of deficits in AD models. Furthermore, using optogenetics to stimulate neurons can rescue learning and memory loss caused by AD. It also has possibility to use light to control the Neurotransmitter receptors and their downstream signal pathway. These technical methods have broad therapeutic application prospect.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (5):** [[grafo/termos/memory loss|memory loss]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/neurodegenerative disorders|neurodegenerative disorders]] · [[grafo/termos/synaptic plasticity|synaptic plasticity]] · [[grafo/termos/therapeutic applications|therapeutic applications]]
+<!-- vinculos:fim -->

@@ -1,0 +1,142 @@
+{
+  "0": {
+    "key": "39c0fd6c05db6cd4",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Circuitos estriatais dopaminérgicos e colinérgicos",
+    "topic_name": "Striatal dopaminergic and cholinergic circuits",
+    "descricao": "Estudos focados na modulação das interações entre interneurônios colinérgicos e neurônios espinhosos médios no estriado, analisando os efeitos na liberação de dopamina e na transmissão corticoestriatal."
+  },
+  "1": {
+    "key": "e41a083730357d73",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Modulação de oscilações beta",
+    "topic_name": "Beta oscillation modulation",
+    "descricao": "Estudos focados na regulação de oscilações beta patológicas e na atividade de circuitos da substância negra e gânglios da base em modelos de Parkinson."
+  },
+  "2": {
+    "key": "bd6e065205e08e28",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Recuperação de memória hipocampal",
+    "topic_name": "Hippocampal memory retrieval",
+    "descricao": "Estudos focados na modulação de circuitos hipocampais e de células de engrama para restaurar déficits de memória espacial e social em modelos de doença de Alzheimer."
+  },
+  "3": {
+    "key": "a0237248eb6e83c7",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Astrocitos e neuroproteção cognitiva",
+    "topic_name": "Astrocytes and cognitive neuroprotection",
+    "descricao": "Estudos focados na modulação da sinalização astrocitária e seus efeitos neuroprotetores na recuperação de funções cognitivas e na dinâmica de placas amiloides."
+  },
+  "4": {
+    "key": "d572e3a217e20591",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Estimulação Cerebral Profunda Fechada",
+    "topic_name": "Closed-Loop Deep Brain Stimulation",
+    "descricao": "Estudos focados na aplicação de estratégias de estimulação cerebral profunda em malha fechada para modular sintomas motores e otimizar parâmetros de neuroestimulação."
+  },
+  "5": {
+    "key": "5ef2b60907b2bd5e",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Controle celular e circuitos neurais",
+    "topic_name": "Cellular control and neural circuits",
+    "descricao": "Estudos focados na manipulação da excitabilidade de conjuntos neuronais e no controle de circuitos específicos para investigar funções cerebrais e modelos de doenças neurológicas."
+  },
+  "6": {
+    "key": "bacccf7670741704",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Agregação e Patologia de Tau",
+    "topic_name": "Tau Aggregation and Pathology",
+    "descricao": "Estudos focados nos mecanismos de agregação, fosforilação e oligomerização da proteína tau e seus impactos na disfunção neuronal e na memória."
+  },
+  "7": {
+    "key": "fd4552f3b08d47dc",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Restauração de oscilações hipocampais",
+    "topic_name": "Hippocampal oscillation restoration",
+    "descricao": "Estudos focados na modulação de ritmos teta e gama no hipocampo para melhorar a consolidação da memória e reduzir a carga de amiloides."
+  },
+  "8": {
+    "key": "12c6b5ba66eae8fe",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Modulação do núcleo subtalâmico",
+    "topic_name": "Subthalamic nucleus modulation",
+    "descricao": "Estudos focados na manipulação da atividade neuronal do núcleo subtalâmico e seus circuitos de saída para regular os déficits motores."
+  },
+  "9": {
+    "key": "f6480ee4fd3ac320",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Circuitos dopaminérgicos motores",
+    "topic_name": "Motor dopaminergic circuits",
+    "descricao": "Estudos focados na modulação e avaliação funcional de circuitos neurais dopaminérgicos envolvidos no controle motor."
+  },
+  "10": {
+    "key": "4826cc08ff56697b",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Dispositivos fotônicos para neuromodulação",
+    "topic_name": "Photonic devices for neuromodulation",
+    "descricao": "Estudos focados no desenvolvimento e aplicação de microeletrodos, fibras ópticas e dispositivos fotônicos flexíveis para a estimulação neural e interfaces cérebro-máquina."
+  },
+  "11": {
+    "key": "873d851f0d3e7232",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Modulação Vascular e Pericitária",
+    "topic_name": "Vascular and Pericytic Modulation",
+    "descricao": "Estudos focados na manipulação óptica de células vasculares, pericitos e acoplamento neurovascular em contextos de neurodegeneração."
+  },
+  "12": {
+    "key": "ec160a7cfa62d4d9",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Circuitos da substância negra",
+    "topic_name": "Basal ganglia circuits",
+    "descricao": "Estudos focados na modulação da atividade neuronal e dos circuitos estriatais e mesencefálicos envolvidos na regulação dos comportamentos motores."
+  },
+  "13": {
+    "key": "25e3965cf131d4be",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Agregação de alfa-sinucleína",
+    "topic_name": "Alpha-synuclein aggregation",
+    "descricao": "Estudos focados na indução, monitoramento e consequências patológicas da agregação de alfa-sinucleína, incluindo a formação de corpos de Lewy e disfunção mitocondrial."
+  },
+  "14": {
+    "key": "654306baf790a7c9",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Terapia celular com células-tronco",
+    "topic_name": "Stem cell therapy",
+    "descricao": "Estudos focados na aplicação de células-tronco e enxertos neuronais para a regeneração e substituição de tecido neural."
+  },
+  "15": {
+    "key": "485862a8689ef1fd",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Disquinesia induzida por levodopa",
+    "topic_name": "Levodopa-induced dyskinesia",
+    "descricao": "Estudos focados na modulação da atividade neuronal estriatal e dos circuitos dopaminérgicos para mitigar os movimentos involuntários causados pelo tratamento com levodopa."
+  },
+  "16": {
+    "key": "6f0326657d4afa20",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Disfunção dopaminérgica e sintomas motores",
+    "topic_name": "Dopaminergic dysfunction and motor symptoms",
+    "descricao": "Estudos focados na modulação da atividade de neurônios dopaminérgicos e na liberação de dopamina para elucidar os mecanismos de neurotoxicidade e a origem dos déficits motores."
+  },
+  "17": {
+    "key": "4e44da23eb22a6a6",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Hipersensibilidade à dor em Parkinson",
+    "topic_name": "Pain hypersensitivity in Parkinson",
+    "descricao": "Estudos focados na modulação de vias descendentes e circuitos subtalâmicos para o controle da nocicepção e da dor crônica associada à doença de Parkinson."
+  },
+  "18": {
+    "key": "c9a5d7c7c08c8136",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Região locomotora mesencefálica",
+    "topic_name": "Mesencephalic locomotor region",
+    "descricao": "Estudos sobre a modulação de circuitos glutamatérgicos e GABAérgicos na região locomotora mesencefálica para o controle da marcha e da atividade locomotora."
+  },
+  "19": {
+    "key": "419cc6a4bc83f280",
+    "model": "qwen3.8:27b",
+    "nome_do_topico": "Neurônios colinérgicos do córtex basal",
+    "topic_name": "Basal forebrain cholinergic neurons",
+    "descricao": "Estudos focados na modulação da transmissão colinérgica e nas interações sinápticas entre neurônios colinérgicos do córtex basal e circuitos corticais em modelos de neurodegeneração."
+  }
+}

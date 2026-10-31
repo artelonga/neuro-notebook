@@ -53,6 +53,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 0
+tags: ["artigo", "tema/2"]
 ---
-
 Developing safe and disease modifying therapies for Alzheimer’s disease (AD) is still challenging, in spite of recent advancements in the understanding of AD pathophysiology. A fundamentally different therapeutic approach under development at Cognito Therapeutics targets abnormal neuronal activities using the company’s Gamma Sensory Stimulation System. This treatment is based on the recent breakthrough, demonstrating that 40Hz neuronal network oscillation evoked via optogenetic, or sensory stimulation profoundly reduces AD pathologies in AD‐related transgenic mice.
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+<!-- vinculos:fim -->

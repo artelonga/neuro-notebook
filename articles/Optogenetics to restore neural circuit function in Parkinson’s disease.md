@@ -46,6 +46,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 0
+tags: ["artigo", "tema/3"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+<!-- vinculos:fim -->

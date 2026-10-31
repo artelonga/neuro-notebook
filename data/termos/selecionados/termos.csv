@@ -1,0 +1,560 @@
+termo,rotulo,n_textos,cobertura,ocorrencias,prevalencia,media_por_texto,topico
+brain stimulation,brain stimulation,68,18.38,84,8.4,1.24,T08
+dopamine,dopamine,66,17.84,170,17.01,2.58,T01
+deep brain stimulation,deep brain stimulation,65,17.57,235,23.51,3.62,T08
+memory,memory,63,17.03,205,20.51,3.25,T02
+chemogenetic,chemogenetics,49,13.24,61,6.1,1.24,T02
+neural circuit,neural circuits,47,12.7,69,6.9,1.47,T02
+basal ganglia,basal ganglia,44,11.89,66,6.6,1.5,T01
+subthalamic nucleu,subthalamic nucleus,44,11.89,270,27.01,6.14,T08
+globus pallidu,globus pallidus,39,10.54,50,5.0,1.28,T01
+depression,depression,37,10.0,48,4.8,1.3,T02
+striatum,striatum,37,10.0,68,6.8,1.84,T12
+substantia nigra,substantia nigra,37,10.0,43,4.3,1.16,T17
+neuromodulation,neuromodulation,36,9.73,60,6.0,1.67,T04
+tau,tau,35,9.46,239,23.91,6.83,T06
+6-hydroxydopamine,6-hydroxydopamine,33,8.92,60,6.0,1.82,T01
+dopaminergic neuron,dopaminergic neurons,33,8.92,60,6.0,1.82,T16
+motor symptom,motor symptoms,32,8.65,38,3.8,1.19,T08
+neuronal activity,neuronal activity,29,7.84,41,4.1,1.41,T14
+locomotion,locomotion,28,7.57,57,5.7,2.04,T18
+neurodegenerative disorder,neurodegenerative disorders,28,7.57,31,3.1,1.11,T06
+channelrhodopsin-2,channelrhodopsin-2,27,7.3,70,7.0,2.59,T07
+neurodegeneration,neurodegeneration,27,7.3,45,4.5,1.67,T06
+epilepsy,epilepsy,26,7.03,27,2.7,1.04,T05
+mechanisms underlying,mechanisms underlying,26,7.03,28,2.8,1.08,T02
+neurological disorder,neurological disorders,25,6.76,37,3.7,1.48,T05
+synapse,synapse,25,6.76,59,5.9,2.36,T03
+synaptic plasticity,synaptic plasticity,25,6.76,30,3.0,1.2,T02
+external globus pallidu,external globus pallidus,24,6.49,96,9.6,4.0,T01
+astrocyte,astrocytes,23,6.22,84,8.4,3.65,T03
+neural activity,neural activity,23,6.22,25,2.5,1.09,T01
+stem cell,stem cells,22,5.95,43,4.3,1.95,T14
+substantia nigra pars,substantia nigra pars,22,5.95,23,2.3,1.05,T16
+motor deficit,motor deficits,21,5.68,36,3.6,1.71,T01
+α-synuclein,α-synuclein,21,5.68,41,4.1,1.95,T13
+brain region,brain regions,20,5.41,27,2.7,1.35,T10
+sleep,sleep,20,5.41,79,7.9,3.95,T07
+substantia nigra pars compacta,substantia nigra pars compacta,20,5.41,67,6.7,3.35,T16
+cell type,cell types,19,5.14,29,2.9,1.53,T11
+dyskinesia,dyskinesia,19,5.14,33,3.3,1.74,T15
+early stage,early stages,19,5.14,22,2.2,1.16,T02
+hippocampu,hippocampus,19,5.14,44,4.4,2.32,T02
+stroke,stroke,19,5.14,25,2.5,1.32,T05
+motor control,motor control,18,4.86,28,2.8,1.56,T08
+amyloid-β,amyloid-β,17,4.59,36,3.6,2.12,T03
+anxiety,anxiety,17,4.59,22,2.2,1.29,T02
+cognitive function,cognitive function,17,4.59,24,2.4,1.41,T03
+electrical stimulation,electrical stimulation,17,4.59,21,2.1,1.24,T01
+therapeutic strategie,therapeutic strategies,17,4.59,18,1.8,1.06,T13
+blue light,blue light,16,4.32,21,2.1,1.31,T06
+movement disorder,movement disorders,16,4.32,31,3.1,1.94,T04
+poorly understood,poorly understood,16,4.32,17,1.7,1.06,T02
+thalamu,thalamus,16,4.32,21,2.1,1.31,T01
+therapeutic target,therapeutic target,16,4.32,16,1.6,1.0,T06
+brain function,brain function,15,4.05,18,1.8,1.2,T03
+clinical trial,clinical trials,15,4.05,23,2.3,1.53,T04
+cognitive decline,cognitive decline,15,4.05,17,1.7,1.13,T06
+electrophysiology,electrophysiology,15,4.05,15,1.5,1.0,T05
+motor function,motor function,15,4.05,18,1.8,1.2,T08
+neuroinflammation,neuroinflammation,15,4.05,19,1.9,1.27,T03
+pars compacta,pars compacta,15,4.05,16,1.6,1.07,T16
+remains unclear,remains unclear,15,4.05,16,1.6,1.07,T02
+circuit mechanism,circuit mechanisms,14,3.78,14,1.4,1.0,T02
+clinical application,clinical applications,14,3.78,15,1.5,1.07,T10
+cognition,cognition,14,3.78,18,1.8,1.29,T19
+cognitive impairment,cognitive impairment,14,3.78,15,1.5,1.07,T02
+electrophysiological recording,electrophysiological recordings,14,3.78,14,1.4,1.0,T01
+l-dopa,l-dopa,14,3.78,25,2.5,1.79,T15
+light sensitive,light sensitive,14,3.78,14,1.4,1.0,T11
+neuronal population,neuronal populations,14,3.78,15,1.5,1.07,T07
+parkinsonism,parkinsonism,14,3.78,19,1.9,1.36,T12
+prefrontal cortex,prefrontal cortex,14,3.78,22,2.2,1.57,T02
+pyramidal neuron,pyramidal neurons,14,3.78,24,2.4,1.71,T07
+reward,reward,14,3.78,25,2.5,1.79,T00
+underlying mechanism,underlying mechanisms,14,3.78,16,1.6,1.14,T06
+cell-type specific,cell-type specific,13,3.51,15,1.5,1.15,T08
+levodopa,levodopa,13,3.51,23,2.3,1.77,T15
+medium spiny neuron,medium spiny neurons,13,3.51,25,2.5,1.92,T12
+memory impairment,memory impairment,13,3.51,15,1.5,1.15,T02
+motor cortex,motor cortex,13,3.51,19,1.9,1.46,T15
+parvalbumin,parvalbumin,13,3.51,13,1.3,1.0,T01
+projection neuron,projection neurons,13,3.51,19,1.9,1.46,T12
+synaptic transmission,synaptic transmission,13,3.51,19,1.9,1.46,T02
+amyloid beta,amyloid beta,12,3.24,15,1.5,1.25,T06
+brainstem,brainstem,12,3.24,16,1.6,1.33,T18
+calcium imaging,calcium imaging,12,3.24,13,1.3,1.08,T07
+central nervou,central nervous,12,3.24,15,1.5,1.25,T05
+dopamine release,dopamine release,12,3.24,19,1.9,1.58,T10
+dorsal striatum,dorsal striatum,12,3.24,15,1.5,1.25,T12
+firing rate,firing rate,12,3.24,16,1.6,1.33,T01
+gene expression,gene expression,12,3.24,16,1.6,1.33,T03
+levodopa-induced dyskinesia,levodopa-induced dyskinesia,12,3.24,77,7.7,6.42,T15
+long-term potentiation,long-term potentiation,12,3.24,12,1.2,1.0,T06
+protein aggregation,protein aggregation,12,3.24,13,1.3,1.08,T13
+therapeutic intervention,therapeutic interventions,12,3.24,13,1.3,1.08,T03
+glutamate,glutamate,11,2.97,24,2.4,2.18,T03
+spinal cord,spinal cord,11,2.97,18,1.8,1.64,T18
+stn neuron,stn neurons,11,2.97,33,3.3,3.0,T08
+therapeutic strategy,therapeutic strategy,11,2.97,12,1.2,1.09,T11
+wide range,wide range,11,2.97,11,1.1,1.0,T09
+addiction,addiction,10,2.7,39,3.9,3.9,T00
+autophagy,autophagy,10,2.7,26,2.6,2.6,T03
+cell therapy,cell therapy,10,2.7,27,2.7,2.7,T14
+effective treatment,effective treatments,10,2.7,10,1.0,1.0,T13
+fiber photometry,fiber photometry,10,2.7,12,1.2,1.2,T02
+gaba,gaba,10,2.7,24,2.4,2.4,T16
+indirect pathway,indirect pathway,10,2.7,12,1.2,1.2,T08
+light stimulation,light stimulation,10,2.7,14,1.4,1.4,T06
+local field potential,local field potentials,10,2.7,10,1.0,1.0,T04
+locomotor region,locomotor region,10,2.7,12,1.2,1.2,T18
+memory deficit,memory deficits,10,2.7,16,1.6,1.6,T02
+microglia,microglia,10,2.7,26,2.6,2.6,T02
+neuroprotection,neuroprotection,10,2.7,15,1.5,1.5,T03
+neuropsychiatric disorder,neuropsychiatric disorders,10,2.7,10,1.0,1.0,T04
+optical stimulation,optical stimulation,10,2.7,10,1.0,1.0,T10
+oxidative stress,oxidative stress,10,2.7,18,1.8,1.8,T03
+rat model,rat model,10,2.7,11,1.1,1.1,T01
+tau pathology,tau pathology,10,2.7,22,2.2,2.2,T06
+tremor,tremor,10,2.7,13,1.3,1.3,T08
+acetylcholine,acetylcholine,9,2.43,11,1.1,1.22,T00
+direct pathway,direct pathway,9,2.43,10,1.0,1.11,T15
+external globu,external globus,9,2.43,10,1.0,1.11,T01
+gabaergic neuron,gabaergic neurons,9,2.43,23,2.3,2.56,T17
+gene therapy,gene therapy,9,2.43,17,1.7,1.89,T04
+globus pallidus externa,globus pallidus externa,9,2.43,9,0.9,1.0,T01
+globus pallidus interna,globus pallidus interna,9,2.43,9,0.9,1.0,T01
+glutamatergic neuron,glutamatergic neurons,9,2.43,12,1.2,1.33,T18
+memory loss,memory loss,9,2.43,13,1.3,1.44,T02
+mesencephalic locomotor,mesencephalic locomotor,9,2.43,10,1.0,1.11,T18
+mesencephalic locomotor region,mesencephalic locomotor region,9,2.43,44,4.4,4.89,T18
+molecular mechanism,molecular mechanisms,9,2.43,10,1.0,1.11,T02
+motor dysfunction,motor dysfunction,9,2.43,16,1.6,1.78,T01
+parkinsonian motor,parkinsonian motor,9,2.43,9,0.9,1.0,T01
+rodent model,rodent models,9,2.43,9,0.9,1.0,T08
+spatial memory,spatial memory,9,2.43,19,1.9,2.11,T02
+specific cell,specific cell,9,2.43,9,0.9,1.0,T09
+spinal cord injury,spinal cord injury,9,2.43,11,1.1,1.22,T05
+tauopathy,tauopathy,9,2.43,16,1.6,1.78,T06
+brain activity,brain activity,8,2.16,9,0.9,1.12,T10
+brain area,brain areas,8,2.16,12,1.2,1.5,T08
+brain slice,brain slices,8,2.16,11,1.1,1.38,T11
+brain tissue,brain tissue,8,2.16,8,0.8,1.0,T06
+channelrhodopsin,channelrhodopsin,8,2.16,10,1.0,1.25,T05
+dopamine neuron,dopamine neurons,8,2.16,23,2.3,2.88,T15
+gabaergic interneuron,gabaergic interneurons,8,2.16,18,1.8,2.25,T07
+gamma oscillation,gamma oscillations,8,2.16,27,2.7,3.38,T07
+human brain,human brain,8,2.16,8,0.8,1.0,T06
+involuntary movement,involuntary movements,8,2.16,9,0.9,1.12,T15
+locus coeruleu,locus coeruleus,8,2.16,17,1.7,2.12,T02
+memory formation,memory formation,8,2.16,20,2.0,2.5,T02
+non-motor symptom,non-motor symptoms,8,2.16,9,0.9,1.12,T17
+pluripotent stem cell,pluripotent stem cells,8,2.16,9,0.9,1.12,T14
+replacement therapy,replacement therapy,8,2.16,8,0.8,1.0,T15
+signaling pathway,signaling pathways,8,2.16,13,1.3,1.62,T03
+stn dbs,stn dbs,8,2.16,23,2.3,2.88,T08
+adeno-associated viru,adeno-associated virus,7,1.89,8,0.8,1.14,T03
+akinesia,akinesia,7,1.89,12,1.2,1.71,T01
+amyotrophic lateral sclerosi,amyotrophic lateral sclerosis,7,1.89,8,0.8,1.14,T13
+behavioral deficit,behavioral deficits,7,1.89,10,1.0,1.43,T07
+bradykinesia,bradykinesia,7,1.89,7,0.7,1.0,T09
+brain disorder,brain disorders,7,1.89,8,0.8,1.14,T10
+cell population,cell populations,7,1.89,7,0.7,1.0,T09
+cholinergic neuron,cholinergic neurons,7,1.89,20,2.0,2.86,T19
+cortical neuron,cortical neurons,7,1.89,9,0.9,1.29,T05
+dopamine receptor,dopamine receptors,7,1.89,9,0.9,1.29,T15
+dopamine replacement,dopamine replacement,7,1.89,7,0.7,1.0,T14
+entopeduncular nucleu,entopeduncular nucleus,7,1.89,15,1.5,2.14,T01
+entorhinal cortex,entorhinal cortex,7,1.89,12,1.2,1.71,T06
+functional connectivity,functional connectivity,7,1.89,8,0.8,1.14,T06
+functional integration,functional integration,7,1.89,9,0.9,1.29,T14
+gpe neuron,gpe neurons,7,1.89,15,1.5,2.14,T01
+halorhodopsin,halorhodopsin,7,1.89,9,0.9,1.29,T01
+l-dopa-induced dyskinesia,l-dopa-induced dyskinesia,7,1.89,7,0.7,1.0,T15
+lewy bodie,lewy bodies,7,1.89,9,0.9,1.29,T13
+magnetic resonance imaging,magnetic resonance imaging,7,1.89,8,0.8,1.14,T02
+neuronal firing,neuronal firing,7,1.89,9,0.9,1.29,T08
+neurostimulation,neurostimulation,7,1.89,13,1.3,1.86,T04
+non-rapid eye movement,non-rapid eye movement,7,1.89,7,0.7,1.0,T07
+nucleus accumben,nucleus accumbens,7,1.89,8,0.8,1.14,T00
+pedunculopontine nucleu,pedunculopontine nucleus,7,1.89,26,2.6,3.71,T18
+progressive neurodegenerative,progressive neurodegenerative,7,1.89,7,0.7,1.0,T03
+spatial resolution,spatial resolution,7,1.89,7,0.7,1.0,T11
+stem cell-derived,stem cell-derived,7,1.89,9,0.9,1.29,T13
+temporal resolution,temporal resolution,7,1.89,7,0.7,1.0,T11
+therapeutic benefit,therapeutic benefits,7,1.89,7,0.7,1.0,T08
+ventral tegmental area,ventral tegmental area,7,1.89,9,0.9,1.29,T17
+viral vector,viral vectors,7,1.89,7,0.7,1.0,T04
+amyloid plaque,amyloid plaques,6,1.62,7,0.7,1.17,T07
+amyloid- plaque,amyloid- plaques,6,1.62,7,0.7,1.17,T07
+better understand,better understand,6,1.62,6,0.6,1.0,T07
+blood-brain barrier,blood-brain barrier,6,1.62,11,1.1,1.83,T11
+cerebral cortex,cerebral cortex,6,1.62,6,0.6,1.0,T03
+chemogenetic activation,chemogenetic activation,6,1.62,7,0.7,1.17,T02
+circuit mechanisms underlying,circuit mechanisms underlying,6,1.62,6,0.6,1.0,T02
+clinical translation,clinical translation,6,1.62,8,0.8,1.33,T02
+common neurodegenerative,common neurodegenerative,6,1.62,6,0.6,1.0,T06
+drug delivery,drug delivery,6,1.62,7,0.7,1.17,T09
+eeg,eeg,6,1.62,7,0.7,1.17,T07
+effective therapeutic,effective therapeutic,6,1.62,6,0.6,1.0,T07
+evidence indicate,evidence indicates,6,1.62,6,0.6,1.0,T01
+freely moving,freely moving,6,1.62,7,0.7,1.17,T09
+fully understood,fully understood,6,1.62,6,0.6,1.0,T03
+gene editing,gene editing,6,1.62,6,0.6,1.0,T14
+genetically encoded,genetically encoded,6,1.62,6,0.6,1.0,T11
+hippocampal ca1,hippocampal ca1,6,1.62,9,0.9,1.5,T06
+immune response,immune responses,6,1.62,9,0.9,1.5,T11
+light-sensitive protein,light-sensitive proteins,6,1.62,6,0.6,1.0,T04
+machine learning,machine learning,6,1.62,6,0.6,1.0,T04
+memory consolidation,memory consolidation,6,1.62,10,1.0,1.67,T07
+memory retrieval,memory retrieval,6,1.62,13,1.3,2.17,T02
+motivation,motivation,6,1.62,16,1.6,2.67,T08
+motor behavior,motor behaviors,6,1.62,6,0.6,1.0,T12
+multiple sclerosi,multiple sclerosis,6,1.62,7,0.7,1.17,T14
+neural circuitry,neural circuitry,6,1.62,6,0.6,1.0,T05
+neural network,neural network,6,1.62,8,0.8,1.33,T03
+neurodegenerative condition,neurodegenerative conditions,6,1.62,6,0.6,1.0,T03
+neurofibrillary tangle,neurofibrillary tangles,6,1.62,7,0.7,1.17,T06
+neuronal circuit,neuronal circuits,6,1.62,6,0.6,1.0,T06
+neuronal excitability,neuronal excitability,6,1.62,8,0.8,1.33,T06
+neurotrophic factor,neurotrophic factors,6,1.62,9,0.9,1.5,T14
+nmda receptor,nmda receptor,6,1.62,9,0.9,1.5,T03
+non-human primate,non-human primates,6,1.62,6,0.6,1.0,T03
+obsessive-compulsive disorder,obsessive-compulsive disorder,6,1.62,8,0.8,1.33,T04
+parkinsonian motor symptom,parkinsonian motor symptoms,6,1.62,6,0.6,1.0,T08
+precise control,precise control,6,1.62,6,0.6,1.0,T01
+protein tau,protein tau,6,1.62,6,0.6,1.0,T06
+psychiatric disorder,psychiatric disorders,6,1.62,9,0.9,1.5,T00
+sleep disturbance,sleep disturbances,6,1.62,6,0.6,1.0,T07
+slow wave,slow waves,6,1.62,26,2.6,4.33,T07
+slow-wave activity,slow-wave activity,6,1.62,7,0.7,1.17,T07
+small molecule,small molecule,6,1.62,7,0.7,1.17,T11
+stem cell therapy,stem cell therapy,6,1.62,7,0.7,1.17,T14
+substantia nigra pars reticulata,substantia nigra pars reticulata,6,1.62,27,2.7,4.5,T08
+synaptic dysfunction,synaptic dysfunction,6,1.62,7,0.7,1.17,T06
+tau phosphorylation,tau phosphorylation,6,1.62,7,0.7,1.17,T06
+tyrosine hydroxylase,tyrosine hydroxylase,6,1.62,6,0.6,1.0,T02
+working memory,working memory,6,1.62,12,1.2,2.0,T02
+alpha-synuclein,alpha-synuclein,5,1.35,6,0.6,1.2,T13
+artificial intelligence,artificial intelligence,5,1.35,5,0.5,1.0,T04
+autism spectrum,autism spectrum,5,1.35,5,0.5,1.0,T05
+autism spectrum disorder,autism spectrum disorder,5,1.35,5,0.5,1.0,T05
+basal forebrain,basal forebrain,5,1.35,7,0.7,1.4,T19
+blood flow,blood flow,5,1.35,14,1.4,2.8,T11
+brain rhythm,brain rhythms,5,1.35,9,0.9,1.8,T07
+cell death,cell death,5,1.35,11,1.1,2.2,T13
+cellular model,cellular models,5,1.35,5,0.5,1.0,T13
+cerebral blood flow,cerebral blood flow,5,1.35,6,0.6,1.2,T11
+chemogenetic inhibition,chemogenetic inhibition,5,1.35,5,0.5,1.0,T00
+chronic pain,chronic pain,5,1.35,5,0.5,1.0,T17
+computational modeling,computational modeling,5,1.35,6,0.6,1.2,T04
+cuneiform nucleu,cuneiform nucleus,5,1.35,14,1.4,2.8,T18
+dendritic spine,dendritic spine,5,1.35,11,1.1,2.2,T03
+dentate gyru,dentate gyrus,5,1.35,6,0.6,1.2,T06
+dopamine depletion,dopamine depletion,5,1.35,8,0.8,1.6,T01
+electrophysiological propertie,electrophysiological properties,5,1.35,5,0.5,1.0,T03
+excitatory neuron,excitatory neurons,5,1.35,7,0.7,1.4,T06
+firing pattern,firing patterns,5,1.35,9,0.9,1.8,T01
+future therapeutic,future therapeutic,5,1.35,5,0.5,1.0,T08
+genetic engineering,genetic engineering,5,1.35,5,0.5,1.0,T03
+glial cell,glial cells,5,1.35,5,0.5,1.0,T03
+human tau,human tau,5,1.35,5,0.5,1.0,T06
+induced pluripotent stem cell,induced pluripotent stem cells,5,1.35,12,1.2,2.4,T14
+ion channel,ion channels,5,1.35,6,0.6,1.2,T01
+long-term depression,long-term depression,5,1.35,6,0.6,1.2,T06
+magnetic stimulation,magnetic stimulation,5,1.35,6,0.6,1.2,T04
+medial prefrontal cortex,medial prefrontal cortex,5,1.35,5,0.5,1.0,T19
+motor complication,motor complications,5,1.35,5,0.5,1.0,T15
+neural mechanism,neural mechanisms,5,1.35,5,0.5,1.0,T01
+neuromodulation technique,neuromodulation techniques,5,1.35,6,0.6,1.2,T10
+neuron activity,neuron activity,5,1.35,6,0.6,1.2,T02
+neuronal function,neuronal functions,5,1.35,5,0.5,1.0,T14
+nigra pars reticulata,nigra pars reticulata,5,1.35,5,0.5,1.0,T08
+nigrostriatal pathway,nigrostriatal pathway,5,1.35,5,0.5,1.0,T15
+nrem sleep,nrem sleep,5,1.35,8,0.8,1.6,T07
+optical fiber,optical fibers,5,1.35,6,0.6,1.2,T10
+oscillatory activity,oscillatory activity,5,1.35,8,0.8,1.6,T01
+pathophysiological mechanism,pathophysiological mechanisms,5,1.35,6,0.6,1.2,T09
+promising therapeutic,promising therapeutic,5,1.35,5,0.5,1.0,T06
+pyramidal cell,pyramidal cells,5,1.35,6,0.6,1.2,T07
+specific cell type,specific cell types,5,1.35,5,0.5,1.0,T00
+specific neuron,specific neurons,5,1.35,5,0.5,1.0,T01
+spiny projection neuron,spiny projection neurons,5,1.35,7,0.7,1.4,T12
+tau accumulation,tau accumulation,5,1.35,12,1.2,2.4,T06
+tau aggregation,tau aggregation,5,1.35,19,1.9,3.8,T06
+tau tangle,tau tangles,5,1.35,6,0.6,1.2,T06
+transcription factor,transcription factor,5,1.35,7,0.7,1.4,T06
+zona incerta,zona incerta,5,1.35,11,1.1,2.2,T17
+action potential,action potentials,4,1.08,4,0.4,1.0,T06
+amyloid precursor,amyloid precursor,4,1.08,5,0.5,1.25,T03
+amyloid precursor protein,amyloid precursor protein,4,1.08,5,0.5,1.25,T03
+arousal,arousal,4,1.08,6,0.6,1.5,T15
+basal ganglia circuitry,basal ganglia circuitry,4,1.08,5,0.5,1.25,T09
+beta oscillation,beta oscillations,4,1.08,8,0.8,2.0,T17
+brain circuit,brain circuits,4,1.08,4,0.4,1.0,T00
+brain-computer interface,brain-computer interface,4,1.08,5,0.5,1.25,T04
+caenorhabditis elegan,caenorhabditis elegans,4,1.08,4,0.4,1.0,T16
+cation channel,cation channels,4,1.08,4,0.4,1.0,T11
+cell-type specificity,cell-type specificity,4,1.08,5,0.5,1.25,T11
+cellular mechanism,cellular mechanisms,4,1.08,4,0.4,1.0,T12
+cholinergic interneuron,cholinergic interneurons,4,1.08,5,0.5,1.25,T00
+cognitive deficit,cognitive deficits,4,1.08,5,0.5,1.25,T06
+computational model,computational model,4,1.08,4,0.4,1.0,T04
+confocal microscopy,confocal microscopy,4,1.08,4,0.4,1.0,T07
+dopamine replacement therapy,dopamine replacement therapy,4,1.08,4,0.4,1.0,T15
+dorsolateral striatum,dorsolateral striatum,4,1.08,4,0.4,1.0,T16
+drug discovery,drug discovery,4,1.08,4,0.4,1.0,T05
+dyskinetic behavior,dyskinetic behaviors,4,1.08,8,0.8,2.0,T15
+engram cell,engram cells,4,1.08,9,0.9,2.25,T02
+executive function,executive function,4,1.08,4,0.4,1.0,T19
+focused ultrasound,focused ultrasound,4,1.08,5,0.5,1.25,T10
+freezing of gait,freezing of gait,4,1.08,13,1.3,3.25,T18
+functional impairment,functional impairments,4,1.08,5,0.5,1.25,T02
+gaba release,gaba release,4,1.08,12,1.2,3.0,T08
+hippocampal network,hippocampal network,4,1.08,6,0.6,1.5,T07
+hippocampal neuron,hippocampal neurons,4,1.08,4,0.4,1.0,T11
+hippocampal slice,hippocampal slices,4,1.08,6,0.6,1.5,T06
+inhibitory input,inhibitory input,4,1.08,6,0.6,1.5,T01
+l-dopa treatment,l-dopa treatment,4,1.08,5,0.5,1.25,T15
+locomotor activity,locomotor activity,4,1.08,5,0.5,1.25,T01
+locomotor deficit,locomotor deficits,4,1.08,5,0.5,1.25,T18
+medial septum,medial septum,4,1.08,4,0.4,1.0,T19
+microtubule-associated protein tau,microtubule-associated protein tau,4,1.08,4,0.4,1.0,T06
+mild cognitive impairment,mild cognitive impairment,4,1.08,4,0.4,1.0,T02
+monosynaptic tracing,monosynaptic tracing,4,1.08,5,0.5,1.25,T14
+motor coordination,motor coordination,4,1.08,7,0.7,1.75,T08
+n-methyl-d-aspartate receptor,n-methyl-d-aspartate receptor,4,1.08,4,0.4,1.0,T03
+neural stem cell,neural stem cells,4,1.08,6,0.6,1.5,T14
+neurological condition,neurological conditions,4,1.08,4,0.4,1.0,T14
+neuronal death,neuronal death,4,1.08,4,0.4,1.0,T05
+neuronal loss,neuronal loss,4,1.08,5,0.5,1.25,T13
+p301s tau,p301s tau,4,1.08,6,0.6,1.5,T02
+pain processing,pain processing,4,1.08,7,0.7,1.75,T17
+parkinsonian rats,parkinsonian rats,4,1.08,4,0.4,1.0,T01
+personalized medicine,personalized medicine,4,1.08,4,0.4,1.0,T10
+phase separation,phase separation,4,1.08,7,0.7,1.75,T13
+potassium channel,potassium channels,4,1.08,4,0.4,1.0,T16
+protein kinase,protein kinase,4,1.08,5,0.5,1.25,T16
+receptor activation,receptor activation,4,1.08,4,0.4,1.0,T12
+receptor antagonist,receptor antagonist,4,1.08,4,0.4,1.0,T00
+sleep disorder,sleep disorders,4,1.08,4,0.4,1.0,T01
+slow oscillation,slow oscillations,4,1.08,11,1.1,2.75,T07
+striatal dopamine,striatal dopamine,4,1.08,9,0.9,2.25,T00
+synaptic connectivity,synaptic connectivity,4,1.08,4,0.4,1.0,T03
+synaptic loss,synaptic loss,4,1.08,4,0.4,1.0,T06
+synaptic protein,synaptic proteins,4,1.08,5,0.5,1.25,T02
+tau hyperphosphorylation,tau hyperphosphorylation,4,1.08,4,0.4,1.0,T06
+therapeutic application,therapeutic applications,4,1.08,5,0.5,1.25,T06
+therapeutic option,therapeutic option,4,1.08,7,0.7,1.75,T06
+therapeutic relevance,therapeutic relevance,4,1.08,4,0.4,1.0,T01
+transcranial magnetic stimulation,transcranial magnetic stimulation,4,1.08,4,0.4,1.0,T04
+visual cortex,visual cortex,4,1.08,6,0.6,1.5,T05
+acetylcholine receptor,acetylcholine receptors,3,0.81,3,0.3,1.0,T16
+activity pattern,activity patterns,3,0.81,4,0.4,1.33,T06
+axon terminal,axon terminals,3,0.81,5,0.5,1.67,T02
+basal ganglia circuit,basal ganglia circuit,3,0.81,3,0.3,1.0,T08
+binding protein,binding protein,3,0.81,4,0.4,1.33,T03
+brain injury,brain injury,3,0.81,3,0.3,1.0,T14
+brain network,brain network,3,0.81,3,0.3,1.0,T02
+cerebellum,cerebellum,3,0.81,8,0.8,2.67,T08
+cholinergic signaling,cholinergic signaling,3,0.81,4,0.4,1.33,T19
+closed-loop control,closed-loop control,3,0.81,3,0.3,1.0,T05
+closed-loop stimulation,closed-loop stimulation,3,0.81,6,0.6,2.0,T04
+cognitive disorder,cognitive disorders,3,0.81,4,0.4,1.33,T02
+cognitive dysfunction,cognitive dysfunction,3,0.81,3,0.3,1.0,T07
+designer receptor,designer receptors,3,0.81,3,0.3,1.0,T04
+designer receptors exclusively,designer receptors exclusively,3,0.81,3,0.3,1.0,T04
+diagonal band,diagonal band,3,0.81,3,0.3,1.0,T19
+drug addiction,drug addiction,3,0.81,8,0.8,2.67,T03
+dystonia,dystonia,3,0.81,3,0.3,1.0,T12
+expressing channelrhodopsin-2,expressing channelrhodopsin-2,3,0.81,3,0.3,1.0,T07
+expressing chr2,expressing chr2,3,0.81,4,0.4,1.33,T11
+fluorescent protein,fluorescent protein,3,0.81,4,0.4,1.33,T09
+frontotemporal dementia,frontotemporal dementia,3,0.81,3,0.3,1.0,T13
+functional alteration,functional alterations,3,0.81,3,0.3,1.0,T02
+functional magnetic resonance,functional magnetic resonance,3,0.81,3,0.3,1.0,T02
+globus pallidus internu,globus pallidus internus,3,0.81,3,0.3,1.0,T08
+glutamate receptor,glutamate receptors,3,0.81,5,0.5,1.67,T06
+growth factor,growth factor,3,0.81,5,0.5,1.67,T03
+histamine,histamine,3,0.81,17,1.7,5.67,T01
+inferior colliculu,inferior colliculus,3,0.81,3,0.3,1.0,T01
+information processing,information processing,3,0.81,3,0.3,1.0,T07
+inhibit specific,inhibit specific,3,0.81,3,0.3,1.0,T03
+inhibitory interneuron,inhibitory interneurons,3,0.81,5,0.5,1.67,T07
+intrinsic excitability,intrinsic excitability,3,0.81,5,0.5,1.67,T05
+lewy body,lewy body,3,0.81,4,0.4,1.33,T13
+light intensity,light intensity,3,0.81,3,0.3,1.0,T07
+light source,light sources,3,0.81,5,0.5,1.67,T10
+living cell,living cells,3,0.81,7,0.7,2.33,T03
+memory engram,memory engram,3,0.81,8,0.8,2.67,T06
+midbrain dopamine,midbrain dopamine,3,0.81,3,0.3,1.0,T00
+midbrain dopamine neuron,midbrain dopamine neurons,3,0.81,3,0.3,1.0,T00
+mitochondrial dysfunction,mitochondrial dysfunction,3,0.81,3,0.3,1.0,T06
+molecular basi,molecular basis,3,0.81,3,0.3,1.0,T09
+motor impairment,motor impairment,3,0.81,3,0.3,1.0,T13
+motor learning,motor learning,3,0.81,6,0.6,2.0,T00
+network dynamic,network dynamics,3,0.81,3,0.3,1.0,T10
+neural oscillation,neural oscillations,3,0.81,5,0.5,1.67,T07
+neural substrate,neural substrates,3,0.81,3,0.3,1.0,T00
+neuronal activation,neuronal activation,3,0.81,3,0.3,1.0,T10
+neuronal cell,neuronal cell,3,0.81,3,0.3,1.0,T06
+neuronal hyperactivity,neuronal hyperactivity,3,0.81,5,0.5,1.67,T02
+neurons derived,neurons derived,3,0.81,3,0.3,1.0,T14
+neuropsychiatric symptom,neuropsychiatric symptoms,3,0.81,4,0.4,1.33,T02
+neurotransmitter system,neurotransmitter systems,3,0.81,3,0.3,1.0,T01
+nigrostriatal dopamine,nigrostriatal dopamine,3,0.81,3,0.3,1.0,T00
+nucleus neuron,nucleus neurons,3,0.81,3,0.3,1.0,T00
+parkinsonian condition,parkinsonian conditions,3,0.81,4,0.4,1.33,T08
+parkinsonian symptom,parkinsonian symptoms,3,0.81,4,0.4,1.33,T08
+pharmacological treatment,pharmacological treatments,3,0.81,3,0.3,1.0,T10
+phosphorylated tau,phosphorylated tau,3,0.81,4,0.4,1.33,T06
+primary motor cortex,primary motor cortex,3,0.81,9,0.9,3.0,T12
+reactive oxygen specie,reactive oxygen species,3,0.81,4,0.4,1.33,T11
+retrosplenial cortex,retrosplenial cortex,3,0.81,6,0.6,2.0,T02
+reward seeking,reward seeking,3,0.81,4,0.4,1.33,T02
+shed light,shed light,3,0.81,3,0.3,1.0,T06
+sleep-wake cycle,sleep-wake cycles,3,0.81,3,0.3,1.0,T01
+stimulation parameter,stimulation parameters,3,0.81,3,0.3,1.0,T04
+striatal medium spiny neuron,striatal medium spiny neurons,3,0.81,3,0.3,1.0,T13
+striatal neuron,striatal neurons,3,0.81,3,0.3,1.0,T15
+striatal projection neuron,striatal projection neurons,3,0.81,5,0.5,1.67,T15
+target cell,target cells,3,0.81,3,0.3,1.0,T14
+targeted neuron,targeted neurons,3,0.81,3,0.3,1.0,T14
+temporal control,temporal control,3,0.81,3,0.3,1.0,T03
+therapeutic mechanism,therapeutic mechanisms,3,0.81,3,0.3,1.0,T08
+two-photon microscopy,two-photon microscopy,3,0.81,3,0.3,1.0,T11
+ultrasound stimulation,ultrasound stimulation,3,0.81,3,0.3,1.0,T10
+vivo electrophysiological,vivo electrophysiological,3,0.81,3,0.3,1.0,T02
+vivo electrophysiology,vivo electrophysiology,3,0.81,3,0.3,1.0,T08
+water maze,water maze,3,0.81,3,0.3,1.0,T16
+6-hydroxydopamine lesion,6-hydroxydopamine lesion,2,0.54,2,0.2,1.0,T12
+action selection,action selection,2,0.54,3,0.3,1.5,T15
+adaptive dbs,adaptive dbs,2,0.54,3,0.3,1.5,T04
+astrocytes expressing,astrocytes expressing,2,0.54,4,0.4,2.0,T03
+basal ganglia function,basal ganglia function,2,0.54,2,0.2,1.0,T12
+basolateral amygdala,basolateral amygdala,2,0.54,2,0.2,1.0,T02
+cell biology,cell biology,2,0.54,3,0.3,1.5,T13
+cognitive flexibility,cognitive flexibility,2,0.54,7,0.7,3.5,T00
+diagnostic tool,diagnostic tools,2,0.54,2,0.2,1.0,T14
+direct and indirect pathway,direct and indirect pathways,2,0.54,2,0.2,1.0,T09
+dopamine d1 receptor,dopamine d1 receptor,2,0.54,2,0.2,1.0,T00
+dopamine d2 receptor,dopamine d2 receptor,2,0.54,2,0.2,1.0,T00
+dopamine transmission,dopamine transmission,2,0.54,2,0.2,1.0,T00
+dopaminergic cell,dopaminergic cells,2,0.54,2,0.2,1.0,T14
+dopaminergic neurotransmission,dopaminergic neurotransmission,2,0.54,5,0.5,2.5,T09
+dorsomedial striatum,dorsomedial striatum,2,0.54,2,0.2,1.0,T00
+drosophila melanogaster,drosophila melanogaster,2,0.54,4,0.4,2.0,T09
+embryonic stem cell,embryonic stem cells,2,0.54,3,0.3,1.5,T14
+genetically targeted,genetically targeted,2,0.54,2,0.2,1.0,T10
+globus pallidus externu,globus pallidus externus,2,0.54,2,0.2,1.0,T12
+glutamate uptake,glutamate uptake,2,0.54,2,0.2,1.0,T15
+glutamatergic transmission,glutamatergic transmission,2,0.54,3,0.3,1.5,T02
+high-frequency deep brain,high-frequency deep brain,2,0.54,2,0.2,1.0,T08
+hyperphosphorylated tau,hyperphosphorylated tau,2,0.54,6,0.6,3.0,T06
+ischemic stroke,ischemic stroke,2,0.54,2,0.2,1.0,T05
+light activation,light activation,2,0.54,2,0.2,1.0,T03
+light delivery,light delivery,2,0.54,3,0.3,1.5,T10
+living tissue,living tissues,2,0.54,2,0.2,1.0,T03
+mammalian brain,mammalian brain,2,0.54,2,0.2,1.0,T07
+mechanisms involved,mechanisms involved,2,0.54,2,0.2,1.0,T03
+mechanistic insight,mechanistic insight,2,0.54,2,0.2,1.0,T16
+midbrain dopaminergic neuron,midbrain dopaminergic neurons,2,0.54,5,0.5,2.5,T02
+mood disorder,mood disorders,2,0.54,4,0.4,2.0,T00
+motor recovery,motor recovery,2,0.54,2,0.2,1.0,T11
+motor thalamu,motor thalamus,2,0.54,2,0.2,1.0,T01
+muscarinic receptor,muscarinic receptors,2,0.54,2,0.2,1.0,T00
+network disruption,network disruption,2,0.54,2,0.2,1.0,T06
+neural population,neural population,2,0.54,2,0.2,1.0,T10
+neural recording,neural recording,2,0.54,2,0.2,1.0,T10
+neuronal oscillation,neuronal oscillations,2,0.54,2,0.2,1.0,T07
+neurovascular coupling,neurovascular coupling,2,0.54,5,0.5,2.5,T11
+nicotinic acetylcholine receptor,nicotinic acetylcholine receptors,2,0.54,2,0.2,1.0,T16
+nociceptive hypersensitivity,nociceptive hypersensitivity,2,0.54,2,0.2,1.0,T17
+non-invasive neuromodulation,non-invasive neuromodulation,2,0.54,2,0.2,1.0,T02
+nonhuman primate,nonhuman primates,2,0.54,2,0.2,1.0,T05
+norepinephrine,norepinephrine,2,0.54,8,0.8,4.0,T02
+parkinsonian animal,parkinsonian animals,2,0.54,2,0.2,1.0,T08
+parkinsonian patient,parkinsonian patients,2,0.54,2,0.2,1.0,T12
+parkinsonian state,parkinsonian states,2,0.54,2,0.2,1.0,T17
+parvalbumin interneuron,parvalbumin interneurons,2,0.54,2,0.2,1.0,T02
+pathological tau,pathological tau,2,0.54,5,0.5,2.5,T06
+physiological processe,physiological processes,2,0.54,2,0.2,1.0,T14
+protein synthesi,protein synthesis,2,0.54,3,0.3,1.5,T03
+quantum dots,quantum dots,2,0.54,2,0.2,1.0,T11
+regenerative medicine,regenerative medicine,2,0.54,2,0.2,1.0,T03
+rem sleep,rem sleep,2,0.54,6,0.6,3.0,T01
+retinitis pigmentosa,retinitis pigmentosa,2,0.54,2,0.2,1.0,T11
+risk factor,risk factor,2,0.54,2,0.2,1.0,T17
+specific neuronal population,specific neuronal populations,2,0.54,2,0.2,1.0,T14
+spiking activity,spiking activity,2,0.54,2,0.2,1.0,T11
+stimulation frequency,stimulation frequency,2,0.54,2,0.2,1.0,T08
+striatal cholinergic,striatal cholinergic,2,0.54,3,0.3,1.5,T00
+striatal cholinergic interneuron,striatal cholinergic interneurons,2,0.54,2,0.2,1.0,T00
+synaptic propertie,synaptic properties,2,0.54,2,0.2,1.0,T15
+tau protein,tau protein,2,0.54,4,0.4,2.0,T06
+treatment option,treatment options,2,0.54,2,0.2,1.0,T04
+trpv1,trpv1,2,0.54,9,0.9,4.5,T10
+vagus nerve,vagus nerve,2,0.54,4,0.4,2.0,T06
+ventral hippocampu,ventral hippocampus,2,0.54,2,0.2,1.0,T02
+ventral striatum,ventral striatum,2,0.54,2,0.2,1.0,T00
+vglut2,vglut2,2,0.54,3,0.3,1.5,T15
+vivo brain,vivo brain,2,0.54,2,0.2,1.0,T00
+voltammetry,voltammetry,2,0.54,2,0.2,1.0,T10
+aav vector,aav vectors,1,0.27,13,1.3,13.0,T11
+alleviates parkinsonian,alleviates parkinsonian,1,0.27,1,0.1,1.0,T08
+ameliorating parkinsonian motor,ameliorating parkinsonian motor,1,0.27,1,0.1,1.0,T18
+amyloid load,amyloid load,1,0.27,1,0.1,1.0,T07
+annual deep brain,annual deep brain,1,0.27,1,0.1,1.0,T04
+anterior cingulate cortex,anterior cingulate cortex,1,0.27,1,0.1,1.0,T17
+basal forebrain cholinergic,basal forebrain cholinergic,1,0.27,3,0.3,3.0,T19
+basal ganglia output,basal ganglia output,1,0.27,1,0.1,1.0,T08
+behaving animal,behaving animals,1,0.27,1,0.1,1.0,T05
+beta frequency,beta frequency,1,0.27,1,0.1,1.0,T01
+cell activity,cell activity,1,0.27,1,0.1,1.0,T11
+cellular processe,cellular processes,1,0.27,1,0.1,1.0,T10
+cholinergic receptor,cholinergic receptors,1,0.27,2,0.2,2.0,T06
+chronic neurodegenerative,chronic neurodegenerative,1,0.27,1,0.1,1.0,T05
+cns disorder,cns disorders,1,0.27,1,0.1,1.0,T03
+cofilin-actin rods,cofilin-actin rods,1,0.27,1,0.1,1.0,T06
+dopamine signaling,dopamine signaling,1,0.27,1,0.1,1.0,T13
+dreadd,dreadd,1,0.27,1,0.1,1.0,T04
+episodic memory,episodic memory,1,0.27,1,0.1,1.0,T06
+essential tremor,essential tremor,1,0.27,1,0.1,1.0,T04
+experimental parkinsonism,experimental parkinsonism,1,0.27,1,0.1,1.0,T12
+gene delivery,gene delivery,1,0.27,1,0.1,1.0,T05
+glutamatergic subthalamic nucleu,glutamatergic subthalamic nucleus,1,0.27,2,0.2,2.0,T01
+glutamatergic synapse,glutamatergic synapses,1,0.27,1,0.1,1.0,T00
+hcn channel,hcn channel,1,0.27,1,0.1,1.0,T08
+hippocampal memory,hippocampal memory,1,0.27,1,0.1,1.0,T06
+hippocampal theta,hippocampal theta,1,0.27,1,0.1,1.0,T07
+light-inducible protein aggregation,light-inducible protein aggregation,1,0.27,1,0.1,1.0,T13
+molecular pathway,molecular pathways,1,0.27,1,0.1,1.0,T03
+neurologic disorder,neurologic disorders,1,0.27,1,0.1,1.0,T10
+neuromodulation strategie,neuromodulation strategies,1,0.27,1,0.1,1.0,T11
+neuronal spiking,neuronal spiking,1,0.27,1,0.1,1.0,T04
+nicotinic receptor,nicotinic receptors,1,0.27,3,0.3,3.0,T19
+nucleus deep brain,nucleus deep brain,1,0.27,1,0.1,1.0,T08
+optical control,optical control,1,0.27,1,0.1,1.0,T05
+paper present,paper presents,1,0.27,1,0.1,1.0,T18
+parafascicular nucleu,parafascicular nucleus,1,0.27,1,0.1,1.0,T00
+plaque formation,plaque formation,1,0.27,5,0.5,5.0,T03
+promising tool,promising tool,1,0.27,1,0.1,1.0,T11
+receptor signaling,receptor signaling,1,0.27,1,0.1,1.0,T00
+retinal degeneration,retinal degeneration,1,0.27,2,0.2,2.0,T11
+short-term plasticity,short-term plasticity,1,0.27,1,0.1,1.0,T07
+snr neuron,snr neurons,1,0.27,2,0.2,2.0,T18
+social memory,social memory,1,0.27,4,0.4,4.0,T06
+somatostatin interneuron,somatostatin interneurons,1,0.27,3,0.3,3.0,T08
+spatial navigation,spatial navigation,1,0.27,1,0.1,1.0,T01
+spatial working memory,spatial working memory,1,0.27,2,0.2,2.0,T02
+stress granule,stress granules,1,0.27,1,0.1,1.0,T06
+striatal circuitry,striatal circuitry,1,0.27,1,0.1,1.0,T12
+striatal dopamine release,striatal dopamine release,1,0.27,1,0.1,1.0,T16
+striatopallidal neuron,striatopallidal neurons,1,0.27,1,0.1,1.0,T15
+synaptic strength,synaptic strength,1,0.27,1,0.1,1.0,T03
+tau oligomerization,tau oligomerization,1,0.27,1,0.1,1.0,T06
+temporal lobe epilepsy,temporal lobe epilepsy,1,0.27,1,0.1,1.0,T06
+theta burst stimulation,theta burst stimulation,1,0.27,1,0.1,1.0,T01
+theta rhythm,theta rhythm,1,0.27,3,0.3,3.0,T07
+tourette syndrome,tourette syndrome,1,0.27,1,0.1,1.0,T08
+ultrasonically powered,ultrasonically powered,1,0.27,1,0.1,1.0,T10

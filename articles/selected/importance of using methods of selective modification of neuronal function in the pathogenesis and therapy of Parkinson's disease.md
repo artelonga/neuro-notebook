@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 4
+tags: ["artigo", "tema/3"]
 ---
+Introduction: Parkinson's disease (PD) is one of the most [[grafo/termos/common neurodegenerative|common neurodegenerative]] diseases that mainly affects older people over 60 years of age. Since life expectancy is increasing not only in Europe but also around the world, the number of people suffering from PD will gradually increase. State of knowledge: One of the newest techniques used to study the mechanisms of diseases of the nervous system, which allows monitoring the activity of neurons by modifying their functions, is optogenetics. This method involves controlling [[grafo/termos/neuronal activity|neuronal activity]] using light. The sensitivity of cells to light is achieved by introducing into the body the genes of [[grafo/termos/ion channels|ion channels]] from algae or bacteria, which are incorporated into the cell membrane and then become excited when exposed to light. Depending on the gene used, the activity of a nerve cell can be intensified or inhibited. An important advantage of the method is the possibility of using it in vivo and recording the results in real time. Summary: This publication aims to present the basics of optogenetics and is a review of works related to its use in the study of PD pathomechanism. For this purpose, the PubMed and Google Scholar databases were verified using the following words: "Parkinson optogenetic", "optogenetic stimulation", "[[grafo/termos/channelrhodopsin|channelrhodopsin]]".
 
-Introduction: Parkinson's disease (PD) is one of the most common neurodegenerative diseases that mainly affects older people over 60 years of age. Since life expectancy is increasing not only in Europe but also around the world, the number of people suffering from PD will gradually increase. State of knowledge: One of the newest techniques used to study the mechanisms of diseases of the nervous system, which allows monitoring the activity of neurons by modifying their functions, is optogenetics. This method involves controlling neuronal activity using light. The sensitivity of cells to light is achieved by introducing into the body the genes of ion channels from algae or bacteria, which are incorporated into the cell membrane and then become excited when exposed to light. Depending on the gene used, the activity of a nerve cell can be intensified or inhibited. An important advantage of the method is the possibility of using it in vivo and recording the results in real time. Summary: This publication aims to present the basics of optogenetics and is a review of works related to its use in the study of PD pathomechanism. For this purpose, the PubMed and Google Scholar databases were verified using the following words: "Parkinson optogenetic", "optogenetic stimulation", "channelrhodopsin".
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (4):** [[grafo/termos/channelrhodopsin|channelrhodopsin]] · [[grafo/termos/common neurodegenerative|common neurodegenerative]] · [[grafo/termos/ion channels|ion channels]] · [[grafo/termos/neuronal activity|neuronal activity]]
+<!-- vinculos:fim -->

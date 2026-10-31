@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 2
+tags: ["artigo", "tema/2"]
 ---
+'Sundowning' in dementia and Alzheimer's disease is characterized by early-evening agitation and aggression. While such periodicity suggests a circadian origin, whether the circadian clock directly regulates aggressive behavior is unknown. We demonstrate that a daily rhythm in aggression propensity in male mice is gated by GABAergic subparaventricular zone (SPZGABA) neurons, the major postsynaptic targets of the central circadian clock, the suprachiasmatic nucleus. Optogenetic mapping revealed that SPZGABA neurons receive input from vasoactive intestinal polypeptide suprachiasmatic [[grafo/termos/nucleus neurons|nucleus neurons]] and innervate neurons in the ventrolateral part of the ventromedial hypothalamus (VMH), which is known to regulate aggression. Additionally, VMH-projecting dorsal SPZ neurons are more active during early day than early night, and acute [[grafo/termos/chemogenetic inhibition|chemogenetic inhibition]] of SPZGABA transmission phase-dependently increases aggression. Finally, SPZGABA-recipient central VMH neurons directly innervate ventrolateral VMH neurons, and activation of this intra-VMH circuit drove attack behavior. Altogether, we reveal a functional polysynaptic circuit by which the suprachiasmatic nucleus clock regulates aggression.
 
-'Sundowning' in dementia and Alzheimer's disease is characterized by early-evening agitation and aggression. While such periodicity suggests a circadian origin, whether the circadian clock directly regulates aggressive behavior is unknown. We demonstrate that a daily rhythm in aggression propensity in male mice is gated by GABAergic subparaventricular zone (SPZGABA) neurons, the major postsynaptic targets of the central circadian clock, the suprachiasmatic nucleus. Optogenetic mapping revealed that SPZGABA neurons receive input from vasoactive intestinal polypeptide suprachiasmatic nucleus neurons and innervate neurons in the ventrolateral part of the ventromedial hypothalamus (VMH), which is known to regulate aggression. Additionally, VMH-projecting dorsal SPZ neurons are more active during early day than early night, and acute chemogenetic inhibition of SPZGABA transmission phase-dependently increases aggression. Finally, SPZGABA-recipient central VMH neurons directly innervate ventrolateral VMH neurons, and activation of this intra-VMH circuit drove attack behavior. Altogether, we reveal a functional polysynaptic circuit by which the suprachiasmatic nucleus clock regulates aggression.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (2):** [[grafo/termos/chemogenetic inhibition|chemogenetic inhibition]] · [[grafo/termos/nucleus neurons|nucleus neurons]]
+<!-- vinculos:fim -->

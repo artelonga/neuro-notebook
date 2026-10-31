@@ -44,6 +44,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 1
+tags: ["artigo", "tema/2"]
 ---
+The research on Alzheimer’s disease (AD) has progressed in recent years. The potential [[grafo/termos/risk factor|risk factors]] for AD are multifaceted, which makes the diagnosis and treatment of AD extremely challenging. With the development of bioinformation other manipulations in the micro level, more and more research studies have revealed different aspects of the disease. This study summarizes current results on the etiology of AD as well as treatments for AD and their effectiveness by reviewing empirical findings. In the genetic level, some genes have been examined on mice model by inhibition or optogenetic activation and revealed pathways in the formation of AD. Apart from genes, proteomic studies on certain proteins have also revealed some related changes triggered by blood proteins. Meanwhile, researchers have tested non-invasive treatments such as affecting the brainwave of mice. However, the results do not always change into clinical treatments. The present study emphasizes the necessity to integrate these pieces of study and form a more comprehensive understanding of AD.
 
-The research on Alzheimer’s disease (AD) has progressed in recent years. The potential risk factors for AD are multifaceted, which makes the diagnosis and treatment of AD extremely challenging. With the development of bioinformation other manipulations in the micro level, more and more research studies have revealed different aspects of the disease. This study summarizes current results on the etiology of AD as well as treatments for AD and their effectiveness by reviewing empirical findings. In the genetic level, some genes have been examined on mice model by inhibition or optogenetic activation and revealed pathways in the formation of AD. Apart from genes, proteomic studies on certain proteins have also revealed some related changes triggered by blood proteins. Meanwhile, researchers have tested non-invasive treatments such as affecting the brainwave of mice. However, the results do not always change into clinical treatments. The present study emphasizes the necessity to integrate these pieces of study and form a more comprehensive understanding of AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (1):** [[grafo/termos/risk factor|risk factor]]
+<!-- vinculos:fim -->

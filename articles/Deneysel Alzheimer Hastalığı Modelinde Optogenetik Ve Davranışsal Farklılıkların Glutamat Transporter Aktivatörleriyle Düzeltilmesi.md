@@ -43,6 +43,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 0
+tags: ["artigo", "tema/2"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+<!-- vinculos:fim -->

@@ -1,0 +1,4223 @@
+work_id,termo,n
+W0001,deep brain stimulation,3
+W0001,striatum,1
+W0001,brain stimulation,2
+W0001,6-hydroxydopamine,1
+W0001,parkinsonism,1
+W0001,entopeduncular nucleu,1
+W0002,basal ganglia,4
+W0002,subthalamic nucleu,5
+W0002,striatum,2
+W0002,chemogenetic,1
+W0002,globus pallidu,1
+W0002,basal ganglia circuitry,1
+W0002,astrocyte,2
+W0002,gpe neuron,1
+W0002,external globus pallidu,12
+W0002,fiber photometry,1
+W0002,dorsolateral striatum,1
+W0002,substantia nigra pars reticulata,1
+W0002,therapeutic strategie,1
+W0002,cell type,1
+W0002,obsessive-compulsive disorder,1
+W0002,autism spectrum disorder,1
+W0002,basal ganglia output,1
+W0002,mechanisms involved,1
+W0002,addiction,1
+W0002,circuit mechanism,2
+W0002,action selection,1
+W0002,reward,1
+W0002,reward seeking,1
+W0002,activity pattern,1
+W0002,autism spectrum,1
+W0002,external globu,1
+W0005,deep brain stimulation,1
+W0005,neural circuit,1
+W0005,neurodegenerative disorder,1
+W0005,channelrhodopsin-2,1
+W0005,beta oscillation,2
+W0005,light stimulation,1
+W0005,external globus pallidu,1
+W0005,closed-loop control,1
+W0005,chronic neurodegenerative,1
+W0005,adaptive dbs,1
+W0006,striatum,1
+W0006,motor cortex,2
+W0006,thalamu,1
+W0012,6-hydroxydopamine,1
+W0013,subthalamic nucleu,2
+W0013,chemogenetic,1
+W0013,6-hydroxydopamine,1
+W0013,parkinsonian condition,2
+W0013,improves motor,1
+W0013,therapeutic relevance,1
+W0014,striatal cholinergic interneuron,1
+W0014,cholinergic interneuron,1
+W0014,striatal cholinergic,1
+W0014,acetylcholine,1
+W0014,gabaergic interneuron,2
+W0014,spiny projection neuron,1
+W0014,direct pathway,1
+W0014,nicotinic acetylcholine receptor,1
+W0014,brain slice,1
+W0014,muscarinic receptor,1
+W0014,projection neuron,1
+W0014,behavioral deficit,1
+W0014,parkinsonian state,1
+W0014,gabaa receptor,1
+W0014,acetylcholine receptor,1
+W0014,vivo brain,1
+W0014,receptor signaling,1
+W0015,striatal cholinergic interneuron,1
+W0015,cholinergic interneuron,2
+W0015,striatal cholinergic,1
+W0015,acetylcholine,1
+W0015,gabaergic interneuron,2
+W0015,spiny projection neuron,2
+W0015,direct pathway,1
+W0015,nicotinic acetylcholine receptor,1
+W0015,brain slice,1
+W0015,muscarinic receptor,1
+W0015,projection neuron,2
+W0015,behavioral deficit,1
+W0015,parkinsonian state,1
+W0015,gabaa receptor,1
+W0015,acetylcholine receptor,1
+W0015,vivo brain,1
+W0015,receptor signaling,1
+W0021,basal ganglia,5
+W0021,dopaminergic neuron,1
+W0021,dopamine,20
+W0021,substantia nigra,3
+W0021,dopamine depletion,1
+W0021,dopamine release,1
+W0021,synaptic transmission,2
+W0021,motor deficit,1
+W0021,dopamine receptor,1
+W0021,6-hydroxydopamine,1
+W0021,substantia nigra pars compacta,2
+W0021,dopamine signaling,2
+W0021,striatal dopamine,3
+W0021,substantia nigra pars,3
+W0021,substantia nigra pars reticulata,9
+W0021,dopamine d1 receptor,1
+W0021,brain slice,1
+W0021,receptor activation,1
+W0021,synapse,1
+W0021,gabaergic inhibition,2
+W0021,gaba,2
+W0021,electrophysiological recording,1
+W0021,neurotransmitter system,2
+W0021,gaba release,2
+W0021,protein synthesi,1
+W0021,pars compacta,1
+W0021,autism spectrum disorder,2
+W0021,basal ganglia output,2
+W0021,nigra pars reticulata,2
+W0021,striatal dopamine release,1
+W0021,wide range,1
+W0021,therapeutic strategy,1
+W0021,snr neuron,1
+W0021,poorly understood,1
+W0021,dopamine transmission,1
+W0021,autism spectrum,2
+W0021,nicotinic receptor,1
+W0021,firing pattern,1
+W0021,receptor signaling,1
+W0027,dopamine,6
+W0027,chemogenetic,1
+W0027,acetylcholine,1
+W0027,basal forebrain,1
+W0027,cholinergic neuron,2
+W0027,striatal dopamine,5
+W0027,chemogenetic inhibition,1
+W0027,nigrostriatal dopamine,1
+W0027,cognitive dysfunction,1
+W0028,computational model,2
+W0028,synapse,1
+W0028,protein synthesi,1
+W0032,synaptic plasticity,2
+W0032,memory impairment,1
+W0032,dentate gyru,1
+W0032,memory,2
+W0032,computational model,1
+W0032,protein synthesi,1
+W0032,brain injury,1
+W0032,basolateral amygdala,1
+W0033,neuronal activity,1
+W0033,chemogenetic,1
+W0033,therapeutic target,1
+W0033,neuronal population,1
+W0033,fiber photometry,1
+W0033,tau pathology,2
+W0033,chemogenetic activation,1
+W0033,sleep,6
+W0033,neuronal loss,1
+W0033,circuit mechanism,2
+W0033,tauopathy,2
+W0033,tau,3
+W0033,eeg,1
+W0033,rem sleep,1
+W0033,functional impairment,1
+W0039,basal ganglia,1
+W0039,dopamine,1
+W0039,motor symptom,1
+W0039,neurodegeneration,1
+W0039,motor cortex,1
+W0039,parkinsonism,4
+W0039,mechanisms underlying,1
+W0039,pyramidal neuron,1
+W0039,nmda receptor,1
+W0039,primary motor cortex,1
+W0039,striatal dopamine,1
+W0039,l-dopa,1
+W0043,deep brain stimulation,1
+W0043,neural circuit,1
+W0043,neuromodulation,2
+W0043,ion channel,1
+W0043,ventral tegmental area,1
+W0043,neuronal excitability,1
+W0043,parkinsonian symptom,1
+W0043,cell type,1
+W0043,non-invasive neuromodulation,1
+W0043,cell-type specific,1
+W0043,cell-type specificity,1
+W0043,trpv1,1
+W0046,dopamine,4
+W0046,substantia nigra,1
+W0046,dopamine release,2
+W0046,substantia nigra pars compacta,4
+W0046,neuronal population,1
+W0046,spiny projection neuron,1
+W0046,genetically encoded,1
+W0046,fiber photometry,1
+W0046,striatal dopamine,2
+W0046,substantia nigra pars,1
+W0046,motor behavior,1
+W0046,α-synuclein,1
+W0046,projection neuron,1
+W0046,pars compacta,1
+W0046,striatal dopamine release,1
+W0046,mitochondrial dysfunction,1
+W0048,basal ganglia,1
+W0048,substantia nigra,1
+W0048,neurological disorder,1
+W0048,motor deficit,1
+W0048,light stimulation,1
+W0048,substantia nigra pars compacta,1
+W0048,substantia nigra pars,1
+W0048,pars compacta,1
+W0048,cellular processe,1
+W0048,hcn channel,1
+W0050,neural circuit,1
+W0050,brain function,1
+W0050,depression,1
+W0050,memory formation,1
+W0050,memory,1
+W0050,channelrhodopsin,1
+W0050,brain tissue,2
+W0050,sleep,1
+W0050,anxiety,1
+W0050,freely moving,1
+W0050,addiction,1
+W0050,behaving animal,1
+W0050,optical control,1
+W0050,moving animal,1
+W0051,neural circuit,1
+W0051,gene therapy,1
+W0051,clinical trial,1
+W0051,epilepsy,1
+W0051,channelrhodopsin,1
+W0051,cellular mechanism,1
+W0051,retinal degeneration,1
+W0051,target cell,1
+W0053,cognitive function,1
+W0053,oxidative stress,1
+W0053,clinical trial,1
+W0053,neuroinflammation,1
+W0053,amyloid beta,1
+W0053,neurofibrillary tangle,1
+W0053,neuroprotection,1
+W0053,receptor antagonist,1
+W0053,pathophysiological mechanism,1
+W0054,protein aggregation,1
+W0054,blue light,1
+W0054,α-synuclein,2
+W0054,phase separation,1
+W0054,cellular processe,1
+W0054,light-inducible protein aggregation,1
+W0054,mechanistic insight,1
+W0054,living cell,1
+W0057,neural activity,1
+W0057,memory impairment,1
+W0057,memory deficit,2
+W0057,prefrontal cortex,1
+W0057,pyramidal neuron,4
+W0057,thalamu,1
+W0057,memory,4
+W0057,firing rate,1
+W0057,electrophysiological recording,1
+W0057,medial prefrontal cortex,1
+W0057,cellular mechanism,1
+W0057,cognitive deficit,1
+W0057,spatial working memory,1
+W0057,working memory,4
+W0057,vivo electrophysiological,1
+W0057,poorly understood,1
+W0058,deep brain stimulation,1
+W0058,basal ganglia,1
+W0058,subthalamic nucleu,1
+W0058,brain stimulation,1
+W0058,neuromodulation,1
+W0058,mesencephalic locomotor region,1
+W0058,non-invasive neuromodulation,1
+W0058,locomotor activity,1
+W0058,locomotor region,1
+W0058,circuit mechanism,1
+W0058,promising therapeutic,1
+W0058,therapeutic strategy,1
+W0058,stn dbs,1
+W0058,nucleus deep brain,1
+W0058,motor dysfunction,1
+W0058,poorly understood,1
+W0058,brainstem,1
+W0058,mesencephalic locomotor,1
+W0061,non-human primate,1
+W0061,closed-loop stimulation,1
+W0061,therapeutic application,1
+W0064,striatum,2
+W0064,dopamine,1
+W0064,synaptic plasticity,1
+W0064,chemogenetic,1
+W0064,striatal cholinergic interneuron,1
+W0064,motor deficit,1
+W0064,astrocyte,12
+W0064,cholinergic interneuron,1
+W0064,therapeutic target,1
+W0064,dorsal striatum,1
+W0064,neuronal circuit,1
+W0064,striatal cholinergic,1
+W0064,acetylcholine,1
+W0064,locomotion,4
+W0064,dorsolateral striatum,1
+W0064,remains unclear,1
+W0064,cholinergic signaling,1
+W0064,neuromodulatory system,1
+W0064,evidence indicate,1
+W0074,basal ganglia,1
+W0074,dopamine,1
+W0074,motor symptom,1
+W0074,neurodegeneration,1
+W0074,motor cortex,1
+W0074,parkinsonism,4
+W0074,mechanisms underlying,1
+W0074,pyramidal neuron,1
+W0074,nmda receptor,1
+W0074,primary motor cortex,1
+W0074,striatal dopamine,1
+W0074,l-dopa,1
+W0075,dopaminergic neuron,2
+W0075,substantia nigra,1
+W0075,neurodegenerative disorder,1
+W0075,neurodegeneration,1
+W0075,oxidative stress,1
+W0075,ion channel,1
+W0075,acetylcholine,1
+W0075,nicotinic acetylcholine receptor,1
+W0075,potassium channel,1
+W0075,acetylcholine receptor,1
+W0075,cation channel,1
+W0079,protein aggregation,1
+W0079,therapeutic target,1
+W0079,lewy bodie,1
+W0079,α-synuclein,1
+W0079,promising therapeutic,1
+W0079,temporal resolution,1
+W0080,astrocyte,4
+W0080,amyloid beta,1
+W0080,sleep,5
+W0080,cortical neuron,1
+W0080,gaba,3
+W0080,eeg,1
+W0080,sleep disturbance,5
+W0088,neurodegenerative disorder,1
+W0088,central nervou,2
+W0088,clinical trial,1
+W0088,therapeutic intervention,1
+W0088,non-human primate,1
+W0088,spinal cord,1
+W0088,brain tissue,1
+W0088,anxiety,1
+W0088,light-sensitive protein,1
+W0088,therapeutic option,1
+W0088,autism spectrum disorder,1
+W0088,cell biology,1
+W0088,light delivery,1
+W0088,retinitis pigmentosa,1
+W0088,quantum dots,1
+W0088,stroke,1
+W0088,neurological condition,1
+W0088,autism spectrum,1
+W0088,precise control,1
+W0088,light sensitive,1
+W0088,cell activity,1
+W0090,rat model,1
+W0090,cognitive decline,5
+W0090,locus coeruleu,1
+W0090,memory,1
+W0090,tau accumulation,3
+W0090,human tau,1
+W0090,tau,12
+W0090,brainstem,1
+W0090,hyperphosphorylated tau,1
+W0090,cognition,3
+W0091,cognitive function,1
+W0091,hippocampu,1
+W0091,electrophysiology,1
+W0091,brain region,1
+W0091,entorhinal cortex,1
+W0091,memory,3
+W0091,therapeutic intervention,1
+W0091,amyloid-β,1
+W0091,neurodegenerative condition,1
+W0091,retrosplenial cortex,1
+W0091,spatial navigation,2
+W0091,synaptic strength,1
+W0100,chemogenetic,1
+W0100,therapeutic target,1
+W0100,frontotemporal dementia,1
+W0100,tau,3
+W0104,long-term potentiation,1
+W0104,pyramidal neuron,1
+W0104,electrophysiology,1
+W0104,brain region,1
+W0104,memory,1
+W0104,retrosplenial cortex,1
+W0104,anterior cingulate cortex,1
+W0104,poorly understood,1
+W0104,spatial navigation,2
+W0104,synaptic propertie,1
+W0107,dopamine,3
+W0107,dopamine release,1
+W0107,spiny projection neuron,1
+W0107,striatal dopamine,1
+W0107,projection neuron,1
+W0107,glutamate,3
+W0107,synaptic protein,1
+W0107,striatal dopamine release,1
+W0107,neuronal function,1
+W0107,poorly understood,1
+W0107,dopamine transmission,1
+W0116,deep brain stimulation,1
+W0116,brain stimulation,1
+W0116,neuromodulation,2
+W0116,motor cortex,1
+W0116,globus pallidu,1
+W0116,external globus pallidu,2
+W0116,clinical application,1
+W0116,non-human primate,1
+W0116,optical fiber,1
+W0116,genetically targeted,2
+W0116,non-invasive neuromodulation,1
+W0116,cell-type specific,1
+W0116,light source,1
+W0116,external globu,1
+W0116,parvalbumin,1
+W0123,neurodegeneration,1
+W0123,memory impairment,1
+W0123,hippocampu,3
+W0123,gamma oscillation,5
+W0123,basal forebrain,4
+W0123,thalamu,2
+W0123,electrical stimulation,2
+W0123,local field potential,1
+W0123,cholinergic neuron,2
+W0123,memory,1
+W0123,early stage,1
+W0123,information processing,1
+W0123,spiking activity,3
+W0123,diagonal band,3
+W0123,poorly understood,1
+W0123,amyloid load,1
+W0125,neuromodulation,2
+W0125,neurological disorder,1
+W0125,epilepsy,1
+W0125,electrical stimulation,1
+W0125,optical fiber,1
+W0125,neural recording,1
+W0125,drug delivery,1
+W0125,paper present,1
+W0130,dopaminergic neuron,3
+W0130,dopamine,2
+W0130,dopamine signaling,1
+W0130,sleep,7
+W0130,underlying mechanism,1
+W0130,drosophila melanogaster,1
+W0130,activity pattern,1
+W0130,sleep disturbance,1
+W0130,sleep-wake cycle,2
+W0134,dopaminergic neuron,1
+W0134,dopamine,2
+W0134,substantia nigra,3
+W0134,neurodegeneration,4
+W0134,dopamine neuron,1
+W0134,motor deficit,2
+W0134,6-hydroxydopamine,3
+W0134,astrocyte,6
+W0134,therapeutic target,1
+W0134,gene expression,1
+W0134,substantia nigra pars compacta,1
+W0134,neuroinflammation,1
+W0134,microglia,2
+W0134,cell population,1
+W0142,dopaminergic neuron,2
+W0142,striatum,1
+W0142,dopamine,1
+W0142,motor control,1
+W0142,dopamine neuron,1
+W0142,functional connectivity,1
+W0142,therapeutic intervention,1
+W0142,nigrostriatal pathway,2
+W0142,dorsolateral striatum,1
+W0142,poorly understood,1
+W0144,striatum,1
+W0144,globus pallidu,1
+W0144,levodopa-induced dyskinesia,1
+W0144,external globus pallidu,2
+W0144,l-dopa,4
+W0145,striatum,1
+W0145,globus pallidu,1
+W0145,levodopa-induced dyskinesia,1
+W0145,external globus pallidu,2
+W0145,l-dopa,4
+W0147,dreadd,1
+W0147,tau,1
+W0147,water maze,3
+W0148,neurodegeneration,3
+W0148,gene expression,1
+W0148,remains unclear,1
+W0148,brain tissue,1
+W0148,protein tau,1
+W0148,microtubule-associated protein tau,1
+W0148,early stage,1
+W0148,p301s tau,1
+W0148,tau oligomerization,2
+W0148,tau,7
+W0148,pathological tau,2
+W0159,basal ganglia,1
+W0159,dopaminergic neuron,1
+W0159,dopamine,4
+W0159,substantia nigra,2
+W0159,medium spiny neuron,1
+W0159,dopamine release,1
+W0159,substantia nigra pars compacta,1
+W0159,substantia nigra pars,2
+W0159,direct pathway,1
+W0159,substantia nigra pars reticulata,3
+W0159,dopamine d1 receptor,1
+W0159,synapse,1
+W0159,gaba,2
+W0159,gaba release,2
+W0159,pars compacta,1
+W0159,basal ganglia output,1
+W0159,nigra pars reticulata,1
+W0159,snr neuron,1
+W0165,striatum,1
+W0165,medium spiny neuron,3
+W0165,dorsal striatum,1
+W0165,fiber photometry,1
+W0165,motor behavior,1
+W0165,α-synuclein,1
+W0165,receptor activation,1
+W0165,cell type,1
+W0165,behavioral deficit,1
+W0165,cell-type specific,1
+W0165,cellular mechanism,1
+W0165,l-dopa,1
+W0176,brain function,1
+W0176,wide range,1
+W0176,brainstem,1
+W0176,confocal microscopy,1
+W0176,cognition,1
+W0180,dopamine,5
+W0180,dopamine neuron,2
+W0180,memory impairment,3
+W0180,memory formation,2
+W0180,entorhinal cortex,1
+W0180,memory,6
+W0180,brain area,2
+W0180,early stage,1
+W0180,circuit mechanism,1
+W0180,functional alteration,1
+W0180,amyloid precursor protein,1
+W0180,poorly understood,1
+W0180,amyloid precursor,1
+W0182,neuronal activity,5
+W0182,brain function,1
+W0182,astrocyte,1
+W0182,epilepsy,1
+W0182,better understand,1
+W0182,glutamate,1
+W0182,mechanisms involved,1
+W0182,blood flow,3
+W0182,neurovascular coupling,3
+W0182,cognitive deficit,1
+W0182,action potential,1
+W0182,pyramidal cell,4
+W0182,excitatory neuron,1
+W0182,shed light,1
+W0182,cerebral blood flow,3
+W0186,neurodegenerative disorder,1
+W0186,sleep,10
+W0186,gaba,1
+W0186,slow wave,1
+W0186,progressive neurodegenerative,1
+W0186,sleep disturbance,1
+W0186,poorly understood,1
+W0187,neurological disorder,1
+W0187,neurodegeneration,3
+W0187,chemogenetic,1
+W0187,electrophysiology,1
+W0187,lewy bodie,1
+W0187,α-synuclein,8
+W0187,axon terminal,1
+W0187,basolateral amygdala,1
+W0187,small molecule,1
+W0196,striatum,3
+W0196,substantia nigra,1
+W0196,optical stimulation,1
+W0196,dorsal striatum,1
+W0196,nucleus accumben,1
+W0196,ventral tegmental area,1
+W0196,brain disorder,1
+W0196,projection neuron,1
+W0196,dorsomedial striatum,1
+W0196,reward,2
+W0196,ventral striatum,1
+W0196,cognitive flexibility,2
+W0196,neural substrate,1
+W0197,neurodegeneration,1
+W0197,light stimulation,1
+W0197,clinical trial,1
+W0197,stem cell,1
+W0197,tau aggregation,6
+W0197,pluripotent stem cell,1
+W0197,cellular model,1
+W0197,tau,12
+W0197,poorly understood,1
+W0197,induced pluripotent stem cell,1
+W0197,molecular basi,1
+W0198,deep brain stimulation,4
+W0198,basal ganglia,2
+W0198,subthalamic nucleu,7
+W0198,striatum,1
+W0198,brain stimulation,1
+W0198,motor symptom,1
+W0198,indirect pathway,1
+W0198,globus pallidu,2
+W0198,long-term potentiation,1
+W0198,beta oscillation,1
+W0198,globus pallidus externu,1
+W0198,external globus pallidu,1
+W0198,globus pallidus internu,1
+W0198,direct pathway,1
+W0198,therapeutic benefit,1
+W0198,basal ganglia circuit,2
+W0198,stn dbs,1
+W0198,motor recovery,1
+W0216,brain stimulation,3
+W0216,brain disorder,2
+W0216,clinical application,1
+W0216,non-human primate,1
+W0216,stimulation parameter,3
+W0216,effective treatment,1
+W0218,memory impairment,1
+W0218,mechanisms underlying,1
+W0218,functional connectivity,1
+W0218,memory formation,1
+W0218,brain region,1
+W0218,amyloid beta,1
+W0218,memory,7
+W0218,brain activity,1
+W0218,optical fiber,1
+W0218,sleep,4
+W0218,memory consolidation,1
+W0218,tau,3
+W0218,activity pattern,1
+W0218,cognitive dysfunction,1
+W0218,spatial navigation,2
+W0218,cognition,1
+W0222,genetically encoded,1
+W0222,addiction,3
+W0222,motivation,6
+W0226,synaptic plasticity,5
+W0226,neurological disorder,1
+W0226,chemogenetic,1
+W0226,long-term potentiation,1
+W0226,cognitive function,1
+W0226,depression,1
+W0226,ion channel,1
+W0226,cognitive decline,1
+W0226,memory formation,1
+W0226,memory,1
+W0226,signaling pathway,1
+W0226,long-term depression,1
+W0226,multiple sclerosi,1
+W0226,synapse,3
+W0226,cellular mechanism,1
+W0228,protein aggregation,2
+W0228,alpha-synuclein,1
+W0228,early stage,2
+W0228,temporal resolution,1
+W0228,light-inducible protein aggregation,1
+W0232,memory impairment,1
+W0232,hippocampu,1
+W0232,electrical stimulation,2
+W0232,memory,3
+W0232,hippocampal network,1
+W0232,theta rhythm,1
+W0239,brain stimulation,1
+W0239,chemogenetic,1
+W0239,depression,1
+W0239,cognitive decline,1
+W0239,cognitive impairment,1
+W0239,fiber photometry,1
+W0239,hippocampal ca1,1
+W0239,neural circuitry,1
+W0239,early stage,1
+W0239,glutamate,1
+W0239,anterior cingulate cortex,1
+W0239,neural substrate,1
+W0246,striatum,1
+W0246,dopamine,2
+W0246,substantia nigra,1
+W0246,brain function,1
+W0246,motor control,1
+W0246,depression,1
+W0246,molecular mechanism,1
+W0246,brain disorder,1
+W0246,nigrostriatal pathway,1
+W0246,neuronal firing,1
+W0246,magnetic resonance imaging,1
+W0246,functional magnetic resonance,1
+W0246,reward,1
+W0246,dopamine transmission,1
+W0248,neural circuit,1
+W0248,stem cell,1
+W0248,brain region,1
+W0248,brain disorder,2
+W0248,clinical application,1
+W0248,cell type,1
+W0253,hippocampu,1
+W0253,pedunculopontine nucleu,4
+W0253,brain activity,1
+W0253,anxiety,1
+W0253,locomotor activity,1
+W0253,better understand,1
+W0253,freezing of gait,1
+W0253,theta rhythm,3
+W0253,cognition,1
+W0253,hippocampal theta,2
+W0259,neural circuit,1
+W0259,neuronal activity,1
+W0259,neurodegeneration,1
+W0259,synaptic transmission,1
+W0259,memory deficit,1
+W0259,memory,2
+W0259,memory loss,1
+W0259,spatial memory,1
+W0259,synaptic protein,1
+W0259,autophagy,1
+W0259,neuronal function,1
+W0259,network disruption,1
+W0259,neuronal hyperactivity,4
+W0267,striatum,1
+W0267,neuromodulation,1
+W0267,globus pallidu,1
+W0267,thalamu,1
+W0267,external globus pallidu,13
+W0268,deep brain stimulation,2
+W0268,subthalamic nucleu,14
+W0268,brain stimulation,1
+W0268,neuropsychiatric disorder,1
+W0268,cognitive function,1
+W0268,depression,1
+W0268,motor impairment,1
+W0268,brain network,1
+W0268,electrophysiological recording,1
+W0268,stn dbs,1
+W0269,basal ganglia,1
+W0269,dopamine,1
+W0269,chemogenetic,2
+W0269,6-hydroxydopamine,3
+W0269,substantia nigra pars compacta,1
+W0269,chronic pain,3
+W0269,spinal cord,3
+W0269,underlying mechanism,1
+W0269,neuron activity,2
+W0269,receptor antagonist,1
+W0269,non-motor symptom,2
+W0269,inhibitory interneuron,1
+W0269,nociceptive hypersensitivity,2
+W0270,hippocampu,1
+W0270,dentate gyru,1
+W0270,epilepsy,1
+W0270,autism spectrum disorder,1
+W0270,cognitive deficit,1
+W0270,temporal lobe epilepsy,1
+W0270,autism spectrum,1
+W0270,neuronal spiking,1
+W0280,dopaminergic neuron,1
+W0280,substantia nigra,1
+W0280,neurological disorder,1
+W0280,blue light,1
+W0280,axon terminal,1
+W0280,growth factor,1
+W0287,oxidative stress,1
+W0287,binding protein,1
+W0287,cofilin-actin rods,1
+W0287,stress granule,1
+W0289,memory deficit,1
+W0289,memory formation,1
+W0289,memory,11
+W0289,tau phosphorylation,2
+W0289,engram cell,3
+W0289,gene editing,1
+W0289,protein tau,1
+W0289,microtubule-associated protein tau,1
+W0289,memory engram,1
+W0289,tau,12
+W0289,episodic memory,1
+W0291,neurodegeneration,4
+W0291,motor deficit,1
+W0291,lewy bodie,1
+W0291,synaptic dysfunction,1
+W0291,remains unclear,1
+W0291,α-synuclein,11
+W0291,phase separation,2
+W0306,depression,1
+W0306,motor behavior,1
+W0306,transcranial magnetic stimulation,1
+W0306,blood-brain barrier,1
+W0306,spatial resolution,1
+W0306,magnetic stimulation,1
+W0307,channelrhodopsin-2,1
+W0307,astrocyte,6
+W0307,neurovascular coupling,3
+W0307,expressing chr2,1
+W0308,chemogenetic,1
+W0308,chronic pain,2
+W0308,nociceptive hypersensitivity,1
+W0308,neurostimulation,1
+W0308,arousal,1
+W0308,cognition,1
+W0308,oscillatory activity,1
+W0309,basal ganglia,1
+W0309,dopamine,8
+W0309,dopamine release,1
+W0309,motor control,1
+W0309,dopamine neuron,2
+W0309,striatal dopamine,1
+W0309,remains unclear,1
+W0309,levodopa,2
+W0309,bradykinesia,1
+W0309,midbrain dopamine,2
+W0309,reward,2
+W0309,midbrain dopamine neuron,2
+W0322,substantia nigra,1
+W0322,neuronal activity,1
+W0322,neurodegeneration,1
+W0322,channelrhodopsin-2,1
+W0322,6-hydroxydopamine,5
+W0322,rodent model,1
+W0322,substantia nigra pars compacta,1
+W0322,viral vector,1
+W0322,substantia nigra pars,1
+W0322,channelrhodopsin,1
+W0322,neuroprotection,3
+W0322,tyrosine hydroxylase,1
+W0322,pars compacta,1
+W0323,dopamine,2
+W0323,central nervou,1
+W0323,stem cell,2
+W0323,neural stem cell,1
+W0323,dopamine signaling,1
+W0323,drug addiction,1
+W0323,addiction,1
+W0323,reward,1
+W0323,cns disorder,1
+W0323,cognition,1
+W0327,neural circuit,1
+W0327,neuronal activity,1
+W0327,light stimulation,1
+W0327,mechanisms underlying,1
+W0327,brain activity,1
+W0327,chronic pain,1
+W0327,fiber photometry,1
+W0327,optical fiber,11
+W0327,drug addiction,1
+W0327,brain area,1
+W0327,better understand,1
+W0327,addiction,1
+W0327,behaving animal,2
+W0327,light source,1
+W0329,functional connectivity,1
+W0329,locus coeruleu,1
+W0329,tau pathology,1
+W0329,magnetic resonance imaging,1
+W0329,functional magnetic resonance,1
+W0329,tau,3
+W0329,hyperphosphorylated tau,2
+W0334,brain stimulation,3
+W0334,neural activity,3
+W0334,hippocampu,1
+W0334,epilepsy,1
+W0334,essential tremor,1
+W0334,stimulation parameter,3
+W0334,therapeutic benefit,1
+W0334,medial septum,3
+W0334,activity pattern,2
+W0334,hippocampal theta,2
+W0334,tremor,1
+W0341,neural activity,2
+W0341,neuropsychiatric disorder,1
+W0341,depression,1
+W0341,brain region,1
+W0341,therapeutic intervention,1
+W0341,addiction,1
+W0341,anterior cingulate cortex,1
+W0341,action selection,4
+W0341,reward,1
+W0341,excitatory neuron,1
+W0345,protein aggregation,1
+W0345,blue light,1
+W0345,tau aggregation,4
+W0345,protein tau,1
+W0345,temporal control,1
+W0345,tau,7
+W0347,therapeutic target,1
+W0347,clinical trial,1
+W0347,synapse,1
+W0347,amyloid-β,1
+W0347,behavioral deficit,1
+W0347,tau,1
+W0355,striatum,1
+W0355,dopamine,2
+W0355,synaptic plasticity,1
+W0355,motor symptom,1
+W0355,dopamine depletion,1
+W0355,indirect pathway,2
+W0355,motor deficit,1
+W0355,6-hydroxydopamine,1
+W0355,brain slice,1
+W0355,dopamine replacement,1
+W0355,dopamine replacement therapy,1
+W0355,synapse,1
+W0355,replacement therapy,1
+W0357,basal ganglia,2
+W0357,striatum,1
+W0357,dopamine,1
+W0357,brain stimulation,3
+W0357,medium spiny neuron,1
+W0357,neuromodulation,1
+W0357,dopamine receptor,1
+W0357,dorsal striatum,1
+W0357,closed-loop stimulation,1
+W0357,brain rhythm,5
+W0357,cell-type specific,1
+W0357,wide range,1
+W0357,striatal medium spiny neuron,1
+W0357,human brain,1
+W0367,neural activity,1
+W0367,rat model,1
+W0367,functional connectivity,1
+W0367,locus coeruleu,1
+W0367,brain region,1
+W0367,tau,1
+W0367,amyloid precursor protein,1
+W0367,hyperphosphorylated tau,1
+W0367,amyloid precursor,1
+W0371,cognitive impairment,3
+W0371,blood flow,1
+W0371,stroke,1
+W0374,neurological disorder,1
+W0374,cognitive function,1
+W0374,epilepsy,1
+W0374,temporal lobe epilepsy,1
+W0374,cognition,1
+W0374,hippocampal theta,1
+W0375,basal ganglia,3
+W0375,dopaminergic neuron,5
+W0375,striatum,1
+W0375,dopamine,1
+W0375,substantia nigra,3
+W0375,neuronal activity,4
+W0375,dopamine release,1
+W0375,gabaergic neuron,3
+W0375,electrophysiology,1
+W0375,substantia nigra pars compacta,9
+W0375,substantia nigra pars reticulata,6
+W0375,gaba,1
+W0375,dopaminergic cell,1
+W0375,projection neuron,1
+W0375,inhibitory input,2
+W0375,action potential,1
+W0375,receptor signaling,1
+W0376,dentate gyru,1
+W0376,memory,6
+W0376,synapse,2
+W0376,autophagy,3
+W0376,therapeutic strategy,1
+W0376,microglia,6
+W0376,cellular processe,1
+W0376,poorly understood,1
+W0376,cognitive disorder,1
+W0378,striatum,1
+W0378,thalamu,1
+W0378,synapse,1
+W0379,motor cortex,1
+W0379,levodopa-induced dyskinesia,8
+W0379,striatal neuron,1
+W0379,thalamu,1
+W0379,involuntary movement,1
+W0379,dyskinesia,1
+W0379,levodopa,1
+W0379,freely moving,1
+W0379,transcription factor,1
+W0383,dopaminergic neuron,1
+W0383,synaptic transmission,1
+W0383,drosophila melanogaster,1
+W0383,action potential,1
+W0386,brain function,1
+W0386,depression,1
+W0386,central nervou,1
+W0386,epilepsy,1
+W0386,brain region,1
+W0386,memory,1
+W0386,glutamatergic synapse,1
+W0386,synapse,7
+W0386,mammalian brain,1
+W0386,brain injury,1
+W0386,addiction,1
+W0386,information processing,1
+W0386,human brain,1
+W0386,stroke,1
+W0389,deep brain stimulation,1
+W0389,brain stimulation,1
+W0389,neurological disorder,1
+W0389,neural activity,1
+W0389,epilepsy,1
+W0389,clinical application,1
+W0389,brain tissue,2
+W0389,specific neuron,1
+W0389,neural network,1
+W0389,temporal resolution,1
+W0389,light delivery,1
+W0397,dopamine,1
+W0397,molecular mechanism,1
+W0397,brain slice,1
+W0397,axon terminal,1
+W0397,voltammetry,1
+W0400,epilepsy,1
+W0400,channelrhodopsin,2
+W0400,cortical neuron,1
+W0400,potassium channel,1
+W0414,deep brain stimulation,3
+W0414,brain stimulation,3
+W0414,6-hydroxydopamine,2
+W0414,glutamatergic neuron,3
+W0414,pedunculopontine nucleu,1
+W0414,mesencephalic locomotor region,5
+W0414,locomotion,6
+W0414,nigrostriatal pathway,1
+W0414,channelrhodopsin,1
+W0414,akinesia,1
+W0414,parkinsonian condition,2
+W0414,dopaminergic cell,2
+W0414,cell type,1
+W0414,freely moving,1
+W0414,locomotor activity,2
+W0414,locomotor region,2
+W0414,locomotor deficit,2
+W0414,treatment option,1
+W0414,cuneiform nucleu,5
+W0414,brainstem,2
+W0414,mesencephalic locomotor,2
+W0414,evidence indicate,1
+W0414,moving animal,1
+W0415,neurodegeneration,2
+W0415,protein aggregation,2
+W0415,lewy bodie,1
+W0415,remains unclear,1
+W0415,α-synuclein,1
+W0415,neuronal loss,1
+W0415,light-inducible protein aggregation,1
+W0415,living cell,1
+W0421,deep brain stimulation,5
+W0421,brain stimulation,1
+W0421,neuromodulation,2
+W0421,movement disorder,1
+W0421,depression,1
+W0421,central nervou,1
+W0421,light stimulation,1
+W0421,epilepsy,1
+W0421,viral vector,1
+W0421,essential tremor,1
+W0421,therapeutic intervention,1
+W0421,dystonia,1
+W0421,genetic engineering,2
+W0421,obsessive-compulsive disorder,1
+W0421,tremor,1
+W0423,neural circuit,2
+W0423,dopamine,6
+W0423,substantia nigra,1
+W0423,neurological disorder,1
+W0423,movement disorder,1
+W0423,motor control,3
+W0423,dopamine neuron,1
+W0423,parkinsonism,1
+W0423,central nervou,1
+W0423,substantia nigra pars compacta,1
+W0423,substantia nigra pars,1
+W0423,motor function,1
+W0423,dystonia,1
+W0423,pars compacta,1
+W0423,neural circuitry,1
+W0423,machine learning,1
+W0423,neural mechanism,1
+W0423,stroke,1
+W0428,mesencephalic locomotor region,6
+W0428,locomotion,1
+W0428,glutamate,2
+W0428,l-dopa,1
+W0428,vglut2,3
+W0432,channelrhodopsin-2,1
+W0432,hippocampu,1
+W0432,astrocyte,2
+W0432,pyramidal neuron,1
+W0432,stimulation parameter,1
+W0432,temporal resolution,1
+W0432,astrocytes expressing,1
+W0432,expressing chr2,1
+W0434,deep brain stimulation,4
+W0434,subthalamic nucleu,3
+W0434,brain stimulation,1
+W0434,neuromodulation,1
+W0434,neural activity,1
+W0434,globus pallidu,1
+W0434,electrical stimulation,2
+W0434,local field potential,1
+W0434,neural recording,1
+W0434,levodopa,1
+W0434,common neurodegenerative,1
+W0434,spatial resolution,1
+W0434,pharmacological treatment,1
+W0434,ultrasonically powered,2
+W0437,chemogenetic,1
+W0437,ion channel,1
+W0437,neuronal circuit,1
+W0437,gene expression,1
+W0437,non-human primate,1
+W0437,dreadd,1
+W0437,designer receptor,1
+W0437,fluorescent protein,1
+W0437,confocal microscopy,1
+W0437,cell population,1
+W0437,nonhuman primate,1
+W0437,aav vector,2
+W0441,neurodegeneration,1
+W0441,tau aggregation,1
+W0441,brain tissue,1
+W0441,protein tau,1
+W0441,microtubule-associated protein tau,1
+W0441,protein synthesi,2
+W0441,p301s tau,2
+W0441,tau oligomerization,1
+W0441,tau,8
+W0441,stress granule,2
+W0450,mechanisms underlying,1
+W0450,cognitive decline,1
+W0450,entorhinal cortex,1
+W0450,brain network,3
+W0450,network dynamic,1
+W0450,neuronal spiking,1
+W0454,striatum,1
+W0457,deep brain stimulation,12
+W0457,basal ganglia,1
+W0457,subthalamic nucleu,12
+W0457,brain stimulation,1
+W0457,neural activity,2
+W0457,fiber photometry,1
+W0457,substantia nigra pars reticulata,2
+W0457,levodopa,2
+W0457,therapeutic mechanism,1
+W0457,obsessive-compulsive disorder,1
+W0457,basal ganglia output,1
+W0457,cell-type specific,1
+W0457,stn dbs,7
+W0459,dopamine,10
+W0459,synaptic transmission,1
+W0459,dopamine neuron,1
+W0459,parkinsonism,1
+W0459,electrophysiology,1
+W0459,brain region,3
+W0459,memory,1
+W0459,synapse,7
+W0459,gaba,2
+W0459,brain area,1
+W0459,glutamate,1
+W0459,reward,1
+W0459,motivation,1
+W0461,basal ganglia,1
+W0461,dopamine,2
+W0461,dopamine neuron,1
+W0461,levodopa-induced dyskinesia,6
+W0461,cholinergic interneuron,1
+W0461,l-dopa-induced dyskinesia,1
+W0461,involuntary movement,1
+W0461,dyskinesia,1
+W0461,dopamine replacement,1
+W0461,dopamine replacement therapy,1
+W0461,midbrain dopamine,1
+W0461,midbrain dopamine neuron,1
+W0461,l-dopa,4
+W0461,replacement therapy,1
+W0465,dopamine,1
+W0465,substantia nigra,1
+W0465,globus pallidu,1
+W0465,6-hydroxydopamine,2
+W0465,substantia nigra pars,1
+W0465,substantia nigra pars reticulata,16
+W0465,gaba,1
+W0465,nigra pars reticulata,1
+W0465,l-dopa,1
+W0466,deep brain stimulation,3
+W0466,subthalamic nucleu,2
+W0466,brain stimulation,1
+W0466,neuronal activity,1
+W0466,local field potential,1
+W0466,brain circuit,1
+W0466,neuronal firing,1
+W0466,poorly understood,1
+W0466,high-frequency deep brain,1
+W0466,firing pattern,1
+W0468,dopaminergic neuron,1
+W0468,dopamine,15
+W0468,substantia nigra,1
+W0468,dopamine neuron,11
+W0468,6-hydroxydopamine,1
+W0468,gene expression,2
+W0468,substantia nigra pars compacta,4
+W0468,ventral tegmental area,1
+W0468,substantia nigra pars,1
+W0468,α-synuclein,3
+W0468,pars compacta,1
+W0468,midbrain dopamine,5
+W0468,midbrain dopamine neuron,2
+W0468,trpv1,1
+W0468,motor dysfunction,1
+W0472,neurodegeneration,2
+W0472,protein synthesi,2
+W0472,p301s tau,1
+W0472,tau oligomerization,2
+W0472,tauopathy,1
+W0472,tau,4
+W0472,binding protein,1
+W0472,stress granule,1
+W0480,light-sensitive protein,1
+W0480,information processing,1
+W0480,neuronal cell,2
+W0480,light sensitive,1
+W0491,striatum,1
+W0491,synaptic transmission,1
+W0491,parkinsonism,1
+W0491,functional connectivity,1
+W0491,epilepsy,1
+W0491,adeno-associated viru,1
+W0491,brain region,2
+W0491,memory,1
+W0491,channelrhodopsin,1
+W0491,brain slice,1
+W0491,gaba,1
+W0491,magnetic resonance imaging,1
+W0491,projection neuron,1
+W0491,cell type,2
+W0491,transcription factor,1
+W0491,glutamate,1
+W0491,functional magnetic resonance,1
+W0491,anterior cingulate cortex,2
+W0491,fluorescent protein,1
+W0491,action potential,2
+W0491,synaptic connectivity,2
+W0491,parvalbumin,1
+W0491,vglut2,1
+W0491,electrophysiological propertie,1
+W0494,functional connectivity,1
+W0494,entorhinal cortex,2
+W0494,tauopathy,2
+W0494,mechanistic insight,1
+W0498,memory impairment,1
+W0498,hippocampu,1
+W0498,gamma oscillation,1
+W0498,pyramidal neuron,1
+W0498,brain region,1
+W0498,amyloid beta,1
+W0498,memory,8
+W0498,spatial memory,1
+W0498,cell type,1
+W0498,memory consolidation,2
+W0498,hippocampal network,3
+W0498,network disruption,1
+W0498,poorly understood,1
+W0499,astrocyte,2
+W0499,memory formation,1
+W0499,memory,1
+W0499,brain injury,1
+W0500,deep brain stimulation,4
+W0500,basal ganglia,8
+W0500,brain stimulation,1
+W0500,neuromodulation,9
+W0500,parkinsonism,1
+W0500,electrophysiology,1
+W0500,essential tremor,1
+W0500,dystonia,1
+W0500,clinical translation,1
+W0500,tourette syndrome,1
+W0500,basal ganglia circuit,1
+W0500,neuromodulation strategie,1
+W0500,adaptive dbs,1
+W0500,tremor,1
+W0502,striatum,1
+W0502,dopamine,1
+W0502,chemogenetic,1
+W0502,striatal cholinergic interneuron,1
+W0502,cholinergic interneuron,3
+W0502,dorsal striatum,1
+W0502,striatal cholinergic,1
+W0502,thalamu,1
+W0502,fiber photometry,1
+W0502,reward,2
+W0502,reward seeking,1
+W0503,calcium imaging,1
+W0503,cognitive impairment,1
+W0503,amyotrophic lateral sclerosi,1
+W0503,stem cell,1
+W0503,memory,1
+W0503,memory loss,1
+W0503,pluripotent stem cell,1
+W0503,neural network,1
+W0503,induced pluripotent stem cell,1
+W0504,neurodegenerative disorder,1
+W0504,synaptic transmission,1
+W0504,long-term potentiation,2
+W0504,optical stimulation,1
+W0504,nmda receptor,2
+W0504,lewy bodie,1
+W0504,spiny projection neuron,2
+W0504,synaptic dysfunction,1
+W0504,α-synuclein,5
+W0504,projection neuron,2
+W0504,progressive neurodegenerative,1
+W0504,cognitive deficit,1
+W0505,light intensity,1
+W0505,paper present,1
+W0505,ultrasonically powered,1
+W0507,blue light,1
+W0507,amyloid-β,11
+W0507,living tissue,1
+W0507,amyloid precursor protein,1
+W0507,amyloid precursor,1
+W0507,plaque formation,1
+W0508,neurodegeneration,1
+W0508,molecular mechanism,1
+W0508,water maze,1
+W0508,reactive oxygen specie,1
+W0510,dopaminergic neuron,1
+W0510,dopamine,2
+W0510,neurodegenerative disorder,1
+W0510,chemogenetic,1
+W0510,gene therapy,2
+W0510,motor function,1
+W0510,blood-brain barrier,1
+W0510,gene editing,1
+W0510,non-motor symptom,1
+W0510,l-dopa,2
+W0510,gene delivery,1
+W0510,parkinsonian patient,1
+W0511,basal ganglia,1
+W0511,substantia nigra,1
+W0511,medium spiny neuron,3
+W0511,indirect pathway,2
+W0511,chemogenetic,1
+W0511,substantia nigra pars compacta,1
+W0511,lewy bodie,1
+W0511,substantia nigra pars,1
+W0511,direct pathway,1
+W0511,dreadd,3
+W0511,parkinsonian symptom,1
+W0511,direct and indirect pathway,1
+W0511,motor function,2
+W0511,dopaminergic cell,2
+W0511,pars compacta,1
+W0511,motor coordination,1
+W0511,motor dysfunction,1
+W0511,cell population,1
+W0511,tremor,4
+W0512,motor symptom,1
+W0512,indirect pathway,2
+W0512,chemogenetic,2
+W0512,cholinergic interneuron,1
+W0512,functional connectivity,1
+W0512,acetylcholine,1
+W0512,thalamu,1
+W0512,spiny projection neuron,1
+W0512,nicotinic acetylcholine receptor,1
+W0512,direct and indirect pathway,1
+W0512,projection neuron,1
+W0512,therapeutic strategy,1
+W0512,acetylcholine receptor,1
+W0512,motor learning,1
+W0512,parafascicular nucleu,1
+W0513,basal ganglia,1
+W0513,striatum,1
+W0513,dopamine,6
+W0513,motor symptom,1
+W0513,dopamine depletion,1
+W0513,indirect pathway,2
+W0513,chemogenetic,3
+W0513,striatal cholinergic interneuron,1
+W0513,dopamine receptor,1
+W0513,6-hydroxydopamine,4
+W0513,cholinergic interneuron,1
+W0513,therapeutic target,1
+W0513,striatal cholinergic,1
+W0513,acetylcholine,2
+W0513,spiny projection neuron,2
+W0513,nicotinic acetylcholine receptor,1
+W0513,direct and indirect pathway,1
+W0513,synapse,2
+W0513,projection neuron,3
+W0513,cell type,1
+W0513,acetylcholine receptor,1
+W0513,motor dysfunction,1
+W0513,poorly understood,1
+W0513,synaptic strength,1
+W0513,motor learning,1
+W0514,neurodegeneration,1
+W0514,oxidative stress,3
+W0514,blue light,1
+W0514,amyloid beta,1
+W0514,clinical application,1
+W0514,hippocampal neuron,1
+W0514,early stage,2
+W0514,tau tangle,1
+W0514,tau,1
+W0514,diagnostic tool,1
+W0514,cofilin-actin rods,1
+W0514,reactive oxygen specie,1
+W0515,dopaminergic neuron,4
+W0515,striatum,1
+W0515,dopamine,5
+W0515,substantia nigra,1
+W0515,dopamine neuron,2
+W0515,striatal neuron,2
+W0515,dorsal striatum,1
+W0515,nucleus accumben,1
+W0515,substantia nigra pars compacta,4
+W0515,ventral tegmental area,1
+W0515,locomotion,3
+W0515,substantia nigra pars,1
+W0515,dopamine replacement,1
+W0515,neuron activity,2
+W0515,pars compacta,1
+W0515,midbrain dopamine,2
+W0515,midbrain dopaminergic neuron,1
+W0515,reward,3
+W0515,midbrain dopamine neuron,2
+W0515,action potential,1
+W0515,dopaminergic neurotransmission,1
+W0516,neuromodulation,1
+W0516,brain function,1
+W0516,epilepsy,1
+W0516,essential tremor,1
+W0516,therapeutic intervention,1
+W0516,motor behavior,1
+W0516,multiple sclerosi,1
+W0516,dystonia,1
+W0516,non-invasive neuromodulation,1
+W0516,autism spectrum disorder,1
+W0516,stroke,1
+W0516,autism spectrum,1
+W0516,cerebellum,3
+W0516,tremor,1
+W0517,basal ganglia,1
+W0517,dopaminergic neuron,1
+W0517,striatum,2
+W0517,dopamine,1
+W0517,neurodegenerative disorder,1
+W0517,cholinergic interneuron,1
+W0517,cognitive impairment,1
+W0517,acetylcholine,1
+W0517,muscarinic receptor,1
+W0517,therapeutic strategie,1
+W0517,electrophysiological recording,1
+W0517,acetylcholine receptor,1
+W0517,l-dopa,1
+W0517,muscarinic acetylcholine receptor,1
+W0520,dopamine,12
+W0520,dopamine release,2
+W0520,neural activity,1
+W0520,channelrhodopsin-2,2
+W0520,dopamine receptor,1
+W0520,mechanisms underlying,1
+W0520,inferior colliculu,1
+W0520,expressing channelrhodopsin-2,1
+W0521,basal ganglia,1
+W0521,subthalamic nucleu,6
+W0521,dopamine,1
+W0521,globus pallidu,1
+W0521,dopamine receptor,1
+W0521,stn neuron,1
+W0521,gpe neuron,2
+W0521,external globus pallidu,4
+W0521,striatal projection neuron,1
+W0521,projection neuron,1
+W0521,slow wave,1
+W0521,motor dysfunction,1
+W0521,external globu,1
+W0521,parvalbumin,1
+W0521,slow-wave activity,1
+W0521,glutamatergic subthalamic nucleu,1
+W0522,deep brain stimulation,3
+W0522,dopamine,1
+W0522,brain stimulation,1
+W0522,motor symptom,1
+W0522,gene therapy,1
+W0522,clinical trial,1
+W0522,dopamine replacement,1
+W0522,levodopa,1
+W0522,treatment option,1
+W0522,small molecule,1
+W0523,striatum,1
+W0523,movement disorder,1
+W0523,indirect pathway,1
+W0523,synaptic transmission,5
+W0523,globus pallidu,1
+W0523,gpe neuron,2
+W0523,external globus pallidu,5
+W0523,spiny projection neuron,3
+W0523,brain slice,1
+W0523,gaba,3
+W0523,projection neuron,3
+W0523,axon terminal,1
+W0523,gaba release,1
+W0523,behavioral deficit,2
+W0523,vivo brain,1
+W0524,acetylcholine,3
+W0524,basal forebrain,1
+W0524,brain region,1
+W0524,cholinergic neuron,2
+W0524,cholinergic signaling,2
+W0524,acetylcholine receptor,1
+W0524,basal forebrain cholinergic,1
+W0524,immune response,1
+W0524,muscarinic acetylcholine receptor,1
+W0525,neuronal activity,2
+W0525,neurodegenerative disorder,1
+W0525,pyramidal neuron,1
+W0525,neuronal circuit,1
+W0525,amyloid beta,1
+W0525,memory,1
+W0525,sleep,1
+W0525,amyloid plaque,1
+W0525,slow oscillation,3
+W0525,sleep disorder,1
+W0525,memory consolidation,1
+W0525,slow wave,4
+W0525,activity pattern,1
+W0525,amyloid- plaque,1
+W0526,dopaminergic neuron,2
+W0526,motor cortex,2
+W0526,6-hydroxydopamine,1
+W0526,primary motor cortex,1
+W0526,firing rate,2
+W0526,freely moving,1
+W0526,midbrain dopaminergic neuron,2
+W0526,cerebral cortex,1
+W0526,cerebellum,3
+W0526,moving animal,1
+W0527,depression,1
+W0528,dopaminergic neuron,4
+W0528,striatum,1
+W0528,dopamine,5
+W0528,substantia nigra,1
+W0528,neuromodulation,1
+W0528,dopamine release,1
+W0528,channelrhodopsin-2,1
+W0528,stem cell,3
+W0528,neural stem cell,1
+W0528,dyskinesia,1
+W0528,optical fiber,1
+W0528,stem cell therapy,1
+W0528,cell therapy,1
+W0528,paper present,1
+W0528,neurons derived,1
+W0528,motor complication,1
+W0528,light sensitive,1
+W0529,neurodegeneration,1
+W0529,motor behavior,1
+W0529,brain tissue,1
+W0529,α-synuclein,1
+W0529,therapeutic mechanism,1
+W0529,neuronal loss,1
+W0529,promising therapeutic,1
+W0529,therapeutic strategy,1
+W0531,neurodegenerative disorder,1
+W0531,ion channel,1
+W0531,epilepsy,1
+W0531,freely moving,1
+W0531,promising therapeutic,1
+W0531,quantum dots,1
+W0531,promising tool,1
+W0531,moving animal,1
+W0532,gene expression,2
+W0532,protein tau,1
+W0532,microtubule-associated protein tau,1
+W0532,transcription factor,2
+W0532,autophagy,3
+W0532,tau,2
+W0532,pathological tau,1
+W0533,hippocampu,1
+W0533,memory deficit,1
+W0533,gamma oscillation,6
+W0533,memory,5
+W0533,memory loss,1
+W0533,spatial memory,3
+W0533,parvalbumin neuron,3
+W0533,parvalbumin,3
+W0534,deep brain stimulation,1
+W0534,dopaminergic neuron,1
+W0534,striatum,1
+W0534,dopamine,2
+W0534,brain stimulation,2
+W0534,neuromodulation,1
+W0534,motor cortex,2
+W0534,movement disorder,1
+W0534,motor control,1
+W0534,memory impairment,1
+W0534,cognitive function,1
+W0534,pyramidal neuron,1
+W0534,substantia nigra pars compacta,1
+W0534,memory,2
+W0534,motor function,1
+W0534,therapeutic mechanism,1
+W0534,projection neuron,1
+W0534,improves motor,1
+W0534,locomotor activity,1
+W0534,l-dopa treatment,2
+W0534,dorsomedial striatum,1
+W0534,l-dopa,2
+W0534,working memory,1
+W0535,dopaminergic neuron,1
+W0535,striatum,1
+W0535,substantia nigra,1
+W0535,neurodegenerative disorder,1
+W0535,channelrhodopsin-2,1
+W0535,rat model,1
+W0535,excitatory neuron,1
+W0535,vglut2,3
+W0535,neural population,1
+W0536,deep brain stimulation,3
+W0536,neural circuit,2
+W0536,brain stimulation,1
+W0536,neuronal activity,1
+W0536,motor symptom,1
+W0536,indirect pathway,1
+W0536,direct pathway,1
+W0536,brain network,2
+W0536,brain circuit,1
+W0536,computational modeling,2
+W0536,magnetic resonance imaging,1
+W0536,cell type,2
+W0536,temporal control,1
+W0536,cell-type specificity,2
+W0536,blood flow,2
+W0536,functional magnetic resonance,1
+W0536,human brain,1
+W0536,neurological condition,1
+W0536,diagnostic tool,3
+W0536,tremor,2
+W0538,channelrhodopsin-2,1
+W0538,hippocampu,2
+W0538,epilepsy,1
+W0538,adeno-associated viru,1
+W0538,memory,3
+W0538,glutamate receptor,2
+W0538,glutamate,3
+W0538,specific cell,1
+W0538,n-methyl-d-aspartate receptor,1
+W0538,inhibit specific,1
+W0539,memory impairment,1
+W0539,cognitive function,1
+W0539,memory deficit,3
+W0539,memory,4
+W0539,amyloid plaque,2
+W0539,anxiety,4
+W0539,amyloid- plaque,2
+W0540,memory impairment,1
+W0540,cognitive function,1
+W0540,memory deficit,3
+W0540,memory,4
+W0540,amyloid plaque,2
+W0540,anxiety,4
+W0540,amyloid- plaque,2
+W0541,channelrhodopsin-2,3
+W0541,amyotrophic lateral sclerosi,1
+W0541,stem cell,1
+W0541,amyloid beta,3
+W0541,channelrhodopsin,1
+W0541,blood-brain barrier,1
+W0541,blood flow,2
+W0541,cognitive dysfunction,1
+W0541,growth factor,1
+W0541,cerebral blood flow,1
+W0541,cell activity,1
+W0542,dopamine,1
+W0542,dopamine receptor,1
+W0542,memory,1
+W0542,firing rate,1
+W0542,working memory,1
+W0543,neural activity,1
+W0543,central nervou,1
+W0543,viral vector,1
+W0544,deep brain stimulation,7
+W0544,brain stimulation,1
+W0544,neuromodulation,3
+W0544,epilepsy,1
+W0544,essential tremor,1
+W0544,brain network,2
+W0544,addiction,1
+W0544,neurostimulation,1
+W0544,tourette syndrome,1
+W0544,neurological condition,1
+W0544,cognitive disorder,1
+W0544,annual deep brain,1
+W0544,adaptive dbs,1
+W0544,tremor,1
+W0545,neurodegeneration,5
+W0545,chemogenetic,1
+W0545,electrophysiology,1
+W0545,memory,4
+W0545,chronic pain,1
+W0545,remains unclear,1
+W0545,brain slice,1
+W0545,sleep,9
+W0545,risk factor,2
+W0545,magnetic resonance imaging,2
+W0545,slow wave,4
+W0545,machine learning,1
+W0545,brain injury,1
+W0545,treatment option,1
+W0545,tau,8
+W0545,vivo brain,1
+W0545,stroke,1
+W0545,effective treatment,1
+W0545,neural substrate,1
+W0546,dopamine,2
+W0546,synaptic plasticity,1
+W0546,dopamine depletion,1
+W0546,indirect pathway,1
+W0546,channelrhodopsin-2,3
+W0546,dopamine receptor,1
+W0546,6-hydroxydopamine,4
+W0546,parkinsonism,2
+W0546,cholinergic interneuron,1
+W0546,direct pathway,1
+W0546,synapse,5
+W0546,experimental parkinsonism,1
+W0546,expressing chr2,1
+W0546,parafascicular nucleu,1
+W0546,short-term plasticity,1
+W0547,neural recording,1
+W0547,freely moving,1
+W0547,drug delivery,2
+W0547,paper present,1
+W0547,ultrasonically powered,1
+W0547,moving animal,1
+W0548,basal ganglia,1
+W0548,striatum,1
+W0548,striatal cholinergic interneuron,1
+W0548,striatal neuron,1
+W0548,cholinergic interneuron,1
+W0548,striatal cholinergic,1
+W0548,acetylcholine,2
+W0548,neuronal population,1
+W0549,basal ganglia,1
+W0549,striatum,10
+W0549,dopamine,1
+W0549,parkinsonism,4
+W0549,astrocyte,3
+W0549,striatal neuron,1
+W0549,nucleus accumben,1
+W0549,psychiatric disorder,1
+W0549,dorsolateral striatum,4
+W0549,brain slice,1
+W0549,α-synuclein,1
+W0549,gabaergic inhibition,2
+W0549,receptor antagonist,1
+W0549,gaba,13
+W0549,projection neuron,1
+W0549,addiction,1
+W0549,action selection,1
+W0549,action potential,1
+W0549,voltammetry,1
+W0550,neuronal population,1
+W0550,pedunculopontine nucleu,2
+W0550,mesencephalic locomotor region,4
+W0550,locomotion,1
+W0550,cell type,1
+W0550,locomotor region,1
+W0550,cell-type specific,1
+W0550,arousal,1
+W0550,mesencephalic locomotor,1
+W0551,dopamine,4
+W0551,neuronal activity,2
+W0551,dopamine depletion,1
+W0551,light stimulation,2
+W0551,striatal neuron,1
+W0551,channelrhodopsin,2
+W0551,parkinsonian symptom,1
+W0551,light activation,1
+W0551,freely moving,1
+W0551,moving animal,1
+W0552,deep brain stimulation,10
+W0552,subthalamic nucleu,4
+W0552,striatum,1
+W0552,dopamine,1
+W0552,brain stimulation,1
+W0552,neurodegenerative disorder,1
+W0552,motor symptom,2
+W0552,functional connectivity,4
+W0552,ventral tegmental area,1
+W0552,memory,1
+W0552,essential tremor,1
+W0552,brain network,3
+W0552,sleep,1
+W0552,non-motor symptom,3
+W0552,drug delivery,1
+W0552,stn dbs,1
+W0552,reward,1
+W0552,ventral striatum,1
+W0552,network disruption,1
+W0552,human brain,1
+W0552,effective treatment,1
+W0552,molecular basi,1
+W0552,tremor,3
+W0553,movement disorder,1
+W0553,gene therapy,1
+W0553,cognitive impairment,1
+W0553,artificial intelligence,1
+W0553,neurologic disorder,1
+W0553,mild cognitive impairment,1
+W0554,brain stimulation,2
+W0554,brain activity,1
+W0554,magnetic resonance imaging,1
+W0554,blood flow,1
+W0554,neural network,3
+W0554,tremor,1
+W0555,basal ganglia,1
+W0555,chemogenetic,1
+W0555,pedunculopontine nucleu,5
+W0556,neural circuit,1
+W0556,chemogenetic,1
+W0556,depression,1
+W0556,memory,1
+W0556,brain activity,1
+W0556,dreadd,2
+W0556,drug addiction,1
+W0556,anxiety,1
+W0556,designer receptor,1
+W0556,addiction,1
+W0556,small molecule,1
+W0556,neurological condition,1
+W0556,designer receptors exclusively,1
+W0556,light sensitive,2
+W0557,deep brain stimulation,3
+W0557,neural circuit,2
+W0557,brain stimulation,1
+W0557,neuromodulation,1
+W0557,neural activity,2
+W0557,local field potential,1
+W0557,locomotion,2
+W0557,spinal cord injury,1
+W0557,chronic pain,1
+W0557,spinal cord,3
+W0557,caenorhabditis elegan,1
+W0557,freely moving,1
+W0557,human brain,1
+W0557,light source,1
+W0558,neurological disorder,1
+W0558,channelrhodopsin-2,11
+W0558,astrocyte,8
+W0558,central nervou,1
+W0558,light stimulation,4
+W0558,optical stimulation,1
+W0558,ion channel,2
+W0558,epilepsy,1
+W0558,therapeutic intervention,2
+W0558,computational model,1
+W0558,channelrhodopsin,2
+W0558,cell type,3
+W0558,spiking activity,1
+W0558,stroke,1
+W0558,light sensitive,3
+W0559,neuromodulation,1
+W0559,channelrhodopsin-2,1
+W0559,depression,1
+W0559,optical stimulation,1
+W0559,blue light,1
+W0559,brain activity,1
+W0559,brain disorder,1
+W0559,cell type,1
+W0559,brain area,1
+W0559,spatial resolution,1
+W0559,wide range,1
+W0559,neural network,1
+W0559,expressing channelrhodopsin-2,1
+W0559,human brain,2
+W0559,poorly understood,1
+W0559,light source,1
+W0559,diagnostic tool,1
+W0559,promising tool,1
+W0560,memory impairment,1
+W0560,neuronal population,1
+W0560,memory,2
+W0560,brain slice,1
+W0560,electrophysiological recording,1
+W0560,memory consolidation,1
+W0560,hippocampal network,1
+W0560,network disruption,1
+W0560,specific neuronal population,1
+W0560,pyramidal cell,1
+W0560,cell population,1
+W0561,deep brain stimulation,3
+W0561,subthalamic nucleu,3
+W0561,striatum,1
+W0561,brain stimulation,1
+W0561,motor symptom,1
+W0561,calcium imaging,1
+W0561,electrophysiology,1
+W0561,thalamu,1
+W0561,akinesia,1
+W0561,circuit mechanism,1
+W0561,vivo electrophysiology,1
+W0561,parafascicular nucleu,1
+W0562,chemogenetic,1
+W0562,chemogenetic inhibition,1
+W0562,nucleus neuron,1
+W0563,substantia nigra,2
+W0563,6-hydroxydopamine,1
+W0563,optical stimulation,2
+W0563,halorhodopsin,1
+W0563,akinesia,1
+W0564,pyramidal neuron,1
+W0564,brain region,1
+W0564,entorhinal cortex,1
+W0564,memory,3
+W0564,memory loss,1
+W0564,synapse,1
+W0564,amyloid-β,1
+W0564,early stage,1
+W0564,parvalbumin,1
+W0565,striatum,1
+W0565,dopamine,2
+W0565,motor symptom,1
+W0565,dopamine neuron,1
+W0565,levodopa-induced dyskinesia,6
+W0565,striatal neuron,3
+W0565,involuntary movement,1
+W0565,direct pathway,2
+W0565,dyskinesia,3
+W0565,parkinsonian motor,1
+W0565,dopamine replacement,1
+W0565,levodopa,2
+W0565,dopamine replacement therapy,1
+W0565,therapeutic strategie,1
+W0565,midbrain dopamine,1
+W0565,midbrain dopamine neuron,1
+W0565,alleviates parkinsonian,1
+W0565,replacement therapy,1
+W0565,parkinsonian motor symptom,1
+W0566,dopamine,4
+W0566,medium spiny neuron,2
+W0566,dopamine depletion,1
+W0566,indirect pathway,1
+W0566,levodopa-induced dyskinesia,4
+W0566,parkinsonism,2
+W0566,mechanisms underlying,1
+W0566,involuntary movement,1
+W0566,dyskinesia,2
+W0566,firing rate,1
+W0566,dopamine replacement,1
+W0566,direct and indirect pathway,1
+W0566,levodopa,2
+W0566,circuit mechanism,1
+W0566,action selection,1
+W0566,behaving animal,1
+W0566,circuit mechanisms underlying,1
+W0567,hippocampu,3
+W0567,gamma oscillation,1
+W0567,tau protein,1
+W0567,brain network,2
+W0567,amyloid-β,1
+W0567,intrinsic excitability,1
+W0567,tau,1
+W0567,theta rhythm,1
+W0567,pyramidal cell,1
+W0567,parvalbumin,1
+W0567,hippocampal theta,1
+W0567,synaptic propertie,1
+W0568,brain tissue,1
+W0568,light sensitive,1
+W0569,striatum,1
+W0569,synaptic transmission,1
+W0569,astrocyte,3
+W0569,mechanisms underlying,1
+W0569,glutamatergic neuron,1
+W0569,glutamatergic synapse,1
+W0569,synapse,4
+W0569,glutamate,5
+W0569,shed light,1
+W0569,glutamate uptake,1
+W0570,synaptic plasticity,1
+W0570,hippocampu,2
+W0570,depression,1
+W0570,ion channel,1
+W0570,nmda receptor,1
+W0570,acetylcholine,1
+W0570,electrical stimulation,1
+W0570,long-term depression,1
+W0570,synaptic dysfunction,1
+W0570,receptor activation,1
+W0570,amyloid-β,1
+W0570,glutamate,1
+W0571,subthalamic nucleu,12
+W0571,chemogenetic,4
+W0571,nmda receptor,2
+W0571,stn neuron,3
+W0571,therapeutic intervention,1
+W0571,akinesia,1
+W0571,parkinsonian motor,2
+W0571,bradykinesia,1
+W0571,projection neuron,2
+W0571,circuit mechanism,1
+W0571,effective therapeutic,1
+W0571,motor dysfunction,3
+W0571,reactive oxygen specie,1
+W0573,deep brain stimulation,1
+W0573,subthalamic nucleu,2
+W0573,brain stimulation,1
+W0573,neuromodulation,1
+W0573,channelrhodopsin-2,1
+W0573,optical stimulation,1
+W0573,electrical stimulation,2
+W0573,computational model,1
+W0573,firing rate,2
+W0573,neurostimulation,1
+W0573,action potential,2
+W0573,nucleus deep brain,1
+W0573,nucleus neuron,1
+W0574,dopamine,1
+W0574,neurological disorder,1
+W0574,chemogenetic,1
+W0574,depression,1
+W0574,brain circuit,1
+W0574,reward,1
+W0574,motivation,1
+W0574,evidence indicate,1
+W0575,deep brain stimulation,1
+W0575,basal ganglia,1
+W0575,dopaminergic neuron,11
+W0575,striatum,1
+W0575,dopamine,8
+W0575,substantia nigra,1
+W0575,brain stimulation,1
+W0575,dopamine release,4
+W0575,basal ganglia circuitry,1
+W0575,mechanisms underlying,1
+W0575,therapeutic target,1
+W0575,dorsal striatum,1
+W0575,substantia nigra pars compacta,1
+W0575,substantia nigra pars,1
+W0575,neuron activity,5
+W0575,pars compacta,1
+W0576,substantia nigra,1
+W0576,neuronal activity,2
+W0576,neuromodulation,3
+W0576,channelrhodopsin-2,2
+W0576,globus pallidu,1
+W0576,rat model,3
+W0576,adeno-associated viru,1
+W0576,substantia nigra pars compacta,2
+W0576,halorhodopsin,1
+W0576,globus pallidus internu,1
+W0576,substantia nigra pars,1
+W0576,motor behavior,1
+W0576,parkinsonian motor,1
+W0576,entopeduncular nucleu,1
+W0576,α-synuclein,1
+W0576,pars compacta,1
+W0577,striatum,1
+W0577,dopamine,5
+W0577,indirect pathway,1
+W0577,neuropsychiatric disorder,1
+W0577,dopamine receptor,1
+W0577,gene expression,1
+W0577,dopamine d2 receptor,1
+W0577,direct and indirect pathway,1
+W0577,ventral striatum,1
+W0577,dopaminergic neurotransmission,1
+W0577,striatopallidal neuron,4
+W0578,depression,1
+W0578,non-human primate,1
+W0578,nonhuman primate,1
+W0579,synaptic plasticity,1
+W0579,neurodegenerative disorder,1
+W0579,memory impairment,1
+W0579,cognitive function,2
+W0579,ion channel,1
+W0579,cognitive impairment,1
+W0579,memory,5
+W0579,channelrhodopsin,1
+W0579,risk factor,1
+W0579,anxiety,2
+W0579,spatial memory,3
+W0579,therapeutic application,1
+W0579,network dynamic,3
+W0579,tauopathy,2
+W0579,molecular pathway,1
+W0579,tau,1
+W0579,cell death,1
+W0580,dopamine,2
+W0580,chemogenetic,1
+W0580,gene therapy,5
+W0580,clinical trial,2
+W0580,neurotrophic factor,2
+W0580,dopamine replacement,1
+W0580,dopamine replacement therapy,1
+W0580,gaba,1
+W0580,replacement therapy,1
+W0581,neurodegenerative disorder,1
+W0581,chemogenetic,2
+W0581,cognitive impairment,1
+W0581,basal forebrain,2
+W0581,chemogenetic inhibition,1
+W0581,sleep,7
+W0581,neurotransmitter system,1
+W0581,nrem sleep,4
+W0581,wide range,1
+W0581,eeg,1
+W0581,arousal,6
+W0581,rem sleep,1
+W0581,cell population,2
+W0581,non-rapid eye movement,1
+W0581,cognition,1
+W0582,striatum,2
+W0582,dopamine,2
+W0582,medium spiny neuron,1
+W0582,motor symptom,1
+W0582,dorsal striatum,1
+W0582,direct pathway,1
+W0582,firing rate,1
+W0582,motor function,1
+W0582,freely moving,2
+W0582,transcription factor,1
+W0582,l-dopa,3
+W0582,parkinsonian animal,1
+W0582,moving animal,1
+W0583,deep brain stimulation,1
+W0583,neural circuit,1
+W0583,brain stimulation,1
+W0583,neuromodulation,1
+W0583,neurovascular coupling,1
+W0584,dopamine,1
+W0584,movement disorder,1
+W0584,dopamine receptor,1
+W0584,mechanisms underlying,1
+W0584,l-dopa-induced dyskinesia,2
+W0584,dyskinesia,3
+W0584,levodopa,1
+W0584,receptor activation,1
+W0584,l-dopa treatment,1
+W0584,molecular pathway,1
+W0584,l-dopa,2
+W0584,motor complication,1
+W0585,gene expression,1
+W0585,amyloid beta,2
+W0585,brain activity,1
+W0585,cognitive deficit,1
+W0586,neural activity,3
+W0586,brain function,1
+W0586,amyloid beta,1
+W0586,cell type,1
+W0586,specific cell,1
+W0586,specific cell type,1
+W0586,microglia,2
+W0587,deep brain stimulation,1
+W0587,basal ganglia,1
+W0587,striatum,2
+W0587,substantia nigra,1
+W0587,brain stimulation,1
+W0587,neuronal activity,2
+W0587,indirect pathway,1
+W0587,basal ganglia circuitry,1
+W0587,thalamu,1
+W0587,substantia nigra pars,1
+W0587,dorsolateral striatum,1
+W0587,direct pathway,1
+W0587,substantia nigra pars reticulata,1
+W0587,nigra pars reticulata,1
+W0587,zona incerta,1
+W0588,deep brain stimulation,3
+W0588,subthalamic nucleu,1
+W0588,brain stimulation,3
+W0588,motor symptom,1
+W0588,motor cortex,1
+W0588,parvalbumin interneuron,1
+W0588,pyramidal neuron,1
+W0588,electrophysiology,1
+W0588,somatostatin interneuron,3
+W0588,vivo electrophysiology,1
+W0588,information processing,1
+W0588,pyramidal cell,1
+W0588,parvalbumin,1
+W0589,channelrhodopsin-2,2
+W0589,hippocampu,1
+W0589,memory deficit,1
+W0589,pyramidal neuron,4
+W0589,adeno-associated viru,1
+W0589,gabaergic interneuron,1
+W0589,local field potential,1
+W0589,memory,2
+W0589,amyloid-β,1
+W0589,inhibitory input,1
+W0589,spatial navigation,1
+W0589,hippocampal theta,1
+W0589,hippocampal slice,1
+W0589,short-term plasticity,1
+W0590,neural circuit,1
+W0590,central nervou,1
+W0590,glutamatergic neuron,1
+W0590,memory,2
+W0590,channelrhodopsin,1
+W0590,genetically targeted,1
+W0590,specific cell,1
+W0590,neurological condition,1
+W0590,cognition,1
+W0590,cell activity,2
+W0591,deep brain stimulation,3
+W0591,subthalamic nucleu,4
+W0591,brain stimulation,1
+W0591,neuromodulation,3
+W0591,motor cortex,1
+W0591,channelrhodopsin-2,1
+W0591,stn neuron,1
+W0591,firing rate,1
+W0591,non-human primate,1
+W0591,transcranial magnetic stimulation,1
+W0591,axon terminal,1
+W0591,neural circuitry,1
+W0591,magnetic stimulation,1
+W0593,dopaminergic neuron,1
+W0593,substantia nigra,2
+W0593,brain function,1
+W0593,brain region,1
+W0593,signaling pathway,1
+W0593,protein kinase,1
+W0593,stem cell-derived,1
+W0593,synaptic connectivity,1
+W0593,neuronal cell,1
+W0594,neurodegeneration,1
+W0594,central nervou,1
+W0594,amyotrophic lateral sclerosi,1
+W0594,genetically encoded,1
+W0594,spinal cord,2
+W0594,cell type,1
+W0594,specific cell,1
+W0594,specific cell type,1
+W0594,microglia,1
+W0594,cell death,2
+W0594,physiological processe,1
+W0594,reactive oxygen specie,1
+W0595,basal ganglia,2
+W0595,dopamine,2
+W0595,motor cortex,1
+W0595,dopamine neuron,1
+W0595,thalamu,1
+W0595,firing rate,1
+W0595,parkinsonian motor,1
+W0595,basal ganglia output,1
+W0595,inhibitory synaptic,2
+W0595,motor dysfunction,3
+W0596,memory deficit,1
+W0596,local field potential,1
+W0596,memory,1
+W0596,neural oscillation,1
+W0597,dopamine,11
+W0597,dopamine release,4
+W0597,neuropsychiatric disorder,1
+W0597,electrical stimulation,2
+W0597,inferior colliculu,1
+W0597,motivation,1
+W0597,cognition,1
+W0597,voltammetry,1
+W0598,basal ganglia,1
+W0598,cholinergic interneuron,1
+W0598,cholinergic signaling,1
+W0598,action selection,1
+W0598,striatal circuitry,1
+W0599,dopamine,1
+W0599,substantia nigra,1
+W0599,motor symptom,1
+W0599,memory impairment,1
+W0599,striatal cholinergic interneuron,1
+W0599,6-hydroxydopamine,2
+W0599,memory deficit,1
+W0599,cholinergic interneuron,1
+W0599,therapeutic target,1
+W0599,striatal cholinergic,2
+W0599,substantia nigra pars compacta,3
+W0599,halorhodopsin,1
+W0599,cholinergic neuron,1
+W0599,memory,4
+W0599,substantia nigra pars,1
+W0599,tyrosine hydroxylase,1
+W0599,receptor antagonist,1
+W0599,muscarinic receptor,1
+W0599,non-motor symptom,1
+W0599,spatial memory,1
+W0599,mood disorder,1
+W0599,neuronal loss,1
+W0599,pars compacta,1
+W0599,cognitive deficit,1
+W0599,poorly understood,1
+W0599,social memory,2
+W0599,cholinergic receptor,1
+W0600,deep brain stimulation,5
+W0600,chemogenetic,1
+W0600,neuronal population,1
+W0600,pedunculopontine nucleu,6
+W0600,mesencephalic locomotor region,2
+W0600,locomotion,1
+W0600,non-human primate,1
+W0600,cell type,1
+W0600,neural circuitry,1
+W0600,cell-type specific,1
+W0601,striatum,3
+W0601,cognitive impairment,1
+W0601,prefrontal cortex,3
+W0601,memory,1
+W0601,non-human primate,1
+W0601,medial prefrontal cortex,3
+W0601,dorsomedial striatum,3
+W0601,temporal resolution,1
+W0601,working memory,1
+W0601,nonhuman primate,1
+W0601,receptor signaling,1
+W0602,deep brain stimulation,1
+W0602,brain stimulation,1
+W0602,motor symptom,1
+W0602,gene therapy,1
+W0602,dyskinesia,1
+W0602,bradykinesia,1
+W0602,focused ultrasound,1
+W0602,tremor,1
+W0603,sleep,1
+W0603,risk factor,1
+W0603,functional impairment,1
+W0604,deep brain stimulation,7
+W0604,brain stimulation,1
+W0604,neuromodulation,1
+W0604,movement disorder,3
+W0604,dystonia,1
+W0604,cell type,1
+W0604,cell-type specific,1
+W0605,neural circuit,1
+W0605,striatum,2
+W0605,dopamine,26
+W0605,neuronal activity,2
+W0605,dopamine release,4
+W0605,brain function,1
+W0605,calcium imaging,3
+W0605,motor control,1
+W0605,dopamine receptor,1
+W0605,depression,1
+W0605,nucleus accumben,2
+W0605,genetically encoded,5
+W0605,psychiatric disorder,1
+W0605,mammalian brain,1
+W0605,freely moving,1
+W0605,addiction,1
+W0605,fluorescent protein,3
+W0605,temporal resolution,3
+W0605,norepinephrine,3
+W0605,behaving animal,1
+W0605,neuromodulatory system,1
+W0606,deep brain stimulation,1
+W0606,subthalamic nucleu,4
+W0606,brain stimulation,1
+W0606,neurological disorder,1
+W0606,brain function,1
+W0606,globus pallidu,1
+W0606,glutamate,4
+W0606,neuronal activation,1
+W0606,glutamatergic subthalamic nucleu,1
+W0608,dopamine,1
+W0608,neuropsychiatric disorder,1
+W0608,depression,1
+W0608,viral vector,2
+W0608,drug addiction,1
+W0608,midbrain dopamine,1
+W0608,addiction,1
+W0608,reward,2
+W0610,striatum,1
+W0610,synaptic plasticity,1
+W0610,central nervou,1
+W0610,ion channel,2
+W0610,epilepsy,1
+W0610,acetylcholine,2
+W0610,memory,1
+W0610,neuronal excitability,1
+W0610,nicotinic acetylcholine receptor,1
+W0610,addiction,1
+W0610,acetylcholine receptor,1
+W0610,optical control,1
+W0610,nicotinic receptor,1
+W0611,dopamine,1
+W0611,substantia nigra,1
+W0611,motor symptom,1
+W0611,motor deficit,1
+W0611,parkinsonism,3
+W0611,rat model,1
+W0611,substantia nigra pars compacta,1
+W0611,substantia nigra pars,1
+W0611,pars compacta,1
+W0611,early stage,2
+W0611,brainstem,2
+W0611,vagus nerve,1
+W0611,cerebral cortex,1
+W0612,synaptic transmission,1
+W0612,hippocampu,1
+W0612,gamma oscillation,8
+W0612,pyramidal neuron,1
+W0612,acetylcholine,3
+W0612,receptor activation,1
+W0612,intrinsic excitability,1
+W0612,inhibitory synaptic,1
+W0612,hippocampal slice,1
+W0613,deep brain stimulation,4
+W0613,brain stimulation,1
+W0613,neuromodulation,2
+W0613,brain function,1
+W0613,epilepsy,1
+W0613,electrical stimulation,1
+W0613,viral vector,1
+W0613,clinical application,1
+W0613,neurological condition,1
+W0613,immune response,1
+W0613,gene transfer,1
+W0613,promising tool,1
+W0614,neural activity,1
+W0614,chemogenetic,1
+W0614,dreadd,3
+W0614,brain circuit,2
+W0614,drug addiction,1
+W0614,designer receptor,3
+W0614,spatial resolution,1
+W0614,addiction,1
+W0614,cell population,1
+W0614,designer receptors exclusively,1
+W0615,central nervou,2
+W0615,amyotrophic lateral sclerosi,1
+W0615,amyloid plaque,1
+W0615,gene editing,1
+W0615,fluorescent protein,1
+W0615,amyloid- plaque,1
+W0615,amyloid precursor protein,1
+W0615,amyloid precursor,1
+W0615,gene transfer,1
+W0616,brain stimulation,2
+W0616,mechanisms underlying,1
+W0616,local field potential,1
+W0616,brain activity,1
+W0616,magnetic resonance imaging,1
+W0616,stimulation parameter,1
+W0616,blood flow,1
+W0616,neural network,2
+W0616,tremor,1
+W0617,neuropsychiatric disorder,1
+W0617,hippocampu,2
+W0617,depression,2
+W0617,prefrontal cortex,2
+W0617,memory,1
+W0617,psychiatric disorder,1
+W0617,executive function,1
+W0617,information processing,1
+W0617,cognitive dysfunction,3
+W0617,working memory,1
+W0617,shed light,1
+W0617,cognition,2
+W0618,neuropsychiatric disorder,1
+W0618,hippocampu,1
+W0618,depression,1
+W0618,prefrontal cortex,1
+W0618,memory,1
+W0618,psychiatric disorder,1
+W0618,executive function,1
+W0618,information processing,1
+W0618,cognitive dysfunction,3
+W0618,working memory,1
+W0618,shed light,1
+W0618,cognition,1
+W0619,computational modeling,1
+W0619,protein kinase,2
+W0620,basal ganglia,1
+W0620,dopamine,2
+W0620,substantia nigra,1
+W0620,neurodegenerative disorder,1
+W0620,dopamine neuron,1
+W0620,motor deficit,1
+W0620,cognitive decline,1
+W0620,substantia nigra pars compacta,1
+W0620,substantia nigra pars,1
+W0620,dopaminergic cell,1
+W0620,pars compacta,1
+W0620,midbrain dopamine,1
+W0620,midbrain dopamine neuron,1
+W0620,neuromodulatory system,1
+W0621,neurological disorder,1
+W0621,synaptic transmission,4
+W0621,memory,1
+W0621,synapse,2
+W0621,neuronal function,1
+W0621,action potential,1
+W0622,striatum,1
+W0622,dopamine,9
+W0622,neurological disorder,1
+W0622,dopamine neuron,1
+W0622,striatal neuron,1
+W0622,dorsal striatum,1
+W0622,nmda receptor,1
+W0622,dopamine signaling,2
+W0622,firing rate,1
+W0622,nigrostriatal dopamine,3
+W0622,action selection,4
+W0622,reward,1
+W0623,neural circuit,2
+W0623,synaptic plasticity,3
+W0623,neuromodulation,1
+W0623,hippocampu,2
+W0623,acetylcholine,1
+W0623,neuronal population,1
+W0623,memory retrieval,1
+W0623,memory,9
+W0623,synapse,1
+W0623,spatial memory,1
+W0623,cell type,1
+W0623,inhibitory interneuron,2
+W0623,neural mechanism,1
+W0623,specific neuron,1
+W0623,theta rhythm,2
+W0623,action potential,1
+W0624,deep brain stimulation,1
+W0624,basal ganglia,1
+W0624,brain stimulation,1
+W0624,motor symptom,1
+W0624,neural activity,1
+W0624,electrical stimulation,2
+W0624,parkinsonian motor,1
+W0624,stimulation parameter,1
+W0624,network dynamic,2
+W0624,parkinsonian motor symptom,1
+W0625,acetylcholine,1
+W0625,electrical stimulation,1
+W0625,cholinergic signaling,1
+W0625,mammalian brain,1
+W0625,information processing,1
+W0626,neural circuit,1
+W0626,neural activity,1
+W0626,mechanisms underlying,1
+W0626,motor behavior,1
+W0626,magnetic resonance imaging,1
+W0626,circuit mechanism,3
+W0626,functional magnetic resonance,1
+W0626,arousal,1
+W0626,circuit mechanisms underlying,1
+W0627,basal ganglia,1
+W0627,dopamine,1
+W0627,motor symptom,1
+W0627,globus pallidu,1
+W0627,thalamu,1
+W0627,neuronal population,1
+W0627,motor behavior,1
+W0627,inhibitory input,1
+W0627,inhibitory synaptic,1
+W0627,action potential,1
+W0627,poorly understood,1
+W0628,dreadd,1
+W0629,gabaergic neuron,1
+W0629,basal forebrain,1
+W0629,cholinergic neuron,5
+W0629,gaba,4
+W0629,cholinergic signaling,1
+W0629,gaba release,4
+W0629,inhibitory input,1
+W0629,medial septum,1
+W0629,diagonal band,1
+W0630,subthalamic nucleu,7
+W0630,dopamine,1
+W0630,motor symptom,1
+W0630,chemogenetic,1
+W0630,long-term potentiation,1
+W0630,nmda receptor,2
+W0630,motor function,1
+W0630,synapse,1
+W0630,motor dysfunction,1
+W0631,caenorhabditis elegan,1
+W0631,drosophila melanogaster,1
+W0632,cholinergic neuron,1
+W0632,cell type,2
+W0632,neural mechanism,1
+W0632,reward,1
+W0633,neural circuit,2
+W0633,synaptic plasticity,1
+W0633,neurodegenerative disorder,1
+W0633,memory,1
+W0633,memory loss,1
+W0633,therapeutic application,1
+W0634,dopamine,1
+W0634,neurodegeneration,2
+W0634,channelrhodopsin-2,3
+W0634,synaptic transmission,1
+W0634,motor deficit,1
+W0634,mechanisms underlying,1
+W0634,blue light,1
+W0634,locomotion,3
+W0634,neuronal excitability,1
+W0634,channelrhodopsin,1
+W0634,tyrosine hydroxylase,1
+W0634,α-synuclein,1
+W0634,pathophysiological mechanism,1
+W0635,neuronal activity,1
+W0635,channelrhodopsin-2,3
+W0635,memory,2
+W0635,sleep,1
+W0635,amyloid plaque,1
+W0635,light activation,1
+W0635,slow oscillation,7
+W0635,cortical neuron,1
+W0635,gaba,1
+W0635,amyloid- plaque,1
+W0635,oscillatory activity,1
+W0636,neurodegenerative disorder,1
+W0636,channelrhodopsin-2,1
+W0636,memory impairment,1
+W0636,cognitive decline,1
+W0636,cognitive impairment,1
+W0636,dentate gyru,1
+W0636,amyloid beta,1
+W0636,memory retrieval,2
+W0636,memory,14
+W0636,channelrhodopsin,1
+W0636,memory loss,1
+W0636,neurofibrillary tangle,1
+W0636,better understand,2
+W0636,tau,1
+W0636,fluorescent protein,1
+W0636,plaque formation,1
+W0637,dopamine,5
+W0637,brain stimulation,1
+W0637,dopamine depletion,2
+W0637,dopamine receptor,1
+W0637,ventral tegmental area,1
+W0637,behavioral deficit,1
+W0637,midbrain dopamine,1
+W0637,temporal control,1
+W0638,neurodegeneration,2
+W0638,epilepsy,1
+W0638,spinal cord injury,1
+W0638,therapeutic intervention,1
+W0638,spinal cord,1
+W0638,multiple sclerosi,1
+W0638,temporal control,2
+W0638,therapeutic strategy,1
+W0639,deep brain stimulation,1
+W0639,basal ganglia,1
+W0639,subthalamic nucleu,5
+W0639,brain stimulation,7
+W0639,neurodegenerative disorder,1
+W0639,neuromodulation,1
+W0639,motor symptom,2
+W0639,motor cortex,9
+W0639,neural activity,2
+W0639,channelrhodopsin-2,1
+W0639,globus pallidu,1
+W0639,beta oscillation,2
+W0639,motor deficit,4
+W0639,parkinsonism,1
+W0639,rat model,1
+W0639,electrophysiology,3
+W0639,neuronal population,1
+W0639,electrical stimulation,2
+W0639,local field potential,1
+W0639,akinesia,2
+W0639,bradykinesia,1
+W0639,stimulation parameter,1
+W0639,therapeutic benefit,1
+W0639,activity pattern,1
+W0639,light delivery,1
+W0639,effective treatment,1
+W0639,tremor,1
+W0640,clinical trial,2
+W0640,neuronal circuit,1
+W0640,stem cell,1
+W0640,dyskinesia,1
+W0640,pluripotent stem cell,1
+W0640,dreadd,1
+W0640,designer receptor,1
+W0640,induced pluripotent stem cell,1
+W0641,deep brain stimulation,3
+W0641,subthalamic nucleu,5
+W0641,dopaminergic neuron,1
+W0641,striatum,1
+W0641,dopamine,1
+W0641,brain stimulation,1
+W0641,dopamine depletion,1
+W0641,motor cortex,2
+W0641,6-hydroxydopamine,2
+W0641,dorsal striatum,1
+W0641,local field potential,1
+W0641,locomotion,2
+W0641,motor function,2
+W0641,glutamate receptor,1
+W0641,electrophysiological recording,1
+W0641,bradykinesia,2
+W0641,improves motor,1
+W0641,freely moving,1
+W0641,glutamate,1
+W0641,hyperdirect pathway,2
+W0641,stn dbs,1
+W0641,beta frequency,1
+W0642,striatum,1
+W0642,dopamine,1
+W0642,medium spiny neuron,3
+W0642,dopamine depletion,1
+W0642,movement disorder,1
+W0642,6-hydroxydopamine,3
+W0642,mechanisms underlying,1
+W0642,rat model,1
+W0642,6-hydroxydopamine lesion,1
+W0642,adeno-associated viru,1
+W0642,l-dopa-induced dyskinesia,5
+W0642,striatal dopamine,1
+W0642,channelrhodopsin,1
+W0642,dorsolateral striatum,1
+W0642,involuntary movement,1
+W0642,direct pathway,1
+W0642,dyskinesia,7
+W0642,levodopa,1
+W0642,mechanisms involved,1
+W0642,l-dopa,3
+W0642,striatal medium spiny neuron,1
+W0642,striatal dopamine depletion,1
+W0643,medium spiny neuron,5
+W0643,movement disorder,1
+W0643,channelrhodopsin-2,2
+W0643,motor control,1
+W0643,6-hydroxydopamine,1
+W0643,parkinsonism,3
+W0643,optical stimulation,3
+W0643,l-dopa-induced dyskinesia,1
+W0643,involuntary movement,1
+W0643,dyskinesia,10
+W0643,neuron activity,1
+W0643,l-dopa treatment,1
+W0643,l-dopa,4
+W0643,fully understood,1
+W0643,motor complication,1
+W0646,basal ganglia,4
+W0646,neural circuit,1
+W0646,striatum,2
+W0646,synaptic plasticity,2
+W0646,motor cortex,1
+W0646,neural activity,3
+W0646,synaptic transmission,1
+W0646,motor control,1
+W0646,hippocampu,3
+W0646,depression,1
+W0646,striatal neuron,1
+W0646,ion channel,2
+W0646,rat model,1
+W0646,gamma oscillation,4
+W0646,prefrontal cortex,1
+W0646,nmda receptor,1
+W0646,basal forebrain,1
+W0646,electrical stimulation,4
+W0646,local field potential,2
+W0646,locomotion,2
+W0646,memory retrieval,1
+W0646,memory,8
+W0646,computational model,5
+W0646,long-term depression,1
+W0646,motor behavior,1
+W0646,firing rate,1
+W0646,brain network,7
+W0646,spinal cord,1
+W0646,sleep,2
+W0646,neural oscillation,1
+W0646,synapse,4
+W0646,caenorhabditis elegan,2
+W0646,dystonia,1
+W0646,cell type,1
+W0646,memory consolidation,1
+W0646,autism spectrum disorder,1
+W0646,hippocampal network,1
+W0646,neural mechanism,1
+W0646,network dynamic,2
+W0646,protein kinase,1
+W0646,neural network,10
+W0646,cognitive deficit,1
+W0646,action selection,1
+W0646,eeg,4
+W0646,theta rhythm,1
+W0646,information processing,1
+W0646,activity pattern,1
+W0646,synaptic connectivity,1
+W0646,rem sleep,1
+W0646,visual cortex,2
+W0646,working memory,1
+W0646,autism spectrum,1
+W0646,pyramidal cell,1
+W0646,parvalbumin,1
+W0646,cognition,1
+W0646,cerebellum,1
+W0646,nucleus neuron,1
+W0646,neural population,2
+W0646,cell activity,1
+W0646,short-term plasticity,1
+W0649,neurodegenerative disorder,1
+W0649,hippocampu,1
+W0649,memory deficit,1
+W0649,cognitive decline,1
+W0649,cognitive impairment,1
+W0649,therapeutic target,1
+W0649,entorhinal cortex,1
+W0649,memory,1
+W0649,risk factor,2
+W0649,underlying mechanism,1
+W0649,mammalian brain,1
+W0649,spatial memory,1
+W0649,neuronal loss,3
+W0649,early stage,1
+W0649,promising therapeutic,1
+W0649,cognitive deficit,1
+W0649,chronic neurodegenerative,1
+W0649,mild cognitive impairment,1
+W0650,brain circuit,1
+W0650,magnetic resonance imaging,1
+W0650,early stage,1
+W0650,treatment option,1
+W0651,hippocampu,2
+W0651,dentate gyru,1
+W0651,epilepsy,1
+W0651,brain disorder,1
+W0651,inhibitory interneuron,1
+W0651,cell-type specific,1
+W0651,activity pattern,1
+W0651,parvalbumin,1
+W0652,striatum,2
+W0652,dopamine,9
+W0652,dopamine release,2
+W0652,dopamine neuron,1
+W0652,electrical stimulation,1
+W0652,dopamine signaling,2
+W0652,drug addiction,1
+W0652,freely moving,1
+W0652,midbrain dopamine,1
+W0652,addiction,1
+W0652,ventral striatum,1
+W0652,moving animal,1
+W0653,glutamate receptor,1
+W0653,glutamate,1
+W0653,neurologic disorder,1
+W0654,basal ganglia,1
+W0654,striatum,1
+W0654,neuronal activity,1
+W0654,motor cortex,2
+W0654,beta oscillation,1
+W0654,hippocampu,1
+W0654,memory,1
+W0654,brain disorder,1
+W0654,spatial resolution,1
+W0654,artificial intelligence,1
+W0654,neural network,5
+W0654,behaving animal,1
+W0655,central nervou,1
+W0655,neural network,4
+W0656,dopamine,4
+W0656,substantia nigra,1
+W0656,motor symptom,1
+W0656,movement disorder,1
+W0656,central nervou,2
+W0656,light stimulation,1
+W0656,lewy bodie,1
+W0656,blue light,1
+W0656,channelrhodopsin,1
+W0656,dopaminergic cell,1
+W0657,globus pallidu,2
+W0657,thalamu,2
+W0658,deep brain stimulation,4
+W0658,neural circuit,1
+W0658,brain stimulation,1
+W0658,neuromodulation,1
+W0658,movement disorder,2
+W0658,neuropsychiatric disorder,1
+W0658,essential tremor,1
+W0658,chronic pain,1
+W0658,dystonia,1
+W0658,obsessive-compulsive disorder,1
+W0658,brain injury,1
+W0658,addiction,1
+W0658,neurostimulation,1
+W0658,tremor,1
+W0659,globus pallidu,2
+W0659,thalamu,2
+W0660,neurological disorder,1
+W0660,gamma oscillation,3
+W0660,cognitive decline,1
+W0660,gene expression,1
+W0660,amyloid-β,1
+W0660,microglia,2
+W0660,visual cortex,1
+W0660,plaque formation,1
+W0661,striatum,3
+W0661,medium spiny neuron,3
+W0662,striatum,6
+W0662,medium spiny neuron,1
+W0662,channelrhodopsin-2,1
+W0662,globus pallidu,1
+W0662,thalamu,1
+W0663,cognitive function,1
+W0663,hippocampu,1
+W0663,optical stimulation,1
+W0663,gamma oscillation,9
+W0663,entorhinal cortex,1
+W0663,memory,1
+W0663,brain disorder,1
+W0663,gabaa receptor,1
+W0663,circuit mechanism,1
+W0663,working memory,1
+W0663,excitatory neuron,1
+W0663,hippocampal slice,1
+W0664,deep brain stimulation,1
+W0664,brain stimulation,1
+W0664,neuromodulation,4
+W0664,brain function,1
+W0664,gene therapy,1
+W0664,central nervou,1
+W0664,stem cell,1
+W0664,brain region,1
+W0664,memory,1
+W0664,chronic pain,1
+W0664,clinical application,1
+W0664,spinal cord,1
+W0664,brain injury,1
+W0664,cognitive dysfunction,1
+W0664,neuromodulation strategie,1
+W0664,motor dysfunction,1
+W0664,stroke,2
+W0665,basal ganglia,1
+W0665,striatum,3
+W0665,dopamine,1
+W0665,medium spiny neuron,3
+W0665,motor symptom,2
+W0665,movement disorder,1
+W0665,striatal cholinergic interneuron,2
+W0665,motor deficit,4
+W0665,6-hydroxydopamine,4
+W0665,cholinergic interneuron,2
+W0665,6-hydroxydopamine lesion,1
+W0665,dorsal striatum,2
+W0665,striatal cholinergic,2
+W0665,acetylcholine,1
+W0665,halorhodopsin,1
+W0665,akinesia,2
+W0665,muscarinic receptor,2
+W0665,bradykinesia,2
+W0665,mechanisms involved,1
+W0665,motor coordination,1
+W0665,wide range,1
+W0665,acetylcholine receptor,1
+W0665,muscarinic acetylcholine receptor,1
+W0666,memory,1
+W0667,neurodegenerative disorder,1
+W0667,long-term potentiation,1
+W0667,cognitive function,1
+W0667,hippocampu,1
+W0667,dentate gyru,3
+W0667,memory retrieval,1
+W0667,memory,10
+W0667,memory loss,1
+W0667,amyloid plaque,1
+W0667,synapse,1
+W0667,engram cell,5
+W0667,memory engram,1
+W0667,early stage,3
+W0667,amyloid- plaque,1
+W0667,episodic memory,1
+W0667,hippocampal memory,1
+W0668,dopaminergic neuron,1
+W0668,dopamine,1
+W0668,substantia nigra,1
+W0668,dopamine neuron,1
+W0668,neuropsychiatric disorder,1
+W0668,gene expression,2
+W0668,substantia nigra pars compacta,4
+W0668,ventral tegmental area,1
+W0668,substantia nigra pars,1
+W0668,gaba,1
+W0668,mood disorder,1
+W0668,pars compacta,1
+W0668,glutamate,1
+W0668,addiction,1
+W0668,trpv1,2
+W0669,neuronal activity,2
+W0669,chemogenetic,1
+W0669,tau protein,1
+W0669,tau pathology,2
+W0669,therapeutic strategie,1
+W0669,tauopathy,1
+W0669,tau,7
+W0670,deep brain stimulation,1
+W0670,basal ganglia,2
+W0670,striatum,1
+W0670,dopamine,2
+W0670,brain stimulation,1
+W0670,striatal cholinergic interneuron,1
+W0670,dopamine receptor,1
+W0670,parkinsonism,1
+W0670,basal ganglia circuitry,1
+W0670,astrocyte,1
+W0670,cholinergic interneuron,1
+W0670,striatal cholinergic,1
+W0670,closed-loop control,1
+W0671,dopamine,1
+W0671,substantia nigra,1
+W0671,neuronal activity,1
+W0671,globus pallidu,1
+W0671,6-hydroxydopamine,1
+W0671,substantia nigra pars compacta,6
+W0671,gpe neuron,2
+W0671,external globus pallidu,6
+W0671,substantia nigra pars,1
+W0671,sleep,9
+W0671,pars compacta,1
+W0671,globus pallidus externa,1
+W0671,eeg,2
+W0672,basal ganglia,1
+W0672,striatum,2
+W0672,indirect pathway,1
+W0672,chemogenetic,2
+W0672,globus pallidu,1
+W0672,dorsal striatum,1
+W0672,gpe neuron,2
+W0672,external globus pallidu,6
+W0672,striatal projection neuron,1
+W0672,chemogenetic activation,2
+W0672,direct and indirect pathway,1
+W0672,projection neuron,1
+W0672,inhibitory input,1
+W0672,monosynaptic tracing,1
+W0672,external globu,1
+W0673,striatum,1
+W0673,levodopa-induced dyskinesia,11
+W0673,striatal cholinergic interneuron,2
+W0673,6-hydroxydopamine,1
+W0673,motor impairment,1
+W0673,optical stimulation,1
+W0673,cholinergic interneuron,2
+W0673,striatal cholinergic,2
+W0673,l-dopa-induced dyskinesia,1
+W0673,acetylcholine,2
+W0673,dorsolateral striatum,1
+W0673,dyskinesia,1
+W0673,nicotinic acetylcholine receptor,1
+W0673,optical fiber,1
+W0673,acetylcholine receptor,2
+W0673,l-dopa,2
+W0673,poorly understood,1
+W0673,evidence indicate,1
+W0673,muscarinic acetylcholine receptor,1
+W0674,neural circuit,1
+W0674,dopaminergic neuron,1
+W0674,striatum,1
+W0674,brain stimulation,1
+W0674,mechanisms underlying,1
+W0674,ion channel,1
+W0674,therapeutic target,1
+W0674,neural circuitry,1
+W0674,neurodegenerative condition,1
+W0674,midbrain dopaminergic neuron,1
+W0674,cognitive dysfunction,1
+W0674,motor dysfunction,1
+W0674,light sensitive,1
+W0676,deep brain stimulation,4
+W0676,subthalamic nucleu,4
+W0676,brain stimulation,4
+W0676,neuronal activity,1
+W0676,levodopa-induced dyskinesia,5
+W0676,adeno-associated viru,1
+W0676,dyskinesia,8
+W0676,levodopa,1
+W0676,nucleus deep brain,1
+W0677,deep brain stimulation,3
+W0677,subthalamic nucleu,10
+W0677,brain stimulation,1
+W0677,motor symptom,1
+W0677,motor cortex,1
+W0677,6-hydroxydopamine,1
+W0677,brain region,1
+W0677,thalamu,1
+W0677,primary motor cortex,1
+W0677,remains unclear,1
+W0677,bradykinesia,3
+W0677,projection neuron,1
+W0679,neural circuit,1
+W0679,movement disorder,1
+W0679,channelrhodopsin-2,3
+W0679,optical stimulation,1
+W0679,gamma oscillation,1
+W0679,pyramidal neuron,1
+W0679,epilepsy,1
+W0679,halorhodopsin,2
+W0679,dreadd,2
+W0679,genetic engineering,1
+W0679,genetically targeted,2
+W0679,medial prefrontal cortex,1
+W0679,behavioral deficit,1
+W0679,early stage,1
+W0679,information processing,1
+W0679,pyramidal cell,1
+W0679,light sensitive,2
+W0681,basal ganglia,2
+W0681,dopamine,1
+W0681,medium spiny neuron,1
+W0681,dopamine depletion,1
+W0681,indirect pathway,2
+W0681,chemogenetic,1
+W0681,motor deficit,1
+W0681,basal ganglia circuitry,1
+W0681,motor impairment,1
+W0681,thalamu,3
+W0681,direct pathway,1
+W0681,brain slice,1
+W0681,parkinsonian motor,1
+W0681,direct and indirect pathway,1
+W0681,pathophysiological mechanism,1
+W0681,therapeutic strategy,1
+W0681,basal ganglia circuit,1
+W0681,synaptic strength,1
+W0682,striatum,2
+W0682,dopamine,1
+W0682,substantia nigra,1
+W0682,rodent model,1
+W0682,viral vector,1
+W0682,nigrostriatal pathway,2
+W0682,dyskinesia,1
+W0682,light sensitive,1
+W0683,depression,1
+W0683,epilepsy,1
+W0683,locus coeruleu,1
+W0683,addiction,1
+W0683,arousal,1
+W0683,norepinephrine,1
+W0683,motivation,1
+W0684,neural circuit,1
+W0684,striatum,2
+W0684,motor symptom,1
+W0684,motor cortex,1
+W0684,striatal cholinergic interneuron,2
+W0684,beta oscillation,1
+W0684,motor deficit,2
+W0684,cholinergic interneuron,2
+W0684,gamma oscillation,3
+W0684,striatal cholinergic,2
+W0684,brain region,1
+W0684,psychiatric disorder,1
+W0684,primary motor cortex,1
+W0684,parkinsonian motor,1
+W0684,motor function,2
+W0684,muscarinic receptor,1
+W0684,cell type,1
+W0684,specific cell,1
+W0684,specific cell type,1
+W0684,parkinsonian motor symptom,1
+W0684,beta frequency,1
+W0685,basal ganglia,1
+W0685,striatum,2
+W0685,dopamine,1
+W0685,channelrhodopsin-2,1
+W0685,dopamine receptor,1
+W0685,striatal neuron,1
+W0685,stimulation frequency,1
+W0686,dopaminergic neuron,1
+W0686,dopamine,1
+W0686,gene expression,1
+W0686,tyrosine hydroxylase,1
+W0686,cell-type specific,1
+W0687,striatum,2
+W0687,thalamu,1
+W0687,substantia nigra pars reticulata,2
+W0688,striatum,2
+W0688,thalamu,1
+W0688,substantia nigra pars reticulata,2
+W0690,dopaminergic neuron,1
+W0690,striatum,2
+W0690,neuronal activity,3
+W0690,6-hydroxydopamine,1
+W0690,viral vector,1
+W0690,clinical application,1
+W0690,dyskinesia,1
+W0690,motor behavior,1
+W0690,dreadd,4
+W0690,designer receptor,1
+W0690,dopaminergic cell,2
+W0690,motor recovery,1
+W0690,replacement therapy,3
+W0690,designer receptors exclusively,1
+W0690,aav vector,1
+W0692,dopaminergic neuron,2
+W0692,striatum,2
+W0692,dopamine,1
+W0692,channelrhodopsin-2,1
+W0692,6-hydroxydopamine,1
+W0692,gabaergic interneuron,2
+W0692,electrical stimulation,2
+W0692,nigrostriatal pathway,1
+W0692,tyrosine hydroxylase,1
+W0692,gabaergic inhibition,2
+W0692,midbrain dopaminergic neuron,1
+W0692,fluorescent protein,2
+W0692,voltammetry,1
+W0693,neural circuit,3
+W0693,memory impairment,1
+W0693,cognitive function,1
+W0693,hippocampu,5
+W0693,depression,1
+W0693,memory deficit,2
+W0693,molecular mechanism,1
+W0693,gene expression,1
+W0693,memory,4
+W0693,risk factor,1
+W0693,basolateral amygdala,2
+W0693,molecular pathway,1
+W0693,poorly understood,1
+W0693,cognition,1
+W0693,hippocampal memory,1
+W0695,dentate gyru,1
+W0695,channelrhodopsin,1
+W0695,light activation,1
+W0695,neuronal activation,1
+W0695,evidence indicate,1
+W0696,dentate gyru,1
+W0696,channelrhodopsin,1
+W0696,light activation,1
+W0696,neuronal activation,1
+W0696,evidence indicate,1
+W0697,deep brain stimulation,4
+W0697,subthalamic nucleu,6
+W0697,brain stimulation,1
+W0697,neuromodulation,1
+W0697,motor symptom,2
+W0697,globus pallidu,1
+W0697,stn neuron,1
+W0697,external globus pallidu,2
+W0697,closed-loop stimulation,3
+W0697,parkinsonian motor,1
+W0697,underlying mechanism,1
+W0697,neural network,1
+W0697,light delivery,1
+W0697,light source,1
+W0697,external globu,1
+W0697,gene transfer,1
+W0697,parkinsonian motor symptom,1
+W0698,neural circuit,1
+W0698,brain stimulation,2
+W0698,epilepsy,1
+W0698,brain activity,1
+W0698,computational model,1
+W0698,closed-loop stimulation,1
+W0698,computational modeling,1
+W0698,neurostimulation,3
+W0698,neural population,1
+W0699,electrophysiological propertie,1
+W0700,dopamine,6
+W0700,substantia nigra,1
+W0700,dopamine release,3
+W0700,synaptic transmission,2
+W0700,dopamine neuron,1
+W0700,depression,1
+W0700,psychiatric disorder,1
+W0700,brain slice,1
+W0700,neurotransmitter system,1
+W0700,l-dopa,7
+W0702,striatum,1
+W0702,dopamine,2
+W0702,synaptic plasticity,1
+W0702,dopamine depletion,2
+W0702,6-hydroxydopamine,2
+W0702,rodent model,1
+W0702,striatal neuron,1
+W0702,gabaergic interneuron,1
+W0702,synapse,4
+W0702,projection neuron,1
+W0703,striatum,1
+W0703,neuromodulation,2
+W0703,hippocampu,2
+W0703,central nervou,1
+W0703,cholinergic interneuron,3
+W0703,gamma oscillation,1
+W0703,therapeutic target,1
+W0703,electrophysiology,1
+W0703,acetylcholine,4
+W0703,basal forebrain,2
+W0703,neuronal population,1
+W0703,cholinergic neuron,1
+W0703,brain disorder,1
+W0703,nicotinic acetylcholine receptor,1
+W0703,brain circuit,1
+W0703,synapse,1
+W0703,cholinergic signaling,2
+W0703,acetylcholine receptor,2
+W0703,visual cortex,1
+W0703,glutamatergic transmission,1
+W0703,cholinergic receptor,2
+W0703,muscarinic acetylcholine receptor,1
+W0703,cell activity,1
+W0704,neural activity,1
+W0704,brain function,1
+W0704,hippocampu,1
+W0704,viral vector,1
+W0704,brain network,1
+W0704,drug addiction,1
+W0704,brain area,1
+W0704,neurodegenerative condition,1
+W0704,autism spectrum disorder,1
+W0704,addiction,1
+W0704,behaving animal,1
+W0704,autism spectrum,1
+W0706,dopamine,6
+W0706,striatal cholinergic interneuron,2
+W0706,cholinergic interneuron,2
+W0706,striatal cholinergic,2
+W0706,nucleus accumben,1
+W0706,striatal dopamine,1
+W0706,light activation,1
+W0706,dopamine transmission,4
+W0706,nicotinic receptor,1
+W0706,short-term plasticity,1
+W0707,dopamine,1
+W0707,dopamine neuron,1
+W0708,neural circuit,3
+W0708,neuronal activity,1
+W0708,ion channel,1
+W0708,signaling pathway,1
+W0708,mood disorder,1
+W0708,addiction,1
+W0708,light sensitive,1
+W0709,gene therapy,1
+W0709,stem cell,7
+W0709,clinical application,1
+W0709,gene editing,1
+W0709,transcription factor,1
+W0709,stem cell-derived,1
+W0709,regenerative medicine,1
+W0709,shed light,1
+W0710,long-term potentiation,1
+W0710,hippocampu,5
+W0710,memory deficit,1
+W0710,nucleus accumben,2
+W0710,memory,4
+W0710,spatial memory,1
+W0710,locomotor activity,1
+W0710,protein kinase,1
+W0711,neurological disorder,2
+W0711,basal forebrain,5
+W0711,brain region,1
+W0711,cholinergic neuron,1
+W0711,cell type,2
+W0711,specific cell,1
+W0711,cell-type specific,2
+W0711,circuit mechanism,2
+W0711,specific cell type,1
+W0711,arousal,2
+W0711,basal forebrain cholinergic,1
+W0711,poorly understood,1
+W0711,cognition,1
+W0713,deep brain stimulation,2
+W0713,striatum,2
+W0713,dopamine,2
+W0713,substantia nigra,1
+W0713,brain stimulation,1
+W0713,neuromodulation,2
+W0713,dopamine release,1
+W0713,movement disorder,1
+W0713,dopamine neuron,1
+W0713,optical stimulation,4
+W0713,ion channel,1
+W0713,neuronal circuit,1
+W0713,electrical stimulation,5
+W0713,optical fiber,1
+W0713,therapeutic option,1
+W0713,specific neuron,1
+W0713,voltammetry,1
+W0713,cell activity,1
+W0714,deep brain stimulation,2
+W0714,striatum,2
+W0714,dopamine,2
+W0714,substantia nigra,1
+W0714,brain stimulation,1
+W0714,neuromodulation,2
+W0714,dopamine release,1
+W0714,movement disorder,1
+W0714,dopamine neuron,1
+W0714,optical stimulation,4
+W0714,ion channel,1
+W0714,neuronal circuit,1
+W0714,electrical stimulation,5
+W0714,optical fiber,1
+W0714,therapeutic option,1
+W0714,specific neuron,1
+W0714,voltammetry,1
+W0714,cell activity,1
+W0715,cell population,1
+W0715,precise control,1
+W0716,ion channel,1
+W0716,channelrhodopsin,1
+W0716,cell type,1
+W0716,living tissue,1
+W0716,optical control,1
+W0716,light sensitive,2
+W0717,dopamine,2
+W0717,neuronal activity,1
+W0717,medium spiny neuron,1
+W0717,dopamine release,1
+W0717,synaptic transmission,1
+W0717,motor deficit,3
+W0717,mechanisms underlying,1
+W0717,electrophysiology,1
+W0717,stem cell,2
+W0717,pluripotent stem cell,1
+W0717,parkinsonian motor,1
+W0717,cell therapy,1
+W0717,striatal medium spiny neuron,1
+W0717,neurons derived,1
+W0717,embryonic stem cell,1
+W0719,neural circuit,1
+W0719,channelrhodopsin-2,3
+W0719,gene therapy,1
+W0719,depression,1
+W0719,genetically encoded,1
+W0719,sleep,1
+W0719,anxiety,1
+W0719,light-sensitive protein,2
+W0719,obsessive-compulsive disorder,1
+W0719,sleep disorder,1
+W0719,addiction,1
+W0719,living tissue,1
+W0719,action potential,1
+W0719,cation channel,1
+W0719,light sensitive,3
+W0720,deep brain stimulation,4
+W0720,brain stimulation,1
+W0720,channelrhodopsin-2,1
+W0720,brain region,1
+W0720,thalamu,1
+W0720,blue light,1
+W0720,akinesia,5
+W0720,parkinsonian rats,2
+W0720,high-frequency deep brain,1
+W0720,neurological condition,1
+W0720,motor thalamu,1
+W0720,tremor,1
+W0721,deep brain stimulation,1
+W0721,basal ganglia,1
+W0721,neural circuit,2
+W0721,brain stimulation,1
+W0721,neuronal activity,1
+W0721,movement disorder,3
+W0721,basal ganglia circuitry,1
+W0721,mechanisms underlying,2
+W0721,electrical stimulation,1
+W0721,cell type,1
+W0721,treatment option,1
+W0721,circuit mechanism,2
+W0722,basal ganglia,2
+W0722,dopamine,1
+W0722,medium spiny neuron,2
+W0722,striatal cholinergic interneuron,1
+W0722,motor deficit,1
+W0722,cholinergic interneuron,1
+W0722,striatal cholinergic,1
+W0722,parkinsonian motor,1
+W0722,motor function,1
+W0722,locomotor activity,1
+W0722,basal ganglia output,2
+W0722,information processing,1
+W0722,motor dysfunction,1
+W0724,substantia nigra,1
+W0724,astrocyte,7
+W0724,stem cell,5
+W0724,neural stem cell,1
+W0724,channelrhodopsin,1
+W0724,neurotrophic factor,1
+W0724,light activation,2
+W0724,growth factor,2
+W0724,astrocytes expressing,1
+W0724,embryonic stem cell,1
+W0725,memory impairment,1
+W0725,long-term potentiation,1
+W0725,hippocampu,1
+W0725,nmda receptor,1
+W0725,amyloid beta,1
+W0725,memory,2
+W0725,synaptic dysfunction,1
+W0725,tau protein,3
+W0725,tau phosphorylation,1
+W0725,underlying mechanism,1
+W0725,glutamate receptor,1
+W0725,synapse,1
+W0725,cellular model,1
+W0725,glutamate,1
+W0725,tau,6
+W0726,neuronal activity,1
+W0726,gabaergic neuron,4
+W0726,acetylcholine,1
+W0726,basal forebrain,1
+W0726,cholinergic neuron,4
+W0726,firing rate,1
+W0726,muscarinic receptor,1
+W0726,inhibitory synaptic,1
+W0726,brainstem,1
+W0726,parvalbumin,1
+W0726,cholinergic receptor,1
+W0726,cation channel,1
+W0728,depression,1
+W0728,clinical trial,1
+W0728,addiction,1
+W0728,target cell,1
+W0729,basal ganglia,1
+W0729,subthalamic nucleu,5
+W0729,dopamine,1
+W0729,motor cortex,1
+W0729,movement disorder,1
+W0729,indirect pathway,1
+W0729,motor deficit,2
+W0729,basal ganglia circuitry,1
+W0729,nmda receptor,1
+W0729,striatal dopamine,1
+W0729,parkinsonian motor,2
+W0729,direct and indirect pathway,1
+W0729,glutamate receptor,1
+W0729,parkinsonian rats,1
+W0729,glutamate,1
+W0730,central nervou,1
+W0730,brain slice,1
+W0730,neural network,4
+W0731,deep brain stimulation,3
+W0731,dopamine,1
+W0731,brain stimulation,1
+W0731,brain function,1
+W0731,dopaminergic cell,1
+W0731,cell-type specific,2
+W0731,adaptive dbs,1
+W0732,basal ganglia,1
+W0732,neural circuit,2
+W0732,dopamine,3
+W0732,neuromodulation,1
+W0732,dopamine depletion,1
+W0732,brain function,1
+W0732,neuropsychiatric disorder,4
+W0732,depression,1
+W0732,ion channel,2
+W0732,prefrontal cortex,4
+W0732,functional connectivity,1
+W0732,neuronal circuit,3
+W0732,acetylcholine,3
+W0732,locus coeruleu,1
+W0732,brain region,4
+W0732,memory,2
+W0732,computational model,1
+W0732,neuronal excitability,1
+W0732,gaba,1
+W0732,computational modeling,2
+W0732,brain area,1
+W0732,glutamate,1
+W0732,reward,2
+W0732,information processing,1
+W0732,norepinephrine,1
+W0732,spatial working memory,1
+W0732,neuromodulatory system,1
+W0732,working memory,1
+W0732,cognition,1
+W0732,voltammetry,1
+W0733,deep brain stimulation,7
+W0733,basal ganglia,1
+W0733,subthalamic nucleu,3
+W0733,neural circuit,1
+W0733,brain stimulation,1
+W0733,motor symptom,1
+W0733,motor cortex,1
+W0733,optical stimulation,1
+W0733,spiny projection neuron,1
+W0733,primary motor cortex,1
+W0733,parkinsonian motor,1
+W0733,motor function,1
+W0733,projection neuron,1
+W0733,treatment option,1
+W0733,parkinsonian motor symptom,1
+W0734,neural circuit,6
+W0734,central nervou,1
+W0734,rodent model,2
+W0734,mechanisms underlying,1
+W0734,epilepsy,4
+W0734,stem cell,3
+W0734,psychiatric disorder,4
+W0734,chronic pain,4
+W0734,clinical application,2
+W0734,pluripotent stem cell,1
+W0734,spinal cord,1
+W0734,brain circuit,1
+W0734,neuron activity,1
+W0734,anxiety,2
+W0734,projection neuron,1
+W0734,cell type,3
+W0734,mood disorder,1
+W0734,inhibitory interneuron,2
+W0734,induced pluripotent stem cell,1
+W0734,excitatory neuron,1
+W0734,cell death,1
+W0734,neuronal cell,1
+W0734,cerebral cortex,4
+W0734,embryonic stem cell,2
+W0735,chemogenetic,1
+W0735,physiological processe,1
+W0736,basal ganglia,1
+W0736,subthalamic nucleu,7
+W0736,dopamine,2
+W0736,substantia nigra,1
+W0736,basal ganglia circuitry,1
+W0736,substantia nigra pars,1
+W0736,substantia nigra pars reticulata,1
+W0736,entopeduncular nucleu,1
+W0736,nigra pars reticulata,1
+W0736,glutamatergic transmission,1
+W0736,vglut2,2
+W0736,cognition,1
+W0737,striatum,2
+W0737,dopamine,1
+W0737,substantia nigra,1
+W0737,motor control,1
+W0737,ventral tegmental area,1
+W0737,nigrostriatal dopamine,1
+W0737,axon terminal,1
+W0737,addiction,1
+W0737,reward,1
+W0737,reward seeking,1
+W0737,motivation,1
+W0738,neurological disorder,1
+W0738,neural activity,2
+W0738,prefrontal cortex,1
+W0738,epilepsy,1
+W0738,ventral tegmental area,1
+W0738,clinical application,2
+W0738,risk factor,1
+W0738,neural recording,1
+W0738,locomotor activity,2
+W0738,wide range,1
+W0738,neural network,1
+W0738,eeg,2
+W0738,information processing,1
+W0738,ischemic stroke,1
+W0738,stroke,11
+W0738,excitatory neuron,1
+W0738,promising tool,1
+W0740,epilepsy,1
+W0740,memory,1
+W0741,basal ganglia,1
+W0741,substantia nigra,1
+W0741,thalamu,3
+W0741,brain slice,1
+W0741,parkinsonian condition,1
+W0741,motor thalamu,2
+W0741,synaptic propertie,1
+W0743,deep brain stimulation,1
+W0743,subthalamic nucleu,7
+W0743,brain stimulation,1
+W0743,neuronal activity,1
+W0743,light stimulation,1
+W0743,rat model,1
+W0743,adeno-associated viru,2
+W0743,halorhodopsin,1
+W0743,akinesia,2
+W0743,motor function,1
+W0743,glutamate,1
+W0743,specific neuron,1
+W0746,basal ganglia,1
+W0746,neural circuit,1
+W0746,mechanisms underlying,1
+W0746,brain network,1
+W0746,parkinsonian motor,1
+W0746,non-motor symptom,1
+W0746,designer receptor,2
+W0746,therapeutic option,1
+W0747,dopamine,1
+W0747,synapse,7
+W0748,dopamine,1
+W0748,synapse,7
+W0749,dopamine,1
+W0749,synaptic plasticity,1
+W0749,brain function,1
+W0749,synaptic transmission,1
+W0749,motor control,1
+W0749,long-term potentiation,1
+W0749,depression,1
+W0749,cholinergic interneuron,1
+W0749,acetylcholine,1
+W0749,striatal dopamine,1
+W0749,nigrostriatal pathway,1
+W0749,long-term depression,1
+W0749,action potential,1
+W0750,deep brain stimulation,2
+W0750,basal ganglia,1
+W0750,striatum,1
+W0750,brain stimulation,1
+W0750,movement disorder,1
+W0750,brain disorder,1
+W0750,glutamate receptor,1
+W0750,synapse,1
+W0750,glutamate,2
+W0750,vglut2,1
+W0751,neuronal activity,2
+W0751,cognitive function,1
+W0751,neuronal circuit,2
+W0751,memory,1
+W0751,psychiatric disorder,1
+W0751,brain disorder,1
+W0751,motor behavior,3
+W0751,sleep,1
+W0751,cell type,1
+W0751,specific cell,1
+W0751,cell-type specific,1
+W0751,addiction,1
+W0751,specific neuron,1
+W0751,behaving animal,1
+W0751,cell population,1
+W0753,dopamine,15
+W0753,substantia nigra,1
+W0753,neurodegenerative disorder,1
+W0753,motor symptom,1
+W0753,dopamine neuron,15
+W0753,neuropsychiatric disorder,1
+W0753,depression,8
+W0753,6-hydroxydopamine,2
+W0753,rat model,1
+W0753,motor behavior,1
+W0753,underlying mechanism,1
+W0753,mood disorder,2
+W0753,early stage,1
+W0753,midbrain dopamine,2
+W0753,midbrain dopamine neuron,2
+W0753,microglia,1
+W0754,deep brain stimulation,3
+W0754,basal ganglia,2
+W0754,subthalamic nucleu,1
+W0754,striatum,1
+W0754,dopamine,3
+W0754,medium spiny neuron,13
+W0754,dopamine depletion,2
+W0754,indirect pathway,2
+W0754,dopamine receptor,1
+W0754,striatal neuron,1
+W0754,external globus pallidu,1
+W0754,direct pathway,1
+W0754,firing rate,5
+W0754,direct and indirect pathway,1
+W0754,synapse,1
+W0754,spiking activity,1
+W0757,basal ganglia,1
+W0757,neural circuit,1
+W0757,therapeutic strategie,1
+W0757,non-motor symptom,1
+W0757,designer receptor,2
+W0757,basal ganglia function,1
+W0760,neurological disorder,6
+W0760,neural activity,1
+W0760,mechanisms underlying,1
+W0760,ion channel,1
+W0760,epilepsy,1
+W0760,neuronal population,1
+W0760,underlying mechanism,1
+W0760,therapeutic strategie,1
+W0760,cell type,1
+W0760,pathophysiological mechanism,1
+W0760,spatial resolution,1
+W0760,neural network,1
+W0760,temporal resolution,1
+W0760,neuronal cell,1
+W0760,neural population,1
+W0761,basal ganglia,1
+W0761,striatum,3
+W0761,medium spiny neuron,2
+W0761,neurological disorder,2
+W0761,indirect pathway,1
+W0761,motor control,1
+W0761,depression,1
+W0761,drug addiction,1
+W0761,neuronal firing,1
+W0761,cell-type specific,1
+W0761,addiction,1
+W0761,reward,5
+W0761,reward seeking,1
+W0761,striatal medium spiny neuron,1
+W0761,neuronal cell,1
+W0762,channelrhodopsin-2,2
+W0762,epilepsy,1
+W0762,electrophysiology,1
+W0762,electrical stimulation,1
+W0762,halorhodopsin,1
+W0762,sleep,1
+W0762,anxiety,1
+W0762,genetic engineering,1
+W0762,sleep disorder,1
+W0762,genetically targeted,1
+W0762,reward,1
+W0762,neural population,1
+W0762,light sensitive,2
+W0763,channelrhodopsin-2,1
+W0763,neuropsychiatric disorder,1
+W0763,light stimulation,2
+W0763,optical stimulation,1
+W0763,epilepsy,1
+W0763,hippocampal neuron,1
+W0763,brain area,1
+W0763,network dynamic,1
+W0763,activity pattern,1
+W0766,neuronal activity,2
+W0766,dentate gyru,1
+W0766,brain region,1
+W0766,memory,2
+W0766,brain activity,1
+W0766,synaptic dysfunction,1
+W0766,glutamate receptor,1
+W0766,amyloid-β,1
+W0766,glutamate,1
+W0766,amyloid precursor protein,1
+W0766,amyloid precursor,1
+W0767,deep brain stimulation,3
+W0767,subthalamic nucleu,1
+W0767,brain stimulation,1
+W0767,movement disorder,1
+W0767,depression,1
+W0767,epilepsy,1
+W0767,essential tremor,1
+W0767,dystonia,1
+W0767,poorly understood,1
+W0767,high-frequency deep brain,1
+W0767,tremor,1
+W0768,striatum,1
+W0768,dopamine,4
+W0768,neuronal activity,1
+W0768,dopamine depletion,3
+W0768,synaptic transmission,1
+W0768,globus pallidu,1
+W0768,depression,1
+W0768,6-hydroxydopamine,1
+W0768,brain slice,1
+W0768,synapse,4
+W0768,gabaergic inhibition,1
+W0768,gaba,1
+W0768,poorly understood,1
+W0768,synaptic propertie,1
+W0769,gene therapy,1
+W0769,neuronal circuit,1
+W0769,electrical stimulation,1
+W0769,channelrhodopsin,1
+W0769,precise control,1
+W0769,cation channel,1
+W0770,deep brain stimulation,13
+W0770,subthalamic nucleu,1
+W0770,neural circuit,2
+W0770,brain stimulation,6
+W0770,neuromodulation,1
+W0770,motor symptom,1
+W0770,movement disorder,4
+W0770,mechanisms underlying,1
+W0770,essential tremor,2
+W0770,psychiatric disorder,1
+W0770,dystonia,1
+W0770,executive function,1
+W0770,neural network,1
+W0770,fully understood,1
+W0770,cognition,1
+W0770,tremor,3
+W0771,dopaminergic neuron,1
+W0771,neurological disorder,1
+W0771,mechanisms underlying,1
+W0771,clinical trial,1
+W0771,stem cell,1
+W0771,stem cell-derived,3
+W0771,functional integration,3
+W0771,synaptic connectivity,2
+W0771,replacement therapy,1
+W0771,neural population,1
+W0772,cognitive function,1
+W0772,amyloid-β,1
+W0772,gaba,9
+W0772,gabaa receptor,1
+W0772,water maze,2
+W0772,cell death,2
+W0773,deep brain stimulation,2
+W0773,subthalamic nucleu,16
+W0773,dopamine,2
+W0773,dopamine depletion,1
+W0773,channelrhodopsin-2,3
+W0773,globus pallidu,1
+W0773,dopamine neuron,1
+W0773,motor impairment,1
+W0773,stn neuron,2
+W0773,external globus pallidu,12
+W0773,parkinsonian symptom,1
+W0773,gabaergic inhibition,2
+W0773,therapeutic mechanism,1
+W0773,improves motor,1
+W0773,midbrain dopamine,1
+W0773,expressing channelrhodopsin-2,1
+W0773,midbrain dopamine neuron,1
+W0773,hcn channel,3
+W0773,external globu,1
+W0773,glutamatergic subthalamic nucleu,1
+W0774,hippocampu,2
+W0774,dentate gyru,2
+W0774,pyramidal neuron,1
+W0774,adeno-associated viru,1
+W0774,gabaergic interneuron,7
+W0774,halorhodopsin,1
+W0774,memory retrieval,2
+W0774,memory,6
+W0774,remains unclear,1
+W0774,neuron activity,1
+W0774,inhibitory interneuron,1
+W0774,motor coordination,1
+W0774,water maze,1
+W0774,working memory,1
+W0775,neural activity,1
+W0775,anxiety,1
+W0775,spatial resolution,1
+W0776,deep brain stimulation,11
+W0776,basal ganglia,5
+W0776,subthalamic nucleu,9
+W0776,brain stimulation,1
+W0776,motor symptom,1
+W0776,computational model,1
+W0776,basal ganglia output,3
+W0776,basal ganglia circuit,1
+W0776,stn dbs,6
+W0777,striatum,1
+W0777,central nervou,2
+W0777,clinical trial,1
+W0777,gene expression,3
+W0777,nucleus accumben,2
+W0777,cholinergic neuron,1
+W0777,memory,3
+W0777,signaling pathway,2
+W0777,spinal cord,1
+W0777,underlying mechanism,1
+W0777,drug addiction,1
+W0777,receptor activation,1
+W0777,spatial memory,2
+W0777,addiction,4
+W0777,therapeutic benefit,1
+W0777,n-methyl-d-aspartate receptor,1
+W0777,immune response,1
+W0778,basal ganglia,4
+W0778,striatum,2
+W0778,dopamine,2
+W0778,synaptic plasticity,2
+W0778,neurodegenerative disorder,1
+W0778,brain function,1
+W0778,neuropsychiatric disorder,1
+W0778,hippocampu,2
+W0778,striatal neuron,3
+W0778,epilepsy,1
+W0778,molecular mechanism,3
+W0778,gene expression,1
+W0778,l-dopa-induced dyskinesia,2
+W0778,memory formation,1
+W0778,brain region,1
+W0778,neuronal population,2
+W0778,memory,5
+W0778,signaling pathway,1
+W0778,dyskinesia,2
+W0778,motor behavior,1
+W0778,dopamine d1 receptor,1
+W0778,drug addiction,3
+W0778,neurotransmitter system,1
+W0778,protein synthesi,1
+W0778,transcription factor,1
+W0778,addiction,3
+W0778,l-dopa,1
+W0778,norepinephrine,1
+W0778,cognition,1
+W0779,depression,1
+W0779,parkinsonism,1
+W0779,brain activity,1
+W0779,anxiety,1
+W0779,addiction,1
+W0780,deep brain stimulation,1
+W0780,brain stimulation,1
+W0780,neuromodulation,1
+W0780,gene therapy,1
+W0780,neuronal population,1
+W0780,magnetic resonance imaging,1
+W0780,temporal control,1
+W0780,functional magnetic resonance,1
+W0780,specific neuronal population,1
+W0781,epilepsy,1
+W0781,living tissue,1
+W0781,light sensitive,3
+W0781,cell activity,1
+W0782,deep brain stimulation,3
+W0782,brain stimulation,1
+W0782,movement disorder,1
+W0782,depression,1
+W0782,addiction,1
+W0783,neurodegeneration,1
+W0783,movement disorder,2
+W0783,depression,1
+W0783,memory deficit,1
+W0783,astrocyte,4
+W0783,ion channel,1
+W0783,epilepsy,1
+W0783,stem cell,1
+W0783,viral vector,1
+W0783,neural stem cell,1
+W0783,memory,1
+W0783,multiple sclerosi,3
+W0783,synapse,1
+W0783,blood-brain barrier,1
+W0783,therapeutic strategie,3
+W0783,obsessive-compulsive disorder,1
+W0783,glutamate,1
+W0783,effective therapeutic,1
+W0783,microglia,1
+W0783,neurologic disorder,1
+W0783,glial cell,1
+W0783,immune response,2
+W0783,targeted neuron,1
+W0783,light sensitive,1
+W0784,striatum,2
+W0784,dopamine,1
+W0784,substantia nigra,1
+W0784,channelrhodopsin-2,2
+W0784,mechanisms underlying,1
+W0784,stem cell,1
+W0784,halorhodopsin,1
+W0784,neural stem cell,1
+W0784,stem cell-derived,2
+W0784,action potential,1
+W0784,synaptic connectivity,1
+W0784,poorly understood,1
+W0785,neuronal activity,1
+W0785,neurological disorder,1
+W0785,brain function,1
+W0785,neuropsychiatric disorder,1
+W0785,hippocampu,4
+W0785,parkinsonism,1
+W0785,epilepsy,5
+W0785,gene expression,2
+W0785,memory formation,1
+W0785,local field potential,1
+W0785,memory,1
+W0785,brain activity,1
+W0785,therapeutic intervention,1
+W0785,firing rate,1
+W0785,brain slice,1
+W0785,neuronal firing,1
+W0785,electrophysiological recording,1
+W0785,inhibitory interneuron,2
+W0785,glutamate,1
+W0785,hippocampal network,1
+W0785,wide range,2
+W0785,inhibitory synaptic,1
+W0785,eeg,7
+W0785,action potential,2
+W0785,visual cortex,1
+W0785,mitochondrial dysfunction,2
+W0785,human brain,1
+W0785,pyramidal cell,3
+W0785,neuronal cell,1
+W0785,parvalbumin,1
+W0785,neuronal oscillation,3
+W0785,firing pattern,1
+W0785,neuronal spiking,1
+W0786,hippocampu,2
+W0786,cognitive decline,1
+W0786,memory formation,1
+W0786,memory,1
+W0786,hippocampal ca1,3
+W0786,inhibitory interneuron,1
+W0786,nicotinic receptor,3
+W0787,gene therapy,1
+W0787,clinical trial,1
+W0787,neuronal circuit,1
+W0787,viral vector,1
+W0787,spinal cord,1
+W0787,specific cell,1
+W0787,aav vector,1
+W0787,promising tool,1
+W0788,neural circuit,1
+W0788,neurological disorder,1
+W0788,neural activity,1
+W0788,channelrhodopsin-2,2
+W0788,ion channel,1
+W0788,halorhodopsin,1
+W0788,viral vector,1
+W0788,spinal cord injury,1
+W0788,non-human primate,1
+W0788,spinal cord,1
+W0788,mammalian brain,1
+W0788,genetically targeted,1
+W0788,action potential,2
+W0788,information processing,1
+W0788,neurological condition,1
+W0788,parkinsonian animal,1
+W0788,nonhuman primate,1
+W0788,neural population,1
+W0789,neural circuit,1
+W0789,depression,1
+W0789,gene expression,1
+W0789,stem cell,1
+W0789,halorhodopsin,1
+W0789,spinal cord,1
+W0789,genetic engineering,1
+W0789,brain area,1
+W0789,genetically targeted,1
+W0789,specific cell,1
+W0789,living tissue,1
+W0789,targeted neuron,1
+W0790,striatum,1
+W0790,dopamine,2
+W0790,synaptic plasticity,1
+W0790,synaptic transmission,1
+W0790,neuropsychiatric disorder,1
+W0790,dopamine receptor,1
+W0790,mechanisms underlying,1
+W0790,glutamatergic synapse,1
+W0790,glutamate receptor,1
+W0790,synapse,1
+W0790,glutamate,3
+W0790,dendritic spine,1
+W0790,protein kinase,1
+W0790,two-photon microscopy,1
+W0790,striatopallidal neuron,1
+W0791,basal ganglia,4
+W0791,neural circuit,1
+W0791,striatum,1
+W0791,medium spiny neuron,4
+W0791,indirect pathway,4
+W0791,channelrhodopsin-2,1
+W0791,motor deficit,1
+W0791,basal ganglia circuitry,2
+W0791,adeno-associated viru,1
+W0791,spiny projection neuron,1
+W0791,locomotion,1
+W0791,direct pathway,3
+W0791,motor behavior,1
+W0791,parkinsonian motor,1
+W0791,direct and indirect pathway,2
+W0791,motor function,1
+W0791,bradykinesia,2
+W0791,projection neuron,1
+W0791,parkinsonian state,1
+W0791,therapeutic strategy,1
+W0791,action selection,1
+W0791,effective therapeutic,1
+W0791,behaving animal,1
+W0791,ameliorating parkinsonian motor,1
+W0792,basal ganglia,4
+W0792,neural circuit,1
+W0792,striatum,1
+W0792,dopamine,1
+W0792,medium spiny neuron,3
+W0792,indirect pathway,2
+W0792,channelrhodopsin-2,1
+W0792,motor deficit,1
+W0792,basal ganglia circuitry,2
+W0792,spiny projection neuron,1
+W0792,locomotion,1
+W0792,direct pathway,3
+W0792,parkinsonian motor,1
+W0792,direct and indirect pathway,1
+W0792,motor function,1
+W0792,bradykinesia,2
+W0792,projection neuron,1
+W0792,parkinsonian state,1
+W0792,therapeutic strategy,1
+W0792,action selection,1
+W0792,effective therapeutic,1
+W0792,behaving animal,1
+W0792,ameliorating parkinsonian motor,1
+W0794,neural circuit,1
+W0794,brain stimulation,1
+W0794,motor cortex,1
+W0794,epilepsy,1
+W0794,neuronal population,1
+W0794,sleep,1
+W0794,neural recording,2
+W0794,transcranial magnetic stimulation,2
+W0794,magnetic resonance imaging,1
+W0794,brain-computer interface,1
+W0794,blood flow,1
+W0794,functional magnetic resonance,1
+W0794,eeg,2
+W0794,chronic neurodegenerative,1
+W0794,human brain,1
+W0794,stroke,1
+W0794,magnetic stimulation,2
+W0796,deep brain stimulation,4
+W0796,subthalamic nucleu,1
+W0796,brain stimulation,1
+W0796,depression,1
+W0796,psychiatric disorder,1
+W0796,brain tissue,1
+W0796,underlying mechanism,1
+W0796,cell type,1
+W0796,freely moving,1
+W0796,therapeutic option,1
+W0796,target cell,1
+W0798,drug discovery,1
+W0798,therapeutic relevance,1
+W0798,light sensitive,1
+W0799,dopamine,1
+W0799,6-hydroxydopamine,3
+W0799,nociception,2
+W0800,striatum,2
+W0800,dopamine,1
+W0800,levodopa-induced dyskinesia,7
+W0800,external globus pallidu,1
+W0800,substantia nigra pars reticulata,2
+W0800,l-dopa,2
+W0801,neuronal activity,4
+W0801,psychiatric disorder,1
+W0801,neurons derived,2

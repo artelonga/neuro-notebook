@@ -97,6 +97,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 6
+tags: ["artigo", "tema/4"]
 ---
+The Seventh [[grafo/termos/annual deep brain|Annual Deep Brain]] Stimulation ([[grafo/termos/deep brain stimulation|DBS]]) Think Tank held on September 8th of 2019 addressed the most current: (1) use and utility of complex neurophysiological signals for development of adaptive [[grafo/termos/neurostimulation|neurostimulation]] to improve clinical outcomes; (2) Advancements in recent [[grafo/termos/neuromodulation techniques|neuromodulation techniques]] to treat [[grafo/termos/neuropsychiatric disorders|neuropsychiatric disorders]]; (3) New developments in optogenetics and DBS; (4) The use of augmented Virtual reality (VR) and [[grafo/termos/neuromodulation|neuromodulation]]; (5) commercially available technologies; and (6) ethical issues arising in and from research and use of DBS. These advances serve as both "markers of progress" and challenges and opportunities for ongoing address, engagement, and deliberation as we move to improve the functional capabilities and translational value of DBS. It is in this light that these proceedings are presented to inform the field and initiate ongoing discourse. As consistent with the intent, and spirit of this, and prior DBS Think Tanks, the overarching goal is to continue to develop multidisciplinary collaborations to rapidly advance the field and ultimately improve patient outcomes.
 
-The Seventh Annual Deep Brain Stimulation (DBS) Think Tank held on September 8th of 2019 addressed the most current: (1) use and utility of complex neurophysiological signals for development of adaptive neurostimulation to improve clinical outcomes; (2) Advancements in recent neuromodulation techniques to treat neuropsychiatric disorders; (3) New developments in optogenetics and DBS; (4) The use of augmented Virtual reality (VR) and neuromodulation; (5) commercially available technologies; and (6) ethical issues arising in and from research and use of DBS. These advances serve as both "markers of progress" and challenges and opportunities for ongoing address, engagement, and deliberation as we move to improve the functional capabilities and translational value of DBS. It is in this light that these proceedings are presented to inform the field and initiate ongoing discourse. As consistent with the intent, and spirit of this, and prior DBS Think Tanks, the overarching goal is to continue to develop multidisciplinary collaborations to rapidly advance the field and ultimately improve patient outcomes.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+
+**Termos (6):** [[grafo/termos/annual deep brain|annual deep brain]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/neuromodulation techniques|neuromodulation techniques]] · [[grafo/termos/neuropsychiatric disorders|neuropsychiatric disorders]] · [[grafo/termos/neurostimulation|neurostimulation]]
+<!-- vinculos:fim -->

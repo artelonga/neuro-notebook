@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T10"
+topico_nome: "Dispositivos fotônicos para neuromodulação"
+n_termos: 5
+tags: ["artigo", "tema/3"]
 ---
+In the study of human physiology, the brain remains the last frontier. Wired electrode interfaces first developed in the 1960s endure to today as treatments for Parkinson’s, [[grafo/termos/depression|depression]], paralysis and other neurological diseases and injuries. Unfortunately, the risks involved with implanting and replacing the electrodes in the brain confine it to niche, last resort cases for patients without functional drug-based treatments. In the effort to replace wired interfaces, magnetic fields have emerged alongside ultrasound and optogenetics as one of the leading paths forward. However, modern magnetic methods such as magnetomechanical and [[grafo/termos/transcranial magnetic stimulation|Transcranial Magnetic stimulation]] have tradeoffs with temporal and [[grafo/termos/spatial resolution|spatial resolution]]. Magnetoelectric nanoparticles (MENPs) can offer the best of both worlds, obtaining both spatial localization and temporal rapidness with particles small enough to pass the [[grafo/termos/blood-brain barrier|blood-brain barrier]]. MENPs efficiently convert non-tissue interacting magnetic fields into short range, stimulating electric fields. In this work, we demonstrate that MENPs can wirelessly modulate neuron firing in vitro and govern [[grafo/termos/motor behaviors|motor behavior]] in vivo in a controllable and reversible manner.
 
-In the study of human physiology, the brain remains the last frontier. Wired electrode interfaces first developed in the 1960s endure to today as treatments for Parkinson’s, depression, paralysis and other neurological diseases and injuries. Unfortunately, the risks involved with implanting and replacing the electrodes in the brain confine it to niche, last resort cases for patients without functional drug-based treatments. In the effort to replace wired interfaces, magnetic fields have emerged alongside ultrasound and optogenetics as one of the leading paths forward. However, modern magnetic methods such as magnetomechanical and Transcranial Magnetic stimulation have tradeoffs with temporal and spatial resolution. Magnetoelectric nanoparticles (MENPs) can offer the best of both worlds, obtaining both spatial localization and temporal rapidness with particles small enough to pass the blood-brain barrier. MENPs efficiently convert non-tissue interacting magnetic fields into short range, stimulating electric fields. In this work, we demonstrate that MENPs can wirelessly modulate neuron firing in vitro and govern motor behavior in vivo in a controllable and reversible manner.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T10 Dispositivos fotônicos para neuromodulação|T10 · Dispositivos fotônicos para neuromodulação]]
+
+**Termos (5):** [[grafo/termos/blood-brain barrier|blood-brain barrier]] · [[grafo/termos/depression|depression]] · [[grafo/termos/motor behaviors|motor behaviors]] · [[grafo/termos/spatial resolution|spatial resolution]] · [[grafo/termos/transcranial magnetic stimulation|transcranial magnetic stimulation]]
+<!-- vinculos:fim -->

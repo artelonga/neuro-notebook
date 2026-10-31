@@ -67,6 +67,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 4
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/microglia|Microglia]] actively monitor the neighboring brain microenvironments and constantly contact [[grafo/termos/synapse|synapses]] with their unique ramified processes. In neurodegenerative diseases, including Alzheimer's disease (AD), microglia undergo morphological and [[grafo/termos/functional alterations|functional alterations]]. Whether the direct manipulation of microglia can selectively or concurrently modulate synaptic function and the response to disease-associated factors remains elusive. Here, we employ optogenetic methods to stimulate microglia in vitro and in vivo. Membrane depolarization rapidly changes microglia morphology and leads to enhanced phagocytosis. We found that the optogenetic stimulation of microglia can efficiently promote β-amyloid (Aβ) clearance in the brain parenchyma, but it can also enhance synapse elimination. Importantly, the inhibition of C1q selectively prevents synapse loss induced by microglia depolarization but does not affect Aβ clearance. Our data reveal independent microglia-mediated phagocytosis pathways toward Aβ and synapses. Our results also [[grafo/termos/shed light|shed light]] on a synergistic strategy of depolarizing microglia and inhibiting complement functions for the clearance of Aβ while sparing synapses.
 
-Microglia actively monitor the neighboring brain microenvironments and constantly contact synapses with their unique ramified processes. In neurodegenerative diseases, including Alzheimer's disease (AD), microglia undergo morphological and functional alterations. Whether the direct manipulation of microglia can selectively or concurrently modulate synaptic function and the response to disease-associated factors remains elusive. Here, we employ optogenetic methods to stimulate microglia in vitro and in vivo. Membrane depolarization rapidly changes microglia morphology and leads to enhanced phagocytosis. We found that the optogenetic stimulation of microglia can efficiently promote β-amyloid (Aβ) clearance in the brain parenchyma, but it can also enhance synapse elimination. Importantly, the inhibition of C1q selectively prevents synapse loss induced by microglia depolarization but does not affect Aβ clearance. Our data reveal independent microglia-mediated phagocytosis pathways toward Aβ and synapses. Our results also shed light on a synergistic strategy of depolarizing microglia and inhibiting complement functions for the clearance of Aβ while sparing synapses.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (4):** [[grafo/termos/functional alterations|functional alterations]] · [[grafo/termos/microglia|microglia]] · [[grafo/termos/shed light|shed light]] · [[grafo/termos/synapse|synapse]]
+<!-- vinculos:fim -->

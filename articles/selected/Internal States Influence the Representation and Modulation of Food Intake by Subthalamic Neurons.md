@@ -60,6 +60,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T08"
+topico_nome: "Modulação do núcleo subtalâmico"
+n_termos: 5
+tags: ["artigo", "tema/1"]
 ---
+[[grafo/termos/deep brain stimulation|Deep brain stimulation]] of the [[grafo/termos/subthalamic nucleus|subthalamic nucleus]] (STN) is an effective therapy for [[grafo/termos/motor deficits|motor deficits]] in Parkinson's disease (PD), but commonly causes weight gain in late-phase PD patients probably by increasing feeding [[grafo/termos/motivation|motivation]]. It is unclear how STN neurons represent and modulate feeding behavior in different internal states. In the present study, we found that feeding caused a robust activation of STN neurons in mice (GCaMP6 signal increased by 48.4% ± 7.2%, n = 9, P = 0.0003), and the extent varied with the size, valence, and palatability of food, but not with the repetition of feeding. Interestingly, energy deprivation increased the spontaneous [[grafo/termos/firing rate|firing rate]] (8.5 ± 1.5 Hz, n = 17, versus 4.7 ± 0.7 Hz, n = 18, P = 0.03) and the depolarization-induced spikes in STN neurons, as well as enhanced the STN responses to feeding. Optogenetic experiments revealed that stimulation and inhibition of STN neurons respectively reduced (by 11% ± 6%, n = 6, P = 0.02) and enhanced (by 36% ± 15%, n = 7, P = 0.03) food intake only in the dark phase. In conclusion, our results support the hypothesis that STN neurons are activated by feeding behavior, depending on energy homeostatic status and the palatability of food, and modulation of these neurons is sufficient to regulate food intake.
 
-Deep brain stimulation of the subthalamic nucleus (STN) is an effective therapy for motor deficits in Parkinson's disease (PD), but commonly causes weight gain in late-phase PD patients probably by increasing feeding motivation. It is unclear how STN neurons represent and modulate feeding behavior in different internal states. In the present study, we found that feeding caused a robust activation of STN neurons in mice (GCaMP6 signal increased by 48.4% ± 7.2%, n = 9, P = 0.0003), and the extent varied with the size, valence, and palatability of food, but not with the repetition of feeding. Interestingly, energy deprivation increased the spontaneous firing rate (8.5 ± 1.5 Hz, n = 17, versus 4.7 ± 0.7 Hz, n = 18, P = 0.03) and the depolarization-induced spikes in STN neurons, as well as enhanced the STN responses to feeding. Optogenetic experiments revealed that stimulation and inhibition of STN neurons respectively reduced (by 11% ± 6%, n = 6, P = 0.02) and enhanced (by 36% ± 15%, n = 7, P = 0.03) food intake only in the dark phase. In conclusion, our results support the hypothesis that STN neurons are activated by feeding behavior, depending on energy homeostatic status and the palatability of food, and modulation of these neurons is sufficient to regulate food intake.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T08 Modulação do núcleo subtalâmico|T08 · Modulação do núcleo subtalâmico]]
+
+**Termos (5):** [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/firing rate|firing rate]] · [[grafo/termos/motivation|motivation]] · [[grafo/termos/motor deficits|motor deficits]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]]
+<!-- vinculos:fim -->

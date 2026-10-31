@@ -79,6 +79,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/depression|Depression]] is a serious mental disorder that affects more than 300 million people worldwide. Due to the lack of [[grafo/termos/effective treatments|effective treatment]] methods, the pathogenesis of depression is necessary to study in order to understand its development and find new therapies. The review describes the main mechanisms of depression, including the monoamine hypothesis, impairment of the hipotalamic-pituitary-adrenal axis, decreased production of neurotropic factors, and [[grafo/termos/neuroinflammation|neuroinflammation]]. Genetic correlations, gene polymorphisms, and epigenetic mechanisms are also considered. Common and different features of the etiology are analyzed for depression and depressive conditions associated with other pathologies (schizophrenia, Parkinson disease, and Alzheimer's disease). Modern experimental methods used to investigate the [[grafo/termos/molecular mechanisms|molecular mechanisms]] of depressive conditions are described with a focus on gene knockouts in laboratory animals and the CRISPR/Cas technology. Consideration is given to optogenetic and [[grafo/termos/chemogenetics|chemogenetic]] methods and analyses of genetic polymorphisms and their combinations. The data may provide for a better integral understanding of the modern ideas about the pathogenesis of depression as an isolated or comorbid disorder and the prospects in studying the mechanisms of depressive conditions.
 
-Depression is a serious mental disorder that affects more than 300 million people worldwide. Due to the lack of effective treatment methods, the pathogenesis of depression is necessary to study in order to understand its development and find new therapies. The review describes the main mechanisms of depression, including the monoamine hypothesis, impairment of the hipotalamic-pituitary-adrenal axis, decreased production of neurotropic factors, and neuroinflammation. Genetic correlations, gene polymorphisms, and epigenetic mechanisms are also considered. Common and different features of the etiology are analyzed for depression and depressive conditions associated with other pathologies (schizophrenia, Parkinson disease, and Alzheimer's disease). Modern experimental methods used to investigate the molecular mechanisms of depressive conditions are described with a focus on gene knockouts in laboratory animals and the CRISPR/Cas technology. Consideration is given to optogenetic and chemogenetic methods and analyses of genetic polymorphisms and their combinations. The data may provide for a better integral understanding of the modern ideas about the pathogenesis of depression as an isolated or comorbid disorder and the prospects in studying the mechanisms of depressive conditions.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (5):** [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/depression|depression]] · [[grafo/termos/effective treatments|effective treatments]] · [[grafo/termos/molecular mechanisms|molecular mechanisms]] · [[grafo/termos/neuroinflammation|neuroinflammation]]
+<!-- vinculos:fim -->

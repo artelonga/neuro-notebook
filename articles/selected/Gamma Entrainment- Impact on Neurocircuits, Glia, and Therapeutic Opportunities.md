@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 8
+tags: ["artigo", "tema/2"]
 ---
+Studies have shown that [[grafo/termos/gamma oscillations|gamma oscillations]] (30-100 Hz) are relevant for neurocircuit function, behavior, and [[grafo/termos/memory|memory]]. To examine a possible causal contribution of gamma oscillations to [[grafo/termos/cognitive function|cognitive function]], recent studies have employed various types of [[grafo/termos/brain stimulation|brain stimulation]] to induce gamma oscillations. Techniques such as optogenetics or sensory stimulation appear to engage canonical neurocircuits that encompass excitatory and [[grafo/termos/inhibitory interneurons|inhibitory interneurons]], similarly to those driven by sensory experience, to induce gamma entrainment. Sensory evoked gamma entrainment improves cognitive function in mouse models. Oscillations have traditionally been studied at the neurophysiological level; however, sensory evoked gamma entrainment is able to induce [[grafo/termos/gene expression|gene expression]] changes in multiple [[grafo/termos/cell types|cell types]] including neurons and [[grafo/termos/microglia|microglia]]. Furthermore, evidence suggests that chronic gamma entrainment offers neuroprotective effects.
 
-Studies have shown that gamma oscillations (30-100 Hz) are relevant for neurocircuit function, behavior, and memory. To examine a possible causal contribution of gamma oscillations to cognitive function, recent studies have employed various types of brain stimulation to induce gamma oscillations. Techniques such as optogenetics or sensory stimulation appear to engage canonical neurocircuits that encompass excitatory and inhibitory interneurons, similarly to those driven by sensory experience, to induce gamma entrainment. Sensory evoked gamma entrainment improves cognitive function in mouse models. Oscillations have traditionally been studied at the neurophysiological level; however, sensory evoked gamma entrainment is able to induce gene expression changes in multiple cell types including neurons and microglia. Furthermore, evidence suggests that chronic gamma entrainment offers neuroprotective effects.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (8):** [[grafo/termos/brain stimulation|brain stimulation]] · [[grafo/termos/cell types|cell types]] · [[grafo/termos/cognitive function|cognitive function]] · [[grafo/termos/gamma oscillations|gamma oscillations]] · [[grafo/termos/gene expression|gene expression]] · [[grafo/termos/inhibitory interneurons|inhibitory interneurons]] · [[grafo/termos/memory|memory]] · [[grafo/termos/microglia|microglia]]
+<!-- vinculos:fim -->

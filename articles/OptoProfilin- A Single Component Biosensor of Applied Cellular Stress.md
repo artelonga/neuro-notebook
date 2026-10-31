@@ -52,6 +52,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T11"
+topico_nome: "Ferramentas, implantes e vetores"
+n_termos: 4
+tags: ["artigo", "tema/3"]
 ---
+The actin cytoskeleton is a biosensor of cellular stress and a potential prognosticator of human disease. In particular, aberrant cytoskeletal structures such as [[grafo/termos/cofilin-actin rods|cofilin-actin rods]] and [[grafo/termos/stress granules|stress granules]] formed in response to energetic and [[grafo/termos/oxidative stress|oxidative stress]] are closely linked to neurodegenerative diseases such as Alzheimer's, Parkinson's, and ALS. Whether these cytoskeletal phenomena can be harnessed for the development of biosensors for cytoskeletal dysfunction and, by extension, neurodegenerative disease progression, remains an open question. In this work, we describe the design and development of an optogenetic iteration of profilin, an actin monomer [[grafo/termos/binding protein|binding protein]] with critical functions in cytoskeletal dynamics. We demonstrate that this optically activated profilin ('OptoProfilin') can act as an optically triggered biosensor of applied cellular stress in select immortalized cell lines. Notably, OptoProfilin is a single component biosensor, likely increasing its utility for experimentalists. While a large body of preexisting work closely links profilin activity with cellular stress and neurodegenerative disease, this, to our knowledge, is the first example of profilin as an optogenetic biosensor of stress-induced changes in the cytoskeleton.
 
-The actin cytoskeleton is a biosensor of cellular stress and a potential prognosticator of human disease. In particular, aberrant cytoskeletal structures such as cofilin-actin rods and stress granules formed in response to energetic and oxidative stress are closely linked to neurodegenerative diseases such as Alzheimer's, Parkinson's, and ALS. Whether these cytoskeletal phenomena can be harnessed for the development of biosensors for cytoskeletal dysfunction and, by extension, neurodegenerative disease progression, remains an open question. In this work, we describe the design and development of an optogenetic iteration of profilin, an actin monomer binding protein with critical functions in cytoskeletal dynamics. We demonstrate that this optically activated profilin ('OptoProfilin') can act as an optically triggered biosensor of applied cellular stress in select immortalized cell lines. Notably, OptoProfilin is a single component biosensor, likely increasing its utility for experimentalists. While a large body of preexisting work closely links profilin activity with cellular stress and neurodegenerative disease, this, to our knowledge, is the first example of profilin as an optogenetic biosensor of stress-induced changes in the cytoskeleton.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T11 Ferramentas, implantes e vetores|T11 · Ferramentas, implantes e vetores]]
+
+**Termos (4):** [[grafo/termos/binding protein|binding protein]] · [[grafo/termos/cofilin-actin rods|cofilin-actin rods]] · [[grafo/termos/oxidative stress|oxidative stress]] · [[grafo/termos/stress granules|stress granules]]
+<!-- vinculos:fim -->

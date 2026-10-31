@@ -74,6 +74,61 @@ prisma:
 `data/articles_index.csv` liga `work_id` ao nome do arquivo, com `peer_reviewed`,
 `document_type`, `study_type` e `eligible`.
 
+## Vínculos: tópicos e glossário
+
+`python3 -m litreview.vincular` (rodado pelo `./run.sh` depois do `export`) liga cada artigo ao
+seu tópico e aos termos do glossário, e mede os termos:
+
+```bash
+python3 -m litreview.vincular                               # articles/selected/  (N = 370)
+python3 -m litreview.vincular --conjunto nao-selecionados   # o resto de articles/ (N = 431)
+python3 -m litreview.vincular --conjunto todos              # os 801
+python3 -m litreview.vincular --todas-ocorrencias           # liga toda ocorrência, não só a primeira
+```
+
+- **No artigo:** a primeira ocorrência de cada termo do resumo vira `[[grafo/termos/<termo>|texto]]`
+  (plurais, hífen/espaço e siglas como DBS, STN e 6-OHDA levam ao mesmo verbete); depois do
+  resumo, um bloco entre `<!-- vinculos:inicio -->` e `<!-- vinculos:fim -->` liga ao tópico e
+  lista os termos; o cabeçalho ganha `topico`, `topico_nome` e `n_termos`. Rodar de novo
+  substitui tudo isso (só os links para `grafo/termos/` são desfeitos).
+- **As duas bases:** `grafo/termos/` (glossário: um verbete por termo, com os backlinks de todos os
+  artigos que o usam) e `grafo/topicos/` (um por tópico). Ambas vêm de `topicos/` (ver
+  `topicos/README.md`); termos genéricos demais ficam fora pela lista `topicos/termos_excluidos.txt`.
+- **Medidas** (em `data/termos/<conjunto>/`; o denominador é o número de artigos do conjunto):
+  *cobertura* = % dos textos em que o termo aparece; *prevalência* = ocorrências por 10 mil
+  palavras dos resumos; *média por texto* = ocorrências por texto onde aparece. Os links usam o
+  termo mais específico ("dopamine release"), mas a contagem procura cada termo por si, então
+  "dopamine" também conta dentro de "dopamine release".
+
+| Arquivo | Conteúdo |
+|---|---|
+| `termos.csv` | por termo: `n_textos`, `cobertura`, `ocorrencias`, `prevalencia`, `media_por_texto`, tópico dominante |
+| `termos_por_topico.csv` | cobertura de cada termo dentro de cada tópico (% dos textos do tópico) |
+| `topicos.csv` | textos por tópico e seus termos característicos (lift = cobertura no tópico ÷ cobertura no conjunto) |
+| `ocorrencias.csv` | tabela longa `work_id, termo, n`, para qualquer outra análise |
+
+Os verbetes também recebem `cobertura_<conjunto>` e `textos_<conjunto>` no cabeçalho (o campo
+`trabalhos` conta outra coisa: os trabalhos em que o termo foi palavra-chave ou frase extraída).
+
+**Três grafos no Obsidian.** Os conjuntos `selecionados` e `todos` também geram notas próprias de
+termo e de tópico ao lado dos seus artigos, com os números daquele conjunto e links só para os
+artigos dele. Cole o filtro na busca da visão de grafo:
+
+| Escopo | Filtro | Notas | O que liga |
+|---|---|---|---|
+| Rede global de termos | `path:"grafo/"` | `grafo/` | termo ↔ termo (coocorrência, NPMI) e tópicos |
+| Os 801 artigos | `path:articles -path:grafo-selecionados` | `articles/grafo-todos/` | artigo ↔ termo ↔ tópico, números dos 801 |
+| Os 370 da seleção final | `path:"articles/selected"` | `articles/selected/grafo-selecionados/` | artigo ↔ termo ↔ tópico, números dos 370 |
+
+Os links nos resumos apontam sempre para o verbete geral (`grafo/termos/`); as notas de escopo é que
+apontam para os artigos do seu conjunto, então cada filtro mostra só as ligações daquele conjunto.
+As pastas não se chamam `grafo` para que um link `grafo/termos/…` nunca caia numa nota de escopo. Os
+artigos ganham a tag `tema/<n>` e ficam coloridos pelo tema, como os termos.
+
+**Obsidian aberto durante o `./run.sh`:** o `export` apaga e recria `articles/`; recarregue o
+Obsidian depois (Cmd+P → "Reload app without saving"), ou ele pode criar notas vazias ao clicar em
+links que ainda não reconhece.
+
 ## Fluxo PRISMA 2020
 
 `python3 -m litreview.prisma` (incluído no `./run.sh`) conta cada etapa e desenha o diagrama.

@@ -61,6 +61,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T19"
+topico_nome: "Neurônios colinérgicos do prosencéfalo basal"
+n_termos: 8
+tags: ["artigo", "tema/8"]
 ---
+The [[grafo/termos/hippocampus|hippocampus]] plays a central role in long-term [[grafo/termos/memory formation|memory formation]], and different [[grafo/termos/hippocampal network|hippocampal network]] states are thought to have different functions in this process. These network states are controlled by neuromodulatory inputs, including the cholinergic input from the [[grafo/termos/medial septum|medial septum]]. Here, we used optogenetic stimulation of septal [[grafo/termos/cholinergic neurons|cholinergic neurons]] to understand how cholinergic activity affects different stages of [[grafo/termos/spatial memory|spatial memory]] formation in a reward-based navigation task in mice. We found that optogenetic stimulation of septal cholinergic neurons (1) impaired memory formation when activated at goal location but not during navigation, (2) reduced sharp wave ripple (SWR) incidence at goal location, and (3) reduced SWR incidence and enhanced theta-gamma oscillations during [[grafo/termos/sleep|sleep]]. These results underscore the importance of appropriate timing of cholinergic input in long-term memory formation, which might help explain the limited success of cholinesterase inhibitor drugs in treating [[grafo/termos/memory impairment|memory impairment]] in Alzheimer's disease.
 
-The hippocampus plays a central role in long-term memory formation, and different hippocampal network states are thought to have different functions in this process. These network states are controlled by neuromodulatory inputs, including the cholinergic input from the medial septum. Here, we used optogenetic stimulation of septal cholinergic neurons to understand how cholinergic activity affects different stages of spatial memory formation in a reward-based navigation task in mice. We found that optogenetic stimulation of septal cholinergic neurons (1) impaired memory formation when activated at goal location but not during navigation, (2) reduced sharp wave ripple (SWR) incidence at goal location, and (3) reduced SWR incidence and enhanced theta-gamma oscillations during sleep. These results underscore the importance of appropriate timing of cholinergic input in long-term memory formation, which might help explain the limited success of cholinesterase inhibitor drugs in treating memory impairment in Alzheimer's disease.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T19 Neurônios colinérgicos do prosencéfalo basal|T19 · Neurônios colinérgicos do prosencéfalo basal]]
+
+**Termos (8):** [[grafo/termos/cholinergic neurons|cholinergic neurons]] · [[grafo/termos/hippocampal network|hippocampal network]] · [[grafo/termos/hippocampus|hippocampus]] · [[grafo/termos/medial septum|medial septum]] · [[grafo/termos/memory formation|memory formation]] · [[grafo/termos/memory impairment|memory impairment]] · [[grafo/termos/sleep|sleep]] · [[grafo/termos/spatial memory|spatial memory]]
+<!-- vinculos:fim -->

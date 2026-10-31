@@ -45,6 +45,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T04"
+topico_nome: "Estimulação cerebral profunda"
+n_termos: 0
+tags: ["artigo", "tema/4"]
 ---
-
 Being able to selectively stimulate a particular neuron type while not activating other neuron types is key to many proposed treatments for several neurological diseases such as Parkinson's disease. Such selective stimulation has been achieved using optogenetic methods but owing to the hurdles present in the use of optogenetics in humans, there has been recent interest in achieving selectivity using more classical techniques such as current stimulation. Often, approaches for designing selective current stimulations are either model-based, thereby limiting their practical applicability, and/or use trial and error, which allows only a limited exploration of the waveform space. In this work, we propose SelStim, a systematic algorithm for designing electrical current waveforms to selectively stimulate different neuron types using only data. SelStim iteratively designs selective current waveforms by adaptively sampling waveforms with an increasing degree of selectivity. The adaptivity allows SelStim to design selective waveforms in a data-efficient manner. Using data obtained on computational neuron models, we show that SelStim designs current waveforms which achieve a high degree of selectivity in stimulating particular neuron types requiring as few as ~200 datapoints. This amounts to a greater than 300% reduction in data requirements compared to a naive brute-force search for achieving similar selectivity.
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T04 Estimulação cerebral profunda|T04 · Estimulação cerebral profunda]]
+<!-- vinculos:fim -->

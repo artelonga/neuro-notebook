@@ -48,6 +48,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/hippocampal theta|Hippocampal theta]] oscillations are associated with [[grafo/termos/cognitive function|cognitive functions]] and their disorder has been linked with pathological conditions, such as [[grafo/termos/temporal lobe epilepsy|temporal lobe epilepsy]] and Alzheimer's disease. Brief periods of theta-band stimulation have been shown to promote therapeutical effects in neurological disease models. However, an adequate tuning of stimulation intensity is required for longer periods of stimulation, since high amplitudes or strong transients may induce pathological hypersynchronization and seizures. We have developed and implemented an adaptive control strategy to regulate the amplitude of theta-band oscillations induced by sinusoidal optogenetic stimulation. Experimental validation on freely behaving mice showed that adaptive control maintained a stable oscillatory amplitude in the response across changes in brain state and consistently reduced the mean squared error to reference compared to open-loop control. The proposed method may aid in investigating the role and therapeutical benefits of theta oscillations in [[grafo/termos/cognition|cognition]] and [[grafo/termos/neurological disorders|neurological disorders]].
 
-Hippocampal theta oscillations are associated with cognitive functions and their disorder has been linked with pathological conditions, such as temporal lobe epilepsy and Alzheimer's disease. Brief periods of theta-band stimulation have been shown to promote therapeutical effects in neurological disease models. However, an adequate tuning of stimulation intensity is required for longer periods of stimulation, since high amplitudes or strong transients may induce pathological hypersynchronization and seizures. We have developed and implemented an adaptive control strategy to regulate the amplitude of theta-band oscillations induced by sinusoidal optogenetic stimulation. Experimental validation on freely behaving mice showed that adaptive control maintained a stable oscillatory amplitude in the response across changes in brain state and consistently reduced the mean squared error to reference compared to open-loop control. The proposed method may aid in investigating the role and therapeutical benefits of theta oscillations in cognition and neurological disorders.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (5):** [[grafo/termos/cognition|cognition]] · [[grafo/termos/cognitive function|cognitive function]] · [[grafo/termos/hippocampal theta|hippocampal theta]] · [[grafo/termos/neurological disorders|neurological disorders]] · [[grafo/termos/temporal lobe epilepsy|temporal lobe epilepsy]]
+<!-- vinculos:fim -->

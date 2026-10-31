@@ -50,6 +50,13 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T00"
+topico_nome: "Circuitos estriatais dopaminérgicos e colinérgicos"
+n_termos: 0
+tags: ["artigo", "tema/1"]
 ---
-
 _Abstract not available in any source database._
+
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T00 Circuitos estriatais dopaminérgicos e colinérgicos|T00 · Circuitos estriatais dopaminérgicos e colinérgicos]]
+<!-- vinculos:fim -->

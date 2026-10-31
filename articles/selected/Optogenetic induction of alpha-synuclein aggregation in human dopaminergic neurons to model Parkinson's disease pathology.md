@@ -53,6 +53,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T13"
+topico_nome: "Agregação de alfa-sinucleína"
+n_termos: 2
+tags: ["artigo", "tema/5"]
 ---
+[[grafo/termos/alpha-synuclein|Alpha-synuclein]] (α-syn) aggregation is a principal factor in Parkinson's disease (PD) onset. Here, we present a protocol for optogenetic induction of α-syn aggregation in human midbrain dopaminergic (mDA) neurons, facilitating a detailed PD pathology study. We describe steps for nucleofection of the opto-α-syn construct, single colony selection and validation, alongside mDA neuron differentiation and rapid induction of toxic α-syn aggregates via [[grafo/termos/blue light|blue light]]. This establishes a potent human induced pluripotent-stem-cell-based platform for PD drug testing and validation. For complete details on the use and execution of this protocol, please refer to Kim et al. (2023).1.
 
-Alpha-synuclein (α-syn) aggregation is a principal factor in Parkinson's disease (PD) onset. Here, we present a protocol for optogenetic induction of α-syn aggregation in human midbrain dopaminergic (mDA) neurons, facilitating a detailed PD pathology study. We describe steps for nucleofection of the opto-α-syn construct, single colony selection and validation, alongside mDA neuron differentiation and rapid induction of toxic α-syn aggregates via blue light. This establishes a potent human induced pluripotent-stem-cell-based platform for PD drug testing and validation. For complete details on the use and execution of this protocol, please refer to Kim et al. (2023).1.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T13 Agregação de alfa-sinucleína|T13 · Agregação de alfa-sinucleína]]
+
+**Termos (2):** [[grafo/termos/alpha-synuclein|alpha-synuclein]] · [[grafo/termos/blue light|blue light]]
+<!-- vinculos:fim -->

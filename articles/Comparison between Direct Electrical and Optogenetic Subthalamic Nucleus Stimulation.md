@@ -49,6 +49,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T01"
+topico_nome: "Globo pálido e circuitos dos gânglios da base"
+n_termos: 10
+tags: ["artigo", "tema/1"]
 ---
+[[grafo/termos/subthalamic nucleus|Subthalamic nucleus]] [[grafo/termos/deep brain stimulation|deep brain stimulation]] is a treatment for Parkinson’s disease. In this study, a [[grafo/termos/computational model|computational model]] of a plateau-potential generating subthalamic nucleus neuron (Otsuka-model) and a four-state [[grafo/termos/channelrhodopsin-2|ChR2]](H134R) model (Williams-model) are combined, in order to compare electrical and optogenetic [[grafo/termos/neuromodulation|neuromodulation]] capabilities. The impact of the stimulation modality (optogenetic or electric) on [[grafo/termos/firing rate|firing rates]], strength-duration curves and [[grafo/termos/action potentials|action potential]] shape is investigated. First, in contrast to [[grafo/termos/electrical stimulation|electrical stimulation]], mean instantaneous firing rates saturate for [[grafo/termos/optical stimulation|optical stimulation]] at intensities higher than 0.1 W/cm2. Second, rheobase and chronaxie are 175% and 9.6% larger in optogenetic stimulation compared to electrical stimulation, respectively. Third, action potential shape is not significantly impacted by the [[grafo/termos/neurostimulation|neurostimulation]] modality.
 
-Subthalamic nucleus deep brain stimulation is a treatment for Parkinson’s disease. In this study, a computational model of a plateau-potential generating subthalamic nucleus neuron (Otsuka-model) and a four-state ChR2(H134R) model (Williams-model) are combined, in order to compare electrical and optogenetic neuromodulation capabilities. The impact of the stimulation modality (optogenetic or electric) on firing rates, strength-duration curves and action potential shape is investigated. First, in contrast to electrical stimulation, mean instantaneous firing rates saturate for optical stimulation at intensities higher than 0.1 W/cm2. Second, rheobase and chronaxie are 175% and 9.6% larger in optogenetic stimulation compared to electrical stimulation, respectively. Third, action potential shape is not significantly impacted by the neurostimulation modality.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T01 Globo pálido e circuitos dos gânglios da base|T01 · Globo pálido e circuitos dos gânglios da base]]
+
+**Termos (10):** [[grafo/termos/action potentials|action potentials]] · [[grafo/termos/channelrhodopsin-2|channelrhodopsin-2]] · [[grafo/termos/computational model|computational model]] · [[grafo/termos/deep brain stimulation|deep brain stimulation]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/firing rate|firing rate]] · [[grafo/termos/neuromodulation|neuromodulation]] · [[grafo/termos/neurostimulation|neurostimulation]] · [[grafo/termos/optical stimulation|optical stimulation]] · [[grafo/termos/subthalamic nucleus|subthalamic nucleus]]
+<!-- vinculos:fim -->

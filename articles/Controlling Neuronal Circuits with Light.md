@@ -45,6 +45,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 6
+tags: ["artigo", "tema/3"]
 ---
+The [[grafo/termos/neuronal circuits|neuronal circuits]] in the brain of animals consist of diverse types of neurons that are interconnected with each other at synaptic sites. [[grafo/termos/electrical stimulation|Electrical stimulation]] has been conventionally used for the direct stimulation of neurons in neurophysiological studies, although the limited spatial and temporal precision inherent in the method has left neuroscientists eager for alternatives. The advent of single-component light-activated [[grafo/termos/cation channels|cation channels]] from unicellular green algae, [[grafo/termos/channelrhodopsin|channelrhodopsins]], has opened new opportunities in neuroscience for the temporally and spatially [[grafo/termos/precise control|precise control]] of neurons with light. The experimental utility of the photostimulation method, which is called optogenetics, would revolutionize basic neuroscience and the [[grafo/termos/gene therapy|gene therapy]] of such neuronal disorders as Parkinson’s disease, neuropsychiatric diseases, and vision malfunctions.
 
-The neuronal circuits in the brain of animals consist of diverse types of neurons that are interconnected with each other at synaptic sites. Electrical stimulation has been conventionally used for the direct stimulation of neurons in neurophysiological studies, although the limited spatial and temporal precision inherent in the method has left neuroscientists eager for alternatives. The advent of single-component light-activated cation channels from unicellular green algae, channelrhodopsins, has opened new opportunities in neuroscience for the temporally and spatially precise control of neurons with light. The experimental utility of the photostimulation method, which is called optogenetics, would revolutionize basic neuroscience and the gene therapy of such neuronal disorders as Parkinson’s disease, neuropsychiatric diseases, and vision malfunctions.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (6):** [[grafo/termos/cation channels|cation channels]] · [[grafo/termos/channelrhodopsin|channelrhodopsin]] · [[grafo/termos/electrical stimulation|electrical stimulation]] · [[grafo/termos/gene therapy|gene therapy]] · [[grafo/termos/neuronal circuits|neuronal circuits]] · [[grafo/termos/precise control|precise control]]
+<!-- vinculos:fim -->

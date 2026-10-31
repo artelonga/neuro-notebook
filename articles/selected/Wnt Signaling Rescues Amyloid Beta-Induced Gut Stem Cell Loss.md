@@ -57,6 +57,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T03"
+topico_nome: "Astrócitos, amiloide e neuroproteção"
+n_termos: 3
+tags: ["artigo", "tema/2"]
 ---
+Patients with Alzheimer's disease suffer from a decrease in brain mass and a prevalence of [[grafo/termos/amyloid-β|amyloid-β]] plaques. These plaques are thought to play a role in disease progression, but their exact role is not entirely established. We developed an optogenetic model to induce amyloid-β intracellular oligomerization to model distinct disease etiologies. Here, we examine the effect of Wnt signaling on amyloid in an optogenetic, Drosophila gut [[grafo/termos/stem cells|stem cell]] model. We observe that Wnt activation rescues the detrimental effects of amyloid expression and oligomerization. We analyze the [[grafo/termos/gene expression|gene expression]] changes downstream of Wnt that contribute to this rescue and find changes in aging related genes, protein misfolding, metabolism, and inflammation. We propose that Wnt expression reduces inflammation through repression of Toll activating factors. We confirm that chronic Toll activation reduces lifespan, but a decrease in the upstream activator Persephone extends it. We propose that the protective effect observed for lithium treatment functions, at least in part, through Wnt activation and the inhibition of inflammation.
 
-Patients with Alzheimer's disease suffer from a decrease in brain mass and a prevalence of amyloid-β plaques. These plaques are thought to play a role in disease progression, but their exact role is not entirely established. We developed an optogenetic model to induce amyloid-β intracellular oligomerization to model distinct disease etiologies. Here, we examine the effect of Wnt signaling on amyloid in an optogenetic, Drosophila gut stem cell model. We observe that Wnt activation rescues the detrimental effects of amyloid expression and oligomerization. We analyze the gene expression changes downstream of Wnt that contribute to this rescue and find changes in aging related genes, protein misfolding, metabolism, and inflammation. We propose that Wnt expression reduces inflammation through repression of Toll activating factors. We confirm that chronic Toll activation reduces lifespan, but a decrease in the upstream activator Persephone extends it. We propose that the protective effect observed for lithium treatment functions, at least in part, through Wnt activation and the inhibition of inflammation.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T03 Astrócitos, amiloide e neuroproteção|T03 · Astrócitos, amiloide e neuroproteção]]
+
+**Termos (3):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/gene expression|gene expression]] · [[grafo/termos/stem cells|stem cells]]
+<!-- vinculos:fim -->

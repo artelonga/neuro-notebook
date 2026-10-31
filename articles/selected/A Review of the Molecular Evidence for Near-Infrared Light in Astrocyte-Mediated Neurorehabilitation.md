@@ -59,6 +59,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 7
+tags: ["artigo", "tema/3"]
 ---
+Near-infrared (NIR) light represents a promising, noninvasive therapeutic for [[grafo/termos/neurological disorders|neurological disorders]], predicated on its capacity to modulate [[grafo/termos/astrocytes|astrocyte]] function. As the primary glial population in the [[grafo/termos/central nervous|central nervous]] system, astrocytes are indispensable for maintaining neuronal homeostasis, regulating [[grafo/termos/glutamate|glutamate]] metabolism, and supporting metabolic energetics. This review synthesizes recent advancements in NIR-driven neurorehabilitation, elucidating the molecular signaling cascades and transduction pathways activated within the astrocytic network. We specifically examine translational applications across preclinical and clinical models of [[grafo/termos/stroke|stroke]], Alzheimer's disease, [[grafo/termos/epilepsy|epilepsy]], and [[grafo/termos/psychiatric disorders|psychiatric disorders]]. Furthermore, we evaluate how the integration of optogenetic tools and nanomaterials has refined NIR therapies, establishing a foundation for high-precision neurology. Given the rising demand for nonsurgical interventions, this review provides a timely framework for the next generation of photobiomodulation and neural modulation strategies.
 
-Near-infrared (NIR) light represents a promising, noninvasive therapeutic for neurological disorders, predicated on its capacity to modulate astrocyte function. As the primary glial population in the central nervous system, astrocytes are indispensable for maintaining neuronal homeostasis, regulating glutamate metabolism, and supporting metabolic energetics. This review synthesizes recent advancements in NIR-driven neurorehabilitation, elucidating the molecular signaling cascades and transduction pathways activated within the astrocytic network. We specifically examine translational applications across preclinical and clinical models of stroke, Alzheimer's disease, epilepsy, and psychiatric disorders. Furthermore, we evaluate how the integration of optogenetic tools and nanomaterials has refined NIR therapies, establishing a foundation for high-precision neurology. Given the rising demand for nonsurgical interventions, this review provides a timely framework for the next generation of photobiomodulation and neural modulation strategies.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (7):** [[grafo/termos/astrocytes|astrocytes]] · [[grafo/termos/central nervous|central nervous]] · [[grafo/termos/epilepsy|epilepsy]] · [[grafo/termos/glutamate|glutamate]] · [[grafo/termos/neurological disorders|neurological disorders]] · [[grafo/termos/psychiatric disorders|psychiatric disorders]] · [[grafo/termos/stroke|stroke]]
+<!-- vinculos:fim -->

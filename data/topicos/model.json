@@ -1,0 +1,14 @@
+{
+  "embedding": "minilm",
+  "reducer": "umap",
+  "clusterer": "kmeans",
+  "params": "k=20",
+  "seed": 0,
+  "n_docs": 801,
+  "n_topics": 20,
+  "n_themes": 8,
+  "coverage_before_outlier_reduction": 1.0,
+  "npmi": 0.2047,
+  "diversity": 0.77,
+  "representation": "c-TF-IDF -> KeyBERTInspired -> MMR(0.3)"
+}

@@ -166,6 +166,67 @@ Ressalvas:
 - Os trabalhos `unknown` (em geral teses ou itens em outros idiomas sem DOI) ficam `false`.
 - A deduplicação por título pode falhar com títulos corrompidos, por exemplo "Aβ" escrito como "Ab" ou "A b". Vale conferir isso na triagem.
 
+## Tópicos (BERTopic)
+
+Gerado por `topicos/` (ver `topicos/README.md`): 20 tópicos nos 801 trabalhos de `articles/`, com embeddings all-MiniLM-L6-v2, redução UMAP e agrupamento kmeans (k=20), escolhidos num benchmark de 4 embeddings × 4 redutores × 6 agrupadores, mais LDA e NMF. Coerência NPMI média 0,2, diversidade 0,77. Nomes dos tópicos: modelo de linguagem local (Ollama), com revisão à mão onde indicado.
+
+| Tópico | Nome | Trabalhos | Citam Alzheimer | Citam Parkinson | 2021–26 vs 2016–20 | Na seleção final |
+|---|---|---|---|---|---|---|
+| T00 | Circuitos estriatais dopaminérgicos e colinérgicos | 68 | 3% | 91% | ×0,5 | 24% |
+| T01 | Globo pálido e circuitos dos gânglios da base (revisado) | 62 | 5% | 95% | ×0,8 | 47% |
+| T02 | Recuperação de memória hipocampal | 62 | 95% | 11% | ×1,3 | 52% |
+| T03 | Astrócitos, amiloide e neuroproteção (revisado) | 61 | 97% | 15% | ×1,1 | 56% |
+| T04 | Estimulação cerebral profunda (revisado) | 54 | 15% | 80% | ×0,8 | 39% |
+| T05 | Panoramas da optogenética em doenças neurológicas (revisado) | 53 | 26% | 70% | ×1,4 | 38% |
+| T06 | Agregação e patologia da tau (revisado) | 53 | 100% | 19% | ×2,3 | 62% |
+| T07 | Oscilações gama e sono (revisado) | 46 | 96% | 9% | ×0,7 | 46% |
+| T08 | Modulação do núcleo subtalâmico | 41 | 0% | 90% | ×1,0 | 51% |
+| T09 | Circuitos dopaminérgicos motores | 41 | 2% | 100% | ×0,4 | 34% |
+| T10 | Dispositivos fotônicos para neuromodulação | 39 | 26% | 85% | ×0,7 | 38% |
+| T11 | Ferramentas, implantes e vetores (revisado) | 33 | 97% | 42% | ×1,3 | 52% |
+| T12 | Gânglios da base e comportamento motor (revisado) | 32 | 3% | 88% | ×0,7 | 44% |
+| T13 | Agregação de alfa-sinucleína | 28 | 11% | 82% | ×4,6 | 68% |
+| T14 | Terapia celular com células-tronco | 27 | 11% | 93% | ×1,3 | 48% |
+| T15 | Discinesia induzida por levodopa (revisado) | 27 | 0% | 93% | ×1,0 | 44% |
+| T16 | Disfunção dopaminérgica e sintomas motores | 21 | 0% | 100% | ×1,4 | 57% |
+| T17 | Dor e nocicepção (revisado) | 18 | 22% | 94% | ×8,0 | 61% |
+| T18 | Região locomotora mesencefálica | 18 | 0% | 94% | ×1,5 | 56% |
+| T19 | Neurônios colinérgicos do prosencéfalo basal (revisado) | 17 | 94% | 24% | ×0,6 | 35% |
+
+*Citam Alzheimer/Parkinson* = o título ou o resumo menciona a doença (um trabalho pode citar as duas). *2021–26 vs 2016–20* = razão entre a parcela de trabalhos do tópico nos dois períodos.
+
+![Tópicos por ano](data/topicos/viz/over_time_facets.png)
+
+![Tópicos por doença citada](data/topicos/viz/disease.png)
+
+![Hierarquia de tópicos](data/topicos/viz/hierarchy.png)
+
+![Tópicos dentro e fora da seleção final](data/topicos/viz/selection.png)
+
+Versões interativas em `data/topicos/viz/*.html`; rede de termos no Obsidian em `grafo/Mapa.md`.
+
+### Termos do glossário
+
+`python3 -m litreview.vincular` liga cada artigo ao seu tópico e aos termos do glossário (`grafo/termos/`, 584 verbetes) e mede cada termo. *Cobertura* = % dos textos em que o termo aparece; *prevalência* = ocorrências por 10 mil palavras dos resumos. Denominador: os 370 artigos da seleção final; a última coluna repete a cobertura entre os artigos fora da seleção. Tabelas completas em `data/termos/`.
+
+| Termo | Textos | Cobertura | Prevalência (/10 mil) | Cobertura fora da seleção |
+|---|---|---|---|---|
+| brain stimulation | 68 | 18,4% | 8,4 | 14,4% |
+| dopamine | 66 | 17,8% | 17,01 | 23,0% |
+| deep brain stimulation | 65 | 17,6% | 23,51 | 13,2% |
+| memory | 63 | 17,0% | 20,51 | 15,3% |
+| chemogenetics | 49 | 13,2% | 6,1 | 7,4% |
+| neural circuits | 47 | 12,7% | 6,9 | 8,8% |
+| basal ganglia | 44 | 11,9% | 6,6 | 12,3% |
+| subthalamic nucleus | 44 | 11,9% | 27,01 | 7,4% |
+| globus pallidus | 39 | 10,5% | 5,0 | 5,1% |
+| depression | 37 | 10,0% | 4,8 | 8,3% |
+| striatum | 37 | 10,0% | 6,8 | 17,4% |
+| substantia nigra | 37 | 10,0% | 4,3 | 9,1% |
+| neuromodulation | 36 | 9,7% | 6,0 | 7,4% |
+| tau | 35 | 9,5% | 23,91 | 5,1% |
+| 6-hydroxydopamine | 33 | 8,9% | 6,0 | 6,7% |
+
 ## Registros de ensaios clínicos: qualquer uso de optogenética
 
 Termos de busca (cada um buscado separadamente, resultados unidos): `optogenetic`, `optogenetics`, `optogenetically`, `opto-genetic`, `optogenética`, `optogénétique`, `channelrhodopsin`, `ChrimsonR`, `halorhodopsin`, `ChR2`, `multi-characteristic opsin`, `light-sensitive opsin`, `GS030`, `RST-001`, `MCO-010`, `sonpiretigene isteparvovec`, `BS01`, `Bionic Sight`

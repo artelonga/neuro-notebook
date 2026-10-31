@@ -65,6 +65,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T05"
+topico_nome: "Panoramas da optogenética em doenças neurológicas"
+n_termos: 2
+tags: ["artigo", "tema/3"]
 ---
+The discovery of the gut-brain axis has proven that [[grafo/termos/brain function|brain functions]] can be affected by the gut microbiota's metabolites, so there are significant opportunities to explore new tools to regulate gut microbiota and thus work on the brain functions. Meanwhile, engineered bacteria as oral live biotherapeutic agents to regulate the host's healthy homeostasis have attracted much attention in microbial therapy. However, whether this strategy is able to remotely regulate the host's brain function in vivo has not been investigated. Here, we engineered three blue-light-responsive probiotics as oral live biotherapeutic agents. They are spatiotemporally delivered and controlled by the upconversion optogenetic micro-nano system. This micro-nano system promotes the small intestine targeting and production of the exogenous L. lactis in the intestines, which realizes precise manipulation of brain functions including [[grafo/termos/anxiety|anxiety]] behavior, Parkinson's disease, and vagal afferent. The noninvasive and real-time probiotic intervention strategy makes the communiation from the gut to the host more controllable, which will enable the potential for engineered microbes accurately and effectively regulating a host's health.
 
-The discovery of the gut-brain axis has proven that brain functions can be affected by the gut microbiota's metabolites, so there are significant opportunities to explore new tools to regulate gut microbiota and thus work on the brain functions. Meanwhile, engineered bacteria as oral live biotherapeutic agents to regulate the host's healthy homeostasis have attracted much attention in microbial therapy. However, whether this strategy is able to remotely regulate the host's brain function in vivo has not been investigated. Here, we engineered three blue-light-responsive probiotics as oral live biotherapeutic agents. They are spatiotemporally delivered and controlled by the upconversion optogenetic micro-nano system. This micro-nano system promotes the small intestine targeting and production of the exogenous L. lactis in the intestines, which realizes precise manipulation of brain functions including anxiety behavior, Parkinson's disease, and vagal afferent. The noninvasive and real-time probiotic intervention strategy makes the communiation from the gut to the host more controllable, which will enable the potential for engineered microbes accurately and effectively regulating a host's health.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T05 Panoramas da optogenética em doenças neurológicas|T05 · Panoramas da optogenética em doenças neurológicas]]
+
+**Termos (2):** [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/brain function|brain function]]
+<!-- vinculos:fim -->

@@ -51,6 +51,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T07"
+topico_nome: "Oscilações gama e sono"
+n_termos: 5
+tags: ["artigo", "tema/2"]
 ---
+An important question in neuroscience is how local activity can be flexibly and selectively routed across the [[grafo/termos/brain network|brain network]]. A proposed mechanism to flexibly route information is frequency division multiplexing: selective readout can be achieved by segregating the signal into non-overlapping frequency bands. Here, in wild-type mice and in a transgenic model (3xTgAD) of Alzheimer’s Disease (AD), we use optogenetic activation of the [[grafo/termos/entorhinal cortex|entorhinal cortex]], concurrent whole-brain fMRI, and hidden Markov modeling. We demonstrate how inducing [[grafo/termos/neuronal spiking|neuronal spiking]] with different theta frequencies causes spatially distinct states of brain network dynamics to emerge and to preferentially respond to one frequency, showing how selective information streams can arise from a single neuronal source of activity. This theta modulation mechanism, however, is impaired in the AD model. This work demonstrates that neuronal multiplexing is a sufficient mechanism to enable flexible brain network communication, and provides insight into the aberrant [[grafo/termos/mechanisms underlying|mechanisms underlying]] [[grafo/termos/cognitive decline|cognitive decline]].
 
-An important question in neuroscience is how local activity can be flexibly and selectively routed across the brain network. A proposed mechanism to flexibly route information is frequency division multiplexing: selective readout can be achieved by segregating the signal into non-overlapping frequency bands. Here, in wild-type mice and in a transgenic model (3xTgAD) of Alzheimer’s Disease (AD), we use optogenetic activation of the entorhinal cortex, concurrent whole-brain fMRI, and hidden Markov modeling. We demonstrate how inducing neuronal spiking with different theta frequencies causes spatially distinct states of brain network dynamics to emerge and to preferentially respond to one frequency, showing how selective information streams can arise from a single neuronal source of activity. This theta modulation mechanism, however, is impaired in the AD model. This work demonstrates that neuronal multiplexing is a sufficient mechanism to enable flexible brain network communication, and provides insight into the aberrant mechanisms underlying cognitive decline.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T07 Oscilações gama e sono|T07 · Oscilações gama e sono]]
+
+**Termos (5):** [[grafo/termos/brain network|brain network]] · [[grafo/termos/cognitive decline|cognitive decline]] · [[grafo/termos/entorhinal cortex|entorhinal cortex]] · [[grafo/termos/mechanisms underlying|mechanisms underlying]] · [[grafo/termos/neuronal spiking|neuronal spiking]]
+<!-- vinculos:fim -->

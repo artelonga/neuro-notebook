@@ -62,6 +62,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+[[grafo/termos/tau|Tau]] pathological aggregation in [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] is a hallmark of several neurodegenerative diseases, including Alzheimer's disease. [[grafo/termos/phase separation|Phase separation]] is a thermodynamic process that plays an important role in biomolecular membrane-less condensate formation, while abnormal phase separation of tau leads to pathological aggregate formation. However, the detailed [[grafo/termos/molecular mechanisms|molecular mechanism]] underlying tau condensation remains not [[grafo/termos/fully understood|fully understood]]. Moreover, whether condensation-based pharmacological intervention will be helpful for the treatment of tau-associated neurodegenerative diseases remains elusive. Here, we used an optogenetic tool (optoDroplets) in combination with [[grafo/termos/cell biology|cell biology]] and pharmacology to explore the contribution of different domains for tau condensation in cells, and we found that proline-rich domain (PRD) phosphorylation, which is mainly regulated by glycogen synthase kinase 3 β (GSK3β), plays important roles for tau condensation. Moreover, phosphorylation of tau PRD regulates its mis-localization on nuclear speckle. Interestingly and importantly, we found that pharmacological inhibition of GSK3β can impede abnormal tau condensation to slow down the tau-associated pathological process.
 
-Tau pathological aggregation in neurofibrillary tangles is a hallmark of several neurodegenerative diseases, including Alzheimer's disease. Phase separation is a thermodynamic process that plays an important role in biomolecular membrane-less condensate formation, while abnormal phase separation of tau leads to pathological aggregate formation. However, the detailed molecular mechanism underlying tau condensation remains not fully understood. Moreover, whether condensation-based pharmacological intervention will be helpful for the treatment of tau-associated neurodegenerative diseases remains elusive. Here, we used an optogenetic tool (optoDroplets) in combination with cell biology and pharmacology to explore the contribution of different domains for tau condensation in cells, and we found that proline-rich domain (PRD) phosphorylation, which is mainly regulated by glycogen synthase kinase 3 β (GSK3β), plays important roles for tau condensation. Moreover, phosphorylation of tau PRD regulates its mis-localization on nuclear speckle. Interestingly and importantly, we found that pharmacological inhibition of GSK3β can impede abnormal tau condensation to slow down the tau-associated pathological process.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (6):** [[grafo/termos/cell biology|cell biology]] · [[grafo/termos/fully understood|fully understood]] · [[grafo/termos/molecular mechanisms|molecular mechanisms]] · [[grafo/termos/neurofibrillary tangles|neurofibrillary tangles]] · [[grafo/termos/phase separation|phase separation]] · [[grafo/termos/tau|tau]]
+<!-- vinculos:fim -->

@@ -56,6 +56,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T06"
+topico_nome: "Agregação e patologia da tau"
+n_termos: 9
+tags: ["artigo", "tema/2"]
 ---
+In Alzheimer's disease, soluble oligomers of the [[grafo/termos/amyloid-β|amyloid-β]] peptide (Aβo) trigger a cascade of events that includes abnormal hyperphosphorylation of the [[grafo/termos/protein tau|protein tau]], which is essential for pathogenesis. However, the mechanistic link between these two key pathological proteins [[grafo/termos/remains unclear|remains unclear]]. Using [[grafo/termos/hippocampal slices|hippocampal slices]], we show here that an Aβo-mediated increase in [[grafo/termos/glutamate|glutamate]] release probability causes enhancement of synaptically evoked N-methyl-d-aspartate subtype [[grafo/termos/glutamate receptors|glutamate receptor]] (NMDAR)-dependent [[grafo/termos/long-term depression|long-term depression]] (LTD). We also find that elevated glutamate release probability is required for Aβo-induced pathological hyperphosphorylation of [[grafo/termos/tau|tau]], which is likewise NMDAR dependent. Finally, we show that chronic, repeated chemical or optogenetic induction of NMDAR-dependent LTD alone is sufficient to cause [[grafo/termos/tau hyperphosphorylation|tau hyperphosphorylation]] without Aβo. Together, these results support a possible causal chain in which Aβo increases glutamate release probability, thus leading to enhanced LTD induction, which in turn drives hyperphosphorylation of tau. Our data identify a mechanistic pathway linking the two critical pathogenic proteins of AD.
 
-In Alzheimer's disease, soluble oligomers of the amyloid-β peptide (Aβo) trigger a cascade of events that includes abnormal hyperphosphorylation of the protein tau, which is essential for pathogenesis. However, the mechanistic link between these two key pathological proteins remains unclear. Using hippocampal slices, we show here that an Aβo-mediated increase in glutamate release probability causes enhancement of synaptically evoked N-methyl-d-aspartate subtype glutamate receptor (NMDAR)-dependent long-term depression (LTD). We also find that elevated glutamate release probability is required for Aβo-induced pathological hyperphosphorylation of tau, which is likewise NMDAR dependent. Finally, we show that chronic, repeated chemical or optogenetic induction of NMDAR-dependent LTD alone is sufficient to cause tau hyperphosphorylation without Aβo. Together, these results support a possible causal chain in which Aβo increases glutamate release probability, thus leading to enhanced LTD induction, which in turn drives hyperphosphorylation of tau. Our data identify a mechanistic pathway linking the two critical pathogenic proteins of AD.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T06 Agregação e patologia da tau|T06 · Agregação e patologia da tau]]
+
+**Termos (9):** [[grafo/termos/amyloid-β|amyloid-β]] · [[grafo/termos/glutamate|glutamate]] · [[grafo/termos/glutamate receptors|glutamate receptors]] · [[grafo/termos/hippocampal slices|hippocampal slices]] · [[grafo/termos/long-term depression|long-term depression]] · [[grafo/termos/protein tau|protein tau]] · [[grafo/termos/remains unclear|remains unclear]] · [[grafo/termos/tau|tau]] · [[grafo/termos/tau hyperphosphorylation|tau hyperphosphorylation]]
+<!-- vinculos:fim -->

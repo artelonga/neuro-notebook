@@ -51,6 +51,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T02"
+topico_nome: "Recuperação de memória hipocampal"
+n_termos: 6
+tags: ["artigo", "tema/2"]
 ---
+In the [[grafo/termos/hippocampus|hippocampus]], activation of [[grafo/termos/nicotinic receptors|nicotinic receptors]] that include α4 and β2 subunits (α4β2*) facilitates [[grafo/termos/memory formation|memory formation]]. α4β2* receptors may also play a role in nicotine withdrawal, and their loss may contribute to [[grafo/termos/cognitive decline|cognitive decline]] in aging and Alzheimer's disease (AD). However, little is known about their cellular function in the hippocampus. Therefore, using optogenetics, whole cell patch clamping and voltage-sensitive dye (VSD) imaging, we measured nicotinic excitatory postsynaptic potentials (EPSPs) in [[grafo/termos/hippocampal ca1|hippocampal CA1]]. In a subpopulation of [[grafo/termos/inhibitory interneurons|inhibitory interneurons]], release of ACh resulted in slow depolarizations (rise time constant 33.2 ± 6.5 ms, decay time constant 138.6 ± 27.2 ms) mediated by the activation of α4β2* nicotinic receptors. These interneurons had somata and dendrites located in the stratum oriens (SO) and stratum lacunosum-moleculare (SLM). Furthermore, α4β2* nicotinic EPSPs were largest in the SLM. Thus, our data suggest that nicotinic EPSPs in hippocampal CA1 interneurons are predominantly mediated by α4β2* nicotinic receptors and their activation may preferentially affect extrahippocampal inputs in SLM of hippocampal CA1.
 
-In the hippocampus, activation of nicotinic receptors that include α4 and β2 subunits (α4β2*) facilitates memory formation. α4β2* receptors may also play a role in nicotine withdrawal, and their loss may contribute to cognitive decline in aging and Alzheimer's disease (AD). However, little is known about their cellular function in the hippocampus. Therefore, using optogenetics, whole cell patch clamping and voltage-sensitive dye (VSD) imaging, we measured nicotinic excitatory postsynaptic potentials (EPSPs) in hippocampal CA1. In a subpopulation of inhibitory interneurons, release of ACh resulted in slow depolarizations (rise time constant 33.2 ± 6.5 ms, decay time constant 138.6 ± 27.2 ms) mediated by the activation of α4β2* nicotinic receptors. These interneurons had somata and dendrites located in the stratum oriens (SO) and stratum lacunosum-moleculare (SLM). Furthermore, α4β2* nicotinic EPSPs were largest in the SLM. Thus, our data suggest that nicotinic EPSPs in hippocampal CA1 interneurons are predominantly mediated by α4β2* nicotinic receptors and their activation may preferentially affect extrahippocampal inputs in SLM of hippocampal CA1.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T02 Recuperação de memória hipocampal|T02 · Recuperação de memória hipocampal]]
+
+**Termos (6):** [[grafo/termos/cognitive decline|cognitive decline]] · [[grafo/termos/hippocampal ca1|hippocampal ca1]] · [[grafo/termos/hippocampus|hippocampus]] · [[grafo/termos/inhibitory interneurons|inhibitory interneurons]] · [[grafo/termos/memory formation|memory formation]] · [[grafo/termos/nicotinic receptors|nicotinic receptors]]
+<!-- vinculos:fim -->

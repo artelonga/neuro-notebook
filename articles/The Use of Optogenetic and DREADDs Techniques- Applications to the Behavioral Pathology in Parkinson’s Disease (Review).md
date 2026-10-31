@@ -46,6 +46,15 @@ prisma:
     reviewers: []
     notes: ""
   included: null
+topico: "T09"
+topico_nome: "Circuitos dopaminérgicos motores"
+n_termos: 12
+tags: ["artigo", "tema/3"]
 ---
+Recent advances in genetics have led to the development of novel optogenetic and [[grafo/termos/chemogenetics|chemogenetic]] tools that allow selective and remote interrogation of [[grafo/termos/neural circuits|neural circuits]] using [[grafo/termos/light sensitive|light-sensitive]] opsins and engineered G-protein-coupled receptors activated by inert druglike [[grafo/termos/small molecule|small molecules]]. These novel techniques have been rapidly applied to many aspects of neuroscience, including research on learning and [[grafo/termos/memory|memory]], decision making, and goal-directed behavior. By using specific light-sensitive opsins and [[grafo/termos/dreadd|DREADDs]] ([[grafo/termos/designer receptors exclusively|designer receptors exclusively]] activated by designer drugs) to monitor the electrophysiological, biochemical, and behavioral outputs of specific neuronal types, the links between [[grafo/termos/brain activity|brain activity]] and behavior can be better evaluated. Additionally, optogenetics and DREADDs are beneficial in studying the pathogenesis of [[grafo/termos/neurological conditions|neurological conditions]], such as [[grafo/termos/depression|depression]], [[grafo/termos/anxiety|anxiety]], pain, [[grafo/termos/drug addiction|drug addiction]], as well as neurodegenerative diseases, and may ultimately have therapeutic potential.
 
-Recent advances in genetics have led to the development of novel optogenetic and chemogenetic tools that allow selective and remote interrogation of neural circuits using light-sensitive opsins and engineered G-protein-coupled receptors activated by inert druglike small molecules. These novel techniques have been rapidly applied to many aspects of neuroscience, including research on learning and memory, decision making, and goal-directed behavior. By using specific light-sensitive opsins and DREADDs (designer receptors exclusively activated by designer drugs) to monitor the electrophysiological, biochemical, and behavioral outputs of specific neuronal types, the links between brain activity and behavior can be better evaluated. Additionally, optogenetics and DREADDs are beneficial in studying the pathogenesis of neurological conditions, such as depression, anxiety, pain, drug addiction, as well as neurodegenerative diseases, and may ultimately have therapeutic potential.
+<!-- vinculos:inicio -->
+**Tópico:** [[grafo/topicos/T09 Circuitos dopaminérgicos motores|T09 · Circuitos dopaminérgicos motores]]
+
+**Termos (12):** [[grafo/termos/anxiety|anxiety]] · [[grafo/termos/brain activity|brain activity]] · [[grafo/termos/chemogenetics|chemogenetics]] · [[grafo/termos/depression|depression]] · [[grafo/termos/designer receptors exclusively|designer receptors exclusively]] · [[grafo/termos/dreadd|dreadd]] · [[grafo/termos/drug addiction|drug addiction]] · [[grafo/termos/light sensitive|light sensitive]] · [[grafo/termos/memory|memory]] · [[grafo/termos/neural circuits|neural circuits]] · [[grafo/termos/neurological conditions|neurological conditions]] · [[grafo/termos/small molecule|small molecule]]
+<!-- vinculos:fim -->

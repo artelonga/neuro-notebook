@@ -1,0 +1,12 @@
+topic,guard,rotulo,label_en,motivo
+1,gpe; stimulation; motor,Globo pálido e circuitos dos gânglios da base,Globus pallidus and basal ganglia circuits,"c-TF-IDF: gpe, globus pallidus, stn; só 4 de 62 textos citam oscilações beta"
+3,astrocytes; amyloid-; activation,"Astrócitos, amiloide e neuroproteção","Astrocytes, amyloid and neuroprotection",amiloide em 43% dos textos; grafia de astrócitos
+4,stimulation; dbs; brain stimulation,Estimulação cerebral profunda,Deep brain stimulation,DBS em 70% dos textos; nada sustenta 'em malha fechada'
+5,light; neural; neurological,Panoramas da optogenética em doenças neurológicas,Optogenetics overviews in neurological disorders,19 revisões e 5 livros entre 53 trabalhos; palavras genéricas
+6,tau; protein; aggregation,Agregação e patologia da tau,Tau aggregation and pathology,só a grafia
+7,oscillations; gamma; sleep,Oscilações gama e sono,Gamma oscillations and sleep,gama/40 Hz em 52% dos textos; sono e ondas lentas no c-TF-IDF
+11,cells; cell; retinal,"Ferramentas, implantes e vetores","Tools, implants and vectors",títulos de ferramentas e implantes; pericitos e vasos são minoria
+12,movement; dopamine; motor,Gânglios da base e comportamento motor,Basal ganglia and motor behavior,"nome em português e inglês divergiam; c-TF-IDF: movement, motor, basal ganglia"
+15,lid; dyskinesia; striatal,Discinesia induzida por levodopa,Levodopa-induced dyskinesia,grafia: discinesia
+17,pain; nociceptive; addiction,Dor e nocicepção,Pain and nociception,nome não deve repetir a doença
+19,cholinergic; cholinergic neurons; forebrain,Neurônios colinérgicos do prosencéfalo basal,Basal forebrain cholinergic neurons,"basal forebrain = prosencéfalo basal, não córtex basal"
