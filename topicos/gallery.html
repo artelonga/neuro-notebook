@@ -1,0 +1,223 @@
+<title>Tópicos BERTopic</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<style>
+/* Layout: a report column (findings first), each BERTopic figure in its own section with how-to-read and what-it-shows notes. */
+:root {
+  --bg: #f3f4f1; --panel: #ffffff; --line: #d9dcd4; --fg: #1d2127; --muted: #57606b; --accent: #2a78d6;
+  --grid: rgba(40, 48, 60, 0.12); --up: #1c7a52; --down: #b4472a;
+  --display: "Source Serif 4", Georgia, serif; --sans: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1b1c1f; --panel: #232428; --line: #34363c; --fg: #e8e6e1; --muted: #a9adb4; --accent: #3987e5;
+  --grid: rgba(220, 225, 235, 0.12); --up: #4cc38a; --down: #ef8a6a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #1b1c1f; --panel: #232428; --line: #34363c; --fg: #e8e6e1; --muted: #a9adb4; --accent: #3987e5;
+  --grid: rgba(220, 225, 235, 0.12); --up: #4cc38a; --down: #ef8a6a; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font: 15px/1.55 var(--sans); }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 40px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 40px; }
+.eyebrow { font: 600 12px var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+h1 { font: 600 40px/1.1 var(--display); margin: 6px 0 10px; text-wrap: balance; }
+h2 { font: 600 26px/1.2 var(--display); margin: 0; text-wrap: balance; }
+.lede { max-width: 68ch; color: var(--muted); margin: 0; }
+.mono { font-family: var(--mono); font-size: 13px; }
+.findings { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.finding { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px;
+  display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.finding h3 { margin: 0; font: 600 15px var(--sans); }
+.finding p { margin: 0; color: var(--muted); font-size: 14px; }
+.num { font-variant-numeric: tabular-nums; }
+.up { color: var(--up); font-weight: 600; }
+.down { color: var(--down); font-weight: 600; }
+nav { display: flex; flex-wrap: wrap; gap: 6px; }
+nav a { font-size: 13px; color: var(--fg); text-decoration: none; border: 1px solid var(--line); border-radius: 999px;
+  padding: 4px 11px; background: var(--panel); }
+nav a:hover, nav a:focus-visible { border-color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+section.fig { display: flex; flex-direction: column; gap: 14px; scroll-margin-top: 16px; }
+.notes { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px 32px; }
+.notes div { min-width: 0; }
+.notes h4 { margin: 0 0 4px; font: 600 12px var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.notes p { margin: 0; max-width: 68ch; }
+.plot-scroll { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+.plot { min-width: 720px; }
+.plot.narrow { min-width: 0; }
+.status { color: var(--muted); padding: 24px; }
+footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); padding-top: 16px; }
+code { font-family: var(--mono); font-size: 0.92em; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Base de revisão · 801 trabalhos · BERTopic</div>
+    <h1>Do que trata a literatura de optogenética em Alzheimer e Parkinson</h1>
+    <p class="lede">Vinte tópicos encontrados nos títulos e resumos pelo BERTopic (embeddings MiniLM, redução UMAP, agrupamento k-means), mostrados com as visualizações do próprio BERTopic. Os nomes foram dados por um modelo de linguagem local e onze deles foram corrigidos à mão. Passe o mouse sobre os gráficos para ver valores e títulos; clique na legenda para esconder séries.</p>
+  </header>
+
+  <div class="findings">
+    <div class="finding"><h3>Duas literaturas quase separadas</h3>
+      <p>Nove tópicos têm 90% ou mais de trabalhos que citam Parkinson; seis têm 94% ou mais que citam Alzheimer. Os mistos são os de método: estimulação cerebral profunda, dispositivos e panoramas gerais.</p></div>
+    <div class="finding"><h3>Em alta desde 2021</h3>
+      <p>Dor e nocicepção <span class="up num">×8,0</span> (18 trabalhos), α-sinucleína <span class="up num">×4,6</span>, tau <span class="up num">×2,3</span>, região locomotora mesencefálica <span class="up num">×1,5</span>, na parcela de trabalhos de 2021–2026 contra 2016–2020.</p></div>
+    <div class="finding"><h3>Em queda</h3>
+      <p>Circuitos dopaminérgicos motores <span class="down num">×0,4</span>, circuitos estriatais <span class="down num">×0,5</span>, neurônios colinérgicos do prosencéfalo basal <span class="down num">×0,6</span>, oscilações gama e sono <span class="down num">×0,7</span>.</p></div>
+    <div class="finding"><h3>O corte de 2020 desequilibra a seleção</h3>
+      <p>Ficam na seleção final 68% da α-sinucleína e 62% da tau, mas só 24% dos circuitos estriatais e 34% dos circuitos dopaminérgicos. A revisão vai pesar mais em proteinopatias do que em circuitos.</p></div>
+  </div>
+
+  <nav aria-label="Visualizações">
+    <a href="#intertopic">Distância entre tópicos</a><a href="#hierarchy">Hierarquia</a><a href="#heatmap">Similaridade</a>
+    <a href="#barchart">Frases</a><a href="#facets">Por ano</a><a href="#over_time">Ao longo do tempo</a>
+    <a href="#disease">Por doença</a><a href="#selection">Seleção final</a><a href="#documents">Mapa dos trabalhos</a>
+    <a href="#doc_hierarchy">Mapa por nível</a><a href="#term_rank">Diagnóstico</a>
+  </nav>
+
+  <section class="fig" id="intertopic">
+    <h2>Mapa de distância entre tópicos</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Cada círculo é um tópico, com área proporcional ao número de trabalhos. A posição vem do centro de cada tópico no espaço dos embeddings, reduzido a duas dimensões: círculos próximos tratam de assuntos parecidos. O controle deslizante embaixo destaca um tópico por vez.</p></div>
+      <div><h4>O que mostra</h4><p>Os maiores tópicos são circuitos estriatais dopaminérgicos e colinérgicos (T00, 68 trabalhos), globo pálido e gânglios da base (T01, 62), memória hipocampal (T02, 62) e astrócitos e amiloide (T03, 61). A distância no mapa é aproximada; a hierarquia e o mapa de similaridade dão as relações com mais precisão.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="intertopic"></div></div>
+  </section>
+
+  <section class="fig" id="hierarchy">
+    <h2>Hierarquia de tópicos</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>O dendrograma junta os tópicos de vocabulário mais parecido (ligação Ward sobre o c-TF-IDF). Quanto mais à esquerda a junção, mais próximos os tópicos.</p></div>
+      <div><h4>O que mostra</h4><p>As primeiras junções são globo pálido com núcleo subtalâmico (T01 + T08), memória hipocampal com astrócitos e amiloide (T02 + T03), eletrodos e dispositivos com estimulação (T10 + T04) e gânglios da base com circuitos estriatais (T12 + T00). Depois, as oscilações hipocampais se juntam ao ramo de memória e amiloide.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="hierarchy"></div></div>
+  </section>
+
+  <section class="fig" id="heatmap">
+    <h2>Similaridade entre tópicos</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Cada célula é a similaridade de cosseno entre as representações c-TF-IDF de dois tópicos, ordenados em 8 grupos: blocos escuros na diagonal são famílias de tópicos.</p></div>
+      <div><h4>O que mostra</h4><p>Os tópicos se separam bem. Os pares mais parecidos são os mesmos das primeiras junções da hierarquia: T01–T08 (0,37), T02–T03 (0,32), T04–T10 (0,31), T00–T12 (0,30) e panoramas com ferramentas (T05–T11, 0,30).</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="heatmap"></div></div>
+  </section>
+
+  <section class="fig" id="barchart">
+    <h2>Frases de cada tópico</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>As seis frases que mais distinguem cada tópico, com o peso c-TF-IDF depois do refinamento KeyBERTInspired e MMR. Os nomes dos painéis são os do modelo de linguagem ou da revisão à mão.</p></div>
+      <div><h4>O que mostra</h4><p>As frases sustentam os nomes revisados. O modelo de linguagem às vezes se apega a poucos títulos: em T01 propôs “oscilações beta” a partir dos títulos representativos, mas só 4 dos 62 textos falam disso, e as frases e palavras distintivas são de globo pálido e gânglios da base. As correções e seus motivos estão em <code>topicos/rotulos_revisados.csv</code>.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="barchart"></div></div>
+  </section>
+
+  <section class="fig" id="facets">
+    <h2>Tópicos por ano</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Um painel por tópico, com o número de trabalhos por ano, ordenados do que mais cresce para o que mais cai. O fator × é a parcela de trabalhos do tópico em 2021–2026 dividida pela de 2016–2020. 2026 vai até a busca de 23 de outubro.</p></div>
+      <div><h4>O que mostra</h4><p>Dor e nocicepção (×8,0) cresce de quase nada, então o fator exagera; α-sinucleína (×4,6) e tau (×2,3) crescem com volume. Os circuitos estriatais e dopaminérgicos tiveram o pico por volta de 2019 e caem desde então.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="over_time_facets"></div></div>
+  </section>
+
+  <section class="fig" id="over_time">
+    <h2>Tópicos ao longo do tempo</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>A versão do BERTopic com todos os tópicos juntos. Clique duas vezes num tópico da legenda para isolá-lo; passe o mouse para ver as frases do tópico naquele ano (o c-TF-IDF é recalculado por período).</p></div>
+      <div><h4>O que mostra</h4><p>Serve para comparar dois ou três tópicos lado a lado e ver como o vocabulário de cada um mudou com o tempo; para a visão geral, use os painéis acima.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="over_time"></div></div>
+  </section>
+
+  <section class="fig" id="disease">
+    <h2>Tópicos por doença citada</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Trabalhos de cada tópico conforme o título e o resumo citam Parkinson (446), Alzheimer (242), as duas (70) ou nenhuma por extenso (43, que entraram pelas palavras-chave). Cada barra empilha os tópicos daquela classe.</p></div>
+      <div><h4>O que mostra</h4><p>Alzheimer: tau (T06, 100%), astrócitos e amiloide (T03, 97%), memória hipocampal (T02, 95%), oscilações gama e sono (T07, 96%) e colinérgicos do prosencéfalo basal (T19, 94%). Parkinson: os circuitos (T00, T01, T08, T09, T12, T18), a discinesia (T15), as células-tronco (T14) e a dor (T17), de 88% a 100%. A α-sinucleína (T13) cita Parkinson em 82% e Alzheimer em 11%.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="disease"></div></div>
+  </section>
+
+  <section class="fig" id="selection">
+    <h2>Tópicos dentro e fora da seleção final</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Trabalhos de cada tópico que passaram nos critérios do fluxo PRISMA (publicados em 2020 ou depois, com revisão por pares) e os que ficaram fora.</p></div>
+      <div><h4>O que mostra</h4><p>Ficam na seleção 68% da α-sinucleína (T13), 62% da tau (T06) e 61% da dor (T17), mas só 24% dos circuitos estriatais (T00), 34% dos circuitos dopaminérgicos (T09) e 35% dos colinérgicos do prosencéfalo basal (T19). Se esses temas importam para a revisão, cite a literatura anterior a 2020 no texto.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="selection"></div></div>
+  </section>
+
+  <section class="fig" id="documents">
+    <h2>Mapa dos trabalhos</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Cada ponto é um trabalho, posicionado pelos embeddings reduzidos a duas dimensões (UMAP) e colorido pelo tópico. Passe o mouse para ver o título; clique duas vezes num tópico da legenda para isolá-lo.</p></div>
+      <div><h4>O que mostra</h4><p>Onde os tópicos se tocam estão os trabalhos de fronteira, bons candidatos a leitura quando o assunto cruza Alzheimer e Parkinson.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="documents"></div></div>
+  </section>
+
+  <section class="fig" id="doc_hierarchy">
+    <h2>Mapa dos trabalhos por nível da hierarquia</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>O mesmo mapa, colorido pelos grupos de um nível da hierarquia de tópicos. O controle deslizante sobe e desce os níveis: no mais alto, os 20 tópicos se fundem em poucos grandes ramos.</p></div>
+      <div><h4>O que mostra</h4><p>Mostra quais tópicos são variações de um mesmo assunto (por exemplo, globo pálido e núcleo subtalâmico) e quais continuam separados até os níveis mais altos.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot" data-fig="doc_hierarchy"></div></div>
+  </section>
+
+  <section class="fig" id="term_rank">
+    <h2>Diagnóstico: queda do escore por posição</h2>
+    <div class="notes">
+      <div><h4>Como ler</h4><p>Escore c-TF-IDF de cada frase pela sua posição no ranking do tópico, em escala logarítmica. Uma queda rápida significa que poucas frases já descrevem o tópico.</p></div>
+      <div><h4>O que mostra</h4><p>Serve para escolher quantas frases mostrar por tópico: depois do cotovelo, as frases acrescentam pouco.</p></div>
+    </div>
+    <div class="plot-scroll"><div class="plot narrow" data-fig="term_rank"></div></div>
+  </section>
+
+  <footer>Gerado por <code>topicos/visuals.py</code> (visualizações nativas do BERTopic 0.17, mais os painéis por ano) a partir de <code>data/topicos/</code>. Modelo: MiniLM + UMAP + k-means, k = 20, escolhido no benchmark de <code>topicos/benchmark.py</code>; os 26 textos em outras línguas foram traduzidos para o inglês antes. Nomes: modelo de linguagem local, 11 revisados à mão. Doença citada: menção a “alzheimer” ou “parkinson” no título ou no resumo.</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.35.2/plotly.min.js"></script>
+<script>
+(() => {
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const figs = new Map();
+
+  function themed(layout) {
+    const out = {
+      paper_bgcolor: "rgba(0,0,0,0)", plot_bgcolor: "rgba(0,0,0,0)",
+      font: { ...(layout.font || {}), color: css("--fg"), family: css("--sans") },
+      autosize: true, width: null, title: null, template: null,
+    };
+    for (const k of Object.keys(layout)) {
+      if (/^[xy]axis\d*$/.test(k)) out[k] = { ...layout[k], gridcolor: css("--grid"), zerolinecolor: css("--grid"), linecolor: css("--grid") };
+    }
+    if (layout.legend) out.legend = { ...layout.legend, bgcolor: "rgba(0,0,0,0)" };
+    return out;
+  }
+
+  function render(el, fig) {
+    const layout = { ...fig.layout, ...themed(fig.layout) };
+    Plotly.react(el, fig.data, layout, { responsive: true, displaylogo: false });
+  }
+
+  document.querySelectorAll("[data-fig]").forEach(el => {
+    const name = el.dataset.fig;
+    el.innerHTML = `<p class="status">Carregando ${name}…</p>`;
+    fetch(`viz/${name}.json`).then(r => {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    }).then(fig => {
+      el.innerHTML = "";
+      figs.set(el, fig);
+      render(el, fig);
+    }).catch(() => {
+      el.innerHTML = `<p class="status">Não foi possível carregar viz/${name}.json. Rode topicos/visuals.py e publique a pasta viz ao lado desta página.</p>`;
+    });
+  });
+
+  const rerender = () => figs.forEach((fig, el) => render(el, fig));
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", rerender);
+  new MutationObserver(rerender).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+})();
+</script>
